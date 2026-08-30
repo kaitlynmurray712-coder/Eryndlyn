@@ -1,0 +1,17 @@
+embed 
+<drac2>
+#Variables
+cc = "Activity Points"
+a = "A counter was made, and %1% points were removed"
+ch=character()
+#End Variables
+if ch.cc_exists(cc) and ch.get_cc(cc): 
+    ch.mod_cc(cc, -%1%)
+#output
+b = ch.get_cc(cc)
+</drac2>
+-title "{{cc}}"
+-desc " You've been busy! You used **{{%1%}}** and now only have **{{b}}** left."
+-color <color>
+-thumb <image>
+-footer "Kait made things :D"
