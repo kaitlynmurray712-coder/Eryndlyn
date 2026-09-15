@@ -1,0 +1,392 @@
+{
+    "mine": {
+    "1": {
+      "1": {
+        "description": "You uncover a strange library... the books whisper angrily, telling you to leave.",
+        "check": "intelligence",
+        "highpass": "You tell the books you're determined to stay, and in turn they help you research! Make one free research check of your choice!",
+        "midpass": "The books are a bit creepy, but you at least get a glimpse of knowledge as one of them shoos you away. You get advantage on your next research check. (Cannot be stacked with other adv)",
+        "fail": "The whispers are just too indimidating... you hurry onwards."
+      },
+      "2": {
+        "description": "Here, an underground section of lava bubbles and burns. But that's not all: a lava-dwelling lizard emerges from the magma, headed straight towards you!",
+        "check": "animalHandling",
+        "highpass": "You do your best approximation of the infamous Lava Lizard Friend Dance, and they do it right back! As the two of you wiggle at each other, you find that they've led you right to a stack of raw iron! Add 3 Raw Iron to your bags!",
+        "midpass": "The lizard rolls on its back, farts, and vomits up a little bit of lava on the ground. The glow of light reflects off a small piece of iron, you can add 1 Raw Iron to your bags!",
+        "fail": "While trying to greet the lizard, you accidentally challenge it to a lava burping contest. It releases a loud gurgling belch and you get a burn! Take 1d4 fire damage… and maybe don't do that again?"
+      },
+      "3": {
+        "description": "The tunnel is painted with strange glyphs. Someone has passed through here before, long ago.",
+        "check": "history",
+        "highpass": "Deciphering the glyphs, you find a code depicting the way to a hidden passage! The shortcut saves you some time. (You get two free mining attempts)",
+        "midpass": "It seems like the glyphs are a bit too complex and a smidge too worn to understand fully, but from what you get, there's a shortcut up ahead that saves you a bit of travel. (You get one free mining attempt)",
+        "fail": "The colors are very pretty, but you're unable to discern much more."
+      },
+      "4": {
+        "description": "There's a Dwarven wishing well up ahead. As you glance into it you see a shining light, seemingly calling you to look closer.",
+        "check": "investigation",
+        "highpass": "You find 20 gold pieces at the bottom of the well, you can add it to your coin purse.",
+        "midpass": "You find 20 silver pieces at the bottom of the well, you can add it to your coin purse.",
+        "fail": "The well is constructed with rough-hewn stone and seems to have withstood the test of time. It mist have just been a trick of the torchlight."
+      }
+    },
+    "2": {
+      "1": {
+        "description": "You come across an underground forest. Trees flourish, butterflies flap to and fro, and grass sprouts from the ground, all without natural sunlight. How could this be possible?",
+        "check": "nature",
+        "highpass": "It looks like a network of vines and roots extends all the way up to the cavern roof, and likely through it! This ecosystem is connected to the plants up on the surface through a web of connections between trees. With this in mind, you gather up some of the smaller plants without disturbing this network. Take 200gp of bluecap!",
+        "midpass": "It looks like a network of vines and roots extends all the way up to the cavern roof, and likely through it! This ecosystem is connected to the plants up on the surface through a web of connections between trees. You attempt to gather up some of the smaller plants without disturbing the network, but with only limited success. Take 100gp of bluecap!",
+        "fail": "This forest is fascinating, but in being so unique, it’s simply too confusing to comprehend. You have to settle for appreciating the view as you continue through the caves."
+      },
+      "2": {
+        "description": "Shallow water fills up this part of the mine, coming up to your ankles. Still, wet legs besides, this was the only way forward. As you splash on through, something tangles around your ankle. But is this a threat, or a bit of clutter catching on your leg?",
+        "check": "perception",
+        "highpass": "Almost right away, you note that it’s just a tangle of plants from the water that had snagged around you. But what’s this gooey substance on them? It looks like an ooze has passed by here! Add two “Slime: Ooze CR0-4” to your bag!",
+        "midpass": "There’s a few terrible moments where it’s hard to tell what’s grabbed you, but then as you look closer, you see it’s just a tangle of plants from the water that had snagged around you. But what’s this gooey substance on them? Add one “Slime: Ooze CR0-4” to your bag!",
+        "fail": "This could be a threat, and you can’t tell fast enough to make any decision but to flee! As you run away through the water, whatever had grabbed at you does not chase."
+      },
+      "3": {
+        "description": "Along the side of the tunnel, there appears to be a second pathway. It's goes a few feet before an apparent dead end. Stones in piles line the wall ahead, cracked and fractured in numerous places. But despite this, a thin breeze passes over you. There must be some sort of air pocket ahead!",
+        "check": "athletics",
+        "highpass": "After careful navigating, pushing rubble and debris away, you find the air pocket. As you enter a small cavern, you notice that the room is filled with flumphs. This fills your heart with determination (You get the next two mining attempts with adv)",
+        "midpass": "You push past the rubble, and find yourself in a pretty cave with glowing moss. For a brief moment, you catch sight of some flumphs, before they drift away, apparently scared from the noise of your rock clearing. Its pretty though, and fills your heart with determination. (You get the next mining attempt with adv)",
+        "fail": "Although you work hard, struggling against the collapsed rocks, the stones are a bit too heavy to clear away. You push past, continuing your journey along the main path instead."
+      },
+      "4": {
+        "description": "A large robotic crowlike creature blocks your way. You get a glimpse of a room filled with interesting and shiny objects. The bird seems reluctant to let you by, but maybe if you ask nicely?",
+        "check": "persuasion",
+        "highpass": "You speak with the charisma of a well-versed bard and sweet talk yourself past. The crow lets you by, and permits you to take a single item from its stash. (Roll a d100 on the Trinket table from the Wild Beyond the Witchlight sourcebook)",
+        "midpass": "You speak with the charisma of a well-versed bard and sweet talk yourself past. The crow lets you by, and permits you to take a single item from its stash. (Roll a d100 on the Trinket table from the PHB-2024 sourcebook)",
+        "fail": "The crow stares at you unphased, and watches as you fumble your words. It lets out a single \"caw\" of disapointment."
+      }
+    },
+    "4": {
+      "1": {
+        "description": "As you walk, spores fill the air and a chorus of humming voices create a song up ahead. It seems you've found the local myconid colony! They gesture for you to participate in their melody.",
+        "check": "performance",
+        "highpass": "",
+        "midpass": "",
+        "fail": ""
+      },
+      "2": {
+        "description": "You find a scrap of paper wedged in the stone beside you. pull it out to find what secrets were left behind.",
+        "check": "sleight",
+        "highpass": "Summoning your curiosity, you deftly reach to pull it out, opening it to discover directions to a hidden stash. You find a single raw opal sitting in a dusty bag, as if waiting for you to come along. You may add it to your bag.",
+        "midpass": "With great effort, you twist your hand to just barely reach and pull it out, opening it to discover faded directions on the parchment. It leads you a little further into the mine shaft, and up to a half decayed skeleton hand wedged into a crevice similar to the one you found. Add 1 Bone: Monstrosity CR3 parts from the now-dead orc.",
+        "fail": "Damn the paper rips"
+      },
+      "3": {
+        "description": "A group of miners with pickaxes and lanterns sits around a rock, using it as a sort of table. Their laughs and cheers echo across the cavern walls and back to you. It looks like they’re playing a game involving dice and cards! As you approach, one waves you over to an empty spot at the table. “Looking to play? We’ve got a new hand of liar’s dice starting up soon!”",
+        "check": "deception",
+        "highpass": "The dice may just be weighted with how well you roll! To the miners' disappointment (and your delight) you bluff your way to success. Add 50 gold pieces to your coinpurse.",
+        "midpass": "Well it isn't the best hand, and it isn't the worst... You manage to break even, but at least you don't walk away with a lighter purse?",
+        "fail": "The dice don’t roll in your favor, and you end up a bit poorer for your loss. With a cheer, one of the miners reaches a hand across the table to take their winnings! If possible, remove 50 gold from your bag."
+      },
+      "4": {
+        "description": "As you venture through the long winding mineshafts, you see some pretty mushrooms and other interestign plants... maybe they're edible?",
+        "check": "medicine",
+        "highpass": "You know exactly what is safe to eat- and this is it! You find 3 potions worth of ingredients! Add 3 Common Potion Ingredient to your bags.",
+        "midpass": "You're pretty sure on what is and isn't safe to eat... probably. You pass over a few plants, but gather enough for one potion's worth of ingredients. You may add 1 Common Potion Ingredient to your bags.",
+        "fail": "You aren't quite sure that its edible... maybe it is, or maybe its the nearly identical poisonous plant. After all, its better safe than sorry. You keep walking."
+      }
+    }
+  },
+  "dig": {
+    "1": {
+      "1": {
+        "description": "As you work to uncover this object, it soon becomes clear that this is no fossil or mineral. Instead, it looks specifically man-made. With some more careful work, however, it could probably be pried free of the surrounding sediment.",
+        "check": "sleightOfHand",
+        "highpass": "With experienced hands, you uncover the item without leaving a single scratch on it! Dusting off the dirt and sediment reveals not just one, but two strange items! Roll 2 d100s and take the corresponding trinkets from the following table! (you may pick which table to roll on) https://dnd5e.wikidot.com/trinkets",
+        "midpass": "While somewhat damaged, this item emerges mostly intact! Well done! You brush the dirt and sediment off of it to see what kind of thing you have discovered… Roll a 1d100 and take the corresponding trinket from the following table! (you may pick which table to roll on) https://dnd5e.wikidot.com/trinkets",
+        "fail": "The item is fairly fragile, and as you try to excavate it, it shatters apart into little pieces in your hands. What a shame…"
+      },
+      "2": {
+        "description": "The shape of a bone comes into view underneath your digging tools. But this doesn’t have the look or the texture of a typical bone. No, this looks to be made out of some strange sort of metal. Is this from some creature from the past with metallic bones, or did someone make this, long ago?",
+        "check": "history",
+        "highpass": "You recall that not all beings are crafted out of flesh and bone. Some are made out of wires and metal: constructs! This must be the remnants of some sort of ancient construct, left over from a society long ago. In fact, you recall so much information that you’re able to note several pieces that could still be used. Add one “Plating: Construct CR0-4” and one Components: Construct CR0-4” to your bag!",
+        "midpass": "You recall that not all beings are crafted out of flesh and bone. Some are made out of wires and metal: constructs! This must be the remnants of some sort of ancient construct, left over from a society long ago. And some of the parts here still seem usable! Add one “Plating: Construct CR0-4” to your bag!",
+        "fail": "Whatever this is, it makes little sense. This is an interesting find, but not much beyond that."
+      },
+      "3": {
+        "description": "The most recent pit you’ve dug is made of softer earth than usual. The sand and dirt keeps falling down the sides of the hole, trying to fill it back up. It’ll take a large amount of strength and endurance to out-speed this natural attempt to prevent your excavation!",
+        "check": "athletics",
+        "highpass": "You tear up the ground with such effort and skill that soon enough, the whole pit is uncovered! There’s some useful materials down here at the bottom, it seems, and no small amount of them, either! Add 250gp of granite to your bag!",
+        "midpass": "You tear up the ground, managing to uncover a few useful things before the dirt caves back in fully. These hard won materials may one day be of use! Add 100gp of granite to your bag.",
+        "fail": "The dirt moves just a bit too quickly for you to keep up. It’s not long at all before nearly the entire pit is filled back in. Maybe it would be for the best to try to dig somewhere else."
+      }
+    },
+    "2": {
+      "1": {
+        "description": "The ground suddenly opens up with a massive cracking and crumbling sound! You’re able to grab your tools and get out of the way before the dirt below gives way to a large, natural pit. Peering down, it looks like there’s some bones along the bottom! Now if only you could climb down to get it…",
+        "check": "acrobatics",
+        "highpass": "Hardly any of the dirt crumbles as you nimbly make your way down to the base of the pit. This leaves the numerous bones found down here free for the taking! Add two “Humanoid: Bone CR0-4” and one “Giant: Bone CR0-4” to your bag!",
+        "midpass": "Some of the sediment crumbles as you step on it to clamber down. This covers up some of the materials, but about half of the treasures are still visible and free for the taking! Add two “Humanoid: Bone CR0-4” to your bag!",
+        "fail": "As you try to clamber down the slope, more dirt cracks and falls beneath your feet! It takes all your effort to get back up to the surface and not tumble down alongside it. Maybe someone else will be able to get this, one day."
+      },
+      "2": {
+        "description": "Stomp, stomp, stomp. From the distant jungle, something approaches - and not just one thing, but many! Soon enough a whole herd of dinosaurs comes into view, their steps rumbling and shaking the earth. They look like herbivores, and not the kinds who would attack, but it still might be best to not startle them.",
+        "check": "stealth",
+        "highpass": "As you watch them pass by, none of the creatures seem to notice you at all! You might as well be a ghost to them. They move onwards, at unhurried pace, and soon enough have left you behind entirely. But they haven’t left the land entirely unchanged. They’ve ground up some of the dirt underfoot, turning the grass into usable materials! Add two “Mass: Plant CR0-4” to your bag!",
+        "midpass": "As you watch them pass by, one almost seems to notice you… before continuing on with the group. They move onwards, at unhurried pace, and soon enough have left you behind entirely. But they haven’t left the land entirely unchanged. They’ve ground up some of the dirt underfoot, turning the grass into usable materials! Add one “Mass: Plant CR0-4” to your bag!",
+        "fail": "As you watch the group pass by, one leg catches on a stick underfoot and snaps it nearly in half. The herd is alert at once, heads turning this way and that, before they whirl about and run away, stomping more hurried than before."
+      },
+      "3": {
+        "description": "You happen upon the ruined remains of a building from some ancient civilization. Vines run up the sides of the worn stonework it’s composed of. Unlike many of the other destroyed structures in this place, nature has not entirely reclaimed it yet. There could potentially be something worth salvaging inside, for one brave enough to take a look.",
+        "check": "religion",
+        "highpass": "Something about the interior of this place just doesn’t feel right, but it all surely links back to the strange markings etched into the stones of the ground. Carved in somewhat broken common, they read like a prayer or a plea to a being you haven’t heard of before. One line near the end reads “May all who see these words be blessed”. Even as you finish the sentence, you feel guiding magic falling upon you. Add a 1d4 to your next four rolls. This will need to be done manually.",
+        "midpass": "Something about the interior of this place just doesn’t feel right, but it all seems to link back to the strange markings etched into the stones of the ground. Carved in somewhat broken common, they read like a prayer or a plea to a being you haven’t heard of before. One line, however, reads “May all who see these words be blessed”. Even as you finish the sentence, you feel guiding magic falling upon you. Add a 1d4 to your next two rolls. This will need to be done manually.",
+        "fail": "Something about the interior of this place just doesn’t feel right, ultimately. It could be the odd symbols in the stones, or the uneven roof bending in on itself, but whatever is going on here, it seems prudent to leave it alone."
+      }
+    },
+    "4": {
+      "1": {
+        "description": "An injured hobbit sits here, at the side of a half-dug pit. They’re clutching one of their arms and groaning in pain, their digging tools abandoned at one of their sides. They call out to the surrounding wilderness: ”Help! Oh, please help! I think I broke something…”",
+        "check": "medicine",
+        "highpass": "Through magic, medical knowledge, or a bit of both, you’re able to mend almost all of the injury! They end up with a makeshift cast to brace the limb in place, but from the way the tension has faded from their face, they’re in little to no pain at all, now. They’re so grateful that they offer to help you dig, and even give you a pouch of coin for your trouble! Take 50gp and advantage on your next digging attempt! This will need to be applied manually.",
+        "midpass": "Through magic, medical knowledge, or a bit of both, you’re able to mend the worst of the injury. They end up with a makeshift cast to brace the limb in place, and considerably less strain present on their face. In fact, they’re so grateful that they offer to help you dig! Take advantage for your next digging attempt! This will need to be applied manually.",
+        "fail": "Try as you might, the injury is beyond your understanding, and healing magic struggles to do much of anything, as well. This might just be something for the hobbit’s own people to handle, and so he wanders off in hopes of finding them."
+      },
+      "2": {
+        "description": "These ruins certainly seem like a decent spot to rest. A peaceful overhang of moss and vines covers the entrance to a mostly intact building. Below, on the once-stone floor, mossy ground makes for a natural sort of nest. Tucked away and cozy enough, it would be a splendid place for a nap. That is, as long as it’s safe enough…",
+        "check": "perception",
+        "highpass": "This spot is defendable and enclosed, and lacks any sort of threat within its walls. In other words, it’s certainly safe enough to rest within! Time to take a break… but not for too long! Those rocks and bones won’t dig themselves up. As you settle in, you notice some valuable materials in one corner! Take a free short rest, as well as 100gp of basalt!",
+        "midpass": "This spot is defendable and enclosed, and lacks any sort of threat within its walls. In other words, it’s certainly safe enough to rest within! Time to take a break… but not for too long! Those rocks and bones won’t dig themselves up. Take a free short rest!",
+        "fail": "Something about this place unsettles you once you spend a few minutes within, and it’s hard to place quite why. With a lack of any kind of concrete answer, it’s likely safer to move on. Rest can come another time."
+      },
+      "3": {
+        "description": "You dig up a section of something that looks like crystalized ruby. It isn’t quite typical, however, as can be seen from the bright red veins crossed through the gem. This has to be more than just a ruby, if only you can discern why.",
+        "check": "arcana",
+        "highpass": "This isn’t a ruby at all! No - it’s a petrified section of dragon blood, buried centuries ago. This could be used in place of fresher dragon blood, if the need arose, and with your newfound knowledge, you’re fairly sure you’ll be able to get the one gem to be usable several times! Add two “Blood: Dragon CR0-4” to your bag!",
+        "midpass": "This isn’t a ruby at all! No - it’s a petrified section of dragon blood! Who knows how long it had been buried here, or how it had made it here in the first place. This could be used in place of fresher dragon blood, if the need arose. Add one “Blood: Dragon CR0-4” to your bag!",
+        "fail": "Tinkering with the gemstone does little to uncover its true nature. Instead, the gem fractures into unusable little pieces."
+      }
+    }
+  },
+  "fish": {
+    "1": {
+      "1": {
+        "description": "The fish on the end of the line does not go down easy, this time. Instead, as soon as they’re hooked, they start pulling and thrashing with impressive strength. The simple act of catching a fish soon turns into a battle of wills, back and forth between both sides! But eventually, with some effort, you’re able to reel it in enough that a massive fin breaks the surface of the water…",
+        "check": "athletics",
+        "highpass": "With one last yank, the strongest so far, you drag the fish out of the ocean. A massive tuna with many fins and even more eyes flops onto the shore, letting a few more flops before falling still. You caught this fish with such skill that there's hardly a scratch on them! You're able to salvage many rare materials from the abnormal catch! Add one “Flesh: Aberration CR0-4” and one “Bone: Aberration CR0-4” to your bag!",
+        "midpass": "With one last yank, the strongest so far, you drag the fish out of the ocean. A massive tuna with many fins and even more eyes flops onto the shore, letting a few more flops before falling still. You're able to salvage some rare materials from the abnormal catch! Add one “Flesh: Aberration CR0-4” to your bag!",
+        "fail": "The fish fights harder and harder, determined to take their freedom back. Soon enough, they yank themselves free and swim back off into the depths."
+      },
+      "2": {
+        "description": "A small fishing boat drifts closer across the waters, the rowers pausing as they drift closer to you. “Been fishing long?” one asks, giving you a curious smile. “Why not tell us the tale of your best catch, so far? The wilder, the better!”",
+        "check": "performance",
+        "highpass": "Your story is enthralling and enchanting, so much so that no one can look away! The fisherman give you hearty laughs, tears, or whatever else might be appropriate. At the end, they thank you profusely, and offer 100 gold for the experience!",
+        "midpass": "Your story is intriguing to the group, and in return they offer a tale of their own, along with 40 gold as way of thanks!",
+        "fail": "Your tale might be meandering, or confusing, or long-winded. Whatever the case may be, it leaves the fishers lost instead of intrigued. They thank you all the same before they row the boat away."
+      },
+      "3": {
+        "description": "Time passes slowly, each second ticking by without any new catches. This is a task that requires patience, clearly, and sometimes quite a lot of it. Surely there's something else to be done while you wait? Why not try to skip some rocks?",
+        "check": "sleightOfHand",
+        "highpass": "One of the rocks skips exceptionally far, bouncing almost ten times before eventually dropping into the waiting foam. Now that's impressive! All the bounces attract the attention of a whole school of fish! Take 200gp worth of swordfish!",
+        "midpass": "About half of the rocks skip a few times across the water before eventually falling in. That's pretty good! All the movement across the water draws the attention of some fish! Take 100gp worth of swordfish!",
+        "fail": "This isn't as easy as some people make it look… most of the rocks just splash once into the water and don't skip at all. At least it was decent practice?"
+      }
+    },
+    "2": {
+      "1": {
+        "description": "The line gives barely any resistance as you reel it back up. This is not a fish at all, but a shiny seashell! Alone, this would be a treasure, but perhaps there’s something more to it? The only way to tell would be to take it off the hook and examine it more closely.",
+        "check": "nature",
+        "highpass": "The shell splits open without damaging the interior contents at all! Inside rests a shiny pearl, sparkling in the light. Its shine seems almost magical in nature… Add 1 “orb of shielding” magic item to your bag!",
+        "midpass": "The shell cracks slightly, mildly damaging what hides within. Still, with time, you manage to get it open to reveal a shiny pearl! This could likely go for about 50gp.",
+        "fail": "The shell snaps as you try to open it, fragile sections cracking. It's still pretty broken into pieces, but it is no longer of anything but decorative value."
+      },
+      "2": {
+        "description": "When you try to pull up the hook, it abruptly stops in place and doesn't budge. Whatever is on the end of your line is stubborn, or simply fairly heavy. But what could it be this time? The only way to know is to reel it in.",
+        "check": "sleightOfHand",
+        "highpass": "The mystery item takes a long while to try and drag up to the surface. But after a long time spent reeling, it finally passes the surface of the water! Though drenched, this object clearly still holds some magic within it! Take a common consumable magic item of your choice.",
+        "midpass": "The mystery item takes an age to try and drag up to the surface. But after a long, long time spent reeling, it finally passes the surface of the water! Though drenched, it looks to be some sort of artifact or trinket. Roll a d100 and take the corresponding trinket from the following table. (you may pick which table to roll on!) https://dnd5e.wikidot.com/trinkets",
+        "fail": "Halfway through the tedious process of trying to reel in the mystery item, the line snaps! Whatever that was is lost to the abyss, now. Time to put a new hook on the string… and then maybe try again?"
+      },
+      "3": {
+        "description": "Instead of a fish, you find something very different. In your hands is a swirling orb of pure elemental energy, a kaleidoscope of colors moving within. But beyond being pretty, does it have a use?",
+        "check": "arcana",
+        "highpass": "The orb is obscure and hard to comprehend, but these things are hardly difficult for you to parse through. You discover the ball of energy’s purpose so quickly that you are able to get some extra use out of it! It could be used to return a charge to a magic item two times before it fades away!",
+        "midpass": "The orb is obscure and hard to comprehend, but in time you discern its true purpose. This ball of energy could be used to return a charge to a magic item one time before it fades away!",
+        "fail": "The orb might as well be a parchment written in a dead language, for how little you can understand its purpose. It dissipates into nothing a short time later, like mist in your hands."
+      }
+    },
+    "4": {
+      "1": {
+        "description": "A clump of seaweed drifts across the surface of the water towards you. Within the tangles of green and brown is a small glass bottle, and inside that is a sheet of paper depicting a puzzle! This could certainly help pass the time while waiting for that next tug on the line.",
+        "check": "investigation",
+        "highpass": "It takes hardly any time at all to put this mystery together. It has several interlocking layers to it: whomever had thrown this into the water was knowledgeable and creative both. There is no physical prize for solving this conundrum, but a flash of inspiration hits you instead! Make one free research check of your choice.",
+        "midpass": "It takes a great amount of focus to put this mystery together. It has several interlocking layers to it: whomever had thrown this into the water was knowledgeable and creative both. There is no physical prize for solving this conundrum, but a flash of inspiration hits you instead! Gain one reroll of choice within this week of ap.",
+        "fail": "Either the puzzle was too difficult to figure out, or it was just not worth the effort to do so. Its mysteries will have to remain unsolved."
+      },
+      "2": {
+        "description": "The distant call of a dragon turtle echoes through the waters. It's an eerie, almost haunting sound that's warped by the distance and liquid in the way. But in another sense, it's also quite beautiful. There could be dozens or hundreds of these turtles out in the open ocean.",
+        "check": "insight",
+        "highpass": "The turtle’s tone is almost plaintive, like a request. It is a call to action, seeking allies to aid them in some sort of task. Then, as you listen, the sounds of other turtles begin to reply! Soon enough the water is alive with the whistles and chirps of numerous dragon turtles, gathering to hunt. Using your newfound knowledge to its advantage, you let the turtles scare some of the fish towards you and catch all that you can! Add 200 gold worth of glacefish!",
+        "midpass": "The turtle’s tone is almost plaintive, like a request. Then, as you listen, the sounds of other turtles begin to reply! Soon enough the water is alive with the whistles and chirps of numerous dragon turtles, gathering to hunt. Using your newfound knowledge to its advantage, you let the turtles scare some of the fish towards you and catch all that you can! Add 100 gold worth of glacefish!",
+        "fail": "It’s quite the phenomenon, but you conclude that it has little to do with your present task. As you continue to fish, the whistles of the dragon turtle continue, far away."
+      },
+      "3": {
+        "description": "Splashing approaches, bubbles flying in different directions. All this commotion comes from a large seahorse with racing gear still attached. They're sprinting across the water like they've been startled by something, but this is far from the seahorse racetrack. How could they have gotten out?",
+        "check": "animalHandling",
+        "highpass": "Be it with gentle words or firm ones, you convince the seahorse to slow down long enough for you to grab onto their halter. They hardly jump at all, reassured by your speech and body language, and allow you to bring them back to the racing ring. The racetrack keepers are thankful enough to give you a good amount of coin for your help! Take 100 gold!",
+        "midpass": "Be it with gentle words or firm ones, you convince the seahorse to slow down long enough for you to grab onto their halter. They jump once or twice, yanking on the halter with enough force to bruise, but you bring them back to the racing ring otherwise unscathed. The racetrack keepers are thankful enough to give you some coin for your help! Take 50 gold!",
+        "fail": "The seahorse keeps running off, almost entirely ignoring you. They speed away towards the open ocean, intent on leaving the racetrack behind for good."
+      }
+    }
+  },
+  "forage": {
+    "1": {
+      "1": {
+        "description": "A group of tiny moss balls with comically large eyes and tiny leafy limbs hop close to you and gather around. They poke and prod at whatever you’ve been able to gather, reaching out curious hands to feel the textures of the leaves, plants, and silks.",
+        "check": "persuasion",
+        "highpass": "The little moss balls are emboldened, and hop about you all the faster! In fact, they get so excited that a few of them get dizzy and fall over. The others help pick them back up even as they toss some of their own gathered plants your way. Take 200gp of nettle!",
+        "midpass": "The little moss balls are emboldened, and hop about you all the faster! Soon enough, they’re scattering about their own collections of herbs and plants, and helping you gather them up for yourself! Take 100gp of nettle!",
+        "fail": "It isn’t long before they scatter, running away into the trees and bushes once more. You feel their eyes watching you for a few minutes longer before they eventually depart for good."
+      },
+      "2": {
+        "description": "Your leg brushes up against a plant that you don’t recognize at first. Each of its three-sided leaves is a dark green hue, tinged with purple around the edges. Could this be something useful, or is it actually a danger in disguise?",
+        "check": "medicine",
+        "highpass": "This appears to be a poisonous plant, yes - more specifically, a variety of nightshade. Thankfully, you recall that this type of nightshade is not harmful against intact skin. Armed with this knowledge, you’re able to focus on gathering the plant, and get even more materials out of it than you might have otherwise! Take 200gp worth of nightshade.",
+        "midpass": "This appears to be a poisonous plant, yes - more specifically, a variety of nightshade. Despite the dangers possibly present in handling it, it could certainly be used to craft something deadly in the future! Take 100gp worth of nightshade.",
+        "fail": "It’s very difficult to tell for sure. This plant looks similar to both a specific healing herb and a very poisonous plant. If you’re not immune to poisons, you pre-emptively treat the spot where your leg had touched the plant, just in case, before continuing through the wilderness."
+      },
+      "3": {
+        "description": "A grove of flowers hides between the trees here, the colors of the petals vibrant and numerous. Some are purple or lavender, while others are bright yellow, orange, or red. A few of these flowers are even brighter than the rest, however, their petals glimmering with a faint light.",
+        "check": "arcana",
+        "highpass": "These shimmering flowers do seem like they could come in handy, and in quite the unique way, too! A bundle of these could replicate a single spell before they lose their luster. Taking these flowers allows you to cast one random level 1 spell a single time. (This will need to be manually rolled and kept track of).",
+        "midpass": "The shimmering flowers do seem like they could come in handy, though how exactly they might is yet to be seen. Still, it’s worth gathering them all up for a later time. Take 75gp of clover!",
+        "fail": "While this is quite the sight, the pretty blooms don’t end up meaning much of anything to you. Whether you admire the view or not, all that’s left at the end is to continue the trek through the woods."
+      },
+      "4": {
+        "description": "Silks and herbs alike flourish in this quiet little grove. However, among this natural abundance of plants, a gathering of spiders lurks. It’s likely that these very creatures are the ones who have spun some of these fine threads. They would likely not be all too happy to be bothered, but such a trove of supplies is hard to pass up…",
+        "check": "stealth",
+        "highpass": "The spiders crawl and chatter to each other, none catching even the slightest trace of your presence. You gather up as much as you can carry and depart without leaving behind any hint that you had been there at all. Take 100gp worth of wild silk!",
+        "midpass": "Some of the spiders chitter nervously as you pass by, but ultimately, none are alerted to your presence. You’re able to gather a treasure trove of fine materials and sneak away before any of them realize what’s going on. Take 50gp worth of wild silk!",
+        "fail": "One spider hisses as they hear your approach, alerting the others! They move closer at once, snarling and spitting. A fight in this place wouldn’t be ideal, as it would risk destroying the valuable plants… so perhaps the best move would be to move on and hopefully find this place again, one day."
+      }
+    },
+    "2": {
+      "1": {
+        "description": "A half-fallen tree leans up against several others, nestled between their branches. At the end of the log, a leafy herb grows out of the dead wood. This looks to be a rarer healing herb! What luck! Now to climb up and actually pick it.",
+        "check": "acrobatics",
+        "highpass": "You clamber up the log nimbly, making it to the top in a few short seconds. The plant here is so incredibly potent that it could likely be used as a healing balm right away! Add one common healing potion to your bag.",
+        "midpass": "You clamber up the log as fast as you’re able, making it to the top after finding a few good footholds. The plant here is potent: it will certainly be of use one day. Take 50gp worth of dandelion!",
+        "fail": "You stumble off the log halfway through the climb, tumbling back down to the ground. This is harder than it looks! A few more tries give the same result. This flower has found too good of a spot to hide - they won’t be picked today!"
+      },
+      "2": {
+        "description": "A skittish dog with matted fur follows behind you from a distance as you make your search. Nervous and jumpy, they move quickly backwards whenever you turn to look at them. For some reason, this creature is scared of everything, including you.",
+        "check": "animalHandling",
+        "highpass": "The canine moves closer and closer over time, eventually letting you pat them on the forehead! They run away for a brief moment, tail wagging, before they return with some food for you to take! Add two “Meat: Fey CR0-4” to your bag!",
+        "midpass": "The canine whimpers nervously, not approaching you, but still follows at a distance for a time. Eventually, when you turn around to look for them again, they’re gone: but in their place is a scrap of food they’ve left behind for you! Add one “Meat: Fey CR0-4” to your bag!",
+        "fail": "The dog leaps backwards again the next time you look at them… and then starts growling. They rapidly grow in size, taller and taller, until they’ve taken on the form of a massive, slobbering beast and move to attack! If desired, you may begin combat with this creature (x1 hulking whelp)! Otherwise, disengage and move on."
+      },
+      "3": {
+        "description": "“Hello over there! You! Yes, you, wanderer!” The high-pitched, cheerful voice of a fairy tradesperson travels over to you. This fairy is wearing several satchels, each with an abundance of potions within. “Would you like to make a trade? I could give you a very fine potion in exchange for something simple: a memory of a pleasant time!”",
+        "check": "insight",
+        "highpass": "This is the land of the fey, and in such a land, words often held literal meaning. It was certainly true for this deal as well: any kind of memory you gave up you would likely not get back. Once the merchant realizes you’ve caught onto his scheme well enough that you might warn others about it, they backpedal quickly, even offering you one of these potions in apology! Add one “philter of righteous anger” magic item to your bag!",
+        "midpass": "This is the land of the fey, and in such a land, words often held literal meaning. It was probably true for this deal as well: any kind of memory you gave up you would likely not get back. Once the merchant realizes you’ve caught onto his scheme, they backpedal quickly, and even offer you some plants in apology! Add 50gp of dreamlily to your bag.",
+        "fail": "This offer is off, you can tell. Their smile is just a bit too broad and their eyes just a bit too dark. You just can’t figure out why it’s off, however, and so instead of accusing this merchant, you politely decline the offer to trade."
+      },
+      "4": {
+        "description": "A gathering of fey with pale white clothes and stern, cold faces passes you by. This is a group of visitors from the winter court! One puts out a hand to stop you as they ask, voice like a frosty wind, “Traveler. Do you happen to know how we might reach Cendraine from here? We would, of course, repay you for this information.”",
+        "check": "history",
+        "highpass": "You recall that to travel towards Cendraine requires one to move “lightward”. In other words, this means to walk confidently and think of positive emotions and memories as you travel. Keeping this in mind, you inform the fey of this. They do not thank you, as such words would imply a debt. Instead, one reaches into a pocket and procures a blue seed that is damp to the touch. Add one “rain and thunder seed” magic item to your bag!",
+        "midpass": "You recall that to travel towards Cendraine requires one to move “lightward”. In other words, this means to walk confidently and think of positive emotions and memories as you travel. It’s hard to find the proper words to explain this, but you do your best, and in return they give you some coin! Take 50 gold!",
+        "fail": "The way back from here is known to you, but the magic in the Fey realm is complex, and you struggle to put it into any sort of words. Eventually the delegation continues onward, grumbling to each other. Their chilly disposition has only frozen over further."
+      }
+    },
+    "4": {
+      "1": {
+        "description": "A gathering of fey with bright, warm clothes and devious smiles passes you by. This is a group of visitors from the summer court! One waves to you as they ask, voice like a light rainfall, “Traveler! Might you be aware of how we would get to Cendraine from here? We’d be glad to pay you for the information, of course!”",
+        "check": "history",
+        "highpass": "You recall that to travel towards Cendraine requires one to move “lightward”. In other words, this means to walk confidently and think of positive emotions and memories as you travel. They do not thank you, as such words would imply a debt. Instead, one reaches into a pocket and procures a yellow seed that radiates heat. Add one “bonfire seed” magic item to your bag!",
+        "midpass": "You recall that to travel towards Cendraine requires one to move “lightward”. In other words, this means to walk confidently and think of positive emotions and memories as you travel. It’s hard to find the proper words to explain this, but you do your best, and in return they give you some coin! Take 50 gold!",
+        "fail": "The way back from here is known to you, but the magic in the Fey realm is complex, and you struggle to put it into any sort of words. Eventually the delegation continues onward, grumbling to each other. Their sunny disposition has turned to one of bitterness."
+      },
+      "2": {
+        "description": "This section of the forest is oddly similar to where you’d been barely ten minutes ago. The trees look terribly similar, and the path ahead has your own footprints upon it. Something, or someone, is causing you to go in circles.",
+        "check": "survival",
+        "highpass": "Within the loop, you pause, and take a moment to really, truly examine your surroundings. Some of the trees here are faintly transparent, only half-real. In fact, there appears to be a whole gathering of these fake trees just a short distance away! Approaching, you find they lead to a shortcut further into the woods! Take back 4 AP!",
+        "midpass": "Within the loop, you pause, and take a moment to really, truly examine your surroundings. Some of the trees here are faintly transparent, only half-real. That might be the key to exiting this place! Following where they lead, you discover a shortcut further into the forest. Take back 2 AP!",
+        "fail": "You're stuck wandering for a while longer before the loop eventually lets you go. Some sort of strange magic must have done this…"
+      },
+      "3": {
+        "description": "With the flapping of paper wings, a drake made from parchment glides down to you. When they speak, it's with the scratching of an ink pen on paper, and when they breathe, the air smells like old books. “Might you share some of your knowledge with me?” they request. “Any sort of writing would do. I live for the thrill of reading, no matter the subject!”",
+        "check": "investigation",
+        "highpass": "The drake eagerly looks over what you have to share. They even restrain themselves from eating any of it! As you look over the paper the drake is made of, you see sentences on the pages. describing a new way to harvest rarer plants. Now this could be helpful! The next time you gather plants with this command, take twice as much.",
+        "midpass": "The drake eagerly looks over what you have to share. They even restrain themselves from eating any of it! As you look over the paper the drake is made of, you see sentences on the pages. These read like a poem, describing a new way to harvest rarer plants. This ends up saving you some time! Add back one AP.",
+        "fail": "The drake eagerly looks over whatever you have to share, only trying to take a little nibble from one of the corners of the pages. Then, as quickly as they had arrived, they flap off between the trees!"
+      }
+    }
+  },
+  "lumber": {
+    "1": {
+      "1": {
+        "description": "Before you can start to cut down this tree, you hear a faint hoot from within. In a hollow tucked within the bark, an owl stares down at you. Unblinking, it watches, wary as it waits for you to make the first move.",
+        "check": "animalHandling",
+        "highpass": "The owl hoots again, excitedly, and reaches down into their nest. A moment later, they turn to you, holding a shiny trinket in their beak. They extend their neck and drop the trinket into your hands. Roll a 1d100 and take the resulting trinket from the following table! (You may pick which table to roll on!) https://dnd5e.wikidot.com/trinkets",
+        "midpass": "The owl hoots again, curiously, and reaches down into their nest. A moment later, they turn to you, holding a ration in their beak. They extend their neck and drop the snack into your hands. Take 1 ration!",
+        "fail": "The owl hoots again, angrily, and puffs up their feathers to try and look bigger and scarier! Looks like this tree won’t be a good option to cut…"
+      },
+      "2": {
+        "description": "Ahead lies a tangled mess of brambles and roots. The glint of sap can be seen at the center of the chaos. It could come in handy, if only a way could be found through the thorns.",
+        "check": "acrobatics",
+        "highpass": "You move through the thicket with ease, eventually getting to the center of the patch. Almost all of the sap comes loose from the pile, free for you to take. Add two “Sap: Plant CR0-4” to your bag!",
+        "midpass": "You move through the thicket with some effort, eventually getting to the center of the patch. Some of the sap comes loose from the pile, free for you to take. Add one “Sap: Plant CR0-4” to your bag!",
+        "fail": "The brambles are far too thick to cross, in the end. You will have to continue onwards, empty-handed."
+      },
+      "3": {
+        "description": "Leaning up against this tree is a weary beast. Breath heavy and tail drooping, they have a nasty wound to one leg. Blood falls from it and stains the grass below a deep red. This beast does not snarl or snap as you approach, instead shrinking meekly back. Perhaps the injury they have could be treated?",
+        "check": "medicine",
+        "highpass": "The creature stays very still, letting you handle the injury in whatever way you see fit. At the end of it, they don’t run off. Instead, they approach you and nuzzle up against your hand. Could this be an opportunity for a new friend? If desired, pick a cr0 beast of your choice. You can attempt to tame that beast, following normal taming rules. All checks to attempt to tame this beast will have advantage.",
+        "midpass": "The creature stays very still, letting you handle the injury in whatever way you see fit. At the end of it, they don’t run off. Instead, they observe you for a long moment. Could this be an opportunity for a new friend? If desired, pick a cr0 beast of your choice. You can attempt to tame that beast, following normal taming rules.",
+        "fail": "The creature gets scared by your attempt at treatment, turning and limping off as fast as they can manage. You can only hope they’ll be alright out there in the wilds."
+      }
+    },
+    "2": {
+      "1": {
+        "description": "The scent of sweat and sap meets your nose, coming from a nearby group of woodcutters working to chop down a fairly large tree. It’s no easy work, each one grunting from the sheer effort needed. One of them stops and looks to you, wiping the sweat off their brow. “Ho there!” they call out. “Might you be interested in some sharing of knowledge?”",
+        "check": "persuasion",
+        "highpass": "You do your best to inform them of some of the nearby groves of trees. They’re immensely grateful for the tips, and in exchange, they hand over some of what they’ve gathered! Take 200gp worth of maple!",
+        "midpass": "You do your best to inform them of some of the nearby groves of trees. They’re grateful for the tips, and in exchange, they hand over some of what they’ve gathered! Take 100gp worth of spruce!",
+        "fail": "You do your best to inform them of some of the nearby groves of trees. Halfway through the explanation, however, there’s a misunderstanding, and both sides part ways without learning much of anything."
+      },
+      "2": {
+        "description": "The howling of wolves echo in the distance. It is not just one voice, but many, overlapping and crossing over each other.",
+        "check": "nature",
+        "highpass": "The howls sound like dire wolves, specifically - large, horse-size canines that roam throughout these woods. They sometimes scare off smaller animals during their hunts. Capitalizing on this knowledge, you’re able to cross paths with a rabbit fleeing from the sounds of the howls! If desired, add 2 “Meat: Beast CR0-4” to your bag.",
+        "midpass": "The howls sound like dire wolves, specifically - large, horse-size canines that roam throughout these woods. It wouldn’t be good to get in the middle of one of their hunts.",
+        "fail": "You are unable to discern quite where the howls are coming from. They sound like they’re coming from every direction and could be from any sort of canine creature. Without having gained much knowledge on the occurrence, you continue on your journey."
+      },
+      "3": {
+        "description": "A light storm begins to blow in, carrying with it the smell of the distant sea. The leaves on the trees start to rustle as the wind blows through them, and the air grows damp as drops of rain begin to fall. Then, over time, it begins to grow heavier and heavier. Some shelter to wait out the torrent might be for the best…",
+        "check": "survival",
+        "highpass": "You uncover a natural shelter between several trees, the leaves so intertwined that hardly any rain reaches you! Watching the storm from relative safety is a lot better than being out in the middle of it. And besides that, some of the plants in the shelter seem safe to gather! Add 200gp worth of hemp to your bag!",
+        "midpass": "You uncover a natural shelter between several trees, the leaves so intertwined that hardly any rain reaches you! Watching the storm from relative safety is a lot better than being out in the middle of it. And besides that, some of the plants in the shelter seem safe to gather! Add 100gp worth of dandelion to your bag!",
+        "fail": "You struggle to find a safe place to wait out the storm beyond the most basic of cover. Rain drizzles down through the branches to you, and the wind bites like the nip of a beast with icicles for fangs. It’s a chilly and miserable time."
+      }
+    },
+    "4": {
+      "1": {
+        "description": "Something about this grove feels different, somehow. A faint glow blooms from some of the leaves, like drops of moonlight have fallen to the earth and now illuminate the foliage. Any light here turns paler, oranges or yellows fading into cool blue hues, and on one of the trees, the symbol of a god is carved.",
+        "check": "religion",
+        "highpass": "This symbol is of the goddess Selune. In fact, this whole area seems to be under her influence. After some investigation, you discover that under the symbol, hidden in what is now apparent is a hollow tree, is a hidden compartment with a stash of healing potions. If desired, add one common healing potion to your bag!",
+        "midpass": "This symbol is of the goddess Selune. In fact, this whole area seems to be under her influence. If desired, add a 1d4 to the next three checks this character makes! This will need to be added manually to the rolls with “-b 1d4”.",
+        "fail": "It is a pretty grove, to be sure, but there is little else to be learned here. This might be a mystery for another day…"
+      },
+      "2": {
+        "description": "Something about this grove feels different, somehow. Faint tendrils of darkness creep up the trees and towards the leaves. Any light here fades, turning dim, and on one of the trees, the symbol of a god is carved.",
+        "check": "religion",
+        "highpass": "This symbol is of the goddess Shar. In fact, this whole area seems to be under her influence. After some investigation, you discover that under the symbol, hidden in what is now apparent is a hollow tree, is a hidden compartment with a stash of acid vials. If desired, add one vial of acid to your bag!",
+        "midpass": "This symbol is of the goddess Shar. In fact, this whole area seems to be under her influence. If desired, add a 1d4 to the next three checks this character makes! This will need to be added manually to the rolls with “-b 1d4”.",
+        "fail": "It is a pretty grove, to be sure, but there is little else to be learned here. This might be a mystery for another day…"
+      },
+      "3": {
+        "description": "The scent of iron fills the air. The source appears to be one of the nearby trees. Gnarled and leafless, each of its branches is curved like a claw, pointing down at you. From under its bark, blood flows like sap. Whatever is going on here, surely it cannot be natural?",
+        "check": "arcana",
+        "highpass": "This tree has been cursed by some sort of dark magic, meant to turn its sap into a type of poison. This could certainly come in handy, one day. Take one vial of the poison called “malice”!",
+        "midpass": "This tree has been cursed by some sort of dark magic, though the specifics are hard to discern. Still, some of the bark might be of use. Take 100gp worth of willow!",
+        "fail": "It is nearly impossible to discern what strange magic has affected this tree. It is likely for the best to avoid it, just in case it would cause harm."
+      }
+    }
+  }
+}

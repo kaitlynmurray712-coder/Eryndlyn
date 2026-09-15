@@ -1,0 +1,66 @@
+{
+    "swordsman": {
+        "spiced oatmeal":{"name":"Spiced Oatmeal","price":"5","bonus":10},
+        "eggs and rothe bacon":{"name":"Eggs and Rothe Bacon","price":"7","bonus":12},
+        "rowan's pancakes":{"name":"Rowan's Pancakes","price":"6","bonus":15},
+        "direshore crab dip":{"name":"Direshore Crab Dip","price":"10","bonus":10},
+        "fish fry and chips":{"name":"Fish Fry and Chips","price":"20","bonus":10},
+        "mutton shepherds pie":{"name":"Mutton Shepherds Pie","price":"15","bonus":12},
+        "elk steak and twice baked potatoes":{"name":"Elk Steak and Twice Baked Potatoes","price":"50","bonus":20},
+        "cedar plank salmon":{"name":"Cedar Plank Salmon","price":"80","bonus":15},
+        "crab boil":{"name":"Crab Boil","price":"30","bonus":10},
+        "wild blueberry cheesecake":{"name":"Wild Blueberry Cheesecake","price":"20","bonus":25},
+        "theran's favorite chocolate chip cookie":{"name":"Theran's Favorite Chocolate Chip Cookie","price":"3","bonus":10}
+    },
+    "rook": {
+        "bluebread french toast":{"name":"Bluebread French Toast","price":"6","bonus":10},
+        "biscuits and deep rothe gravy":{"name":"Biscuits and Deep Rothe Gravy","price":"5","bonus":12},
+        "snakebites":{"name":"Snakebites","price":"10","bonus":11},
+        "valyzr's special batwings":{"name":"Valyzr's Special Batwings","price":"20","bonus":20},
+        "Roasted firebeetle seasoned with firelichen":{"name":"Roasted Firebeetle seasoned with Firelichen","price":"40","bonus":12},
+        "spider king legs":{"name":"Spider King Legs","price":"50","bonus":15},
+        "deep tothe steak with sauteed mushrooms":{"name":"Deep Rothe Steak with Sauteed Mushrooms","price":"50","bonus":17},
+        "rocktopus calamari":{"name":"Rocktopus Calamari","price":"100","bonus":15},
+        "eilsurden family favorite ice cream":{"name":"Eilsurden Family Favorite Ice Cream","price":"10","bonus":20},
+        "honeyed moon worms":{"name":"Honeyed Moon Worms","price":"120","bonus":10}
+    },
+"sleeping":{
+        "bubblegum biscuits":{"name":"Bubblegum Biscuits", "price":"10"},
+        "fairy fruit":{"name":"Fairy Fruit", "price":"4"},
+        "spicy phoenix nuggets":{"name":"Spicy Phoenix Nuggets", "price":"20"},
+        "moondust soup":{"name":"Moondust Soup", "price":"15"},
+        "goose eggs and ham":{"name":"Goose Eggs and Ham", "price":"10"},
+        "butterfly pasta with 22 cheeses":{"name":"Butterfly Pasta with 22 Cheeses", "price":"70"},
+        "flying fish and chips":{"name":"Flying Fish and Chips", "price":"60"},
+        "meenlock crab legs":{"name":"Meenlock Crab Legs", "price":"50"},
+        "goodberry pie":{"name":"Goodberry Pie", "price":"10"},
+        "firework fondue":{"name":"Firework Fondue", "price":"5"},
+        "pumpkin cupcake":{"name":"Pumpkin Cupcake", "price":"7"},
+        "ever frozen yogurt":{"name":"Ever-Frozen Yogurt", "price":"3"}
+    },
+    "horseshoe":{
+        "crustacien eclairs":{"name":"Crustacien Eclairs", "price":"5","bonus":5},
+        "sea pearls with ocean sauce":{"name":"Sea Pearls with Ocean Sauce", "price":"10","bonus":10},
+        "shark steak with jellyfish relish":{"name":"Shark Steak with Jellyfish Relish", "price":"20", "bonus":15},
+        "sea captain's stew":{"name":"Sea Captain's Stew", "price":"15","bonus":20},
+        "grilled octopus and seabird":{"name":"Grilled Octopus and Seabird", "price":"35","bonus":25},
+        "king's feast":{"name":"King's Feast", "price":"500","bonus":25},
+        "chowder gumbo":{"name":"Chowder Gumbo", "price":"120","bonus":15},
+        "coral candy clusters":{"name":"Coral Candy Clusters", "price":"10","bonus":5}
+    },
+    "drink":{
+        "water":{"name":"Water", "price":"0","dc":"0","bonus":2},
+        "green tea":{"name":"Green Tea","price":"2","dc":"0","bonus":5},
+        "breakfast bea":{"name":"Breakfast Tea","price":"2","dc":"0","bonus":5},
+        "coffee":{"name":"Coffee","price":"2","dc":"0","bonus":5},
+        "wine":{"name":"House Wine","price":"15","dc":"10","bonus":10},
+        "ale":{"name":"House Ale","price":"10","dc":"10","bonus":10},
+        "whiskey":{"name":"House Whiskey","price":"15","dc":"15","bonus":15},
+        "gin":{"name":"House Gin","price":"20","dc":"15","bonus":15},
+        "vot's SPECIAL rum":{"name":"Vot's *SPECIAL* Rum","price":"12","dc":"15","bonus":15},
+        "direshore hair of the dog mead":{"name":"Direshore Hair of the Dog Mead","price":"30","dc":"20","bonus":20},
+        "abbil darklake stout":{"name":"Abbil Darklake Stout","price":"45","dc":"20","bonus":20},
+        "fey wine":{"name":"Fey Wine", "price":"20"},
+        "atlantis trident spirits":{"name":"Atlantis Trident Spirits","price":"40","dc":"20","bonus":20}
+    }
+}

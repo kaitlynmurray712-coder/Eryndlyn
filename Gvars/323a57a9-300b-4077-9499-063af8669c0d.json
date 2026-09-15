@@ -1,0 +1,182 @@
+{
+"small forge": {
+"name": "Small Forge",
+"size": "small",
+"type": "forge",
+"building": "store",
+"upkeep": 450,
+"payout": 750,
+"cost": 5000,
+"rent": 50
+},
+"large forge": {
+"name": "Large Forge",
+"size": "large",
+"type": "forge",
+"building": "store",
+"upkeep": 700,
+"payout": 1500,
+"cost": 10000,
+"rent": 100
+},
+"small clothes": {
+"name": "Small Clothes Shop",
+"size": "small",
+"type": "clothes",
+"building": "store",
+"upkeep": 150,
+"payout": 500,
+"cost": 5000,
+"rent": 50
+},
+"large clothes": {
+"name": "Large Clothes Shop",
+"size": "large",
+"type": "clothes",
+"building": "store",
+"upkeep": 300,
+"payout": 1000,
+"cost": 10000,
+"rent": 100
+},
+"small magic": {
+"name": "Small Magic Item Shop",
+"size": "small",
+"type": "magic",
+"building": "store",
+"upkeep": 525,
+"payout": 850,
+"cost": 5000,
+"rent": 50
+},
+"large magic": {
+"name": "Large Magic Item Shop",
+"size": "large",
+"type": "magic",
+"building": "store",
+"upkeep": 1050,
+"payout": 1700,
+"cost": 10000,
+"rent": 100
+},
+"small component": {
+"name": "Small Components Shop",
+"size": "small",
+"type": "componenent",
+"building": "store",
+"upkeep": 110,
+"payout": 425,
+"cost": 5000,
+"rent": 50
+},
+"large component": {
+"name": "Large Component Shop",
+"size": "large",
+"type": "componenent",
+"building": "store",
+"upkeep": 220,
+"payout": 850,
+"cost": 10000,
+"rent": 100
+},
+"small potion": {
+"name": "Small Potion Apothicary",
+"size": "small",
+"type": "potion",
+"building": "store",
+"upkeep": 160,
+"payout": 500,
+"cost": 5000,
+"rent": 50
+},
+"large potion": {
+"name": "Large Potion Apothicary",
+"size": "large",
+"type": "potion",
+"building": "store",
+"upkeep": 350,
+"payout": 1000,
+"cost": 10000,
+"rent": 100
+},
+"small mundane": {
+"name": "Small Mundane Item Shop",
+"size": "small",
+"type": "mundane",
+"building": "store",
+"upkeep": 75,
+"payout": 350,
+"cost": 5000,
+"rent": 50
+},
+"large mundane": {
+"name": "Large Mundane Item Shop",
+"size": "large",
+"type": "mundane",
+"building": "store",
+"upkeep": 150,
+"payout": 700,
+"cost": 10000,
+"rent": 100
+},
+"small tavern": {
+"name": "Small Tavern",
+"size": "small",
+"type": "tavern",
+"building": "warehouse",
+"upkeep": 200,
+"payout": 650,
+"cost": 10000,
+"rent": 100
+},
+"large tavern": {
+"name": "Large Tavern",
+"size": "large",
+"type": "tavern",
+"building": "warehouse",
+"upkeep": 400,
+"payout": 1250,
+"cost": 20000,
+"rent": 200
+},
+"small cart": {
+"name": "Small Cart",
+"size": "small",
+"type": "shop",
+"building": "cart",
+"upkeep": 50,
+"payout": 150,
+"cost": 1000,
+"rent": 10
+},
+"large cart": {
+"name": "Large Cart",
+"size": "large",
+"type": "shop",
+"building": "cart",
+"upkeep": 100,
+"payout": 300,
+"cost": 2000,
+"rent": 20
+},
+"small warehouse": {
+"name": "Small Warehouse",
+"size": "small",
+"type": "warehouse",
+"building": "warehouse",
+"upkeep": 150,
+"payout": 600,
+"cost": 10000,
+"rent": 100
+},
+"large warehouse": {
+"name": "Large Warehouse",
+"size": "large",
+"type": "warehouse",
+"building": "warehouse",
+"upkeep": 300,
+"payout": 1200,
+"cost": 20000,
+"rent": 200
+}
+}

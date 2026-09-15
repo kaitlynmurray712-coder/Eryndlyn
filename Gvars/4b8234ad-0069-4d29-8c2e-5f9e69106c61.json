@@ -1,0 +1,116 @@
+{
+    "food":{
+        "oatmeal":{"name":"Spiced Oatmeal","price":"5","bonus":10},
+        "eggs":{"name":"Eggs and Rothe Bacon","price":"7","bonus":12},
+        "pancakes":{"name":"Rowan's Pancakes","price":"6","bonus":15},
+        "dip":{"name":"Direshore Crab Dip","price":"10","bonus":10},
+        "fish":{"name":"Fish Fry and Chips","price":"20","bonus":10},
+        "mutton":{"name":"Mutton Shepherds Pie","price":"15","bonus":12},
+        "elk":{"name":"Elk Steak and Twice Baked Potatoes","price":"50","bonus":20},
+        "salmon":{"name":"Cedar Plank Salmon","price":"80","bonus":15},
+        "boil":{"name":"Crab Boil","price":"30","bonus":10},
+        "cheesecake":{"name":"Wild Blueberry Cheesecake","price":"20","bonus":25},
+        "cookie":{"name":"Theran's Favorite Chocolate Chip Cookie","price":"3","bonus":10},
+        "frenchtoast":{"name":"Bluebread French Toast","price":"6","bonus":10},
+        "biscuits":{"name":"Biscuits and Deep Rothe Gravy","price":"5","bonus":12},
+        "snakebites":{"name":"Snakebites","price":"10","bonus":11},
+        "batwings":{"name":"Valyzr's Special Batwings","price":"20","bonus":20},
+        "firebeetle":{"name":"Roasted Firebeetle seasoned with Firelichen","price":"40","bonus":12},
+        "spider":{"name":"Spider King Legs","price":"50","bonus":15},
+        "steak":{"name":"Deep Rothe Steak with Sauteed Mushrooms","price":"50","bonus":17},
+        "clamari":{"name":"Rocktopus Calamari","price":"100","bonus":15},
+        "icecream":{"name":"Eilsurden Family Favorite Ice Cream","price":"10","bonus":20},
+        "moonworms":{"name":"Honeyed Moon Worms","price":"120","bonus":10},
+        "eclairs":{"name":"Crustacien Eclairs", "price":"5","bonus":5},
+        "pearls":{"name":"Sea Pearls with Ocean Sauce", "price":"10","bonus":10},
+        "steak":{"name":"Shark Steak with Jellyfish Relish", "price":"20", "bonus":15},
+        "stew":{"name":"Sea Captain's Stew", "price":"15","bonus":20},
+        "grill":{"name":"Grilled Octopus and Seabird", "price":"35","bonus":25},
+        "king":{"name":"King's Feast", "price":"500","bonus":25},
+        "gumbo":{"name":"Chowder Gumbo", "price":"120","bonus":15},
+        "candy":{"name":"Coral Candy Clusters", "price":"10","bonus":5},
+        "rothe stew": {
+            "name":"Rothe Stew", "ingredient":["rothe","mushrooms"], "bonus":5,"dc":10
+        },
+
+        "antelope steak": {
+            "name":"Antelope Steak and Veggies", "ingredient":["antelope","wild veggies"], "bonus":10,"dc":15
+        },
+
+         "roast of the wild": {
+            "name":"Roast of the Wild", "ingredient":["elk","wild veggies","nuts"], "bonus":5,"dc":10
+        },
+         "crispy pheasant delight": {
+            "name":"Crispy Pheasant Delight", "ingredient":["pheasant","wild herbs","berries"], "bonus":5,"dc":10
+        },
+         "barracuda fire grill": {
+            "name":"Barracuda Fire Grill", "ingredient":["barracuda","wild veggies"], "bonus":5,"dc":10
+        },
+         "squirrel nut pie": {
+            "name":"Squirrel Nut Pie", "ingredient":["squirrel","nuts","wild fruit"], "bonus":5,"dc":10
+        },
+         "snapper berry glaze": {
+            "name":"Snapper Berry Glaze", "ingredient":["snapper","berries","wild herbs"], "bonus":5,"dc":10
+        },
+         "antelope & mushroom skewers": {
+            "name":"Antelope & Mushroom Skewers", "ingredient":["antelope","mushrooms","wild veggies"], "bonus":5,"dc":10
+        },
+         "bear claw roast": {
+            "name":"Bear Claw Roast", "ingredient":["bear","nuts","wild herbs"], "bonus":5,"dc":10
+        },
+         "rabbit & wild fruit chutney": {
+            "name":"Rabbit & Wild Fruit Chutney", "ingredient":["rabbit","wild fruit","berries"], "bonus":5,"dc":10
+        },
+         "turkey and foragers stuffing": {
+            "name":"Turkey and Forager’s Stuffing", "ingredient":["turkey","mushrooms","nuts","wild veggies"], "bonus":5,"dc":10
+        },
+        "ration":{
+            "name":"Ration", "ingredient":["none"], "bonus":10,"dc":0
+        }
+    },  
+"drink": {
+"drunken_dryad_ale": {
+    "name": "Drunken Dryad Ale", "ingredient": ["Wild Hops", "Wild Wheat", "Tree Sap"], "bonus": 5, "dc": 15
+},
+"saplings_sweet_mead": {
+    "name": "Sapling’s Sweet Mead", "ingredient": ["Honey", "Tree Sap", "Flowering Herbs"], "bonus": 5, "dc": 10
+},
+"mossfoot_mushroom_brew": {
+    "name": "Mossfoot Mushroom Brew", "ingredient": ["Fungal Spores", "Wild Wheat"], "bonus": 5, "dc": 15
+},
+"rootbound_rotgut": {
+    "name": "Rootbound Rotgut", "ingredient": ["Fermenting Tubers", "Wild Seeds"], "bonus": 10, "dc": 10
+},
+"brambleberry_bliss_wine": {
+    "name": "Brambleberry Bliss Wine", "ingredient": ["Wild Grapes", "Berries"], "bonus": 5, "dc": 15
+},
+"elders_elixir": {
+    "name": "The Elder’s Elixir", "ingredient": ["Flowering Herbs", "Honey", "Wild Grapes"], "bonus": 5, "dc": 15
+},
+"thornbite_brandy": {
+    "name": "Thornbite Brandy", "ingredient": ["Wild Fruit", "Tree Sap"], "bonus": 5, "dc": 15
+},
+"foragers_ferment": {
+    "name": "The Forager’s Ferment", "ingredient": ["Wild Hops", "Fungal Spores", "Wild Greens"], "bonus": 0, "dc": 20
+},
+"moonlit_mycelium_mead": {
+    "name": "Moonlit Mycelium Mead", "ingredient": ["Honey", "Fungal Spores"], "bonus": 5, "dc": 15
+},
+"rootwalkers_reserve": {
+    "name": "The Rootwalker’s Reserve", "ingredient": ["Fermenting Tubers", "Wild Grapes", "Flowering Herbs"], "bonus": 5, "dc": 15
+} ,
+"water":{"name":"Water", "price":"0","dc":"0","bonus":2},
+"green":{"name":"Green Tea","price":"2","dc":"0","bonus":5},
+"breakfast":{"name":"Breakfast Tea","price":"2","dc":"0","bonus":5},
+"coffee":{"name":"Coffee","price":"2","dc":"0","bonus":5},
+"wine":{"name":"House Wine","price":"15","dc":"10","bonus":10},
+"ale":{"name":"House Ale","price":"10","dc":"10","bonus":10},
+"whiskey":{"name":"House Whiskey","price":"15","dc":"15","bonus":15},
+"gin":{"name":"House Gin","price":"20","dc":"15","bonus":15},
+"vot":{"name":"Vot's *SPECIAL* Rum","price":"12","dc":"15","bonus":15},
+"direshore":{"name":"Direshore Hair of the Dog Mead","price":"30","dc":"20","bonus":20},
+"abbil":{"name":"Abbil Darklake Stout","price":"45","dc":"20","bonus":20},
+"samsar":{"name":"Samsar Cactus Flower Rum","price":"25","dc":"20","bonus":20},
+"atlatis":{"name":"Atlantis Trident Spirits","price":"40","dc":"20","bonus":20}
+    }
+}

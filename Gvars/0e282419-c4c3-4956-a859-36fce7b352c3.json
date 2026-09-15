@@ -1,0 +1,362 @@
+{
+    "Ration:Aberration CR1": {
+        "type": "Aberration",
+        "cr": "1",
+        "flavor": "Something about this meat feels deeply wrong. Your mind tingles as you swallow.",
+        "effect": "Advantage on one chosen Intelligence, Wisdom, or Charisma saving throw."
+    },
+    "Ration:Aberration CR5": {
+        "type": "Aberration",
+        "cr": "5",
+        "flavor": "Something about this meat feels deeply wrong. Your mind tingles as you swallow.",
+        "effect": "Advantage on all mental saving throws."
+    },
+    "Ration:Aberration CR9": {
+        "type": "Aberration",
+        "cr": "9",
+        "flavor": "Something about this meat feels deeply wrong. Your mind tingles as you swallow.",
+        "effect": "Resistance to psychic damage."
+    },
+    "Ration:Aberration CR15": {
+        "type": "Aberration",
+        "cr": "15",
+        "flavor": "Something about this meat feels deeply wrong. Your mind tingles as you swallow.",
+        "effect": "Once during the duration, reroll a failed mental saving throw."
+    },
+    "Ration:Aberration CR22": {
+        "type": "Aberration",
+        "cr": "22",
+        "flavor": "Something about this meat feels deeply wrong. Your mind tingles as you swallow.",
+        "effect": "Advantage on all Intelligence, Wisdom, and Charisma checks and saving throws."
+    },
+    "Ration:Beast CR1": {
+        "type": "Beast",
+        "cr": "1",
+        "flavor": "Hearty and filling. Tastes like the wild.",
+        "effect": "+5 ft movement speed."
+    },
+    "Ration:Beast CR5": {
+        "type": "Beast",
+        "cr": "5",
+        "flavor": "Hearty and filling. Tastes like the wild.",
+        "effect": "+10 ft movement speed."
+    },
+    "Ration:Beast CR9": {
+        "type": "Beast",
+        "cr": "9",
+        "flavor": "Hearty and filling. Tastes like the wild.",
+        "effect": "Advantage on initiative rolls."
+    },
+    "Ration:Beast CR15": {
+        "type": "Beast",
+        "cr": "15",
+        "flavor": "Hearty and filling. Tastes like the wild.",
+        "effect": "Advantage on one Strength or Dexterity check per turn."
+    },
+    "Ration:Beast CR22": {
+        "type": "Beast",
+        "cr": "22",
+        "flavor": "Hearty and filling. Tastes like the wild.",
+        "effect": "Opportunity attacks against you are made at disadvantage and movement speed increases by an additional 10 ft."
+    },
+    "Ration:Celestial CR1": {
+        "type": "Celestial",
+        "cr": "1",
+        "flavor": "Warm and radiant. Like eating a piece of sunlight.",
+        "effect": "Gain 1d4 temporary hit points per hour."
+    },
+    "Ration:Celestial CR5": {
+        "type": "Celestial",
+        "cr": "5",
+        "flavor": "Warm and radiant. Like eating a piece of sunlight.",
+        "effect": "Gain 1d6 temporary hit points per hour."
+    },
+    "Ration:Celestial CR9": {
+        "type": "Celestial",
+        "cr": "9",
+        "flavor": "Warm and radiant. Like eating a piece of sunlight.",
+        "effect": "Resistance to radiant damage."
+    },
+    "Ration:Celestial CR15": {
+        "type": "Celestial",
+        "cr": "15",
+        "flavor": "Warm and radiant. Like eating a piece of sunlight.",
+        "effect": "Once during the duration, end one charm or fear effect on yourself."
+    },
+    "Ration:Celestial CR22": {
+        "type": "Celestial",
+        "cr": "22",
+        "flavor": "Warm and radiant. Like eating a piece of sunlight.",
+        "effect": "The first time you would drop to 0 HP, you instead drop to 1 HP."
+    },
+    "Ration:Dragon CR1": {
+        "type": "Dragon",
+        "cr": "1",
+        "flavor": "Rich and intensely flavored. There is power in every bite.",
+        "effect": "Advantage on Intimidation checks."
+    },
+    "Ration:Dragon CR5": {
+        "type": "Dragon",
+        "cr": "5",
+        "flavor": "Rich and intensely flavored. There is power in every bite.",
+        "effect": "Add 1d4 damage to one damage roll per turn."
+    },
+    "Ration:Dragon CR9": {
+        "type": "Dragon",
+        "cr": "9",
+        "flavor": "Rich and intensely flavored. There is power in every bite.",
+        "effect": "Resistance to the dragon's associated damage type."
+    },
+    "Ration:Dragon CR15": {
+        "type": "Dragon",
+        "cr": "15",
+        "flavor": "Rich and intensely flavored. There is power in every bite.",
+        "effect": "Once during the duration, deal an additional 2d6 damage of the dragon's type on a hit."
+    },
+    "Ration:Dragon CR22": {
+        "type": "Dragon",
+        "cr": "22",
+        "flavor": "Rich and intensely flavored. There is power in every bite.",
+        "effect": "Once during the duration, automatically succeed on an attack roll or saving throw."
+    },
+    "Ration:Fey CR1": {
+        "type": "Fey",
+        "cr": "1",
+        "flavor": "Strangely sweet and light. You feel oddly graceful.",
+        "effect": "Advantage on Dexterity saving throws."
+    },
+    "Ration:Fey CR5": {
+        "type": "Fey",
+        "cr": "5",
+        "flavor": "Strangely sweet and light. You feel oddly graceful.",
+        "effect": "Advantage on Dexterity and Charisma saving throws."
+    },
+    "Ration:Fey CR9": {
+        "type": "Fey",
+        "cr": "9",
+        "flavor": "Strangely sweet and light. You feel oddly graceful.",
+        "effect": "Immunity to being charmed."
+    },
+    "Ration:Fey CR15": {
+        "type": "Fey",
+        "cr": "15",
+        "flavor": "Strangely sweet and light. You feel oddly graceful.",
+        "effect": "Once during the duration, turn invisible until the end of your next turn."
+    },
+    "Ration:Fey CR22": {
+        "type": "Fey",
+        "cr": "22",
+        "flavor": "Strangely sweet and light. You feel oddly graceful.",
+        "effect": "Creatures have disadvantage on attack rolls against you during the first round of each combat."
+    },
+    "Ration:Fiend CR1": {
+        "type": "Fiend",
+        "cr": "1",
+        "flavor": "Charred and bitter. It burns going down but you feel stronger for it.",
+        "effect": "Advantage on Constitution saving throws."
+    },
+    "Ration:Fiend CR5": {
+        "type": "Fiend",
+        "cr": "5",
+        "flavor": "Charred and bitter. It burns going down but you feel stronger for it.",
+        "effect": "Gain +1d4 Fire damage on weapon or spell attacks."
+    },
+    "Ration:Fiend CR9": {
+        "type": "Fiend",
+        "cr": "9",
+        "flavor": "Charred and bitter. It burns going down but you feel stronger for it.",
+        "effect": "Resistance to fire damage."
+    },
+    "Ration:Fiend CR15": {
+        "type": "Fiend",
+        "cr": "15",
+        "flavor": "Charred and bitter. It burns going down but you feel stronger for it.",
+        "effect": "When you reduce a creature to 0 HP, gain temporary HP equal to your proficiency bonus."
+    },
+    "Ration:Fiend CR22": {
+        "type": "Fiend",
+        "cr": "22",
+        "flavor": "Charred and bitter. It burns going down but you feel stronger for it.",
+        "effect": "When you reduce a creature to 0 HP, gain advantage on your next attack roll or saving throw."
+    },
+    "Ration:Giant CR1": {
+        "type": "Giant",
+        "cr": "1",
+        "flavor": "Dense and heavy. You feel like you could lift a boulder.",
+        "effect": "Advantage on Strength checks."
+    },
+    "Ration:Giant CR5": {
+        "type": "Giant",
+        "cr": "5",
+        "flavor": "Dense and heavy. You feel like you could lift a boulder.",
+        "effect": "Advantage on Strength checks and saving throws."
+    },
+    "Ration:Giant CR9": {
+        "type": "Giant",
+        "cr": "9",
+        "flavor": "Dense and heavy. You feel like you could lift a boulder.",
+        "effect": "Carrying capacity doubles."
+    },
+    "Ration:Giant CR15": {
+        "type": "Giant",
+        "cr": "15",
+        "flavor": "Dense and heavy. You feel like you could lift a boulder.",
+        "effect": "Once during the duration, add 2d6 damage to a melee attack."
+    },
+    "Ration:Giant CR22": {
+        "type": "Giant",
+        "cr": "22",
+        "flavor": "Dense and heavy. You feel like you could lift a boulder.",
+        "effect": "You count as one size larger for grapples, shoves, and carrying capacity."
+    },
+    "Ration:Humanoid CR1": {
+        "type": "Humanoid",
+        "cr": "1",
+        "flavor": "Unsettling. You try not to think about what you just ate.",
+        "effect": "Gain proficiency in one skill you lack."
+    },
+    "Ration:Humanoid CR5": {
+        "type": "Humanoid",
+        "cr": "5",
+        "flavor": "Unsettling. You try not to think about what you just ate.",
+        "effect": "Gain expertise in one skill you are proficient in."
+    },
+    "Ration:Humanoid CR9": {
+        "type": "Humanoid",
+        "cr": "9",
+        "flavor": "Unsettling. You try not to think about what you just ate.",
+        "effect": "Reroll one failed ability check during the duration."
+    },
+    "Ration:Humanoid CR15": {
+        "type": "Humanoid",
+        "cr": "15",
+        "flavor": "Unsettling. You try not to think about what you just ate.",
+        "effect": "Gain proficiency in one saving throw you lack."
+    },
+    "Ration:Humanoid CR22": {
+        "type": "Humanoid",
+        "cr": "22",
+        "flavor": "Unsettling. You try not to think about what you just ate.",
+        "effect": "Choose one ability score; gain advantage on all checks and saving throws using that ability."
+    },
+    "Ration:Monstrosity CR1": {
+        "type": "Monstrosity",
+        "cr": "1",
+        "flavor": "Tough and strange. Whatever this was, it did not go down easy.",
+        "effect": "Advantage on Constitution checks."
+    },
+    "Ration:Monstrosity CR5": {
+        "type": "Monstrosity",
+        "cr": "5",
+        "flavor": "Tough and strange. Whatever this was, it did not go down easy.",
+        "effect": "+1 AC."
+    },
+    "Ration:Monstrosity CR9": {
+        "type": "Monstrosity",
+        "cr": "9",
+        "flavor": "Tough and strange. Whatever this was, it did not go down easy.",
+        "effect": "Resistance to poison damage."
+    },
+    "Ration:Monstrosity CR15": {
+        "type": "Monstrosity",
+        "cr": "15",
+        "flavor": "Tough and strange. Whatever this was, it did not go down easy.",
+        "effect": "Immunity to poison and disease."
+    },
+    "Ration:Monstrosity CR22": {
+        "type": "Monstrosity",
+        "cr": "22",
+        "flavor": "Tough and strange. Whatever this was, it did not go down easy.",
+        "effect": "Once per combat, use your reaction to gain resistance to a damage type until the start of your next turn."
+    },
+    "Ration:Ooze CR1": {
+        "type": "Ooze",
+        "cr": "1",
+        "flavor": "You are not entirely sure what you just consumed. It tasted like nothing and everything.",
+        "effect": "Resistance to acid damage."
+    },
+    "Ration:Ooze CR5": {
+        "type": "Ooze",
+        "cr": "5",
+        "flavor": "You are not entirely sure what you just consumed. It tasted like nothing and everything.",
+        "effect": "Ignore nonmagical difficult terrain."
+    },
+    "Ration:Ooze CR9": {
+        "type": "Ooze",
+        "cr": "9",
+        "flavor": "You are not entirely sure what you just consumed. It tasted like nothing and everything.",
+        "effect": "Advantage on grapple checks."
+    },
+    "Ration:Ooze CR15": {
+        "type": "Ooze",
+        "cr": "15",
+        "flavor": "You are not entirely sure what you just consumed. It tasted like nothing and everything.",
+        "effect": "Once during the duration, automatically escape a grapple."
+    },
+    "Ration:Ooze CR22": {
+        "type": "Ooze",
+        "cr": "22",
+        "flavor": "You are not entirely sure what you just consumed. It tasted like nothing and everything.",
+        "effect": "You cannot be restrained and have advantage on Strength and Dexterity saving throws."
+    },
+    "Ration:Plant CR1": {
+        "type": "Plant",
+        "cr": "1",
+        "flavor": "Earthy and green. You feel grounded and resilient.",
+        "effect": "When you spend Hit Dice, regain additional HP equal to your proficiency bonus."
+    },
+    "Ration:Plant CR5": {
+        "type": "Plant",
+        "cr": "5",
+        "flavor": "Earthy and green. You feel grounded and resilient.",
+        "effect": "Advantage on Constitution saving throws."
+    },
+    "Ration:Plant CR9": {
+        "type": "Plant",
+        "cr": "9",
+        "flavor": "Earthy and green. You feel grounded and resilient.",
+        "effect": "Resistance to poison damage."
+    },
+    "Ration:Plant CR15": {
+        "type": "Plant",
+        "cr": "15",
+        "flavor": "Earthy and green. You feel grounded and resilient.",
+        "effect": "Regain 1d6 HP at the start of each hour."
+    },
+    "Ration:Plant CR22": {
+        "type": "Plant",
+        "cr": "22",
+        "flavor": "Earthy and green. You feel grounded and resilient.",
+        "effect": "Regain HP equal to twice your proficiency bonus at the start of each hour if you have at least 1 HP."
+    },
+    "Ration:Undead CR1": {
+        "type": "Undead",
+        "cr": "1",
+        "flavor": "Cold and lifeless. You feel a strange defiance of death wash over you.",
+        "effect": "Advantage on death saving throws."
+    },
+    "Ration:Undead CR5": {
+        "type": "Undead",
+        "cr": "5",
+        "flavor": "Cold and lifeless. You feel a strange defiance of death wash over you.",
+        "effect": "Resistance to necrotic damage."
+    },
+    "Ration:Undead CR9": {
+        "type": "Undead",
+        "cr": "9",
+        "flavor": "Cold and lifeless. You feel a strange defiance of death wash over you.",
+        "effect": "Grave Tenacity: When you fail a saving throw, add 1d4 to the roll. Usable a number of times equal to your proficiency bonus."
+    },
+    "Ration:Undead CR15": {
+        "type": "Undead",
+        "cr": "15",
+        "flavor": "Cold and lifeless. You feel a strange defiance of death wash over you.",
+        "effect": "Once during the duration, when reduced to 0 HP, drop to 1 HP instead."
+    },
+    "Ration:Undead CR22": {
+        "type": "Undead",
+        "cr": "22",
+        "flavor": "Cold and lifeless. You feel a strange defiance of death wash over you.",
+        "effect": "While below half your hit point maximum, you have advantage on attack rolls and saving throws."
+    }
+}

@@ -1,0 +1,1018 @@
+{
+  "mine": {
+    "1": {
+      "1": {
+        "name": "Raw Iron",
+        "produce": 4,
+        "dc": 10,
+        "worth": 150,
+        "tool": "Smith's Tools",
+        "refined": "Iron Ingot"
+      },
+      "2": {
+        "name": "Raw Silver",
+        "produce": 2,
+        "dc": 10,
+        "worth": 300,
+        "tool": "Smith's Tools",
+        "refined": "Silver Ingot"
+      },
+      "3": {
+        "name": "Raw Amber",
+        "produce": 1,
+        "dc": 10,
+        "worth": 100,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Amber"
+      },
+      "4": {
+        "name": "Raw Emerald",
+        "produce": 2,
+        "dc": 10,
+        "worth": 200,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Emerald"
+      },
+      "5": {
+        "name": "Raw Topaz",
+        "produce": 2,
+        "dc": 10,
+        "worth": 112,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Topaz"
+      },
+      "6": {
+        "name": "Raw Quartz",
+        "produce": 1,
+        "dc": 12,
+        "worth": 100,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Quartz"
+      },
+      "7": {
+        "name": "Raw Onyx",
+        "produce": 1,
+        "dc": 12,
+        "worth": 100,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Onyx"
+      },
+      "8": {
+        "name": "Raw Lead",
+        "produce": 1,
+        "dc": 12,
+        "worth": 100,
+        "tool": "Smith's Tools",
+        "refined": "Lead Ingot"
+      }
+    },
+    "2": {
+      "1": {
+        "name": "Raw Mithril",
+        "produce": 2,
+        "dc": 15,
+        "worth": 300,
+        "tool": "Smith's Tools",
+        "refined": "Mithril Ingot"
+      },
+      "2": {
+        "name": "Raw Sapphire",
+        "produce": 1,
+        "dc": 15,
+        "worth": 250,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Sapphire"
+      },
+      "3": {
+        "name": "Raw Moonstone",
+        "produce": 2,
+        "dc": 15,
+        "worth": 425,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Moonstone"
+      },
+      "4": {
+        "name": "Raw Jade",
+        "produce": 2,
+        "dc": 15,
+        "worth": 500,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Jade"
+      },
+      "5": {
+        "name": "Raw Amethyst",
+        "produce": 2,
+        "dc": 15,
+        "worth": 350,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Amethyst"
+      },
+      "6": {
+        "name": "Raw Copper",
+        "produce": 4,
+        "dc": 15,
+        "worth": 150,
+        "tool": "Smith's Tools",
+        "refined": "Copper Ingot"
+      },
+      "7": {
+        "name": "Raw Agate",
+        "produce": 1,
+        "dc": 15,
+        "worth": 250,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Agate"
+      },
+      "8": {
+        "name": "Raw Jacinth",
+        "produce": 1,
+        "dc": 15,
+        "worth": 250,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Jacinth"
+      }
+    },
+    "4": {
+      "1": {
+        "name": "Raw Gold",
+        "produce": 4,
+        "dc": 20,
+        "worth": 500,
+        "tool": "Smith's Tools",
+        "refined": "Gold Ingot"
+      },
+      "2": {
+        "name": "Raw Diamond",
+        "produce": 1,
+        "dc": 25,
+        "worth": 25000,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Diamond"
+      },
+      "3": {
+        "name": "Raw Mizzium",
+        "produce": 2,
+        "dc": 20,
+        "worth": 2500,
+        "tool": "Smith's Tools",
+        "refined": "Mizzium Ingot"
+      },
+      "4": {
+        "name": "Raw Opal",
+        "produce": 2,
+        "dc": 25,
+        "worth": 1100,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Opal"
+      },
+      "5": {
+        "name": "Raw Sunstone",
+        "produce": 2,
+        "dc": 25,
+        "worth": 2500,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Sunstone"
+      },
+      "6": {
+        "name": "Raw Platinum",
+        "produce": 1,
+        "dc": 25,
+        "worth": 1000,
+        "tool": "Smith's Tools",
+        "refined": "Platinum Ingot"
+      },
+      "7": {
+        "name": "Raw Ruby",
+        "produce": 1,
+        "dc": 20,
+        "worth": 1000,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Ruby"
+      },
+      "8": {
+        "name": "Raw Mercury",
+        "produce": 1,
+        "dc": 20,
+        "worth": 1000,
+        "tool": "Smith's Tools",
+        "refined": "Quicksilver"
+      }
+    }
+  },
+  "dig": {
+    "1": {
+      "1": {
+        "name": "Raw Limestone",
+        "produce": 3,
+        "dc": 10,
+        "worth": 20,
+        "tool": "Mason's Tools",
+        "refined": "Uncommon Block"
+      },
+      "2": {
+        "name": "Raw Slate",
+        "produce": 2,
+        "dc": 10,
+        "worth": 14,
+        "tool": "Mason's Tools",
+        "refined": "Uncommon Tile"
+      },
+      "3": {
+        "name": "Raw Shale",
+        "produce": 1,
+        "dc": 12,
+        "worth": 40,
+        "tool": "Mason's Tools",
+        "refined": "Uncommon Aggregate"
+      },
+      "4": {
+        "name": "Raw Chalk",
+        "produce": 2,
+        "dc": 10,
+        "worth": 15,
+        "tool": "Jeweler's Tools",
+        "refined": "Uncommon Tile"
+      },
+      "5": {
+        "name": "Raw Soapstone",
+        "produce": 4,
+        "dc": 12,
+        "worth": 40,
+        "tool": "Jeweler's Tools",
+        "refined": "Uncommon Tile"
+      },
+      "6": {
+        "name": "Raw Siltstone",
+        "produce": 2,
+        "dc": 10,
+        "worth": 30,
+        "tool": "Mason's Tools",
+        "refined": "Uncommon Block"
+      },
+      "7": {
+        "name": "Raw River Rock",
+        "produce": 3,
+        "dc": 10,
+        "worth": 15,
+        "tool": "Mason's Tools",
+        "refined": "Uncommon Aggregate"
+      },
+      "8": {
+        "name": "Raw Clay",
+        "produce": 2,
+        "dc": 12,
+        "worth": 50,
+        "tool": "Mason's Tools",
+        "refined": "Uncommon Tile"
+      },
+      "9": {
+        "name": "Raw Sandstone",
+        "produce": 3,
+        "dc": 10,
+        "worth": 75,
+        "tool": "Mason's Tools",
+        "refined": "Uncommon Block"
+      },
+      "10": {
+        "name": "Raw Salt",
+        "produce": 5,
+        "dc": 10,
+        "worth": 5,
+        "tool": "Mason's Tools",
+        "refined": "Uncommon Block"
+      }
+    },
+    "2": {
+      "1": {
+        "name": "Raw Obsidian",
+        "produce": 2,
+        "dc": 15,
+        "worth": 200,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Obsidian"
+      },
+      "2": {
+        "name": "Raw Marble",
+        "produce": 2,
+        "dc": 17,
+        "worth": 250,
+        "tool": "Mason's Tools",
+        "refined": "Rare Tile"
+      },
+      "3": {
+        "name": "Raw Basalt",
+        "produce": 3,
+        "dc": 15,
+        "worth": 175,
+        "tool": "Mason's Tools",
+        "refined": "Rare Block"
+      },
+      "4": {
+        "name": "Raw Quartzite",
+        "produce": 2,
+        "dc": 15,
+        "worth": 200,
+        "tool": "Mason's Tools",
+        "refined": "Rare Aggregate"
+      },
+      "5": {
+        "name": "Raw Alabaster",
+        "produce": 4,
+        "dc": 17,
+        "worth": 250,
+        "tool": "Jeweler's Tools",
+        "refined": "Rare Tile"
+      },
+      "6": {
+        "name": "Raw Travertine",
+        "produce": 2,
+        "dc": 17,
+        "worth": 175,
+        "tool": "Mason's Tools",
+        "refined": "Rare Tile"
+      },
+      "7": {
+        "name": "Raw Serpentine",
+        "produce": 4,
+        "dc": 15,
+        "worth": 125,
+        "tool": "Jeweler's Tools",
+        "refined": "Rare Tile"
+      },
+      "8": {
+        "name": "Raw Granite",
+        "produce": 3,
+        "dc": 15,
+        "worth": 100,
+        "tool": "Mason's Tools",
+        "refined": "Rare Block"
+      },
+      "9": {
+        "name": "Raw Oil",
+        "produce": 1,
+        "dc": 17,
+        "worth": 150,
+        "tool": "Cartographer's Tools",
+        "refined": "Naphtha"
+      },
+      "10": {
+        "name": "Raw Coal",
+        "produce": 5,
+        "dc": 20,
+        "worth": 150,
+        "tool": "Mason's Tools",
+        "refined": "Charcoal"
+      }
+    },
+    "4": {
+      "1": {
+        "name": "Raw Adamantine",
+        "produce": 1,
+        "dc": 20,
+        "worth": 5000,
+        "tool": "Smith's Tools",
+        "refined": "Adamantine Ingot"
+      },
+      "2": {
+        "name": "Raw Starstone",
+        "produce": 3,
+        "dc": 22,
+        "worth": null,
+        "tool": "Mason's Tools",
+        "refined": "Very Rare Tile"
+      },
+      "3": {
+        "name": "Raw Arandur",
+        "produce": 2,
+        "dc": 20,
+        "worth": null,
+        "tool": "Smith's Tools",
+        "refined": "Very Rare Aggregate"
+      },
+      "4": {
+        "name": "Raw Hearthstone",
+        "produce": 2,
+        "dc": 25,
+        "worth": null,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Hearthstone"
+      },
+      "5": {
+        "name": "Raw Bloodstone",
+        "produce": 3,
+        "dc": 25,
+        "worth": null,
+        "tool": "Jeweler's Tools",
+        "refined": "Cut Bloodstone"
+      },
+      "6": {
+        "name": "Raw Hizagkuur",
+        "produce": 4,
+        "dc": 20,
+        "worth": null,
+        "tool": "Smith's Tools",
+        "refined": "Hizagkuur Ingot"
+      },
+      "7": {
+        "name": "Raw Sky Stone",
+        "produce": 2,
+        "dc": 20,
+        "worth": null,
+        "tool": "Mason's Tools",
+        "refined": "Very Rare Block"
+      },
+      "8": {
+        "name": "Raw Lode Rock",
+        "produce": 2,
+        "dc": 22,
+        "worth": null,
+        "tool": "Mason's Tools",
+        "refined": "Lodestone"
+      }
+    }
+  },
+  "fish": {
+    "1": {
+      "1": {
+        "name": "Trout",
+        "produce": 1,
+        "dc": 10,
+        "worth": 10,
+        "tool": "Cook's Utensils",
+        "refined": "Uncommon Fish Fillet"
+      },
+      "2": {
+        "name": "Bass",
+        "produce": 1,
+        "dc": 12,
+        "worth": 5,
+        "tool": "Cook's Utensils",
+        "refined": "Uncommon Fish Fillet"
+      },
+      "3": {
+        "name": "Herring",
+        "produce": 1,
+        "dc": 10,
+        "worth": 15,
+        "tool": "Cook's Utensils",
+        "refined": "Uncommon Fish Fillet"
+      },
+      "4": {
+        "name": "Cod",
+        "produce": 1,
+        "dc": 10,
+        "worth": 10,
+        "tool": "Cook's Utensils",
+        "refined": "Uncommon Fish Fillet"
+      },
+      "5": {
+        "name": "Perch",
+        "produce": 1,
+        "dc": 12,
+        "worth": 25,
+        "tool": "Cook's Utensils",
+        "refined": "Uncommon Fish Fillet"
+      },
+      "6": {
+        "name": "Carp",
+        "produce": 1,
+        "dc": 10,
+        "worth": 5,
+        "tool": "Cook's Utensils",
+        "refined": "Uncommon Fish Fillet"
+      },
+      "7": {
+        "name": "Catfish",
+        "produce": 1,
+        "dc": 10,
+        "worth": 15,
+        "tool": "Cook's Utensils",
+        "refined": "Uncommon Fish Fillet"
+      },
+      "8": {
+        "name": "Salmon",
+        "produce": 1,
+        "dc": 12,
+        "worth": 50,
+        "tool": "Cook's Utensils",
+        "refined": "Uncommon Fish Fillet"
+      }
+    },
+    "2": {
+      "1": {
+        "name": "Sturgeon",
+        "produce": 1,
+        "dc": 15,
+        "worth": 100,
+        "tool": "Cook's Utensils",
+        "refined": "Rare Fish Fillet"
+      },
+      "2": {
+        "name": "Swordfish",
+        "produce": 1,
+        "dc": 15,
+        "worth": 275,
+        "tool": "Cook's Utensils",
+        "refined": "Rare Fish Fillet"
+      },
+      "3": {
+        "name": "Tuna",
+        "produce": 1,
+        "dc": 17,
+        "worth": 350,
+        "tool": "Cook's Utensils",
+        "refined": "Rare Fish Fillet"
+      },
+      "4": {
+        "name": "Pike",
+        "produce": 1,
+        "dc": 15,
+        "worth": 170,
+        "tool": "Cook's Utensils",
+        "refined": "Rare Fish Fillet"
+      },
+      "5": {
+        "name": "Giant Eel",
+        "produce": 1,
+        "dc": 17,
+        "worth": 275,
+        "tool": "Cook's Utensils",
+        "refined": "Rare Fish Fillet"
+      },
+      "6": {
+        "name": "Halibut",
+        "produce": 1,
+        "dc": 15,
+        "worth": 100,
+        "tool": "Cook's Utensils",
+        "refined": "Rare Fish Fillet"
+      },
+      "7": {
+        "name": "Monk Fish",
+        "produce": 1,
+        "dc": 17,
+        "worth": 250,
+        "tool": "Cook's Utensils",
+        "refined": "Rare Fish Fillet"
+      },
+      "8": {
+        "name": "Sea Bass",
+        "produce": 1,
+        "dc": 15,
+        "worth": 125,
+        "tool": "Cook's Utensils",
+        "refined": "Rare Fish Fillet"
+      }
+    },
+    "4": {
+      "1": {
+        "name": "Knucklehead Trout",
+        "produce": 1,
+        "dc": 20,
+        "worth": 750,
+        "tool": "Cook's Utensils",
+        "refined": "Very Rare Fish Fillet"
+      },
+      "2": {
+        "name": "Silverfin",
+        "produce": 1,
+        "dc": 25,
+        "worth": 1000,
+        "tool": "Cook's Utensils",
+        "refined": "Very Rare Fish Fillet"
+      },
+      "3": {
+        "name": "Fugu",
+        "produce": 1,
+        "dc": 25,
+        "worth": 1000,
+        "tool": "Cook's Utensils",
+        "refined": "Very Rare Fish Fillet"
+      },
+      "4": {
+        "name": "Blindfish",
+        "produce": 1,
+        "dc": 20,
+        "worth": 750,
+        "tool": "Cook's Utensils",
+        "refined": "Very Rare Fish Fillet"
+      },
+      "5": {
+        "name": "Glacefish",
+        "produce": 1,
+        "dc": 20,
+        "worth": 800,
+        "tool": "Cook's Utensils",
+        "refined": "Very Rare Fish Fillet"
+      },
+      "6": {
+        "name": "Trackless Cod",
+        "produce": 1,
+        "dc": 20,
+        "worth": 900,
+        "tool": "Cook's Utensils",
+        "refined": "Very Rare Fish Fillet"
+      }
+    }
+  },
+  "forage": {
+    "1": {
+      "1": {
+        "name": "Wild Wheat",
+        "produce": 5,
+        "dc": 10,
+        "worth": 10,
+        "tool": "Cook's Tools",
+        "refined": "Flour"
+      },
+      "2": {
+        "name": "Bleucap",
+        "produce": 2,
+        "dc": 12,
+        "worth": 20,
+        "tool": "Herbalist's Kit",
+        "refined": "Common Potion Ingredient"
+      },
+      "3": {
+        "name": "Flax",
+        "produce": 5,
+        "dc": 10,
+        "worth": 5,
+        "tool": "Weaver's Tools",
+        "refined": "Fiber"
+      },
+      "4": {
+        "name": "Cotton",
+        "produce": 4,
+        "dc": 10,
+        "worth": 10,
+        "tool": "Weaver's Tools",
+        "refined": "Cloth"
+      },
+      "5": {
+        "name": "Dandelion",
+        "produce": 3,
+        "dc": 12,
+        "worth": 25,
+        "tool": "Herbalist's Kit",
+        "refined": "Common Potion Ingredient"
+      },
+      "6": {
+        "name": "Clover",
+        "produce": 4,
+        "dc": 12,
+        "worth": 15,
+        "tool": "Herbalist's Kit",
+        "refined": "Common Potion Ingredient"
+      },
+      "7": {
+        "name": "Nettle",
+        "produce": 2,
+        "dc": 10,
+        "worth": 10,
+        "tool": "Herbalist's Kit",
+        "refined": "Common Potion Ingredient"
+      },
+      "8": {
+        "name": "Cattail",
+        "produce": 1,
+        "dc": 12,
+        "worth": 10,
+        "tool": "Weaver's Tools",
+        "refined": "Fiber"
+      }
+    },
+    "2": {
+      "1": {
+        "name": "Fire Lichen",
+        "produce": 2,
+        "dc": 15,
+        "worth": 100,
+        "tool": "Herbalist's Kit",
+        "refined": "Uncommon Potion Ingredient"
+      },
+      "2": {
+        "name": "Trillimac",
+        "produce": 4,
+        "dc": 17,
+        "worth": 75,
+        "tool": "Cook's Tools",
+        "refined": "Durable Cloth"
+      },
+      "3": {
+        "name": "Wolfsbane",
+        "produce": 5,
+        "dc": 15,
+        "worth": 200,
+        "tool": "Herbalist's Kit",
+        "refined": "Uncommon Potion Ingredient"
+      },
+      "4": {
+        "name": "Nightshade",
+        "produce": 2,
+        "dc": 15,
+        "worth": 200,
+        "tool": "Herbalist's Kit",
+        "refined": "Uncommon Poison Ingredient"
+      },
+      "5": {
+        "name": "Mistletoe",
+        "produce": 1,
+        "dc": 17,
+        "worth": 75,
+        "tool": "Herbalist's Kit",
+        "refined": "Uncommon Poison Ingredient"
+      },
+      "6": {
+        "name": "Wild Silk",
+        "produce": 5,
+        "dc": 17,
+        "worth": 150,
+        "tool": "Weaver's Tools",
+        "refined": "Fine Fiber"
+      },
+      "7": {
+        "name": "Toka Truffles",
+        "produce": 1,
+        "dc": 17,
+        "worth": 250,
+        "tool": "Alchemist's Supplies",
+        "refined": "Uncommon Potion Ingredient"
+      },
+      "8": {
+        "name": "Hemp",
+        "produce": 3,
+        "dc": 15,
+        "worth": 42,
+        "tool": "Weaver's Tools",
+        "refined": "Durable Fiber"
+      }
+    },
+    "4": {
+      "1": {
+        "name": "Ghost Mushroom",
+        "produce": 1,
+        "dc": 20,
+        "worth": 500,
+        "tool": "Herbalist's Kit",
+        "refined": "Very Rare Potion Ingredient"
+      },
+      "2": {
+        "name": "Nilhogg's Nose",
+        "produce": 2,
+        "dc": 22,
+        "worth": 400,
+        "tool": "Herbalist's Kit",
+        "refined": "Rare Potion Ingredient"
+      },
+      "3": {
+        "name": "Raw Dreamlily",
+        "produce": 1,
+        "dc": 25,
+        "worth": 1500,
+        "tool": "Herbalist's Kit",
+        "refined": "Dreamlily"
+      },
+      "4": {
+        "name": "Abyssal Blackgrass",
+        "produce": 5,
+        "dc": 22,
+        "worth": 500,
+        "tool": "Herbalist's Kit",
+        "refined": "Very Rare Poison Ingredient"
+      },
+      "5": {
+        "name": "Timask",
+        "produce": 2,
+        "dc": 20,
+        "worth": 300,
+        "tool": "Cook's Tools",
+        "refined": "Rare Poison Ingredient"
+      },
+      "6": {
+        "name": "Tongue of Madness",
+        "produce": 2,
+        "dc": 20,
+        "worth": 300,
+        "tool": "Cook's Tools",
+        "refined": "Rare Poison Ingredient"
+      },
+      "7": {
+        "name": "Blueglow Moss",
+        "produce": 3,
+        "dc": 20,
+        "worth": 400,
+        "tool": "Herbalist's Kit",
+        "refined": "Rare Potion Ingredient"
+      },
+      "8": {
+        "name": "Sage Arol Beetle",
+        "produce": 1,
+        "dc": 20,
+        "worth": 350,
+        "tool": "Alchemist's Supplies",
+        "refined": "Uncommon Poison Ingredient"
+      }
+    }
+  },
+  "lumber": {
+    "1": {
+      "1": {
+        "name": "Pine",
+        "produce": 1,
+        "dc": 10,
+        "worth": 5,
+        "tool": "Carpenter's Tools",
+        "refined": "Uncommon Plank"
+      },
+      "2": {
+        "name": "Birch",
+        "produce": 2,
+        "dc": 12,
+        "worth": 10,
+        "tool": "Woodcarver's Tools",
+        "refined": "Uncommon Pole"
+      },
+      "3": {
+        "name": "Spruce",
+        "produce": 3,
+        "dc": 10,
+        "worth": 15,
+        "tool": "Woodcarver's Tools",
+        "refined": "Uncommon Plank"
+      },
+      "4": {
+        "name": "Poplar",
+        "produce": 1,
+        "dc": 10,
+        "worth": 10,
+        "tool": "Carpenter's Tools",
+        "refined": "Uncommon Plank"
+      },
+      "5": {
+        "name": "Doug Fir",
+        "produce": 2,
+        "dc": 10,
+        "worth": 20,
+        "tool": "Carpenter's Tools",
+        "refined": "Uncommon Plank"
+      },
+      "6": {
+        "name": "Cedar",
+        "produce": 4,
+        "dc": 12,
+        "worth": 50,
+        "tool": "Woodcarver's Tools",
+        "refined": "Uncommon Plank"
+      },
+      "7": {
+        "name": "Willow",
+        "produce": 1,
+        "dc": 12,
+        "worth": 50,
+        "tool": "Woodcarver's Tools",
+        "refined": "Uncommon Pole"
+      },
+      "8": {
+        "name": "Alder",
+        "produce": 2,
+        "dc": 10,
+        "worth": 25,
+        "tool": "Woodcarver's Tools",
+        "refined": "Uncommon Pole"
+      }
+    },
+    "2": {
+      "1": {
+        "name": "Oak",
+        "produce": 1,
+        "dc": 15,
+        "worth": 150,
+        "tool": "Carpenter's Tools",
+        "refined": "Rare Plank"
+      },
+      "2": {
+        "name": "Maple",
+        "produce": 2,
+        "dc": 15,
+        "worth": 125,
+        "tool": "Carpenter's Tools",
+        "refined": "Rare Plank"
+      },
+      "3": {
+        "name": "Hickory",
+        "produce": 4,
+        "dc": 15,
+        "worth": 175,
+        "tool": "Woodcarver's Tools",
+        "refined": "Rare Pole"
+      },
+      "4": {
+        "name": "Redwood",
+        "produce": 2,
+        "dc": 17,
+        "worth": 500,
+        "tool": "Woodcarver's Tools",
+        "refined": "Rare Plank"
+      },
+      "5": {
+        "name": "Ironwood",
+        "produce": 1,
+        "dc": 15,
+        "worth": 125,
+        "tool": "Carpenter's Tools",
+        "refined": "Rare Plank"
+      },
+      "6": {
+        "name": "Mahogany",
+        "produce": 3,
+        "dc": 15,
+        "worth": 300,
+        "tool": "Carpenter's Tools",
+        "refined": "Rare Plank"
+      },
+      "7": {
+        "name": "Walnut",
+        "produce": 2,
+        "dc": 17,
+        "worth": 500,
+        "tool": "Woodcarver's Tools",
+        "refined": "Rare Plank"
+      },
+      "8": {
+        "name": "Vundwood",
+        "produce": 1,
+        "dc": 15,
+        "worth": 100,
+        "tool": "Woodcarver's Tools",
+        "refined": "Rare Pole"
+      }
+    },
+    "4": {
+      "1": {
+        "name": "Darkwood",
+        "produce": 2,
+        "dc": 25,
+        "worth": 1000,
+        "tool": "Carpenter's Tools",
+        "refined": "Very Rare Plank"
+      },
+      "2": {
+        "name": "Soarwood",
+        "produce": 3,
+        "dc": 22,
+        "worth": 750,
+        "tool": "Woodcarver's Tools",
+        "refined": "Very Rare Plank"
+      },
+      "3": {
+        "name": "Zalantar",
+        "produce": 1,
+        "dc": 20,
+        "worth": 800,
+        "tool": "Woodcarver's Tools",
+        "refined": "Very Rare Pole"
+      },
+      "4": {
+        "name": "Weirwood",
+        "produce": 2,
+        "dc": 20,
+        "worth": 700,
+        "tool": "Woodcarver's Tools",
+        "refined": "Very Rare Pole"
+      },
+      "5": {
+        "name": "Bronzewood",
+        "produce": 1,
+        "dc": 20,
+        "worth": 950,
+        "tool": "Carpenter's Tools",
+        "refined": "Very Rare Pole"
+      },
+      "6": {
+        "name": "Xyxlwood",
+        "produce": 3,
+        "dc": 25,
+        "worth": 1000,
+        "tool": "Carpenter's Tools",
+        "refined": "Very Rare Pole"
+      },
+      "7": {
+        "name": "Hiexel",
+        "produce": 1,
+        "dc": 22,
+        "worth": 750,
+        "tool": "Woodcarver's Tools",
+        "refined": "Very Rare Plank"
+      },
+      "8": {
+        "name": "Blueleaf",
+        "produce": 1,
+        "dc": 20,
+        "worth": 800,
+        "tool": "Carpenter's Tools",
+        "refined": "Very Rare Plank"
+      }
+    }
+  }
+}
