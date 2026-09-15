@@ -1,0 +1,43 @@
+{
+    "food": {
+        "rothe stew": {
+            "name":"Rothe Stew", "ingredient":["rothe","mushrooms"], "bonus":5,"dc":10
+        },
+
+        "antelope steak": {
+            "name":"Antelope Steak and Veggies", "ingredient":["antelope","wild veggies"], "bonus":10,"dc":15
+        },
+
+         "roast of the wild": {
+            "name":"Roast of the Wild", "ingredient":["elk","wild veggies","nuts"], "bonus":5,"dc":10
+        },
+         "crispy pheasant delight": {
+            "name":"Crispy Pheasant Delight", "ingredient":["pheasant","wild herbs","berries"], "bonus":5,"dc":10
+        },
+         "barracuda fire grill": {
+            "name":"Barracuda Fire Grill", "ingredient":["barracuda","wild veggies"], "bonus":5,"dc":10
+        },
+         "squirrel nut pie": {
+            "name":"Squirrel Nut Pie", "ingredient":["squirrel","nuts","wild fruit"], "bonus":5,"dc":10
+        },
+         "snapper berry glaze": {
+            "name":"Snapper Berry Glaze", "ingredient":["snapper","berries","wild herbs"], "bonus":5,"dc":10
+        },
+         "antelope & mushroom skewers": {
+            "name":"Antelope & Mushroom Skewers", "ingredient":["antelope","mushrooms","wild veggies"], "bonus":5,"dc":10
+        },
+         "bear claw roast": {
+            "name":"Bear Claw Roast", "ingredient":["bear","nuts","wild herbs"], "bonus":5,"dc":10
+        },
+         "rabbit & wild fruit chutney": {
+            "name":"Rabbit & Wild Fruit Chutney", "ingredient":["rabbit","wild fruit","berries"], "bonus":5,"dc":10
+        },
+         "turkey and foragers stuffing": {
+            "name":"Turkey and Forager’s Stuffing", "ingredient":["turkey","mushrooms","nuts","wild veggies"], "bonus":5,"dc":10
+        }
+    }  
+"drink": {
+        "mead": {
+            "name":"Mead", "ingredient":["honey"], "bonus":5,"dc":10
+        },  
+}

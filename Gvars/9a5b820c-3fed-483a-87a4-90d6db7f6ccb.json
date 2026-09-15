@@ -1,0 +1,318 @@
+{
+  "mine": {
+    "1": {
+      "1": {
+        "encounter": "x4 darkmantle, x1 empty cloak",
+        "description": "Some of the stalagmites and stalactites start to move as you walk past them. They blink open their eyes, one by one. Then they flap open and approach, revealing themselves as flesh, not stone!"
+      },
+      "2": {
+        "encounter": "x2 living burning hands, x1 magma mephit",
+        "description": "Lava hisses and bubbles in a river here, heating up the air and casting a light haze over the whole cave. But some of this lava moves more than the rest. It snaps upwards, forming grasping hands, while from another patch of lava, a long nosed, winged mephit bursts!"
+      }
+    },
+    "2": {
+      "1": {
+        "encounter": "x1 juvenile shadow dragon, x1 shadow mastiff",
+        "description": "This section of caves looms closer to Cied Nasad, the city long overcast by undead and shadow. In fact, a terrible roar comes from the direction of that very city - and then a great black dragon rises from its ruins, shadow streaming off from their wings as they begin a patrol of the area."
+      },
+      "2": {
+        "encounter": "x1 otyugh",
+        "description": "A telepathic message comes knocking, urgent and insistent. It shows you a large, shining gemstone, and insists that such a treasure is only a short distance away! But approaching the location reveals no such treasure - only a slobbering, hungry creature eager for your flesh!"
+      },
+      "3": {
+        "encounter": "x1 gem stalker",
+        "description": "As you move through a section of the caves overtaken by bright purple crystals, you note something like a statue sitting here, carved out of that very same gemstone. But this statue's eyes are just a little too intelligent to be inanimate…"
+      }
+    },
+    "4": {
+      "1": {
+        "encounter": "x2 cavelight moss, x1 cave fisher",
+        "description": "The moss here grows thick, shining with iridescent light. It is a natural light source for the whole cavern, in fact, the moss runs all the way up the walls and onto the roof. It's slowly slithering down to you, however, extending out feelers to reach for your feet. This moss has gotten so large by consuming everyone it comes across… and you're next!"
+      },
+      "2": {
+        "encounter": "x1 young cave dragon",
+        "description": "A ravenous, many-spiked beast marches through the tunnel towards you at quick pace. Instead of eyes, dozens of feelers emerge from their face and back to sense the world around them. Even in darkness, this creature is a natural predator… and right now, you are their prey."
+      },
+      "3": {
+        "encounter": "x1 blue slaad, x2 slaad tadpole",
+        "description": "A portal spirals its way open with pops and snaps, and from it climbs a bipedal, frog-like creature. They snarl and sniff the air, their claws tipped with a disease-ridden blue slime. Whatever purpose they have been sent here for, this can't be good."
+      }
+    }
+  },
+  "dig": {
+    "1": {
+      "1": {
+        "encounter": "1x Lizardfolk Bloodeye, 2x Lizardfolk Commoner",
+        "description": "You stumble upon a camp of lizardfolk. They don't appear very happy at your appearance. They stand quickly and charge."
+      },
+      "2": {
+        "encounter": "2x Minimic, 1x Mimic",
+        "description": "You walk into a dig, the hairs stand on the back of your neck. Something is off… you don't see anything right off. You reach for a bone and a large tongue reaches out to lick you."
+      },
+      "3": {
+        "encounter": "1x Lizardfolk Warden, 3x Lizardfolk",
+        "description": "Behind a tree a lizardfolk watches you. Moving through the jungle… his jungle. He motions towards his men, they all take aim."
+      },
+      "4": {
+        "encounter": "1x Carrion Beetle",
+        "description": "You're digging, you move a large rock. A very large beetle crawls out."
+      },
+      "5": {
+        "encounter": "1x gnoll hunter, 1x allosaurus",
+        "description": "You hear the twang of an arrow being fired, followed by a thunk as it impacts against a nearby tree. Then, a gnoll riding atop an allosaurus charges out of the underbrush at you, cackling wildly as they notch another arrow."
+      },
+      "6": {
+        "encounter": "1x bone trader, 5x skeleton",
+        "description": "Someone else is already digging here. When they turn, it's with a grin that's just slightly too wide. “Perhaps you would like to contribute?” The piles animate into skeletons, ready to attack."
+      },
+      "7": {
+        "encounter": "1x minotaur archaeologist, 2x brown bear",
+        "description": "A minotaur with maps and tools declares you wrong about the Nothasaurus and refuses to listen. Soon enough, they've ordered their bears to attack!"
+      },
+      "8": {
+        "encounter": "2x ghoul, 1x skeleton rifler",
+        "description": "Hands reach from the earth. Soon ghouls and a skeleton with a rifle rise from the ground!"
+      }
+    },
+    "2": {
+      "1": {
+        "encounter": "2x Ankylosaurus",
+        "description": "You see two Ankylosaurus fighting… *SNAP!* They heard you and now turn on you!"
+      },
+      "2": {
+        "encounter": "1x Zombie Troll, 2x Zombie",
+        "description": "You open a sealed ruin. Groans echo inside… zombies await!"
+      },
+      "3": {
+        "encounter": "1x Wraith, 1x Flaming Skeleton",
+        "description": "You uncover bones… then something haunted reaches out and grabs you."
+      },
+      "4": {
+        "encounter": "1x Ghoul Priest, 1x Imperial Ghoul, 1x Ghoul",
+        "description": "The jungle darkens… you are surrounded by ghoulish figures."
+      },
+      "5": {
+        "encounter": "1x bulette",
+        "description": "The ground erupts as a burrowing predator bursts upward. You disturbed its home!"
+      },
+      "6": {
+        "encounter": "2x skeletal swarm, 2x swarm of zombie limbs",
+        "description": "The bones rattle and rise into swarming undead horrors."
+      },
+      "7": {
+        "encounter": "2x sand spider",
+        "description": "Eyes peer from the dirt as two massive spiders crawl toward you."
+      },
+      "8": {
+        "encounter": "1x stegosaurus, 2x clawfoot raptor",
+        "description": "A battle between dinosaurs shifts… and now they see you as the bigger threat."
+      }
+    },
+    "4": {
+      "1": {
+        "encounter": "3x Beetle Knight",
+        "description": "Three insectoid knights approach, their droning wings making it hard to think."
+      },
+      "2": {
+        "encounter": "1x Aeorian Absorber",
+        "description": "A feline-shaped creature circles you, watching and waiting."
+      },
+      "3": {
+        "encounter": "1x Darkweaver",
+        "description": "Something has come through a portal that should not exist… and it sees you."
+      },
+      "4": {
+        "encounter": "1x Aurak Draconian, 1x Draconian Dreadnought, 1x Draconian Mastermind",
+        "description": "Heavy footsteps approach. A draconian war party advances toward you."
+      },
+      "5": {
+        "encounter": "1x caustic charger, 1x swarm of rain hornets",
+        "description": "A hooved beast charges, leaving acid footprints, while hornets drive it into a frenzy!"
+      },
+      "6": {
+        "encounter": "1x fossil cryptic, 1x minotaur skeleton",
+        "description": "A swirling mass of bone and earth forms, and a minotaur skeleton crawls free to hunt you."
+      },
+      "7": {
+        "encounter": "1x oozasis",
+        "description": "A peaceful oasis… begins to move. The water itself is alive!"
+      },
+      "8": {
+        "encounter": "1x eater of dust",
+        "description": "A skeletal humanoid devours the earth. It turns toward you, hungry."
+      }
+    }
+  },
+  "fish": {
+    "1": {
+      "1": {
+        "encounter": "x1 swarm of wharflings, x1 wharfling",
+        "description": "A horde of pink, hairless canines runs across the shoreline towards you, beady eyes staring hungrily towards your catches! So many of them band together that it’s hard to tell how many are even within the pack, but it’s easy to tell that they aren’t planning to ask nicely for the fish you have on you."
+      },
+      "2": {
+        "encounter": "x1 galvanice weird, x1 ice mephit",
+        "description": "The water around you starts to chill, small icicles forming across the surface. These shards of ice coalesce into a single shape, then burst apart to reveal a duo of frosty elementals set on freezing you, as well!"
+      },
+      "3": {
+        "encounter": "x1 sea hag, x1 sea spawn",
+        "description": "A hag rises from the water, cackling and pointing like you're the funniest joke they've seen! Their other hand curls into a fist, and at their command, another being emerges from the depths! “Want to stay for a while, dear?” the hag calls out. “It'll only cost your life - surely that's not a bad price.”"
+      },
+      "4": {
+        "encounter": "x2 merfolk skirmisher, x4 reef shark",
+        "description": "The water you're fishing within starts to churn and spin, slow at first, but then faster and faster like a whirlpool! Beneath the water, a pair of merfolk and their pack of sharks swims. They're making the water spin in an attempt to disorient you… likely before they make their attack!"
+      }
+    },
+    "2": {
+      "1": {
+        "encounter": "x1 seaweed elemental",
+        "description": "A large clump of seaweed floats across the surface of the water towards you. But before you can check to see if the tangled mass is holding any treasure, it starts to try and curl itself around your arms!"
+      },
+      "2": {
+        "encounter": "x1 giant crocodile",
+        "description": "That shape in the distance could be a mossy log, in theory, but it has a few too many ridges on its back, and also two too many eyes. No, instead this is a crocodile, with tail swishing behind them and eyes focused ahead to you. They are swiftly approaching to attack!"
+      },
+      "3": {
+        "encounter": "x1 sharkbody abomination, x1 sahuagin priest, x3 sahuagin warrior",
+        "description": "A group of four sahuagin chant in a circle, surrounding a shark-man hybrid on the ground. As they speak, magic begins to flow from them to this hybrid form. Their strength grows at once, muscles bulging and hands flexing. Once they rise to their feet, powered by the ritual, they sniff the air… and begin to turn in your direction!"
+      },
+      "4": {
+        "encounter": "x1 eel hound, x3 giant blood eel, x1 giant sea eel",
+        "description": "A school of eels glides through the waves. Most of them look larger than a typical eel, but otherwise mostly normal. But one of the group, with bright blue fins, leaps out towards you! This one has legs, and from the flash of fangs, it looks to be ready to draw you back towards its allies!"
+      }
+    },
+    "4": {
+      "1": {
+        "encounter": "x1 swarm of sorrowfish, x2 skeletal fish",
+        "description": "Something in the shape of a dark cloud swims closer through the murky depths of the water. From within the cloud, overlapping fins and scales thrash furiously. This is a massive swarm of fish, and they are out for blood! More specifically, your blood."
+      },
+      "2": {
+        "encounter": "x1 river giant, x1 river spirit",
+        "description": "As you move from one fishing spot to the next, a duo of tall, armored beings blocks your way. One is so large that they must be a giant, while the other has no legs to speak of, instead a giant spout of water in their place. “This water is ours! You seek to get by?” calls the giant, as the other being levels their blade in your direction. “Then face us in a duel! If you win, we will gladly let you pass.”"
+      },
+      "3": {
+        "encounter": "x2 essence of storms",
+        "description": "Twin screeches echo from the sky above, thunder booming and lightning flashing through the sky! There’s a storm coming in, it seems, but instead of raining down from storm clouds, it looks to be coming from two massive birds with feathers like mist and eyes like tempests. And the bad news is, they’re heading right in your direction!"
+      },
+      "4": {
+        "encounter": "x1 vapor lynx, x4 nyxborn lynx",
+        "description": "Mist rises over the water, drifting upward unhurriedly. It dances in circles, moving like snakes made of vapor. It is almost peaceful at first - at least, until the mist grows fangs and paws, forming into the shapes of a whole group of angry lynxes!"
+      }
+    }
+  },
+  "forage": {
+    "1": {
+      "1": {
+        "encounter": "x2 shrieker, x1 swarm of gremishkas",
+        "description": "As you take another step forwards, moving into a patch of mushrooms, two of them begin to shriek like an alarm! It’s high pitched and ear-straining, almost painful, even. But that is not the only reason why they are yelling. At the call of the mushrooms, a swarm of hairless, sharp-whiskered cats springs out of the bushes to attack!"
+      },
+      "2": {
+        "encounter": "x1 citrullus, x1 mold spider",
+        "description": "There’s a few melons in a natural garden here, tended by farmers. Several of these workers back up and start shrieking, however, as one of the melons starts to move and opens up a fanged mouth! It seems their garden has been invaded by hazardous plants!"
+      },
+      "3": {
+        "encounter": "x2 grinning cat, x1 blink dog",
+        "description": "Twin smiles floating in the air appear above a nearby tree branch. Then, the rest of these creatures fade into visibility. Each is a large, colorful cat with spirals for eyes and numerous pointed teeth. Even as you observe this, there's a bark from behind you. It seems you're surrounded!"
+      },
+      "4": {
+        "encounter": "x3 quickling",
+        "description": "Woosh! A blur of motion speeds past you, then another, and another. The blurs run a few circles before finally slowing down enough to be seen as creatures instead of splashes of color. These are several humanoid fey, clothes and hair in bright colors. Even as they stand in place, they shuffle their feet like they can't wait to be off again… and soon enough, they're running at you!"
+      }
+    },
+    "2": {
+      "1": {
+        "encounter": "x2 peryton",
+        "description": "A feather falls from the sky and lands at your feet. It's tinged with red, almost like a warning of something to come. This warning turns into a true threat a moment later, as a pair of bird-like creatures with bloody beaks and antlers both divebomb you from the sky!"
+      },
+      "2": {
+        "encounter": "x1 razorleaf",
+        "description": "The rustling of leaves is the only warning you get before one of the closest bushes rises from the ground, roots and all! There is barely a moment to process this before the bush is moving towards you, unnaturally sharp leaves shining almost like steel."
+      },
+      "3": {
+        "encounter": "x2 rotbeast",
+        "description": "You follow a trail of rot and decay for a short time. Hoofsteps mark the ground, each one surrounded by dying grass and sprouting fungi. A bit further along, a pair of hooved beasts covered in dead moss and red grass steps along through the forest. Each step they take sucks the very life out from the ground underneath them. These are the creatures that have been killing this section of wilderness!"
+      },
+      "4": {
+        "encounter": "x1 hound of the night",
+        "description": "With barking and howling, a canine with purple-gray fur sprints in your direction! A tag on their collar marks them as from the Spring court, but it doesn't look like this dog will just let themselves be captured. Instead, their teeth are ready to bite!"
+      }
+    },
+    "4": {
+      "1": {
+        "encounter": "x1 liondrake, x2 lion",
+        "description": "Golden scales flash in the sky, reflecting the Feywild's light down upon you like a beacon. The owner of these scales is a lithe, lion-like creature with the wings of a dragon. Proudly, they roar, and you hear the footpads of several more approaching beasts!"
+      },
+      "2": {
+        "encounter": "x1 incarnation of transience, x1 will-o’-wisp",
+        "description": "The massive creature up ahead looks almost like an axolotl, with numerous stalks reaching up from its back and waving in the air. A ball of light dances around it as it walks, and every so often, the creature vanishes entirely before reappearing a few steps along. Unhurried but determined, the light leads the way, slowly drifting in your general direction…"
+      },
+      "3": {
+        "encounter": "x1 dandylion, x3 tri-flower frond",
+        "description": "Among a patch of flowers, a green furred lion rests. With a mane like a dandelion and a tail to match, they fit right in among the blossoms. In fact, the flowers are growing on the lion, too - flowers that move and start to rustle aggressively as you approach!"
+      },
+      "4": {
+        "encounter": "x1 werewyvern",
+        "description": "A traveler along the road stops just as they pass by you. They stand very still for an amount of time just long enough to be uncomfortable. Then they erupt all at once! With the snapping of bones and the unveiling of wings, they reveal themself as a lycanthrope. Not just any common form of lycanthrope, however. This is a weredragon!"
+      }
+    }
+  },
+  "lumber": {
+    "1": {
+      "1": {
+        "encounter": "x1 acorn crab, x1 bone crab",
+        "description": "As you move to cut this tree down, you shake something loose from the branches above. Is it a falling pinecone…? No, instead this is a very angry pair of crabs whose home has just been disturbed!"
+      },
+      "2": {
+        "encounter": "x1 human knave, x1 bandit",
+        "description": "This tree already appears to be cut down. Could this be free materials? Before you can take advantage of this good luck, however, a harsh voice calls out: “Your money and your life - we’re taking them both!”"
+      },
+      "3": {
+        "encounter": "x1 woodwarped",
+        "description": "The creaking of vines can be heard a moment before an undead shambles around the corner. They almost appear more plant than man, skin and armor alike overtaken by vines and leaves. But as they see the axe you hold, they stop in their tracks, and let out a hollow shriek!"
+      },
+      "4": {
+        "encounter": "x3 needle blight, x3 vine blight",
+        "description": "A nearby pile of fallen branches and twigs begins to move. With a terrible chorus of snapping and snarling, the branches form themselves into a swarm of numerous angry creatures!"
+      },
+      "5": {
+        "encounter": "x1 sap demon",
+        "description": "Sap flows out, thick and amber-hued, from the cut of one of the nearest trees. It forms into a vaguely humanoid shape, reaching out oozing arms towards you like it wants to give you a hug… and never let go!"
+      }
+    },
+    "2": {
+      "1": {
+        "encounter": "x2 bagiennik",
+        "description": "This section of forest is marshy, ankle-high water seeping into shoes and mud obscuring what might lie beneath. A pair of stumps half-buried in the mud begin to shake… and then they rise, revealing a pair of bark-skinned creatures with bright, glowing eyes!"
+      },
+      "2": {
+        "encounter": "x1 oak troll",
+        "description": "From between a pair of trees, a leafy figure with angry orange eyes and a tangled leafy cloak emerges. Though their face is in the shape of a skull, it is made entirely out of bark, and every so often a leaf drifts away and crumples away into nothing. The cloak rustles as they raise a clawed hand to you… and then lunge forwards!"
+      },
+      "3": {
+        "encounter": "x1 giant ox, x1 ogre battering ram",
+        "description": "A tree nearby collapses to the ground, snapping branches and tearing roots from the earth. A hunch-backed ogre lifts the trunk and moves to tie it to a massive blue ox. When they hear movement nearby, paranoia takes hold and they lash out with the tree in a furious swing!"
+      },
+      "4": {
+        "encounter": "x1 keeper of the blight",
+        "description": "As you survey this thicket, the creaking form of a mostly-wooden centaur ridden with fungus and rot creeps closer. Decay spreads beneath their hooves, infecting once-healthy trees."
+      }
+    },
+    "4": {
+      "1": {
+        "encounter": "x1 rubezahl demon",
+        "description": "A merchant calls out for help, lost and afraid. But as you approach, their form twists—antlers sprout, a red beard cascades, and a cruel grin forms. “That’s what the last one told me… and you’re next.”"
+      },
+      "2": {
+        "encounter": "x1 dragonleaf tree, x1 bird of prey (small)",
+        "description": "A bird perches atop a strange tree whose leaves resemble dragon heads. The foliage rustles without wind, then begins to hum with elemental power—this is no ordinary tree, but something far more dangerous."
+      },
+      "3": {
+        "encounter": "x1 corrupted rosselbuck",
+        "description": "A flash of feathers and a bloodied maw bursts from the underbrush. The brightly colored beast charges with relentless hunger—this is a predator, and you are its prey."
+      },
+      "4": {
+        "encounter": "x1 forest prowler, x2 juvenile forest prowler",
+        "description": "You feel watched. Shadows move through branches and brush, then leap forward—leafy feline predators emerging from concealment to strike!"
+      }
+    }
+  }
+}
