@@ -39,7 +39,7 @@ if inp == "1" or inp == "2" and currentLocation == home or inp == "4" and curren
             desc += chosenevent['description']
             desc += "\n\n"
 
-            minimum_check = a.last('mc', None, int) or (10 if char.csettings.get("talent", True) and char.skills[chosenevent['save']].prof>=1 else None)
+            minimum_check = a.last('mc', None, int) or (10 if char.csettings.get("talent", True) and char.skills[chosenevent['check']].prof>=1 else None)
             saveroll = vroll(char.skills[chosenevent['check']].d20(adv, reroll_number, minimum_check, )+bonus)
 
             desc += "**DC:** "
