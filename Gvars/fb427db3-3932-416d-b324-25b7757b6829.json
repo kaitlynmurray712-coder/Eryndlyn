@@ -6,7 +6,7 @@
         "produce": 4,
         "dc": 10,
         "worth": 150,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Iron Ingot"
       },
       "2": {
@@ -14,7 +14,7 @@
         "produce": 2,
         "dc": 10,
         "worth": 300,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Silver Ingot"
       },
       "3": {
@@ -22,7 +22,7 @@
         "produce": 1,
         "dc": 10,
         "worth": 100,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Amber"
       },
       "4": {
@@ -30,7 +30,7 @@
         "produce": 2,
         "dc": 10,
         "worth": 200,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Emerald"
       },
       "5": {
@@ -38,7 +38,7 @@
         "produce": 2,
         "dc": 10,
         "worth": 112,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Topaz"
       },
       "6": {
@@ -46,7 +46,7 @@
         "produce": 1,
         "dc": 12,
         "worth": 100,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Quartz"
       },
       "7": {
@@ -54,7 +54,7 @@
         "produce": 1,
         "dc": 12,
         "worth": 100,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Onyx"
       },
       "8": {
@@ -62,7 +62,7 @@
         "produce": 1,
         "dc": 12,
         "worth": 100,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Lead Ingot"
       }
     },
@@ -72,7 +72,7 @@
         "produce": 2,
         "dc": 15,
         "worth": 300,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Mithril Ingot"
       },
       "2": {
@@ -80,7 +80,7 @@
         "produce": 1,
         "dc": 15,
         "worth": 250,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Sapphire"
       },
       "3": {
@@ -88,7 +88,7 @@
         "produce": 2,
         "dc": 15,
         "worth": 425,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Moonstone"
       },
       "4": {
@@ -96,7 +96,7 @@
         "produce": 2,
         "dc": 15,
         "worth": 500,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Jade"
       },
       "5": {
@@ -104,7 +104,7 @@
         "produce": 2,
         "dc": 15,
         "worth": 350,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Amethyst"
       },
       "6": {
@@ -112,7 +112,7 @@
         "produce": 4,
         "dc": 15,
         "worth": 150,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Copper Ingot"
       },
       "7": {
@@ -120,7 +120,7 @@
         "produce": 1,
         "dc": 15,
         "worth": 250,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Agate"
       },
       "8": {
@@ -128,7 +128,7 @@
         "produce": 1,
         "dc": 15,
         "worth": 250,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Jacinth"
       }
     },
@@ -138,7 +138,7 @@
         "produce": 4,
         "dc": 20,
         "worth": 500,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Gold Ingot"
       },
       "2": {
@@ -146,7 +146,7 @@
         "produce": 1,
         "dc": 25,
         "worth": 25000,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Diamond"
       },
       "3": {
@@ -154,7 +154,7 @@
         "produce": 2,
         "dc": 20,
         "worth": 2500,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Mizzium Ingot"
       },
       "4": {
@@ -162,7 +162,7 @@
         "produce": 2,
         "dc": 25,
         "worth": 1100,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Opal"
       },
       "5": {
@@ -170,7 +170,7 @@
         "produce": 2,
         "dc": 25,
         "worth": 2500,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Sunstone"
       },
       "6": {
@@ -178,7 +178,7 @@
         "produce": 1,
         "dc": 25,
         "worth": 1000,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Platinum Ingot"
       },
       "7": {
@@ -186,7 +186,7 @@
         "produce": 1,
         "dc": 20,
         "worth": 1000,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Ruby"
       },
       "8": {
@@ -194,7 +194,7 @@
         "produce": 1,
         "dc": 20,
         "worth": 1000,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Quicksilver"
       }
     }
@@ -206,7 +206,7 @@
         "produce": 3,
         "dc": 10,
         "worth": 20,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Uncommon Block"
       },
       "2": {
@@ -214,7 +214,7 @@
         "produce": 2,
         "dc": 10,
         "worth": 14,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Uncommon Tile"
       },
       "3": {
@@ -222,7 +222,7 @@
         "produce": 1,
         "dc": 12,
         "worth": 40,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Uncommon Aggregate"
       },
       "4": {
@@ -230,7 +230,7 @@
         "produce": 2,
         "dc": 10,
         "worth": 15,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Uncommon Tile"
       },
       "5": {
@@ -238,7 +238,7 @@
         "produce": 4,
         "dc": 12,
         "worth": 40,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Uncommon Tile"
       },
       "6": {
@@ -246,7 +246,7 @@
         "produce": 2,
         "dc": 10,
         "worth": 30,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Uncommon Block"
       },
       "7": {
@@ -254,7 +254,7 @@
         "produce": 3,
         "dc": 10,
         "worth": 15,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Uncommon Aggregate"
       },
       "8": {
@@ -262,7 +262,7 @@
         "produce": 2,
         "dc": 12,
         "worth": 50,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Uncommon Tile"
       },
       "9": {
@@ -270,7 +270,7 @@
         "produce": 3,
         "dc": 10,
         "worth": 75,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Uncommon Block"
       },
       "10": {
@@ -278,7 +278,7 @@
         "produce": 5,
         "dc": 10,
         "worth": 5,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Uncommon Block"
       }
     },
@@ -288,7 +288,7 @@
         "produce": 2,
         "dc": 15,
         "worth": 200,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Obsidian"
       },
       "2": {
@@ -296,7 +296,7 @@
         "produce": 2,
         "dc": 17,
         "worth": 250,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Rare Tile"
       },
       "3": {
@@ -304,7 +304,7 @@
         "produce": 3,
         "dc": 15,
         "worth": 175,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Rare Block"
       },
       "4": {
@@ -312,7 +312,7 @@
         "produce": 2,
         "dc": 15,
         "worth": 200,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Rare Aggregate"
       },
       "5": {
@@ -320,7 +320,7 @@
         "produce": 4,
         "dc": 17,
         "worth": 250,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Rare Tile"
       },
       "6": {
@@ -328,7 +328,7 @@
         "produce": 2,
         "dc": 17,
         "worth": 175,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Rare Tile"
       },
       "7": {
@@ -336,7 +336,7 @@
         "produce": 4,
         "dc": 15,
         "worth": 125,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Rare Tile"
       },
       "8": {
@@ -344,7 +344,7 @@
         "produce": 3,
         "dc": 15,
         "worth": 100,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Rare Block"
       },
       "9": {
@@ -352,7 +352,7 @@
         "produce": 1,
         "dc": 17,
         "worth": 150,
-        "tool": "Cartographer's Tools",
+        "tool": "cartographerstools",
         "refined": "Naphtha"
       },
       "10": {
@@ -360,7 +360,7 @@
         "produce": 5,
         "dc": 20,
         "worth": 150,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Charcoal"
       }
     },
@@ -370,7 +370,7 @@
         "produce": 1,
         "dc": 20,
         "worth": 5000,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Adamantine Ingot"
       },
       "2": {
@@ -378,7 +378,7 @@
         "produce": 3,
         "dc": 22,
         "worth": null,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Very Rare Tile"
       },
       "3": {
@@ -386,7 +386,7 @@
         "produce": 2,
         "dc": 20,
         "worth": null,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Very Rare Aggregate"
       },
       "4": {
@@ -394,7 +394,7 @@
         "produce": 2,
         "dc": 25,
         "worth": null,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Hearthstone"
       },
       "5": {
@@ -402,7 +402,7 @@
         "produce": 3,
         "dc": 25,
         "worth": null,
-        "tool": "Jeweler's Tools",
+        "tool": "jewelerstools",
         "refined": "Cut Bloodstone"
       },
       "6": {
@@ -410,7 +410,7 @@
         "produce": 4,
         "dc": 20,
         "worth": null,
-        "tool": "Smith's Tools",
+        "tool": "smithstools",
         "refined": "Hizagkuur Ingot"
       },
       "7": {
@@ -418,7 +418,7 @@
         "produce": 2,
         "dc": 20,
         "worth": null,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Very Rare Block"
       },
       "8": {
@@ -426,7 +426,7 @@
         "produce": 2,
         "dc": 22,
         "worth": null,
-        "tool": "Mason's Tools",
+        "tool": "masonstools",
         "refined": "Lodestone"
       }
     }
@@ -438,7 +438,7 @@
         "produce": 1,
         "dc": 10,
         "worth": 10,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Uncommon Fish Fillet"
       },
       "2": {
@@ -446,7 +446,7 @@
         "produce": 1,
         "dc": 12,
         "worth": 5,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Uncommon Fish Fillet"
       },
       "3": {
@@ -454,7 +454,7 @@
         "produce": 1,
         "dc": 10,
         "worth": 15,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Uncommon Fish Fillet"
       },
       "4": {
@@ -462,7 +462,7 @@
         "produce": 1,
         "dc": 10,
         "worth": 10,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Uncommon Fish Fillet"
       },
       "5": {
@@ -470,7 +470,7 @@
         "produce": 1,
         "dc": 12,
         "worth": 25,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Uncommon Fish Fillet"
       },
       "6": {
@@ -478,7 +478,7 @@
         "produce": 1,
         "dc": 10,
         "worth": 5,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Uncommon Fish Fillet"
       },
       "7": {
@@ -486,7 +486,7 @@
         "produce": 1,
         "dc": 10,
         "worth": 15,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Uncommon Fish Fillet"
       },
       "8": {
@@ -494,7 +494,7 @@
         "produce": 1,
         "dc": 12,
         "worth": 50,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Uncommon Fish Fillet"
       }
     },
@@ -504,7 +504,7 @@
         "produce": 1,
         "dc": 15,
         "worth": 100,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Rare Fish Fillet"
       },
       "2": {
@@ -512,7 +512,7 @@
         "produce": 1,
         "dc": 15,
         "worth": 275,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Rare Fish Fillet"
       },
       "3": {
@@ -520,7 +520,7 @@
         "produce": 1,
         "dc": 17,
         "worth": 350,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Rare Fish Fillet"
       },
       "4": {
@@ -528,7 +528,7 @@
         "produce": 1,
         "dc": 15,
         "worth": 170,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Rare Fish Fillet"
       },
       "5": {
@@ -536,7 +536,7 @@
         "produce": 1,
         "dc": 17,
         "worth": 275,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Rare Fish Fillet"
       },
       "6": {
@@ -544,7 +544,7 @@
         "produce": 1,
         "dc": 15,
         "worth": 100,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Rare Fish Fillet"
       },
       "7": {
@@ -552,7 +552,7 @@
         "produce": 1,
         "dc": 17,
         "worth": 250,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Rare Fish Fillet"
       },
       "8": {
@@ -560,7 +560,7 @@
         "produce": 1,
         "dc": 15,
         "worth": 125,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Rare Fish Fillet"
       }
     },
@@ -570,7 +570,7 @@
         "produce": 1,
         "dc": 20,
         "worth": 750,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Very Rare Fish Fillet"
       },
       "2": {
@@ -578,7 +578,7 @@
         "produce": 1,
         "dc": 25,
         "worth": 1000,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Very Rare Fish Fillet"
       },
       "3": {
@@ -586,7 +586,7 @@
         "produce": 1,
         "dc": 25,
         "worth": 1000,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Very Rare Fish Fillet"
       },
       "4": {
@@ -594,7 +594,7 @@
         "produce": 1,
         "dc": 20,
         "worth": 750,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Very Rare Fish Fillet"
       },
       "5": {
@@ -602,7 +602,7 @@
         "produce": 1,
         "dc": 20,
         "worth": 800,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Very Rare Fish Fillet"
       },
       "6": {
@@ -610,7 +610,7 @@
         "produce": 1,
         "dc": 20,
         "worth": 900,
-        "tool": "Cook's Utensils",
+        "tool": "cooksutensils",
         "refined": "Very Rare Fish Fillet"
       }
     }
@@ -638,7 +638,7 @@
         "produce": 5,
         "dc": 10,
         "worth": 5,
-        "tool": "Weaver's Tools",
+        "tool": "weaverstools",
         "refined": "Fiber"
       },
       "4": {
@@ -646,7 +646,7 @@
         "produce": 4,
         "dc": 10,
         "worth": 10,
-        "tool": "Weaver's Tools",
+        "tool": "weaverstools",
         "refined": "Cloth"
       },
       "5": {
@@ -678,7 +678,7 @@
         "produce": 1,
         "dc": 12,
         "worth": 10,
-        "tool": "Weaver's Tools",
+        "tool": "weaverstools",
         "refined": "Fiber"
       }
     },
@@ -728,7 +728,7 @@
         "produce": 5,
         "dc": 17,
         "worth": 150,
-        "tool": "Weaver's Tools",
+        "tool": "weaverstools",
         "refined": "Fine Fiber"
       },
       "7": {
@@ -736,7 +736,7 @@
         "produce": 1,
         "dc": 17,
         "worth": 250,
-        "tool": "Alchemist's Supplies",
+        "tool": "alchemistssupplies",
         "refined": "Uncommon Potion Ingredient"
       },
       "8": {
@@ -744,7 +744,7 @@
         "produce": 3,
         "dc": 15,
         "worth": 42,
-        "tool": "Weaver's Tools",
+        "tool": "weaverstools",
         "refined": "Durable Fiber"
       }
     },
@@ -810,7 +810,7 @@
         "produce": 1,
         "dc": 20,
         "worth": 350,
-        "tool": "Alchemist's Supplies",
+        "tool": "alchemistssupplies",
         "refined": "Uncommon Poison Ingredient"
       }
     }
@@ -822,47 +822,47 @@
         "produce": 1,
         "dc": 10,
         "worth": 5,
-        "tool": "Carpenter's Tools",
-        "refined": "Uncommon Plank"
+        "tool": "carpenterstools",
+        "refined": "Common Plank"
       },
       "2": {
         "name": "Birch",
         "produce": 2,
         "dc": 12,
         "worth": 10,
-        "tool": "Woodcarver's Tools",
-        "refined": "Uncommon Pole"
+        "tool": "woodcarverstools",
+        "refined": "Common Pole"
       },
       "3": {
         "name": "Spruce",
         "produce": 3,
         "dc": 10,
         "worth": 15,
-        "tool": "Woodcarver's Tools",
-        "refined": "Uncommon Plank"
+        "tool": "woodcarverstools",
+        "refined": "Common Plank"
       },
       "4": {
         "name": "Poplar",
         "produce": 1,
         "dc": 10,
         "worth": 10,
-        "tool": "Carpenter's Tools",
-        "refined": "Uncommon Plank"
+        "tool": "carpenterstools",
+        "refined": "Common Plank"
       },
       "5": {
         "name": "Doug Fir",
         "produce": 2,
         "dc": 10,
         "worth": 20,
-        "tool": "Carpenter's Tools",
-        "refined": "Uncommon Plank"
+        "tool": "carpenterstools",
+        "refined": "Common Plank"
       },
       "6": {
         "name": "Cedar",
         "produce": 4,
         "dc": 12,
         "worth": 50,
-        "tool": "Woodcarver's Tools",
+        "tool": "woodcarverstools",
         "refined": "Uncommon Plank"
       },
       "7": {
@@ -870,7 +870,7 @@
         "produce": 1,
         "dc": 12,
         "worth": 50,
-        "tool": "Woodcarver's Tools",
+        "tool": "woodcarverstools",
         "refined": "Uncommon Pole"
       },
       "8": {
@@ -878,8 +878,8 @@
         "produce": 2,
         "dc": 10,
         "worth": 25,
-        "tool": "Woodcarver's Tools",
-        "refined": "Uncommon Pole"
+        "tool": "woodcarverstools",
+        "refined": "Common Pole"
       }
     },
     "2": {
@@ -888,31 +888,31 @@
         "produce": 1,
         "dc": 15,
         "worth": 150,
-        "tool": "Carpenter's Tools",
-        "refined": "Rare Plank"
+        "tool": "carpenterstools",
+        "refined": "Uncommon Plank"
       },
       "2": {
         "name": "Maple",
         "produce": 2,
         "dc": 15,
         "worth": 125,
-        "tool": "Carpenter's Tools",
-        "refined": "Rare Plank"
+        "tool": "carpenterstools",
+        "refined": "Uncommon Plank"
       },
       "3": {
         "name": "Hickory",
         "produce": 4,
         "dc": 15,
         "worth": 175,
-        "tool": "Woodcarver's Tools",
-        "refined": "Rare Pole"
+        "tool": "woodcarverstools",
+        "refined": "Uncommon Pole"
       },
       "4": {
         "name": "Redwood",
         "produce": 2,
         "dc": 17,
         "worth": 500,
-        "tool": "Woodcarver's Tools",
+        "tool": "woodcarverstools",
         "refined": "Rare Plank"
       },
       "5": {
@@ -920,23 +920,23 @@
         "produce": 1,
         "dc": 15,
         "worth": 125,
-        "tool": "Carpenter's Tools",
-        "refined": "Rare Plank"
+        "tool": "carpenterstools",
+        "refined": "Uncommon Plank"
       },
       "6": {
         "name": "Mahogany",
         "produce": 3,
         "dc": 15,
         "worth": 300,
-        "tool": "Carpenter's Tools",
-        "refined": "Rare Plank"
+        "tool": "carpenterstools",
+        "refined": "Uncommon Plank"
       },
       "7": {
         "name": "Walnut",
         "produce": 2,
         "dc": 17,
         "worth": 500,
-        "tool": "Woodcarver's Tools",
+        "tool": "woodcarverstools",
         "refined": "Rare Plank"
       },
       "8": {
@@ -944,8 +944,8 @@
         "produce": 1,
         "dc": 15,
         "worth": 100,
-        "tool": "Woodcarver's Tools",
-        "refined": "Rare Pole"
+        "tool": "woodcarverstools",
+        "refined": "Uncommon Pole"
       }
     },
     "4": {
@@ -954,7 +954,7 @@
         "produce": 2,
         "dc": 25,
         "worth": 1000,
-        "tool": "Carpenter's Tools",
+        "tool": "carpenterstools",
         "refined": "Very Rare Plank"
       },
       "2": {
@@ -962,31 +962,31 @@
         "produce": 3,
         "dc": 22,
         "worth": 750,
-        "tool": "Woodcarver's Tools",
-        "refined": "Very Rare Plank"
+        "tool": "woodcarverstools",
+        "refined": "Rare Plank"
       },
       "3": {
         "name": "Zalantar",
         "produce": 1,
         "dc": 20,
         "worth": 800,
-        "tool": "Woodcarver's Tools",
-        "refined": "Very Rare Pole"
+        "tool": "woodcarverstools",
+        "refined": "Rare Pole"
       },
       "4": {
         "name": "Weirwood",
         "produce": 2,
         "dc": 20,
         "worth": 700,
-        "tool": "Woodcarver's Tools",
-        "refined": "Very Rare Pole"
+        "tool": "woodcarverstools",
+        "refined": "Rare Pole"
       },
       "5": {
         "name": "Bronzewood",
         "produce": 1,
         "dc": 20,
         "worth": 950,
-        "tool": "Carpenter's Tools",
+        "tool": "carpenterstools",
         "refined": "Very Rare Pole"
       },
       "6": {
@@ -994,7 +994,7 @@
         "produce": 3,
         "dc": 25,
         "worth": 1000,
-        "tool": "Carpenter's Tools",
+        "tool": "carpenterstools",
         "refined": "Very Rare Pole"
       },
       "7": {
@@ -1002,16 +1002,16 @@
         "produce": 1,
         "dc": 22,
         "worth": 750,
-        "tool": "Woodcarver's Tools",
-        "refined": "Very Rare Plank"
+        "tool": "woodcarverstools",
+        "refined": "Rare Plank"
       },
       "8": {
         "name": "Blueleaf",
         "produce": 1,
         "dc": 20,
         "worth": 800,
-        "tool": "Carpenter's Tools",
-        "refined": "Very Rare Plank"
+        "tool": "carpenterstools",
+        "refined": "Rare Plank"
       }
     }
   }
