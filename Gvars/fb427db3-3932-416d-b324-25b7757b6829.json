@@ -630,7 +630,7 @@
         "produce": 2,
         "dc": 12,
         "worth": 20,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Common Potion Ingredient"
       },
       "3": {
@@ -654,7 +654,7 @@
         "produce": 3,
         "dc": 12,
         "worth": 25,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Common Potion Ingredient"
       },
       "6": {
@@ -662,7 +662,7 @@
         "produce": 4,
         "dc": 12,
         "worth": 15,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Common Potion Ingredient"
       },
       "7": {
@@ -670,7 +670,7 @@
         "produce": 2,
         "dc": 10,
         "worth": 10,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Common Potion Ingredient"
       },
       "8": {
@@ -688,7 +688,7 @@
         "produce": 2,
         "dc": 15,
         "worth": 100,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Uncommon Potion Ingredient"
       },
       "2": {
@@ -704,7 +704,7 @@
         "produce": 5,
         "dc": 15,
         "worth": 200,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Uncommon Potion Ingredient"
       },
       "4": {
@@ -712,7 +712,7 @@
         "produce": 2,
         "dc": 15,
         "worth": 200,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Uncommon Poison Ingredient"
       },
       "5": {
@@ -720,7 +720,7 @@
         "produce": 1,
         "dc": 17,
         "worth": 75,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Uncommon Poison Ingredient"
       },
       "6": {
@@ -754,7 +754,7 @@
         "produce": 1,
         "dc": 20,
         "worth": 500,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Very Rare Potion Ingredient"
       },
       "2": {
@@ -762,7 +762,7 @@
         "produce": 2,
         "dc": 22,
         "worth": 400,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Rare Potion Ingredient"
       },
       "3": {
@@ -770,7 +770,7 @@
         "produce": 1,
         "dc": 25,
         "worth": 1500,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Dreamlily"
       },
       "4": {
@@ -778,7 +778,7 @@
         "produce": 5,
         "dc": 22,
         "worth": 500,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Very Rare Poison Ingredient"
       },
       "5": {
@@ -802,7 +802,7 @@
         "produce": 3,
         "dc": 20,
         "worth": 400,
-        "tool": "Herbalist's Kit",
+        "tool": "herbalismkit",
         "refined": "Rare Potion Ingredient"
       },
       "8": {
