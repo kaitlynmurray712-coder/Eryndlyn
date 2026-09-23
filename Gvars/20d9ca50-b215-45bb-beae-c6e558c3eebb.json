@@ -35,5 +35,6 @@
 "tinkerstools" :{ "name":   "Tool: Tinker's", "modifier": "dexterityMod"},
 "thievestools" :{ "name":   "Tool: Thieves's", "modifier": "dexterityMod"},
 "weaverstools" :{"name":    "Tool: Weaver's",  "modifier": "dexterityMod"},
-"woodcarverstools" :{"name":    "Tool: Woodcarver's", "modifier": "dexterityMod"}
+"woodcarverstools" :{"name":    "Tool: Woodcarver's", "modifier": "dexterityMod"},
+"herbalismkit": {"name":    "Tool: Herbalism", "modifier": "intelligenceMod"}
 }

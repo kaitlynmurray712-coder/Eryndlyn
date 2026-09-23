@@ -1,0 +1,348 @@
+alchemistssupplies:
+  key: alchemistssupplies
+  name: Alchemist's Supplies
+  type: artisan
+  abilities:
+  - intelligence
+  - wisdom
+brewerssupplies:
+  key: brewerssupplies
+  name: Brewer's Supplies
+  type: artisan
+  abilities:
+  - intelligence
+  - wisdom
+calligrapherssupplies:
+  key: calligrapherssupplies
+  name: Calligrapher's Supplies
+  type: artisan
+  abilities:
+  - dexterity
+  - wisdom
+carpenterstools:
+  key: carpenterstools
+  name: Carpenter's Tools
+  type: artisan
+  abilities:
+  - strength
+  - dexterity
+cartographerstools:
+  key: cartographerstools
+  name: Cartographer's Tools
+  type: artisan
+  abilities:
+  - intelligence
+  - wisdom
+cobblerstools:
+  key: cobblerstools
+  name: Cobbler's Tools
+  type: artisan
+  abilities:
+  - dexterity
+  - intelligence
+cooksutensils:
+  key: cooksutensils
+  name: Cook's Utensils
+  type: artisan
+  abilities:
+  - dexterity
+  - wisdom
+glassblowerstools:
+  key: glassblowerstools
+  name: Glassblower's Tools
+  type: artisan
+  abilities:
+  - dexterity
+  - intelligence
+jewelerstools:
+  key: jewelerstools
+  name: Jeweler's Tools
+  type: artisan
+  abilities:
+  - intelligence
+  - charisma
+leatherworkerstools:
+  key: leatherworkerstools
+  name: Leatherworker's Tools
+  type: artisan
+  abilities:
+  - dexterity
+  - intelligence
+masonstools:
+  key: masonstools
+  name: Mason's Tools
+  type: artisan
+  abilities:
+  - strength
+  - dexterity
+painterssupplies:
+  key: painterssupplies
+  name: Painter's Supplies
+  type: artisan
+  abilities:
+  - dexterity
+  - charisma
+potterstools:
+  key: potterstools
+  name: Potter's Tools
+  type: artisan
+  abilities:
+  - dexterity
+  - wisdom
+smithstools:
+  key: smithstools
+  name: Smith's Tools
+  type: artisan
+  abilities:
+  - strength
+  - dexterity
+tinkerstools:
+  key: tinkerstools
+  name: Tinker's Tools
+  type: artisan
+  abilities:
+  - dexterity
+  - intelligence
+weaverstools:
+  key: weaverstools
+  name: Weaver's Tools
+  type: artisan
+  abilities:
+  - dexterity
+  - charisma
+woodcarverstools:
+  key: woodcarverstools
+  name: Woodcarver's Tools
+  type: artisan
+  abilities:
+  - dexterity
+  - wisdom
+diceset:
+  key: diceset
+  name: Dice Set
+  type: gaming
+  abilities:
+  - dexterity
+  - intelligence
+  - charisma
+dragonchessset:
+  key: dragonchessset
+  name: Dragonchess Set
+  type: gaming
+  abilities:
+  - dexterity
+  - intelligence
+  - charisma
+playingcardset:
+  key: playingcardset
+  name: Playing Card Set
+  type: gaming
+  abilities:
+  - dexterity
+  - intelligence
+  - charisma
+threedragonanteset:
+  key: threedragonanteset
+  name: Three-Dragon Ante Set
+  type: gaming
+  abilities:
+  - dexterity
+  - intelligence
+  - charisma
+bagpipes:
+  key: bagpipes
+  name: Bagpipes
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+birdpipes:
+  key: birdpipes
+  name: Birdpipes
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+drum:
+  key: drum
+  name: Drum
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+dulcimer:
+  key: dulcimer
+  name: Dulcimer
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+flute:
+  key: flute
+  name: Flute
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+glaur:
+  key: glaur
+  name: Glaur
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+handdrum:
+  key: handdrum
+  name: Hand Drum
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+horn:
+  key: horn
+  name: Horn
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+longhorn:
+  key: longhorn
+  name: Longhorn
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+lute:
+  key: lute
+  name: Lute
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+lyre:
+  key: lyre
+  name: Lyre
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+panflute:
+  key: panflute
+  name: Pan Flute
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+shawm:
+  key: shawm
+  name: Shawm
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+songhorn:
+  key: songhorn
+  name: Songhorn
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+tantan:
+  key: tantan
+  name: Tantan
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+thelarr:
+  key: thelarr
+  name: Thelarr
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+tocken:
+  key: tocken
+  name: Tocken
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+viol:
+  key: viol
+  name: Viol
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+wargong:
+  key: wargong
+  name: Wargong
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+yarting:
+  key: yarting
+  name: Yarting
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+zulkoon:
+  key: zulkoon
+  name: Zulkoon
+  type: musical
+  abilities:
+  - dexterity
+  - charisma
+disguisekit:
+  key: disguisekit
+  name: Disguise Kit
+  type: other
+  abilities:
+  - dexterity
+  - charisma
+forgerykit:
+  key: forgerykit
+  name: Forgery Kit
+  type: other
+  abilities:
+  - dexterity
+  - charisma
+herbalismkit:
+  key: herbalismkit
+  name: Herbalism Kit
+  type: other
+  abilities:
+  - intelligence
+  - wisdom
+navigatorstools:
+  key: navigatorstools
+  name: Navigator's Tools
+  type: other
+  abilities: []
+poisonerskit:
+  key: poisonerskit
+  name: Poisoner's Kit
+  type: other
+  abilities:
+  - intelligence
+  - wisdom
+thievestools:
+  key: thievestools
+  name: Thieves' Tools
+  type: other
+  abilities:
+  - dexterity
+  - intelligence
+landvehicles:
+  key: landvehicles
+  name: Land Vehicles
+  type: other
+  abilities: []
+watervehicles:
+  key: watervehicles
+  name: Water Vehicles
+  type: other
+  abilities: []
