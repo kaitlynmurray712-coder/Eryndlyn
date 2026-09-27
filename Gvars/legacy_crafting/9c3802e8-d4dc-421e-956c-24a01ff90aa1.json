@@ -1,0 +1,306 @@
+{
+  "sagittarian vestments": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "14,uncommon tile",
+    "focus": "40,cut topaz",
+    "item1": "5,uncommon block",
+    "item2": "1,silver ingot"
+  },
+  "satchel of beast chow": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "3,uncommon pole",
+    "focus": "26,cut amber",
+    "item1": "6,mass: plant cr5-8",
+    "item2": "7,meat: fey cr5-8"
+  },
+  "scarf of muffling": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "42,iron ingot",
+    "focus": "3,cut onyx",
+    "item1": "7,chitin: monstrosity cr5-8",
+    "item2": "4,residue: elemental cr5-8"
+  },
+  "scorpio armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "10,silver ingot",
+    "focus": "24,cut quartz",
+    "item1": "3,uncommon block",
+    "item2": "9,uncommon tile"
+  },
+  "scorpion lasher": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "19,uncommon block",
+    "focus": "65,cut topaz",
+    "item1": "5,meat: dragon cr5-8",
+    "item2": "3,residue: elemental cr5-8"
+  },
+  "scroll of mapping (uncommon)": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "41,silver ingot",
+    "focus": "8,cut quartz",
+    "item1": "7,meat: dragon cr5-8",
+    "item2": "6,meat: fey cr5-8"
+  },
+  "scroll of spell power": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "1,uncommon aggregate",
+    "focus": "51,cut quartz",
+    "item1": "1,flour",
+    "item2": "5,residue: elemental cr5-8"
+  },
+  "scumweed": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "5,uncommon block",
+    "focus": "50,cut quartz",
+    "item1": "9,flesh: fiend cr5-8",
+    "item2": "10,blood: dragon cr5-8"
+  },
+  "sealskin cloak": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "21,uncommon block",
+    "focus": "2,cut quartz",
+    "item1": "3,common potion ingredient",
+    "item2": "3,residue: elemental cr5-8"
+  },
+  "second fiddle": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "44,uncommon block",
+    "focus": "2,cut amber",
+    "item1": "7,blood: fiend cr5-8",
+    "item2": "3,hide: beast cr5-8"
+  },
+  "seeker dart": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "47,silver ingot",
+    "focus": "23,cut emerald",
+    "item1": "7,bone: monstrosity cr5-8",
+    "item2": "10,blood: humanoid cr5-8"
+  },
+  "seeker's compass": {
+    "rarity": "uncommon",
+    "tool": "cartographer's tools",
+    "base": "8,uncommon plank",
+    "focus": "7,cut topaz",
+    "item1": "8,mass: ooze cr5-8",
+    "item2": "7,uncommon tile"
+  },
+  "seer's starlight cloak": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "9,lead ingot",
+    "focus": "46,cut topaz",
+    "item1": "1,bone: celestial cr5-8",
+    "item2": "2,blood: celestial cr5-8"
+  },
+  "selesnya guild signet": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "6,uncommon aggregate",
+    "focus": "49,cut emerald",
+    "item1": "6,cloth",
+    "item2": "4,essence: fey cr5-8"
+  },
+  "sending stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "3,uncommon tile",
+    "focus": "51,cut amber",
+    "item1": "8,uncommon pole",
+    "item2": "8,uncommon fish fillet"
+  },
+  "sending stones": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "43,uncommon block",
+    "focus": "21,cut emerald",
+    "item1": "2,uncommon tile",
+    "item2": "3,meat: fey cr5-8"
+  },
+  "sensory stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "26,uncommon tile",
+    "focus": "51,cut onyx",
+    "item1": "7,bone: beast cr5-8",
+    "item2": "1,bone: celestial cr5-8"
+  },
+  "sentinel shield": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "74,lead ingot",
+    "focus": "2,cut emerald",
+    "item1": "9,meat: beast cr5-8",
+    "item2": "6,hide: beast cr5-8"
+  },
+  "serpent scale armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "23,iron ingot",
+    "focus": "66,cut quartz",
+    "item1": "3,bone: monstrosity cr5-8",
+    "item2": "4,silver ingot"
+  },
+  "shadow puppet": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "43,uncommon tile",
+    "focus": "8,cut onyx",
+    "item1": "6,bone: undead cr5-8",
+    "item2": "5,organ: aberration cr5-8"
+  },
+  "shadow weaver's guise": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "1,uncommon block",
+    "focus": "13,cut onyx",
+    "item1": "3,organ: fiend cr5-8",
+    "item2": "8,organ: aberration cr5-8"
+  },
+  "shadowroot": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "14,silver ingot",
+    "focus": "23,cut onyx",
+    "item1": "5,flesh: fiend cr5-8",
+    "item2": "10,uncommon tile"
+  },
+  "sharp mind": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "15,silver ingot",
+    "focus": "54,cut quartz",
+    "item1": "2,organ: aberration cr5-8",
+    "item2": "1,flesh: humanoid cr5-8"
+  },
+  "shatterspike": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "53,silver ingot",
+    "focus": "5,cut onyx",
+    "item1": "8,uncommon fish fillet",
+    "item2": "5,blood: celestial cr5-8"
+  },
+  "sheep dragon brew": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "14,durable fiber",
+    "focus": "21,cut topaz",
+    "item1": "5,residue: elemental cr5-8",
+    "item2": "4,meat: dragon cr5-8"
+  },
+  "shield of blinding": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "20,iron ingot",
+    "focus": "50,cut emerald",
+    "item1": "9,gear: construct cr5-8",
+    "item2": "8,uncommon block"
+  },
+  "shield of otters": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "4,lead ingot",
+    "focus": "20,cut emerald",
+    "item1": "4,gland: monstrosity cr5-8",
+    "item2": "10,bone: beast cr5-8"
+  },
+  "shield of the tortoise": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "7,silver ingot",
+    "focus": "18,cut emerald",
+    "item1": "7,meat: beast cr5-8",
+    "item2": "10,hide: beast cr5-8"
+  },
+  "skull helm": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4497,very rare plank",
+    "focus": "2656,cut opal",
+    "item1": "5,bone: fiend cr15-21",
+    "item2": "9,bone: humanoid cr15-21",
+    "item3": "6,flesh: humanoid cr15-21",
+    "item4": "5,blood: fiend cr15-21"
+  },
+  "slimeforged blade": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2127,gold ingot",
+    "focus": "544,cut diamond",
+    "item1": "9,bone: humanoid cr15-21",
+    "item2": "10,very rare plank",
+    "item3": "4,flesh: monstrosity cr15-21",
+    "item4": "8,organ: monstrosity cr15-21"
+  },
+  "sling bullets of althemone": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1321,very rare plank",
+    "focus": "2130,cut sunstone",
+    "item1": "8,quicksilver",
+    "item2": "5,very rare pole",
+    "item3": "10,core: aberration cr15-21",
+    "item4": "5,organ: celestial cr15-21"
+  },
+  "soul bag": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "7294,lodestone",
+    "focus": "1870,lodestone",
+    "item1": "1,flesh: fiend cr15-21",
+    "item2": "8,core: fiend cr15-21",
+    "item3": "3,very rare poison ingredient",
+    "item4": "3,flesh: humanoid cr15-21"
+  },
+  "speaking stone": {
+    "rarity": "very rare",
+    "tool": "mason's tools",
+    "base": "5964,very rare aggregate",
+    "focus": "2188,cut hearthstone",
+    "item1": "10,essence: undead cr15-21",
+    "item2": "2,flesh: aberration cr15-21",
+    "item3": "3,marrow: giant cr15-21",
+    "item4": "7,very rare pole"
+  },
+  "spear of backbiting": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4027,mizzium ingot",
+    "focus": "5941,cut hearthstone",
+    "item1": "2,very rare pole",
+    "item2": "9,sap: plant cr15-21",
+    "item3": "7,bone: giant cr15-21",
+    "item4": "5,lodestone"
+  },
+  "spell gem (amber)": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "429,adamantine ingot",
+    "focus": "5065,cut bloodstone",
+    "item1": "6,residue: elemental cr15-21",
+    "item2": "4,bone: giant cr15-21",
+    "item3": "5,core: aberration cr15-21",
+    "item4": "4,spores: plant cr15-21"
+  },
+  "spell gem (jade)": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "5059,very rare aggregate",
+    "focus": "2295,cut sunstone",
+    "item1": "5,gold ingot",
+    "item2": "1,very rare fish fillet",
+    "item3": "8,horn: dragon cr15-21",
+    "item4": "10,very rare block"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "deck of wild cards": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "3778,very rare plank",
+    "focus": "4461,cut diamond",
+    "item1": "10,meat: beast cr15-21",
+    "item2": "3,sap: plant cr15-21",
+    "item3": "1,spores: plant cr15-21",
+    "item4": "10,very rare pole"
+  },
+  "demon armor": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "6872,adamantine ingot",
+    "focus": "2762,cut diamond",
+    "item1": "1,marrow: beast cr15-21",
+    "item2": "1,chitin: monstrosity cr15-21",
+    "item3": "9,gear: construct cr15-21",
+    "item4": "1,meat: beast cr15-21"
+  },
+  "demonbone polearm": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2396,very rare pole",
+    "focus": "1324,lodestone",
+    "item1": "8,very rare block",
+    "item2": "7,very rare potion ingredient",
+    "item3": "3,bone: humanoid cr15-21",
+    "item4": "6,organ: fiend cr15-21"
+  },
+  "devastation orb": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "4979,very rare aggregate",
+    "focus": "2145,cut hearthstone",
+    "item1": "2,plating: construct cr15-21",
+    "item2": "9,gear: construct cr15-21",
+    "item3": "6,platinum ingot",
+    "item4": "10,essence: undead cr15-21"
+  },
+  "devastation orb of air": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "3446,very rare aggregate",
+    "focus": "1951,cut bloodstone",
+    "item1": "6,very rare pole",
+    "item2": "4,marrow: giant cr15-21",
+    "item3": "7,platinum ingot",
+    "item4": "6,bone: fey cr15-21"
+  },
+  "devastation orb of earth": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "302,lodestone",
+    "focus": "6399,cut ruby",
+    "item1": "1,meat: dragon cr15-21",
+    "item2": "10,bone: undead cr15-21",
+    "item3": "6,meat: giant cr15-21",
+    "item4": "5,meat: beast cr15-21"
+  },
+  "devastation orb of fire": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "5972,very rare aggregate",
+    "focus": "101,cut diamond",
+    "item1": "1,scale: dragon cr15-21",
+    "item2": "7,bone: fiend cr15-21",
+    "item3": "1,core: fiend cr15-21",
+    "item4": "3,blood: fiend cr15-21"
+  },
+  "devastation orb of water": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "2773,lodestone",
+    "focus": "6039,cut opal",
+    "item1": "9,mass: ooze cr15-21",
+    "item2": "4,slime: ooze cr15-21",
+    "item3": "6,hide: beast cr15-21",
+    "item4": "4,very rare fish fillet"
+  },
+  "devlin's staff of striking": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "2381,very rare plank",
+    "focus": "6476,cut bloodstone",
+    "item1": "6,slime: ooze cr15-21",
+    "item2": "6,plating: construct cr15-21",
+    "item3": "3,mizzium ingot",
+    "item4": "10,platinum ingot"
+  },
+  "dimensional loop": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2263,very rare block",
+    "focus": "7206,cut diamond",
+    "item1": "4,quicksilver",
+    "item2": "8,very rare fish fillet",
+    "item3": "10,bark: plant cr15-21",
+    "item4": "5,gland: dragon cr15-21"
+  },
+  "dimir keyrune": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "2967,very rare aggregate",
+    "focus": "3506,cut bloodstone",
+    "item1": "4,very rare tile",
+    "item2": "6,mizzium ingot",
+    "item3": "2,core: undead cr15-21",
+    "item4": "4,organ: celestial cr15-21"
+  },
+  "dispelling stone": {
+    "rarity": "very rare",
+    "tool": "mason's tools",
+    "base": "1298,lodestone",
+    "focus": "3994,cut opal",
+    "item1": "7,bone: fiend cr15-21",
+    "item2": "2,core: elemental cr15-21",
+    "item3": "1,meat: dragon cr15-21",
+    "item4": "1,hizagkuur ingot"
+  },
+  "draconic visage": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3476,lodestone",
+    "focus": "741,cut bloodstone",
+    "item1": "2,platinum ingot",
+    "item2": "7,components: construct cr15-21",
+    "item3": "5,meat: giant cr15-21",
+    "item4": "8,marrow: beast cr15-21"
+  },
+  "dragon horn pauldron": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "834,very rare plank",
+    "focus": "3854,cut diamond",
+    "item1": "1,core: elemental cr15-21",
+    "item2": "10,heart: dragon cr15-21",
+    "item3": "5,bone: fiend cr15-21",
+    "item4": "2,very rare aggregate"
+  },
+  "dragon scale mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3701,very rare aggregate",
+    "focus": "5446,cut sunstone",
+    "item1": "6,hizagkuur ingot",
+    "item2": "3,residue: elemental cr15-21",
+    "item3": "7,very rare tile",
+    "item4": "8,core: elemental cr15-21"
+  },
+  "dragon seed": {
+    "rarity": "very rare",
+    "tool": "cook's utensils",
+    "base": "3243,platinum ingot",
+    "focus": "6493,cut diamond",
+    "item1": "6,very rare aggregate",
+    "item2": "2,organ: fiend cr15-21",
+    "item3": "7,adamantine ingot",
+    "item4": "1,gold ingot"
+  },
+  "dragon turtle barding": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3063,gold ingot",
+    "focus": "2233,cut ruby",
+    "item1": "6,meat: dragon cr15-21",
+    "item2": "8,essence: elemental cr15-21",
+    "item3": "1,blood: fiend cr15-21",
+    "item4": "10,platinum ingot"
+  },
+  "draught of feather shine": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "463,mizzium ingot",
+    "focus": "2039,cut bloodstone",
+    "item1": "10,marrow: giant cr15-21",
+    "item2": "3,dreamlily",
+    "item3": "7,core: elemental cr15-21",
+    "item4": "8,very rare pole"
+  },
+  "dusk dagger (very rare)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "6046,very rare pole",
+    "focus": "1453,cut hearthstone",
+    "item1": "3,bone: undead cr15-21",
+    "item2": "6,flesh: aberration cr15-21",
+    "item3": "1,meat: fey cr15-21",
+    "item4": "9,hide: beast cr15-21"
+  },
+  "duskcrusher": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "313,very rare aggregate",
+    "focus": "2771,cut opal",
+    "item1": "8,very rare plank",
+    "item2": "10,very rare tile",
+    "item3": "8,very rare potion ingredient",
+    "item4": "7,heart: dragon cr15-21"
+  },
+  "dwarven plate": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "6146,mizzium ingot",
+    "focus": "472,cut hearthstone",
+    "item1": "9,gear: construct cr15-21",
+    "item2": "8,bone: beast cr15-21",
+    "item3": "4,platinum ingot",
+    "item4": "5,flesh: monstrosity cr15-21"
+  },
+  "dwarven thrower": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "5450,very rare pole",
+    "focus": "4038,cut hearthstone",
+    "item1": "6,spores: plant cr15-21",
+    "item2": "8,slime: ooze cr15-21",
+    "item3": "9,hide: beast cr15-21",
+    "item4": "9,lodestone"
+  },
+  "dyrrn's tentacle whip": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4805,mizzium ingot",
+    "focus": "2957,cut sunstone",
+    "item1": "4,rare poison ingredient",
+    "item2": "6,core: aberration cr15-21",
+    "item3": "10,quicksilver",
+    "item4": "3,flesh: celestial cr15-21"
+  },
+  "efreeti bottle": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "1728,very rare pole",
+    "focus": "3693,cut ruby",
+    "item1": "6,brain: aberration cr15-21",
+    "item2": "7,quicksilver",
+    "item3": "5,gold ingot",
+    "item4": "7,marrow: giant cr15-21"
+  },
+  "eldritch staff": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "5842,very rare pole",
+    "focus": "1087,cut sunstone",
+    "item1": "7,core: construct cr15-21",
+    "item2": "2,marrow: giant cr15-21",
+    "item3": "6,platinum ingot",
+    "item4": "7,rare potion ingredient"
+  },
+  "elven thrower": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1880,very rare pole",
+    "focus": "1016,cut sunstone",
+    "item1": "1,organ: humanoid cr15-21",
+    "item2": "1,rare poison ingredient",
+    "item3": "4,very rare tile",
+    "item4": "1,plate: monstrosity cr15-21"
+  },
+  "energy bow": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "128,very rare plank",
+    "focus": "7718,cut ruby",
+    "item1": "9,flesh: celestial cr15-21",
+    "item2": "8,adamantine ingot",
+    "item3": "5,flesh: humanoid cr15-21",
+    "item4": "3,bark: plant cr15-21"
+  },
+  "enspelled armor (level 4)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4065,adamantine ingot",
+    "focus": "88,cut hearthstone",
+    "item1": "4,mizzium ingot",
+    "item2": "3,platinum ingot",
+    "item3": "9,very rare tile",
+    "item4": "5,hide: beast cr15-21"
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "snap vine sap": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "5,uncommon plank",
+    "focus": "11,cut emerald",
+    "item1": "9,fiber"
+  },
+  "snow rider's sleigh": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,lead ingot",
+    "focus": "18,cut amber",
+    "item1": "4,bone: aberration cr0-4"
+  },
+  "soft paw": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "22,uncommon aggregate",
+    "focus": "2,cut onyx",
+    "item1": "1,flesh: aberration cr0-4"
+  },
+  "spell scroll (cantrip)": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "14,lead ingot",
+    "focus": "5,cut amber",
+    "item1": "6,cloth"
+  },
+  "spell scroll (level 1)": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "3,lead ingot",
+    "focus": "13,cut emerald",
+    "item1": "9,fiber"
+  },
+  "spellshard": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "14,uncommon pole",
+    "focus": "7,cut topaz",
+    "item1": "4,flesh: fiend cr0-4"
+  },
+  "spellwrought tattoo (1st level)": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "5,uncommon block",
+    "focus": "15,cut topaz",
+    "item1": "5,cloth"
+  },
+  "spellwrought tattoo (cantrip)": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "14,uncommon tile",
+    "focus": "2,cut amber",
+    "item1": "9,blood: dragon cr0-4"
+  },
+  "spindle leg spider webs": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,uncommon aggregate",
+    "focus": "10,cut amber",
+    "item1": "3,mass: plant cr0-4"
+  },
+  "spirit armor": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "8,silver ingot",
+    "focus": "7,cut onyx",
+    "item1": "10,uncommon aggregate"
+  },
+  "spirit root": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "10,uncommon tile",
+    "focus": "7,cut onyx",
+    "item1": "8,organ: fiend cr0-4"
+  },
+  "spirit of salyri": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "6,uncommon tile",
+    "focus": "12,cut onyx",
+    "item1": "7,flesh: humanoid cr0-4"
+  },
+  "spyglass of clairvoyance": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "20,uncommon block",
+    "focus": "3,cut amber",
+    "item1": "2,uncommon pole"
+  },
+  "squid ink": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "20,lead ingot",
+    "focus": "1,cut quartz",
+    "item1": "4,fiber"
+  },
+  "staff of adornment": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "23,uncommon pole",
+    "focus": "1,cut amber",
+    "item1": "1,meat: giant cr0-4"
+  },
+  "staff of birdcalls": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "12,uncommon pole",
+    "focus": "4,cut quartz",
+    "item1": "9,blood: celestial cr0-4"
+  },
+  "staff of flowers": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "12,uncommon aggregate",
+    "focus": "11,cut emerald",
+    "item1": "2,meat: fey cr0-4"
+  },
+  "stallion seed": {
+    "rarity": "common",
+    "tool": "cook's utensils",
+    "base": "16,uncommon pole",
+    "focus": "5,cut amber",
+    "item1": "4,mass: plant cr0-4"
+  },
+  "stalwart staff": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "19,uncommon plank",
+    "focus": "2,cut quartz",
+    "item1": "4,plating: construct cr0-4"
+  },
+  "static shock": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,uncommon plank",
+    "focus": "4,cut amber",
+    "item1": "9,bone: undead cr0-4"
+  },
+  "status signets": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "5,uncommon aggregate",
+    "focus": "17,cut quartz",
+    "item1": "3,uncommon plank"
+  },
+  "sticky hand": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "16,uncommon plank",
+    "focus": "5,cut emerald",
+    "item1": "4,common potion ingredient"
+  },
+  "stink brew": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "5,uncommon tile",
+    "focus": "15,cut quartz",
+    "item1": "5,flesh: aberration cr0-4"
+  },
+  "storm seer lamp": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "9,uncommon pole",
+    "focus": "8,cut quartz",
+    "item1": "8,essence: elemental cr0-4"
+  },
+  "storyteller's stein": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "5,uncommon aggregate",
+    "focus": "15,cut topaz",
+    "item1": "5,essence: elemental cr0-4"
+  },
+  "strixhaven pennant": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "1,lead ingot",
+    "focus": "14,cut amber",
+    "item1": "10,components: construct cr0-4"
+  },
+  "stylist's circlet": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "11,uncommon block",
+    "focus": "9,cut topaz",
+    "item1": "5,uncommon aggregate"
+  },
+  "super singing": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "23,iron ingot",
+    "focus": "1,cut emerald",
+    "item1": "1,uncommon tile"
+  },
+  "sylvan talon": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "1,uncommon pole",
+    "focus": "16,cut emerald",
+    "item1": "8,bone: humanoid cr0-4"
+  },
+  "talking doll": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,uncommon tile",
+    "focus": "7,cut amber",
+    "item1": "7,bone: aberration cr0-4"
+  },
+  "tangle weed": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "5,uncommon aggregate",
+    "focus": "15,cut quartz",
+    "item1": "5,mass: ooze cr0-4"
+  },
+  "tankard of sobriety": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "20,uncommon plank",
+    "focus": "1,cut topaz",
+    "item1": "4,blood: dragon cr0-4"
+  },
+  "tea weird": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "14,silver ingot",
+    "focus": "3,fiber",
+    "item1": "5,essense: elemental cr0-4"
+  },
+  "thermal cube": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,silver ingot",
+    "focus": "8,cut quartz",
+    "item1": "9,uncommon aggregate"
+  },
+  "thunderbelch": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,uncommon pole",
+    "focus": "13,cut quartz",
+    "item1": "8,blood: dragon cr0-4"
+  },
+  "tide turner": {
+    "rarity": "common",
+    "tool": "potter's tools",
+    "base": "6,iron ingot",
+    "focus": "14,cut emerald",
+    "item1": "5,hide: beast cr0-4"
+  },
+  "tiny bubbles": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,lead ingot",
+    "focus": "13,cut amber",
+    "item1": "9,blood: celestial cr0-4"
+  },
+  "tiny telekinesis": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "13,uncommon tile",
+    "focus": "7,cut quartz",
+    "item1": "5,blood: dragon cr0-4"
+  },
+  "trickster's boots": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "11,uncommon tile",
+    "focus": "5,cut quartz",
+    "item1": "9,bone: monstrosity cr0-4"
+  },
+  "turtle brooch": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "8,uncommon block",
+    "focus": "12,cut onyx",
+    "item1": "5,mass: ooze cr0-4"
+  },
+  "ube": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,uncommon tile",
+    "focus": "8,cut onyx",
+    "item1": "9,blood: celestial cr0-4"
+  },
+  "unbreakable arrow": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "16,uncommon pole",
+    "focus": "1,cut emerald",
+    "item1": "8,cloth"
+  },
+  "varrow": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "11,uncommon pole",
+    "focus": "7,cut amber",
+    "item1": "7,flour"
+  },
+  "venus fly rat": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "14,silver ingot",
+    "focus": "9,cut onyx",
+    "item1": "2,mass: ooze cr0-4"
+  },
+  "veteran's cane": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,uncommon tile",
+    "focus": "11,cut topaz",
+    "item1": "2,fiber"
+  },
+  "vocal stranger": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,uncommon aggregate",
+    "focus": "6,cut topaz",
+    "item1": "8,fiber"
+  },
+  "voting kit": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "6,uncommon aggregate",
+    "focus": "10,cut topaz",
+    "item1": "9,uncommon tile"
+  },
+  "vox seeker": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "13,lead ingot",
+    "focus": "3,cut quartz",
+    "item1": "9,uncommon tile"
+  },
+  "walloping ammunition": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "13,uncommon tile",
+    "focus": "6,cut emerald",
+    "item1": "6,meat: beast cr0-4"
+  }
+}

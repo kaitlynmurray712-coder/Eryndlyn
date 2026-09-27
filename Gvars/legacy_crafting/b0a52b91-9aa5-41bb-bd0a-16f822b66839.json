@@ -1,0 +1,314 @@
+{
+  "wand of silence": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "1,uncommon plank",
+    "focus": "16,cut onyx",
+    "item1": "7,bone: undead cr5-8",
+    "item2": "3,flesh: fiend cr5-8"
+  },
+  "wand of tides": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "20,uncommon pole",
+    "focus": "57,cut quartz",
+    "item1": "2,uncommon fish fillet",
+    "item2": "7,hide: beast cr5-8"
+  },
+  "wand of web": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "8,uncommon plank",
+    "focus": "47,cut onyx",
+    "item1": "5,flesh: humanoid cr5-8",
+    "item2": "7,flour"
+  },
+  "wand of the precocious apprentice": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "37,uncommon pole",
+    "focus": "16,cut emerald",
+    "item1": "2,uncommon fish fillet",
+    "item2": "10,common potion ingredient"
+  },
+  "water breathing": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "63,uncommon aggregate",
+    "focus": "3,cut quartz",
+    "item1": "8,residue: elemental cr5-8",
+    "item2": "7,essence: elemental cr5-8"
+  },
+  "waterskin of voices": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "2,uncommon aggregate",
+    "focus": "51,cut quartz",
+    "item1": "9,mass: ooze cr5-8",
+    "item2": "7,common potion ingredient"
+  },
+  "weapon of verdict": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "21,silver ingot",
+    "focus": "15,cut amber",
+    "item1": "7,sap: plant cr5-8",
+    "item2": "2,uncommon tile"
+  },
+  "weapon of warning": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "4,lead ingot",
+    "focus": "3,cut quartz",
+    "item1": "9,blood: dragon cr5-8",
+    "item2": "9,bark: plant cr5-8"
+  },
+  "weaving wasp needles": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "47,silver ingot",
+    "focus": "8,cut emerald",
+    "item1": "10,fiber",
+    "item2": "4,uncommon plank"
+  },
+  "wheel of wind and water": {
+    "rarity": "uncommon",
+    "tool": "carpenter's tools",
+    "base": "57,uncommon pole",
+    "focus": "31,cut quartz",
+    "item1": "2,hide: beast cr5-8",
+    "item2": "1,meat: beast cr5-8"
+  },
+  "whirlpool dart": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "13,uncommon aggregate",
+    "focus": "78,cut quartz",
+    "item1": "1,common potion ingredient",
+    "item2": "7,residue: elemental cr5-8"
+  },
+  "whistle of freedom": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "62,uncommon plank",
+    "focus": "1,cut amber",
+    "item1": "8,meat: giant cr5-8",
+    "item2": "4,blood: celestial cr5-8"
+  },
+  "wildskin armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "14,silver ingot",
+    "focus": "14,cut emerald",
+    "item1": "3,essence: fey cr5-8",
+    "item2": "10,mass: plant cr5-8"
+  },
+  "wildspace orrery": {
+    "rarity": "uncommon",
+    "tool": "carpenter's tools",
+    "base": "13,uncommon plank",
+    "focus": "16,cut emerald",
+    "item1": "9,meat: beast cr5-8",
+    "item2": "4,hide: fey cr5-8"
+  },
+  "wind fan": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "19,lead ingot",
+    "focus": "64,cut quartz",
+    "item1": "5,residue: elemental cr5-8",
+    "item2": "4,uncommon block"
+  },
+  "wine of the winter court": {
+    "rarity": "uncommon",
+    "tool": "brewer's supplies",
+    "base": "59,uncommon block",
+    "focus": "9,cut emerald",
+    "item1": "7,mass: ooze cr5-8",
+    "item2": "5,slime: ooze cr5-8"
+  },
+  "wing crest shield": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "16,iron ingot",
+    "focus": "50,cut topaz",
+    "item1": "4,bone: giant cr5-8",
+    "item2": "2,meat: dragon cr5-8"
+  },
+  "winged ammunition": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "50,uncommon plank",
+    "focus": "34,cut topaz",
+    "item1": "7,bone: giant cr5-8",
+    "item2": "5,uncommon block"
+  },
+  "winged boots": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "3,uncommon block",
+    "focus": "13,cut topaz",
+    "item1": "1,blood: dragon cr5-8",
+    "item2": "9,essence: elemental cr5-8"
+  },
+  "wingwear": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "12,uncommon pole",
+    "focus": "19,cut quartz",
+    "item1": "7,meat: dragon cr5-8",
+    "item2": "5,blood: dragon cr5-8"
+  },
+  "winter's dark bite": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "34,uncommon tile",
+    "focus": "6,cut onyx",
+    "item1": "5,flesh: undead cr5-8",
+    "item2": "2,hide: aberration cr5-8"
+  },
+  "wisp cloak": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "4,silver ingot",
+    "focus": "15,cut emerald",
+    "item1": "3,uncommon tile",
+    "item2": "7,bone: monstrosity cr5-8"
+  },
+  "wispy sour (uncommon)": {
+    "rarity": "uncommon",
+    "tool": "brewer's supplies",
+    "base": "8,uncommon pole",
+    "focus": "53,cut onyx",
+    "item1": "1,meat: giant cr5-8",
+    "item2": "9,components: construct cr5-8"
+  },
+  "witch's lament": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "19,uncommon tile",
+    "focus": "23,cut amber",
+    "item1": "2,essence: fey cr5-8",
+    "item2": "9,essence: elemental cr5-8"
+  },
+  "witherbloom primer": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "52,lead ingot",
+    "focus": "3,cut onyx",
+    "item1": "6,uncommon tile",
+    "item2": "4,bone: humanoid cr5-8"
+  },
+  "wolfenite": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "38,uncommon plank",
+    "focus": "3,cut emerald",
+    "item1": "5,bone: beast cr5-8",
+    "item2": "1,meat: fey cr5-8"
+  },
+  "wolfskin cloak": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "35,uncommon pole",
+    "focus": "49,cut amber",
+    "item1": "1,meat: fey cr5-8",
+    "item2": "9,cloth"
+  },
+  "wrathful spirit": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "7,uncommon potion ingredient",
+    "focus": "10,cut topaz",
+    "item1": "4,slime: ooze cr5-8",
+    "item2": "1,bone: undead cr5-8"
+  },
+  "wychwood": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "13,uncommon pole",
+    "focus": "10,cut amber",
+    "item1": "3,uncommon plank",
+    "item2": "10,hide: beast cr5-8"
+  },
+  "yappa mask": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "15,lead ingot",
+    "focus": "17,cut onyx",
+    "item1": "2,iron ingot",
+    "item2": "2,residue: elemental cr5-8"
+  },
+  "yellow slime": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "9,lead ingot",
+    "focus": "13,cut topaz",
+    "item1": "1,flesh: celestial cr5-8",
+    "item2": "7,meat: dragon cr5-8"
+  },
+  "+1 all-purpose tool": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "33,lead ingot",
+    "focus": "34,cut amber",
+    "item1": "10,uncommon plank",
+    "item2": "5,common potion ingredient"
+  },
+  "+1 ammunition": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "1,uncommon aggregate",
+    "focus": "80,cut onyx",
+    "item1": "5,uncommon fish fillet",
+    "item2": "2,lead ingot"
+  },
+  "+1 amulet of the devout": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "36,iron ingot",
+    "focus": "8,cut emerald",
+    "item1": "6,bone: beast cr5-8",
+    "item2": "2,lead ingot"
+  },
+  "+1 arcane grimoire": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "1,uncommon pole",
+    "focus": "15,cut amber",
+    "item1": "7,meat: dragon cr5-8",
+    "item2": "2,bone: beast cr5-8"
+  },
+  "+1 bloodwell vial": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "35,iron ingot",
+    "focus": "29,cut onyx",
+    "item1": "1,flesh: undead cr5-8",
+    "item2": "2,plating: construct cr5-8"
+  },
+  "+1 dragonhide belt": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "53,uncommon tile",
+    "focus": "10,cut topaz",
+    "item1": "7,residue: elemental cr5-8",
+    "item2": "5,essence: elemental cr5-8"
+  },
+  "+1 moon sickle": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "30,uncommon plank",
+    "focus": "40,cut topaz",
+    "item1": "10,meat: beast cr5-8",
+    "item2": "5,blood: undead cr5-8"
+  },
+  "+1 rhythm-maker's drum": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "28,uncommon pole",
+    "focus": "43,cut amber",
+    "item1": "4,bark: plant cr5-8",
+    "item2": "1,flesh: aberration cr5-8"
+  }
+}

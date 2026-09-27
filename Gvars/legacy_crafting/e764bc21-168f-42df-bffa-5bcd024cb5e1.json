@@ -1,0 +1,314 @@
+{
+  "skymetal shield": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "50,lead ingot",
+    "focus": "34,cut quartz",
+    "item1": "6,bone: giant cr5-8",
+    "item2": "6,uncommon pole"
+  },
+  "slate painted stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "15,uncommon block",
+    "focus": "44,cut quartz",
+    "item1": "10,flesh: humanoid cr5-8",
+    "item2": "2,lead ingot"
+  },
+  "sleeping merchant": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "12,lead ingot",
+    "focus": "33,cut onyx",
+    "item1": "8,uncommon block",
+    "item2": "8,meat: giant cr5-8"
+  },
+  "sling of giant felling": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "26,silver ingot",
+    "focus": "56,cut topaz",
+    "item1": "1,essence: elemental cr5-8",
+    "item2": "6,hide: aberration cr5-8"
+  },
+  "slippers of spider climbing": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "14,lead ingot",
+    "focus": "42,cut quartz",
+    "item1": "8,gear: construct cr5-8",
+    "item2": "1,iron ingot"
+  },
+  "slumbering dragon vessel": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "3,lead ingot",
+    "focus": "18,cut amber",
+    "item1": "5,meat: dragon cr5-8",
+    "item2": "10,silver ingot"
+  },
+  "slumbering dragon's wrath weapon": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "19,iron ingot",
+    "focus": "14,cut topaz",
+    "item1": "4,uncommon aggregate",
+    "item2": "2,blood: dragon cr5-8"
+  },
+  "slumbering dragon-touched focus": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "59,uncommon aggregate",
+    "focus": "15,cut topaz",
+    "item1": "6,organ: fiend cr5-8",
+    "item2": "7,blood: fiend cr5-8"
+  },
+  "slumbering scaled ornament": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "15,uncommon pole",
+    "focus": "26,cut emerald",
+    "item1": "2,silver ingot",
+    "item2": "5,hide: fey cr5-8"
+  },
+  "smokepowder": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "68,silver ingot",
+    "focus": "2,cut amber",
+    "item1": "6,residue: elemental cr5-8",
+    "item2": "1,blood: dragon cr5-8"
+  },
+  "snake charmer's flute": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "17,uncommon pole",
+    "focus": "14,cut onyx",
+    "item1": "1,flesh: fiend cr5-8",
+    "item2": "3,meat: dragon cr5-8"
+  },
+  "soda cans": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "1,iron ingot",
+    "focus": "60,cut emerald",
+    "item1": "5,mass: plant cr5-8",
+    "item2": "10,gear: construct cr5-8"
+  },
+  "solar amulet": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "59,uncommon block",
+    "focus": "34,cut amber",
+    "item1": "1,flesh: celestial cr5-8",
+    "item2": "1,blood: celestial cr5-8"
+  },
+  "soul coin": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "1,silver ingot",
+    "focus": "11,cut onyx",
+    "item1": "10,blood: fiend cr5-8",
+    "item2": "7,flesh: fiend cr5-8"
+  },
+  "spark plug": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "54,silver ingot",
+    "focus": "1,cut topaz",
+    "item1": "1,scale: dragon cr5-8",
+    "item2": "5,hide: fey cr5-8"
+  },
+  "spell gem (lapis lazuli)": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "14,uncommon aggregate",
+    "focus": "27,cut onyx",
+    "item1": "4,flour",
+    "item2": "7,bone: giant cr5-8"
+  },
+  "spell gem (obsidian)": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "43,uncommon tile",
+    "focus": "12,cut emerald",
+    "item1": "9,essence: elemental cr5-8",
+    "item2": "7,gear: construct cr5-8"
+  },
+  "spell scroll (level 2)": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "1,silver ingot",
+    "focus": "46,cut emerald",
+    "item1": "2,bone: beast cr5-8",
+    "item2": "4,fiber"
+  },
+  "spell scroll (level 3)": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "2,uncommon plank",
+    "focus": "29,cut topaz",
+    "item1": "6,meat: giant cr5-8",
+    "item2": "5,essence: fey cr5-8"
+  },
+  "spell-refueling ring": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "18,iron ingot",
+    "focus": "5,cut amber",
+    "item1": "1,blood: undead cr5-8",
+    "item2": "8,hide: beast cr5-8"
+  },
+  "spellpiercing wand": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "8,uncommon plank",
+    "focus": "12,cut amber",
+    "item1": "10,bone: undead cr5-8",
+    "item2": "7,flesh: celestial cr5-8"
+  },
+  "spellwrought tattoo (2nd level)": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "32,uncommon aggregate",
+    "focus": "30,cut topaz",
+    "item1": "2,flour",
+    "item2": "4,uncommon fish fillet"
+  },
+  "spellwrought tattoo (3rd level)": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "46,silver ingot",
+    "focus": "11,cut emerald",
+    "item1": "10,meat: fey cr5-8",
+    "item2": "6,common potion ingredient"
+  },
+  "spies' murmur": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "27,uncommon tile",
+    "focus": "41,cut topaz",
+    "item1": "3,bone: humanoid cr5-8",
+    "item2": "9,uncommon fish fillet"
+  },
+  "spiked shield": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "17,iron ingot",
+    "focus": "31,cut emerald",
+    "item1": "4,plating: construct cr5-8",
+    "item2": "8,meat: beast cr5-8"
+  },
+  "spirit appendage": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "62,iron ingot",
+    "focus": "2,cut onyx",
+    "item1": "2,flesh: undead cr5-8",
+    "item2": "7,organ: fiend cr5-8"
+  },
+  "spirit repellent": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "11,silver ingot",
+    "focus": "75,cut onyx",
+    "item1": "2,blood: undead cr5-8",
+    "item2": "1,uncommon aggregate"
+  },
+  "spirit sweets": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "2,uncommon aggregate",
+    "focus": "49,cut onyx",
+    "item1": "9,flesh: fiend cr5-8",
+    "item2": "5,uncommon block"
+  },
+  "spirit tea": {
+    "rarity": "uncommon",
+    "tool": "brewer's supplies",
+    "base": "50,uncommon tile",
+    "focus": "9,cut onyx",
+    "item1": "2,uncommon block",
+    "item2": "2,flesh: fiend cr5-8"
+  },
+  "splinter bow": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "49,uncommon plank",
+    "focus": "4,cut emerald",
+    "item1": "1,residue: elemental cr5-8",
+    "item2": "10,hide: fey cr5-8"
+  },
+  "spring": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "12,uncommon pole",
+    "focus": "9,cut emerald",
+    "item1": "4,sap: plant cr5-8",
+    "item2": "7,mass: ooze cr5-8"
+  },
+  "staff of climbing ivy": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "52,uncommon pole",
+    "focus": "5,cut amber",
+    "item1": "4,hide: beast cr5-8",
+    "item2": "5,essence: fey cr5-8"
+  },
+  "staff of cubic cultivation": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "29,uncommon pole",
+    "focus": "49,cut amber",
+    "item1": "5,bone: giant cr5-8",
+    "item2": "4,bone: celestial cr5-8"
+  },
+  "staff of the adder": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "11,uncommon plank",
+    "focus": "31,cut amber",
+    "item1": "6,residue: elemental cr5-8",
+    "item2": "7,organ: aberration cr5-8"
+  },
+  "staff of the dream shepherd": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "55,lead ingot",
+    "focus": "2,cut onyx",
+    "item1": "6,uncommon aggregate",
+    "item2": "3,blood: humanoid cr5-8"
+  },
+  "staff of the python": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "8,uncommon plank",
+    "focus": "27,cut emerald",
+    "item1": "4,residue: elemental cr5-8",
+    "item2": "6,hide: aberration cr5-8"
+  },
+  "staff of the vineyard": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "47,iron ingot",
+    "focus": "10,cut emerald",
+    "item1": "2,fiber",
+    "item2": "4,bone: beast cr5-8"
+  },
+  "stone of good luck": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "23,uncommon aggregate",
+    "focus": "32,cut amber",
+    "item1": "2,flesh: celestial cr5-8",
+    "item2": "2,hide: aberration cr5-8"
+  },
+  "stone of ill luck": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "45,uncommon tile",
+    "focus": "11,cut topaz",
+    "item1": "5,essence: elemental cr5-8",
+    "item2": "8,slime: ooze cr5-8"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "lyre of building": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "225,rare tile",
+    "focus": "21,cut amethyst",
+    "item1": "1,rare pole",
+    "item2": "4,cut obsidian",
+    "item3": "2,flesh: undead cr9-14"
+  },
+  "mace of disruption": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "515,mithril ingot",
+    "focus": "173,cut agate",
+    "item1": "8,hide: beast cr9-14",
+    "item2": "10,durable fiber",
+    "item3": "8,scale: dragon cr9-14"
+  },
+  "mace of smiting": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "88,rare block",
+    "focus": "828,cut jacinth",
+    "item1": "3,chitin: monstrosity cr9-14",
+    "item2": "2,organ: monstrosity cr9-14",
+    "item3": "7,meat: dragon cr9-14"
+  },
+  "mace of terror": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "217,rare block",
+    "focus": "253,cut sapphire",
+    "item1": "4,plate: monstrosity cr9-14",
+    "item2": "4,flesh: monstrosity cr9-14",
+    "item3": "6,components: construct cr9-14"
+  },
+  "mace of the priest": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "61,rare pole",
+    "focus": "213,cut amethyst",
+    "item1": "8,sap: plant cr9-14",
+    "item2": "7,organ: humanoid cr9-14",
+    "item3": "10,essence: undead cr9-14"
+  },
+  "magen handbell": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "400,rare aggregate",
+    "focus": "42,cut jacinth",
+    "item1": "2,core: elemental cr9-14",
+    "item2": "9,durable cloth",
+    "item3": "5,bone: giant cr9-14"
+  },
+  "mageplate ring": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "80,cut obsidian",
+    "focus": "344,cut sapphire",
+    "item1": "8,plating: construct cr9-14",
+    "item2": "7,organ: monstrosity cr9-14",
+    "item3": "9,components: construct cr9-14"
+  },
+  "magician's judge": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "498,rare aggregate",
+    "focus": "76,cut jacinth",
+    "item1": "1,meat: giant cr9-14",
+    "item2": "7,flesh: aberration cr9-14",
+    "item3": "10,durable cloth"
+  },
+  "mantle of otherworldly charisma": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "37,copper ingot",
+    "focus": "353,cut sapphire",
+    "item1": "4,flesh: monstrosity cr9-14",
+    "item2": "9,mithril ingot",
+    "item3": "3,components: construct cr9-14"
+  },
+  "mantle of security": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "183,copper ingot",
+    "focus": "330,cut sapphire",
+    "item1": "4,mithril ingot",
+    "item2": "8,chitin: monstrosity cr9-14",
+    "item3": "2,meat: beast cr9-14"
+  },
+  "mantle of spell resistance": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "604,cut obsidian",
+    "focus": "204,cut sapphire",
+    "item1": "5,flesh: monstrosity cr9-14",
+    "item2": "5,marrow: beast cr9-14",
+    "item3": "8,organ: monstrosity cr9-14"
+  },
+  "manual of occult anatomy +1": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "301,rare block",
+    "focus": "360,cut sapphire",
+    "item1": "7,durable cloth",
+    "item2": "10,cut obsidian",
+    "item3": "4,hide: aberration cr9-14"
+  },
+  "many hands": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "262,cut obsidian",
+    "focus": "153,cut jacinth",
+    "item1": "2,flesh: celestial cr9-14",
+    "item2": "7,organ: fiend cr9-14",
+    "item3": "1,flesh: aberration cr9-14"
+  },
+  "marotte of the lord of fools (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "817,copper ingot",
+    "focus": "75,cut jacinth",
+    "item1": "3,uncommon poison ingredient",
+    "item2": "3,plate: monstrosity cr9-14",
+    "item3": "4,durable cloth"
+  },
+  "mask of lethica nightborne (rare)": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "506,rare aggregate",
+    "focus": "265,cut amethyst",
+    "item1": "1,brain: aberration cr9-14",
+    "item2": "9,uncommon poison ingredient",
+    "item3": "7,essence: undead cr9-14"
+  },
+  "mask of monstrous forms": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "334,rare tile",
+    "focus": "63,cut jacinth",
+    "item1": "1,copper ingot",
+    "item2": "2,durable cloth",
+    "item3": "1,organ: humanoid cr9-14"
+  },
+  "masks of the sacred beasts (hawk)": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "11,copper ingot",
+    "focus": "381,cut moonstone",
+    "item1": "6,spores: plant cr9-14",
+    "item2": "8,meat: fey cr9-14",
+    "item3": "2,mass: plant cr9-14"
+  },
+  "mechanical wonder (gyrocopter)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "163,mithril ingot",
+    "focus": "80,cut jacinth",
+    "item1": "1,durable fiber",
+    "item2": "10,blood: fiend cr9-14",
+    "item3": "10,copper ingot"
+  },
+  "medusan lavalier": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "31,cut obsidian",
+    "focus": "466,cut obsidian",
+    "item1": "2,essence: undead cr9-14",
+    "item2": "3,copper ingot",
+    "item3": "9,naphtha"
+  },
+  "medzo's crossbow": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "64,mithril ingot",
+    "focus": "165,cut amethyst",
+    "item1": "6,core: ooze cr9-14",
+    "item2": "8,rare block",
+    "item3": "10,flesh: celestial cr9-14"
+  },
+  "memento mori": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "599,rare pole",
+    "focus": "39,cut agate",
+    "item1": "6,meat: giant cr9-14",
+    "item2": "7,hide: aberration cr9-14",
+    "item3": "5,flesh: undead cr9-14"
+  },
+  "meta medallion": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "249,rare block",
+    "focus": "452,cut moonstone",
+    "item1": "9,organ: aberration cr9-14",
+    "item2": "9,gear: construct cr9-14",
+    "item3": "2,rare pole"
+  },
+  "midwife shears": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "197,rare plank",
+    "focus": "372,cut jade",
+    "item1": "6,rare fish fillet",
+    "item2": "5,blood: fey cr9-14",
+    "item3": "8,flesh: aberration cr9-14"
+  },
+  "mimir": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "91,cut obsidian",
+    "focus": "179,cut moonstone",
+    "item1": "6,organ: humanoid cr9-14",
+    "item2": "10,rare plank",
+    "item3": "1,flesh: celestial cr9-14"
+  },
+  "mind blade": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "177,rare tile",
+    "focus": "453,cut sapphire",
+    "item1": "7,bone: fey cr9-14",
+    "item2": "1,flesh: aberration cr9-14",
+    "item3": "9,meat: fey cr9-14"
+  },
+  "mind crystal (heightened)": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "146,rare tile",
+    "focus": "366,cut amethyst",
+    "item1": "3,meat: fey cr9-14",
+    "item2": "3,rare block",
+    "item3": "6,bone: fey cr9-14"
+  },
+  "+2 armor": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2342,gold ingot",
+    "focus": "1562,cut diamond",
+    "item1": "1,hide: beast cr15-21",
+    "item2": "10,marrow: beast cr15-21",
+    "item3": "3,plate: monstrosity cr15-21",
+    "item4": "3,very rare tile"
+  },
+  "+2 fate dealer's deck": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "2660,very rare aggregate",
+    "focus": "2191,cut diamond",
+    "item1": "5,organ: aberration cr15-21",
+    "item2": "3,very rare poison ingredient",
+    "item3": "8,very rare tile",
+    "item4": "9,core: fey cr15-21"
+  },
+  "+2 true name": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "3451,lodestone",
+    "focus": "2516,cut diamond",
+    "item1": "9,bone: humanoid cr15-21",
+    "item2": "5,very rare aggregate",
+    "item3": "8,very rare poison ingredient",
+    "item4": "8,very rare tile"
+  },
+  "+3 all-purpose tool": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4832,very rare aggregate",
+    "focus": "3506,cut bloodstone",
+    "item1": "5,organ: fiend cr15-21",
+    "item2": "2,hide: beast cr15-21",
+    "item3": "2,core: undead cr15-21",
+    "item4": "9,plating: construct cr15-21"
+  },
+  "+3 ammunition": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2133,very rare block",
+    "focus": "2458,cut sunstone",
+    "item1": "7,components: construct cr15-21",
+    "item2": "6,core: plant cr15-21",
+    "item3": "4,organ: monstrosity cr15-21",
+    "item4": "1,spores: plant cr15-21"
+  },
+  "+3 amulet of the devout": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "5135,mizzium ingot",
+    "focus": "3130,cut hearthstone",
+    "item1": "10,gear: construct cr15-21",
+    "item2": "4,core: construct cr15-21",
+    "item3": "5,gold ingot",
+    "item4": "9,platinum ingot"
+  }
+}

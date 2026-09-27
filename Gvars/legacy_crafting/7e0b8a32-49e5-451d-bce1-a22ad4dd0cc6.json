@@ -1,0 +1,308 @@
+{
+  "red chromatic rose": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "497,mithril ingot",
+    "focus": "174,cut moonstone",
+    "item1": "10,essence: undead cr9-14",
+    "item2": "5,uncommon poison ingredient",
+    "item3": "4,gear: construct cr9-14"
+  },
+  "redeemer's regards": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "377,cut obsidian",
+    "focus": "121,cut sapphire",
+    "item1": "9,gland: dragon cr9-14",
+    "item2": "9,rare fish fillet",
+    "item3": "6,mass: plant cr9-14"
+  },
+  "refined delerium dust": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "304,cut obsidian",
+    "focus": "437,cut jacinth",
+    "item1": "10,flesh: celestial cr9-14",
+    "item2": "1,slime: ooze cr9-14",
+    "item3": "10,organ: fiend cr9-14"
+  },
+  "reflector shield": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "219,copper ingot",
+    "focus": "86,cut moonstone",
+    "item1": "10,mithril ingot",
+    "item2": "7,flesh: monstrosity cr9-14",
+    "item3": "4,plate: monstrosity cr9-14"
+  },
+  "rejuvenating draft (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "379,rare tile",
+    "focus": "187,cut amethyst",
+    "item1": "7,rare aggregate",
+    "item2": "8,copper ingot",
+    "item3": "9,core: ooze cr9-14"
+  },
+  "reliquary of holy memories (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "537,mithril ingot",
+    "focus": "83,cut jade",
+    "item1": "10,mass: plant cr9-14",
+    "item2": "5,bone: beast cr9-14",
+    "item3": "9,rare tile"
+  },
+  "retracer boots": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "225,mithril ingot",
+    "focus": "677,cut moonstone",
+    "item1": "4,gear: construct cr9-14",
+    "item2": "7,meat: beast cr9-14",
+    "item3": "5,plating: construct cr9-14"
+  },
+  "reveler's concertina": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "167,mithril ingot",
+    "focus": "542,cut jade",
+    "item1": "1,meat: dragon cr9-14",
+    "item2": "10,copper ingot",
+    "item3": "7,rare tile"
+  },
+  "revelry suit": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "3,rare pole",
+    "focus": "846,cut sapphire",
+    "item1": "8,rare fish fillet",
+    "item2": "3,durable fiber",
+    "item3": "10,components: construct cr9-14"
+  },
+  "rift sheath": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "376,copper ingot",
+    "focus": "179,cut sapphire",
+    "item1": "1,core: elemental cr9-14",
+    "item2": "7,bone: fiend cr9-14",
+    "item3": "2,blood: fiend cr9-14"
+  },
+  "ring of acid resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "74,copper ingot",
+    "focus": "174,cut agate",
+    "item1": "7,flesh: celestial cr9-14",
+    "item2": "1,rare tile",
+    "item3": "4,spores: plant cr9-14"
+  },
+  "ring of animal influence": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "261,mithril ingot",
+    "focus": "38,cut jade",
+    "item1": "3,marrow: beast cr9-14",
+    "item2": "5,durable cloth",
+    "item3": "1,blood: fey cr9-14"
+  },
+  "ring of changing shapes": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "179,copper ingot",
+    "focus": "140,cut moonstone",
+    "item1": "9,bone: giant cr9-14",
+    "item2": "9,marrow: giant cr9-14",
+    "item3": "6,gear: construct cr9-14"
+  },
+  "ring of cold resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "17,copper ingot",
+    "focus": "251,cut sapphire",
+    "item1": "6,slime: ooze cr9-14",
+    "item2": "1,meat: beast cr9-14",
+    "item3": "7,mass: ooze cr9-14"
+  },
+  "ring of daylight": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "574,rare block",
+    "focus": "259,cut jacinth",
+    "item1": "5,residue: elemental cr9-14",
+    "item2": "3,rare tile",
+    "item3": "10,scale: dragon cr9-14"
+  },
+  "ring of evasion": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "659,copper ingot",
+    "focus": "314,cut jade",
+    "item1": "2,bone: undead cr9-14",
+    "item2": "3,fine fiber",
+    "item3": "6,durable cloth"
+  },
+  "ring of feather falling": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "521,copper ingot",
+    "focus": "319,cut jacinth",
+    "item1": "7,meat: fey cr9-14",
+    "item2": "7,flesh: fiend cr9-14",
+    "item3": "6,flesh: aberration cr9-14"
+  },
+  "ring of fire resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "121,copper ingot",
+    "focus": "581,cut jacinth",
+    "item1": "7,rare block",
+    "item2": "6,rare aggregate",
+    "item3": "10,residue: elemental cr9-14"
+  },
+  "ring of force resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "148,mithril ingot",
+    "focus": "142,cut obsidian",
+    "item1": "7,charcoal",
+    "item2": "2,blood: undead cr9-14",
+    "item3": "10,scale: dragon cr9-14"
+  },
+  "ring of free action": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "275,copper ingot",
+    "focus": "135,cut moonstone",
+    "item1": "5,cut obsidian",
+    "item2": "5,mass: ooze cr9-14",
+    "item3": "5,meat: fey cr9-14"
+  },
+  "ring of lightning resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "194,copper ingot",
+    "focus": "347,cut jacinth",
+    "item1": "6,meat: dragon cr9-14",
+    "item2": "1,residue: elemental cr9-14",
+    "item3": "9,core: elemental cr9-14"
+  },
+  "ring of misdirection": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "781,copper ingot",
+    "focus": "12,cut agate",
+    "item1": "10,rare fish fillet",
+    "item2": "5,durable cloth",
+    "item3": "4,mass: plant cr9-14"
+  },
+  "ring of necrotic resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "331,mithril ingot",
+    "focus": "430,cut jacinth",
+    "item1": "9,core: ooze cr9-14",
+    "item2": "7,blood: undead cr9-14",
+    "item3": "8,blood: fey cr9-14"
+  },
+  "ring of poison resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "171,mithril ingot",
+    "focus": "333,cut amethyst",
+    "item1": "4,bone: humanoid cr9-14",
+    "item2": "5,fine fiber",
+    "item3": "4,gear: construct cr9-14"
+  },
+  "ring of protection": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "412,copper ingot",
+    "focus": "551,cut sapphire",
+    "item1": "8,rare aggregate",
+    "item2": "4,rare block",
+    "item3": "8,hide: beast cr9-14"
+  },
+  "ring of psychic resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "445,mithril ingot",
+    "focus": "37,cut sapphire",
+    "item1": "9,flesh: humanoid cr9-14",
+    "item2": "6,brain: aberration cr9-14",
+    "item3": "1,blood: fey cr9-14"
+  },
+  "ring of radiant resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "15,copper ingot",
+    "focus": "397,cut jacinth",
+    "item1": "3,flesh: celestial cr9-14",
+    "item2": "8,scale: dragon cr9-14",
+    "item3": "2,rare tile"
+  },
+  "ring of resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "361,mithril ingot",
+    "focus": "407,cut amethyst",
+    "item1": "5,fine fiber",
+    "item2": "1,gear: construct cr9-14",
+    "item3": "3,organ: celestial cr9-14"
+  },
+  "ring of solar's sight": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "210,mithril ingot",
+    "focus": "300,cut jacinth",
+    "item1": "6,core: elemental cr9-14",
+    "item2": "9,copper ingot",
+    "item3": "1,flesh: celestial cr9-14"
+  },
+  "ring of spell storing": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "84,mithril ingot",
+    "focus": "551,cut obsidian",
+    "item1": "2,residue: elemental cr9-14",
+    "item2": "6,essence: elemental cr9-14",
+    "item3": "1,brain: aberration cr9-14"
+  },
+  "ring of temporal salvation": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "679,mithril ingot",
+    "focus": "94,cut agate",
+    "item1": "4,blood: celestial cr9-14",
+    "item2": "2,bone: fiend cr9-14",
+    "item3": "3,slime: ooze cr9-14"
+  },
+  "ring of thunder resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "524,mithril ingot",
+    "focus": "226,cut sapphire",
+    "item1": "2,meat: dragon cr9-14",
+    "item2": "2,core: elemental cr9-14",
+    "item3": "7,durable fiber"
+  },
+  "ring of winter's kiss": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "207,mithril ingot",
+    "focus": "661,cut sapphire",
+    "item1": "4,core: elemental cr9-14",
+    "item2": "1,rare fish fillet",
+    "item3": "8,residue: elemental cr9-14"
+  },
+  "ring of x-ray vision": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "162,copper ingot",
+    "focus": "417,cut amethyst",
+    "item1": "10,rare block",
+    "item2": "8,rare tile",
+    "item3": "4,brain: aberration cr9-14"
+  }
+}

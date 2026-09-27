@@ -1,0 +1,308 @@
+{
+  "mind crystal (quickened)": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "79,rare aggregate",
+    "focus": "782,cut amethyst",
+    "item1": "1,brain: aberration cr9-14",
+    "item2": "7,uncommon poison ingredient",
+    "item3": "8,rare block"
+  },
+  "mind lash": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "284,mithril ingot",
+    "focus": "170,cut amethyst",
+    "item1": "4,horn: dragon cr9-14",
+    "item2": "6,core: elemental cr9-14",
+    "item3": "4,rare aggregate"
+  },
+  "mind transfer": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "481,rare block",
+    "focus": "248,cut amethyst",
+    "item1": "6,flesh: aberration cr9-14",
+    "item2": "5,organ: aberration cr9-14",
+    "item3": "8,rare tile"
+  },
+  "mirror of the past": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "119,rare aggregate",
+    "focus": "749,cut sapphire",
+    "item1": "8,bone: humanoid cr9-14",
+    "item2": "2,blood: fey cr9-14",
+    "item3": "5,flesh: humanoid cr9-14"
+  },
+  "mistwalker armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "76,copper ingot",
+    "focus": "283,cut jade",
+    "item1": "8,plating: construct cr9-14",
+    "item2": "8,chitin: monstrosity cr9-14",
+    "item3": "4,organ: monstrosity cr9-14"
+  },
+  "mithral +1 armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "210,copper ingot",
+    "focus": "209,cut sapphire",
+    "item1": "5,organ: monstrosity cr9-14",
+    "item2": "3,components: construct cr9-14",
+    "item3": "7,gear: construct cr9-14"
+  },
+  "mizzium armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "35,copper ingot",
+    "focus": "514,cut jade",
+    "item1": "1,plate: monstrosity cr9-14",
+    "item2": "5,mithril ingot",
+    "item3": "6,rare block"
+  },
+  "mizzium mortar": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "376,copper ingot",
+    "focus": "557,cut jacinth",
+    "item1": "5,slime: ooze cr9-14",
+    "item2": "6,organ: celestial cr9-14",
+    "item3": "2,blood: fiend cr9-14"
+  },
+  "molten bronze skin": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "207,cut obsidian",
+    "focus": "483,cut sapphire",
+    "item1": "4,flesh: fiend cr9-14",
+    "item2": "5,mithril ingot",
+    "item3": "8,residue: elemental cr9-14"
+  },
+  "monarch mantle": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "471,rare aggregate",
+    "focus": "28,cut jade",
+    "item1": "1,rare tile",
+    "item2": "5,copper ingot",
+    "item3": "7,flesh: monstrosity cr9-14"
+  },
+  "monster hunter's weapon +1": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "656,mithril ingot",
+    "focus": "249,cut amethyst",
+    "item1": "1,residue: elemental cr9-14",
+    "item2": "4,bark: plant cr9-14",
+    "item3": "1,core: elemental cr9-14"
+  },
+  "monster tamer's shield": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "457,rare pole",
+    "focus": "74,cut moonstone",
+    "item1": "6,components: construct cr9-14",
+    "item2": "4,meat: beast cr9-14",
+    "item3": "8,rare tile"
+  },
+  "mooncatcher's net": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "241,rare tile",
+    "focus": "622,cut sapphire",
+    "item1": "1,rare fish fillet",
+    "item2": "5,bone: humanoid cr9-14",
+    "item3": "9,rare plank"
+  },
+  "moonseeker's lantern of safe returns": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "367,cut obsidian",
+    "focus": "14,cut jacinth",
+    "item1": "9,marrow: giant cr9-14",
+    "item2": "1,gear: construct cr9-14",
+    "item3": "1,meat: beast cr9-14"
+  },
+  "moonsteel weapon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "192,copper ingot",
+    "focus": "555,cut obsidian",
+    "item1": "2,uncommon poison ingredient",
+    "item2": "8,blood: celestial cr9-14",
+    "item3": "4,gear: construct cr9-14"
+  },
+  "moonstone banded armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "323,copper ingot",
+    "focus": "540,cut jade",
+    "item1": "2,organ: monstrosity cr9-14",
+    "item2": "4,plate: monstrosity cr9-14",
+    "item3": "1,plating: construct cr9-14"
+  },
+  "moonstone bracers": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "288,rare plank",
+    "focus": "228,cut moonstone",
+    "item1": "9,rare aggregate",
+    "item2": "8,chitin: monstrosity cr9-14",
+    "item3": "7,organ: monstrosity cr9-14"
+  },
+  "mosshide troll belt": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "526,rare tile",
+    "focus": "30,cut amethyst",
+    "item1": "1,meat: fey cr9-14",
+    "item2": "10,meat: dragon cr9-14",
+    "item3": "8,durable cloth"
+  },
+  "mourningsteel war banner": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "163,rare block",
+    "focus": "318,cut amethyst",
+    "item1": "9,rare tile",
+    "item2": "4,organ: humanoid cr9-14",
+    "item3": "1,flesh: humanoid cr9-14"
+  },
+  "myceliaweave armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "361,copper ingot",
+    "focus": "487,cut jade",
+    "item1": "1,marrow: beast cr9-14",
+    "item2": "6,gear: construct cr9-14",
+    "item3": "1,organ: monstrosity cr9-14"
+  },
+  "mythallar cloak": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "350,mithril ingot",
+    "focus": "473,cut jade",
+    "item1": "4,bone: beast cr9-14",
+    "item2": "10,marrow: beast cr9-14",
+    "item3": "6,hide: beast cr9-14"
+  },
+  "necklace of fireballs": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "394,rare pole",
+    "focus": "36,cut sapphire",
+    "item1": "8,blood: fiend cr9-14",
+    "item2": "1,rare block",
+    "item3": "7,essence: elemental cr9-14"
+  },
+  "necklace of prayer beads": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "577,rare plank",
+    "focus": "259,cut agate",
+    "item1": "8,naphtha",
+    "item2": "4,cut obsidian",
+    "item3": "9,sap: plant cr9-14"
+  },
+  "necromancer's armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "55,mithril ingot",
+    "focus": "576,cut obsidian",
+    "item1": "5,rare block",
+    "item2": "8,rare aggregate",
+    "item3": "2,organ: humanoid cr9-14"
+  },
+  "needle of mending": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "48,rare block",
+    "focus": "255,cut jade",
+    "item1": "2,rare pole",
+    "item2": "4,slime: ooze cr9-14",
+    "item3": "6,bone: giant cr9-14"
+  },
+  "netherese ring of protection": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "230,mithril ingot",
+    "focus": "569,cut sapphire",
+    "item1": "2,rare tile",
+    "item2": "2,plating: construct cr9-14",
+    "item3": "3,organ: monstrosity cr9-14"
+  },
+  "new life": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "300,cut obsidian",
+    "focus": "86,cut sapphire",
+    "item1": "9,blood: fey cr9-14",
+    "item2": "1,rare aggregate",
+    "item3": "1,rare block"
+  },
+  "newly found magic": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "76,rare potion ingredient",
+    "focus": "623,cut moonstone",
+    "item1": "2,gland: dragon cr9-14",
+    "item2": "3,hide: aberration cr9-14",
+    "item3": "47,rare potion ingredient"
+  },
+  "nightmare flask": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "424,rare aggregate",
+    "focus": "347,cut amethyst",
+    "item1": "10,flesh: aberration cr9-14",
+    "item2": "8,hide: aberration cr9-14",
+    "item3": "8,brain: aberration cr9-14"
+  },
+  "nightstalker's armor of the northeastern wind": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "467,mithril ingot",
+    "focus": "221,cut amethyst",
+    "item1": "7,rare tile",
+    "item2": "7,flesh: aberration cr9-14",
+    "item3": "2,hide: aberration cr9-14"
+  },
+  "nightstalker's mask": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "681,rare block",
+    "focus": "33,cut amethyst",
+    "item1": "4,bone: fiend cr9-14",
+    "item2": "7,flesh: aberration cr9-14",
+    "item3": "2,bone: undead cr9-14"
+  },
+  "nightwatcher potion": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "608,rare block",
+    "focus": "17,cut amethyst",
+    "item1": "8,bone: fiend cr9-14",
+    "item2": "10,blood: fiend cr9-14",
+    "item3": "7,brain: aberration cr9-14"
+  },
+  "nine lives": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "140,mithril ingot",
+    "focus": "523,cut obsidian",
+    "item1": "3,sap: plant cr9-14",
+    "item2": "8,bone: fey cr9-14",
+    "item3": "8,blood: fey cr9-14"
+  },
+  "nokumai's frozen breath": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "413,rare pole",
+    "focus": "357,cut agate",
+    "item1": "8,bark: plant cr9-14",
+    "item2": "3,core: ooze cr9-14",
+    "item3": "6,flesh: celestial cr9-14"
+  }
+}

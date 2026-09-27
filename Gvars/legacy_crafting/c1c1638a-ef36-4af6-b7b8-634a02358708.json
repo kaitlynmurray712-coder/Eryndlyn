@@ -1,0 +1,299 @@
+{
+  "plumage of a running kirio": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "825,mithril ingot",
+    "focus": "126,cut sapphire",
+    "item1": "1,meat: fey cr9-14",
+    "item2": "3,spores: plant cr9-14",
+    "item3": "4,organ: humanoid cr9-14"
+  },
+  "poison armor of amphibios": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "250,mithril ingot",
+    "focus": "465,cut jade",
+    "item1": "10,components: construct cr9-14",
+    "item2": "3,hide: beast cr9-14",
+    "item3": "2,plate: monstrosity cr9-14"
+  },
+  "portable hole": {
+    "rarity": "rare",
+    "tool": "carpenter's tools",
+    "base": "113,rare tile",
+    "focus": "650,cut obsidian",
+    "item1": "2,bark: plant cr9-14",
+    "item2": "6,meat: fey cr9-14",
+    "item3": "5,hide: beast cr9-14"
+  },
+  "potion of aqueous form": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "214,rare block",
+    "focus": "42,cut agate",
+    "item1": "8,organ: aberration cr9-14",
+    "item2": "5,gland: dragon cr9-14",
+    "item3": "4,rare aggregate"
+  },
+  "potion of clairvoyance": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "402,cut obsidian",
+    "focus": "468,cut amethyst",
+    "item1": "4,uncommon poison ingredient",
+    "item2": "1,flesh: fiend cr9-14",
+    "item3": "10,core: elemental cr9-14"
+  },
+  "potion of diminution": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "324,rare pole",
+    "focus": "51,cut obsidian",
+    "item1": "7,mass: plant cr9-14",
+    "item2": "8,organ: monstrosity cr9-14",
+    "item3": "3,sap: plant cr9-14"
+  },
+  "potion of fire giant strength": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "310,mithril ingot",
+    "focus": "558,cut sapphire",
+    "item1": "4,gland: dragon cr9-14",
+    "item2": "6,residue: elemental cr9-14",
+    "item3": "1,flesh: fiend cr9-14"
+  },
+  "potion of frost giant strength": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "168,copper ingot",
+    "focus": "123,cut sapphire",
+    "item1": "7,essence: elemental cr9-14",
+    "item2": "10,hide: beast cr9-14",
+    "item3": "9,marrow: beast cr9-14"
+  },
+  "potion of gaseous form": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "190,rare plank",
+    "focus": "90,cut agate",
+    "item1": "4,mithril ingot",
+    "item2": "7,meat: fey cr9-14",
+    "item3": "9,bone: humanoid cr9-14"
+  },
+  "potion of heroism": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "288,rare tile",
+    "focus": "634,cut agate",
+    "item1": "10,marrow: giant cr9-14",
+    "item2": "10,cut obsidian",
+    "item3": "9,rare fish fillet"
+  },
+  "potion of invisibility": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "309,rare block",
+    "focus": "299,cut amethyst",
+    "item1": "8,rare pole",
+    "item2": "4,plate: monstrosity cr9-14",
+    "item3": "7,durable fiber"
+  },
+  "potion of invulnerability": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "155,iron ingot",
+    "focus": "236,cut jacinth",
+    "item1": "344,rare potion ingredient",
+    "item2": "3,bone: giant cr9-14",
+    "item3": "4,meat: fey cr9-14"
+  },
+  "potion of maximum power": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "296,rare potion ingredient",
+    "focus": "365,cut obsidian",
+    "item1": "2,blood: undead cr9-14",
+    "item2": "4,components: construct cr9-14",
+    "item3": "3,hide: beast cr9-14"
+  },
+  "potion of mind control (beast)": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "201,rare tile",
+    "focus": "594,cut sapphire",
+    "item1": "3,blood: fey cr9-14",
+    "item2": "3,hide: aberration cr9-14",
+    "item3": "6,rare aggregate"
+  },
+  "potion of mind control (humanoid)": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "283,mithril ingot",
+    "focus": "57,cut amethyst",
+    "item1": "2,uncommon potion ingredient",
+    "item2": "1,blood: fey cr9-14",
+    "item3": "6,rare aggregate"
+  },
+  "potion of mind reading": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "206,rare block",
+    "focus": "309,cut sapphire",
+    "item1": "2,uncommon potion ingredient",
+    "item2": "8,bone: humanoid cr9-14",
+    "item3": "2,bone: fey cr9-14"
+  },
+  "potion of rest": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "355,rare tile",
+    "focus": "352,cut obsidian",
+    "item1": "3,mass: plant cr9-14",
+    "item2": "5,charcoal",
+    "item3": "3,gland: dragon cr9-14"
+  },
+  "potion of stone giant strength": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "284,cut obsidian",
+    "focus": "62,cut jade",
+    "item1": "1,rare aggregate",
+    "item2": "10,slime: ooze cr9-14",
+    "item3": "1,gland: dragon cr9-14"
+  },
+  "potion of superior healing": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "91,rare plank",
+    "focus": "603,cut amethyst",
+    "item1": "2,uncommon poison ingredient",
+    "item2": "9,essence: elemental cr9-14",
+    "item3": "4,sap: plant cr9-14"
+  },
+  "power collar": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "423,rare aggregate",
+    "focus": "507,cut jade",
+    "item1": "1,fine fiber",
+    "item2": "5,naphtha",
+    "item3": "5,bark: plant cr9-14"
+  },
+  "prehistoric figurine of wondrous power, kyanite pteranodon": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "362,rare plank",
+    "focus": "381,cut sapphire",
+    "item1": "5,components: construct cr9-14",
+    "item2": "9,bone: fiend cr9-14",
+    "item3": "4,rare block"
+  },
+  "professor orb": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "118,rare tile",
+    "focus": "838,cut obsidian",
+    "item1": "5,rare block",
+    "item2": "10,bone: beast cr9-14",
+    "item3": "9,plate: monstrosity cr9-14"
+  },
+  "professor skant": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "361,rare pole",
+    "focus": "72,cut obsidian",
+    "item1": "9,mass: plant cr9-14",
+    "item2": "2,durable cloth",
+    "item3": "6,meat: fey cr9-14"
+  },
+  "protective verses": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "197,mithril ingot",
+    "focus": "460,cut jacinth",
+    "item1": "6,marrow: beast cr9-14",
+    "item2": "3,uncommon poison ingredient",
+    "item3": "7,rare pole"
+  },
+  "prototype thunderberd": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "63,rare tile",
+    "focus": "865,cut sapphire",
+    "item1": "4,meat: giant cr9-14",
+    "item2": "2,scale: dragon cr9-14",
+    "item3": "10,meat: dragon cr9-14"
+  },
+  "quaal's feather token, bird": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "321,copper ingot",
+    "focus": "231,cut jade",
+    "item1": "4,rare block",
+    "item2": "3,marrow: giant cr9-14",
+    "item3": "3,components: construct cr9-14"
+  },
+  "quaal's feather token, swan boat": {
+    "rarity": "rare",
+    "tool": "carpenter's tools",
+    "base": "42,mithril ingot",
+    "focus": "231,cut moonstone",
+    "item1": "9,cut obsidian",
+    "item2": "4,charcoal",
+    "item3": "6,rare aggregate"
+  },
+  "quaal's feather token, whip": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "591,rare block",
+    "focus": "341,cut jade",
+    "item1": "8,gland: dragon cr9-14",
+    "item2": "10,spores: plant cr9-14",
+    "item3": "9,brain: aberration cr9-14"
+  },
+  "quick change ring": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "269,copper ingot",
+    "focus": "643,cut sapphire",
+    "item1": "8,chitin: monstrosity cr9-14",
+    "item2": "6,organ: monstrosity cr9-14",
+    "item3": "1,blood: celestial cr9-14"
+  },
+  "rat tooth dagger": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "5,rare plank",
+    "focus": "331,cut sapphire",
+    "item1": "7,meat: dragon cr9-14",
+    "item2": "7,bone: humanoid cr9-14",
+    "item3": "8,organ: monstrosity cr9-14"
+  },
+  "rattling armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "339,copper ingot",
+    "focus": "107,cut sapphire",
+    "item1": "6,flesh: monstrosity cr9-14",
+    "item2": "4,components: construct cr9-14",
+    "item3": "6,bone: beast cr9-14"
+  },
+  "ready gunk": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "375,rare tile",
+    "focus": "37,cut agate",
+    "item1": "5,blood: undead cr9-14",
+    "item2": "9,rare fish fillet",
+    "item3": "7,plate: monstrosity cr9-14"
+  },
+  "reaper's revenge": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "697,rare plank",
+    "focus": "71,cut amethyst",
+    "item1": "5,meat: dragon cr9-14",
+    "item2": "8,components: construct cr9-14",
+    "item3": "2,uncommon potion ingredient"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "giant koi fish scale": {
+    "rarity": "rare",
+    "tool": "brewer's supplies",
+    "base": "422,rare plank",
+    "focus": "99,cut moonstone",
+    "item1": "5,rare fish fillet",
+    "item2": "5,slime: ooze cr9-14",
+    "item3": "6,essence: elemental cr9-14"
+  },
+  "giant slayer": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "291,rare pole",
+    "focus": "106,cut jade",
+    "item1": "2,residue: elemental cr9-14",
+    "item2": "5,fine fiber",
+    "item3": "2,flesh: monstrosity cr9-14"
+  },
+  "giantcraft ambusher": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "309,rare plank",
+    "focus": "526,cut moonstone",
+    "item1": "10,bone: beast cr9-14",
+    "item2": "5,bone: fiend cr9-14",
+    "item3": "5,essence: undead cr9-14"
+  },
+  "glamoured studded leather": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "324,cut obsidian",
+    "focus": "30,cut agate",
+    "item1": "8,uncommon potion ingredient",
+    "item2": "1,flesh: humanoid cr9-14",
+    "item3": "2,residue: elemental cr9-14"
+  },
+  "glass-studded armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "767,mithril ingot",
+    "focus": "10,cut jade",
+    "item1": "3,plating: construct cr9-14",
+    "item2": "10,plate: monstrosity cr9-14",
+    "item3": "2,rare tile"
+  },
+  "glimmering moonbow": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "824,mithril ingot",
+    "focus": "90,cut jade",
+    "item1": "3,bone: giant cr9-14",
+    "item2": "4,cut obsidian",
+    "item3": "3,sap: plant cr9-14"
+  },
+  "gloomwrought armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "118,mithril ingot",
+    "focus": "824,cut amethyst",
+    "item1": "3,uncommon potion ingredient",
+    "item2": "8,flesh: aberration cr9-14",
+    "item3": "4,flesh: undead cr9-14"
+  },
+  "gloves of healing": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "205,copper ingot",
+    "focus": "516,cut jacinth",
+    "item1": "8,chitin: monstrosity cr9-14",
+    "item2": "3,rare block",
+    "item3": "5,flesh: humanoid cr9-14"
+  },
+  "gloves of ratling agility": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "840,copper ingot",
+    "focus": "47,cut jacinth",
+    "item1": "5,cut obsidian",
+    "item2": "9,mithril ingot",
+    "item3": "5,bone: humanoid cr9-14"
+  },
+  "glowrune pigment": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "198,cut obsidian",
+    "focus": "341,cut agate",
+    "item1": "5,organ: celestial cr9-14",
+    "item2": "9,organ: humanoid cr9-14",
+    "item3": "9,rare tile"
+  },
+  "golden root": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "945,mithril ingot",
+    "focus": "29,cut sapphire",
+    "item1": "5,residue: elemental cr9-14",
+    "item2": "6,gland: dragon cr9-14",
+    "item3": "6,organ: celestial cr9-14"
+  },
+  "golem sapper": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "375,copper ingot",
+    "focus": "200,cut jade",
+    "item1": "4,cut obsidian",
+    "item2": "9,organ: fiend cr9-14",
+    "item3": "10,organ: aberration cr9-14"
+  },
+  "goose egg healing grenade": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "315,rare plank",
+    "focus": "238,cut jacinth",
+    "item1": "5,mass: ooze cr9-14",
+    "item2": "4,meat: giant cr9-14",
+    "item3": "7,core: elemental cr9-14"
+  },
+  "grasping whip": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "330,rare pole",
+    "focus": "152,cut jade",
+    "item1": "2,uncommon poison ingredient",
+    "item2": "2,chitin: monstrosity cr9-14",
+    "item3": "10,plate: monstrosity cr9-14"
+  },
+  "green chromatic rose": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "486,rare pole",
+    "focus": "318,cut obsidian",
+    "item1": "3,components: construct cr9-14",
+    "item2": "6,uncommon poison ingredient",
+    "item3": "3,naphtha"
+  },
+  "green ribbon": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "217,mithril ingot",
+    "focus": "362,cut jacinth",
+    "item1": "4,meat: beast cr9-14",
+    "item2": "9,rare tile",
+    "item3": "5,bone: fey cr9-14"
+  },
+  "gruul keyrune": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "281,cut obsidian",
+    "focus": "289,cut moonstone",
+    "item1": "6,bone: fey cr9-14",
+    "item2": "7,organ: humanoid cr9-14",
+    "item3": "2,mass: plant cr9-14"
+  },
+  "gulthias staff": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "146,rare plank",
+    "focus": "441,cut amethyst",
+    "item1": "4,horn: dragon cr9-14",
+    "item2": "10,rare pole",
+    "item3": "7,gear: construct cr9-14"
+  },
+  "hag-stitched troll leather armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "121,copper ingot",
+    "focus": "114,cut sapphire",
+    "item1": "9,components: construct cr9-14",
+    "item2": "4,rare aggregate",
+    "item3": "10,organ: monstrosity cr9-14"
+  },
+  "haint hooch": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "268,rare plank",
+    "focus": "601,cut obsidian",
+    "item1": "4,gear: construct cr9-14",
+    "item2": "4,flesh: undead cr9-14",
+    "item3": "5,essence: elemental cr9-14"
+  },
+  "hand of eryo": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "82,rare plank",
+    "focus": "434,cut sapphire",
+    "item1": "10,rare aggregate",
+    "item2": "5,meat: dragon cr9-14",
+    "item3": "7,bone: beast cr9-14"
+  },
+  "harbinger's flail": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "203,copper ingot",
+    "focus": "756,cut amethyst",
+    "item1": "5,organ: celestial cr9-14",
+    "item2": "10,uncommon potion ingredient",
+    "item3": "2,core: ooze cr9-14"
+  },
+  "hardened delerium-tipped arrows": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "411,rare pole",
+    "focus": "486,cut jacinth",
+    "item1": "3,rare block",
+    "item2": "3,meat: dragon cr9-14",
+    "item3": "7,uncommon potion ingredient"
+  },
+  "harvest brew": {
+    "rarity": "rare",
+    "tool": "brewer's supplies",
+    "base": "380,mithril ingot",
+    "focus": "439,cut sapphire",
+    "item1": "7,hide: beast cr9-14",
+    "item2": "8,core: ooze cr9-14",
+    "item3": "7,residue: elemental cr9-14"
+  },
+  "heart string harp": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "312,copper ingot",
+    "focus": "451,cut sapphire",
+    "item1": "6,bone: giant cr9-14",
+    "item2": "9,core: ooze cr9-14",
+    "item3": "8,uncommon poison ingredient"
+  },
+  "heart weaver's primer": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "440,rare pole",
+    "focus": "248,cut jade",
+    "item1": "1,meat: fey cr9-14",
+    "item2": "5,flesh: aberration cr9-14",
+    "item3": "5,core: ooze cr9-14"
+  },
+  "heavenly chalice": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "505,rare pole",
+    "focus": "116,cut sapphire",
+    "item1": "6,hide: beast cr9-14",
+    "item2": "9,core: elemental cr9-14",
+    "item3": "7,bone: beast cr9-14"
+  },
+  "heavy golem armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "204,mithril ingot",
+    "focus": "261,cut sapphire",
+    "item1": "5,rare tile",
+    "item2": "2,marrow: beast cr9-14",
+    "item3": "9,hide: beast cr9-14"
+  },
+  "hell hound cloak": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "320,mithril ingot",
+    "focus": "540,cut moonstone",
+    "item1": "4,plate: monstrosity cr9-14",
+    "item2": "10,rare tile",
+    "item3": "9,marrow: beast cr9-14"
+  },
+  "helm of burning rage": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "528,mithril ingot",
+    "focus": "378,cut amethyst",
+    "item1": "6,gland: dragon cr9-14",
+    "item2": "7,horn: dragon cr9-14",
+    "item3": "10,core: elemental cr9-14"
+  },
+  "helm of patron saints": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "281,rare block",
+    "focus": "107,cut jade",
+    "item1": "9,plate: monstrosity cr9-14",
+    "item2": "8,plating: construct cr9-14",
+    "item3": "1,organ: monstrosity cr9-14"
+  },
+  "helm of teleportation": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "86,mithril ingot",
+    "focus": "671,cut moonstone",
+    "item1": "8,plating: construct cr9-14",
+    "item2": "10,gear: construct cr9-14",
+    "item3": "5,chitin: monstrosity cr9-14"
+  },
+  "helm of the gods": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "148,copper ingot",
+    "focus": "613,cut moonstone",
+    "item1": "4,organ: monstrosity cr9-14",
+    "item2": "10,rare block",
+    "item3": "5,chitin: monstrosity cr9-14"
+  }
+}

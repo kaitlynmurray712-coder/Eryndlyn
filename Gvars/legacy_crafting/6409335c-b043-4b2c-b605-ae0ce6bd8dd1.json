@@ -1,0 +1,308 @@
+{
+  "bubble gum": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "213,rare block",
+    "focus": "22,cut sapphire",
+    "item1": "6,components: construct cr9-14",
+    "item2": "8,blood: celestial cr9-14",
+    "item3": "5,marrow: beast cr9-14"
+  },
+  "burnright brand hair dryer": {
+    "rarity": "rare",
+    "tool": "potter's tools",
+    "base": "190,mithril ingot",
+    "focus": "67,cut sapphire",
+    "item1": "1,bone: fiend cr9-14",
+    "item2": "10,organ: fiend cr9-14",
+    "item3": "6,blood: fiend cr9-14"
+  },
+  "butcher's bib": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "267,rare tile",
+    "focus": "7,cut amethyst",
+    "item1": "3,blood: celestial cr9-14",
+    "item2": "9,blood: fiend cr9-14",
+    "item3": "10,essence: undead cr9-14"
+  },
+  "caduceus flail": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "310,copper ingot",
+    "focus": "515,cut amethyst",
+    "item1": "8,fine fiber",
+    "item2": "6,uncommon potion ingredient",
+    "item3": "1,essence: elemental cr9-14"
+  },
+  "cane of phillip druskenvald (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "614,mithril ingot",
+    "focus": "193,cut jacinth",
+    "item1": "3,meat: giant cr9-14",
+    "item2": "10,durable cloth",
+    "item3": "10,fine fiber"
+  },
+  "canian fork": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "451,cut obsidian",
+    "focus": "263,cut sapphire",
+    "item1": "4,organ: aberration cr9-14",
+    "item2": "8,charcoal",
+    "item3": "3,rare tile"
+  },
+  "cape of the mountebank": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "207,cut obsidian",
+    "focus": "564,cut agate",
+    "item1": "8,bone: fiend cr9-14",
+    "item2": "5,uncommon potion ingredient",
+    "item3": "1,mass: ooze cr9-14"
+  },
+  "captain's pride": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "141,rare block",
+    "focus": "174,cut jacinth",
+    "item1": "10,blood: undead cr9-14",
+    "item2": "8,organ: monstrosity cr9-14",
+    "item3": "10,flesh: humanoid cr9-14"
+  },
+  "carla cackletooth's corruption cocktail": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "352,rare aggregate",
+    "focus": "112,cut agate",
+    "item1": "1,rare block",
+    "item2": "10,marrow: giant cr9-14",
+    "item3": "2,bark: plant cr9-14"
+  },
+  "cauldron of plenty": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "366,rare block",
+    "focus": "104,cut amethyst",
+    "item1": "7,essence: elemental cr9-14",
+    "item2": "6,flesh: celestial cr9-14",
+    "item3": "3,horn: dragon cr9-14"
+  },
+  "cauldron of the vermintoll coven (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "161,rare tile",
+    "focus": "393,cut amethyst",
+    "item1": "4,mass: ooze cr9-14",
+    "item2": "3,brain: aberration cr9-14",
+    "item3": "1,organ: monstrosity cr9-14"
+  },
+  "censer of arguing spirits": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "139,rare block",
+    "focus": "541,cut obsidian",
+    "item1": "1,rare aggregate",
+    "item2": "10,blood: undead cr9-14",
+    "item3": "7,bone: humanoid cr9-14"
+  },
+  "censer of controlling air elementals": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "158,mithril ingot",
+    "focus": "747,cut agate",
+    "item1": "6,flesh: celestial cr9-14",
+    "item2": "5,core: elemental cr9-14",
+    "item3": "7,bone: humanoid cr9-14"
+  },
+  "chain devil gloves": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "403,rare tile",
+    "focus": "339,cut obsidian",
+    "item1": "3,uncommon poison ingredient",
+    "item2": "8,residue: elemental cr9-14",
+    "item3": "4,flesh: monstrosity cr9-14"
+  },
+  "champion's greatbow": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "115,rare pole",
+    "focus": "122,cut agate",
+    "item1": "4,marrow: giant cr9-14",
+    "item2": "7,cut obsidian",
+    "item3": "9,bark: plant cr9-14"
+  },
+  "chancellor's crest": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "597,rare aggregate",
+    "focus": "22,cut jacinth",
+    "item1": "4,fine fiber",
+    "item2": "6,bark: plant cr9-14",
+    "item3": "4,plate: monstrosity cr9-14"
+  },
+  "charm of plant command": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "202,rare plank",
+    "focus": "139,cut jade",
+    "item1": "9,mass: plant cr9-14",
+    "item2": "9,hide: beast cr9-14",
+    "item3": "6,bone: fey cr9-14"
+  },
+  "chi-balancing tea": {
+    "rarity": "rare",
+    "tool": "brewer's supplies",
+    "base": "234,rare pole",
+    "focus": "250,cut obsidian",
+    "item1": "7,hide: aberration cr9-14",
+    "item2": "8,essence: elemental cr9-14",
+    "item3": "3,core: elemental cr9-14"
+  },
+  "chicken chaser": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "279,rare potion ingredient",
+    "focus": "284,cut sapphire",
+    "item1": "1,organ: aberration cr9-14",
+    "item2": "2,sap: plant cr9-14",
+    "item3": "3,marrow: beast cr9-14"
+  },
+  "chime of opening": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "109,cut obsidian",
+    "focus": "258,cut jade",
+    "item1": "9,plate: monstrosity cr9-14",
+    "item2": "5,chitin: monstrosity cr9-14",
+    "item3": "2,horn: dragon cr9-14"
+  },
+  "chimeric collar": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "707,copper ingot",
+    "focus": "54,cut sapphire",
+    "item1": "5,bone: fiend cr9-14",
+    "item2": "1,bark: plant cr9-14",
+    "item3": "6,blood: celestial cr9-14"
+  },
+  "chromatic obsidian greataxe": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "502,mithril ingot",
+    "focus": "96,cut jacinth",
+    "item1": "7,components: construct cr9-14",
+    "item2": "7,bone: giant cr9-14",
+    "item3": "6,flesh: humanoid cr9-14"
+  },
+  "chromatic rose": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "596,cut obsidian",
+    "focus": "125,cut agate",
+    "item1": "10,uncommon poison ingredient",
+    "item2": "1,rare plank",
+    "item3": "3,meat: fey cr9-14"
+  },
+  "chronicle of fools": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "60,rare plank",
+    "focus": "493,cut agate",
+    "item1": "7,marrow: giant cr9-14",
+    "item2": "6,bone: giant cr9-14",
+    "item3": "5,brain: aberration cr9-14"
+  },
+  "chunk of oozing fungus": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "120,rare aggregate",
+    "focus": "170,cut jade",
+    "item1": "7,horn: dragon cr9-14",
+    "item2": "8,charcoal",
+    "item3": "5,spores: plant cr9-14"
+  },
+  "circlet of valor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "574,rare tile",
+    "focus": "207,cut moonstone",
+    "item1": "5,cut obsidian",
+    "item2": "8,blood: fey cr9-14",
+    "item3": "10,blood: undead cr9-14"
+  },
+  "claw of the wyrm rune": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "631,rare tile",
+    "focus": "160,cut sapphire",
+    "item1": "3,bone: fey cr9-14",
+    "item2": "3,organ: fiend cr9-14",
+    "item3": "5,flesh: undead cr9-14"
+  },
+  "claws of the umber hulk": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "587,rare plank",
+    "focus": "150,cut jade",
+    "item1": "9,uncommon potion ingredient",
+    "item2": "4,cut obsidian",
+    "item3": "6,bone: fey cr9-14"
+  },
+  "cloak of displacement": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "340,copper ingot",
+    "focus": "154,cut jade",
+    "item1": "2,bone: beast cr9-14",
+    "item2": "5,plate: monstrosity cr9-14",
+    "item3": "10,mithril ingot"
+  },
+  "cloak of the bat": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "213,copper ingot",
+    "focus": "238,cut moonstone",
+    "item1": "5,mithril ingot",
+    "item2": "8,rare tile",
+    "item3": "3,marrow: beast cr9-14"
+  },
+  "cloak of the stygian bat": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "710,rare pole",
+    "focus": "265,cut moonstone",
+    "item1": "3,mithril ingot",
+    "item2": "5,gear: construct cr9-14",
+    "item3": "9,hide: beast cr9-14"
+  },
+  "clockwork colony toolbox": {
+    "rarity": "rare",
+    "tool": "carpenter's tools",
+    "base": "188,rare tile",
+    "focus": "308,cut obsidian",
+    "item1": "8,organ: humanoid cr9-14",
+    "item2": "8,marrow: beast cr9-14",
+    "item3": "2,rare block"
+  },
+  "coal from the wandering line": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "264,copper ingot",
+    "focus": "181,cut jade",
+    "item1": "6,horn: dragon cr9-14",
+    "item2": "7,rare tile",
+    "item3": "7,plate: monstrosity cr9-14"
+  },
+  "coat of lies": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "296,cut obsidian",
+    "focus": "190,cut jacinth",
+    "item1": "6,organ: celestial cr9-14",
+    "item2": "2,blood: celestial cr9-14",
+    "item3": "2,rare pole"
+  }
+}

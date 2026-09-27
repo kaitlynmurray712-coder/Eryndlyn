@@ -1,0 +1,272 @@
+{
+  "orostead iced tea (very rare)": {
+    "rarity": "very rare",
+    "tool": "brewer's supplies",
+    "base": "4937,very rare block",
+    "focus": "3446,cut opal",
+    "item1": "4,bone: beast cr15-21",
+    "item2": "8,very rare fish fillet",
+    "item3": "4,slime: ooze cr15-21",
+    "item4": "3,core: ooze cr15-21"
+  },
+  "pathfinder's boots": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "1732,very rare aggregate",
+    "focus": "5480,cut diamond",
+    "item1": "10,core: construct cr15-21",
+    "item2": "5,meat: beast cr15-21",
+    "item3": "3,flesh: monstrosity cr15-21",
+    "item4": "7,adamantine ingot"
+  },
+  "pathfinder's pebble": {
+    "rarity": "very rare",
+    "tool": "cartographer's tools",
+    "base": "5414,adamantine ingot",
+    "focus": "2132,cut ruby",
+    "item1": "6,scale: dragon cr15-21",
+    "item2": "3,organ: humanoid cr15-21",
+    "item3": "8,very rare pole",
+    "item4": "2,meat: beast cr15-21"
+  },
+  "pendant of grave regeneration": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3991,lodestone",
+    "focus": "4499,lodestone",
+    "item1": "6,essence: undead cr15-21",
+    "item2": "6,organ: humanoid cr15-21",
+    "item3": "8,bone: fiend cr15-21",
+    "item4": "6,core: fiend cr15-21"
+  },
+  "pennant of the vind rune": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "1564,lodestone",
+    "focus": "1510,cut opal",
+    "item1": "6,brain: aberration cr15-21",
+    "item2": "10,gear: construct cr15-21",
+    "item3": "5,very rare potion ingredient",
+    "item4": "6,flesh: aberration cr15-21"
+  },
+  "peregrine mask": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "2020,mizzium ingot",
+    "focus": "6469,cut hearthstone",
+    "item1": "9,core: ooze cr15-21",
+    "item2": "9,hide: beast cr15-21",
+    "item3": "8,very rare block",
+    "item4": "10,blood: undead cr15-21"
+  },
+  "phasing bow": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3339,very rare aggregate",
+    "focus": "6332,cut opal",
+    "item1": "10,hizagkuur ingot",
+    "item2": "7,essence: undead cr15-21",
+    "item3": "3,core: fey cr15-21",
+    "item4": "8,very rare poison ingredient"
+  },
+  "phoenix breastplate": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4450,very rare tile",
+    "focus": "2062,cut diamond",
+    "item1": "5,mizzium ingot",
+    "item2": "2,marrow: beast cr15-21",
+    "item3": "10,hide: beast cr15-21",
+    "item4": "4,very rare aggregate"
+  },
+  "phoenix rocket sword": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4605,gold ingot",
+    "focus": "2289,cut diamond",
+    "item1": "10,quicksilver",
+    "item2": "1,residue: elemental cr15-21",
+    "item3": "2,very rare poison ingredient",
+    "item4": "8,essence: fey cr15-21"
+  },
+  "planchette of adela druskenvald (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2342,mizzium ingot",
+    "focus": "1618,cut opal",
+    "item1": "4,organ: monstrosity cr15-21",
+    "item2": "7,sap: plant cr15-21",
+    "item3": "3,very rare plank",
+    "item4": "4,meat: dragon cr15-21"
+  },
+  "poison absorbing tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "5295,very rare tile",
+    "focus": "3854,cut hearthstone",
+    "item1": "2,components: construct cr15-21",
+    "item2": "8,core: celestial cr15-21",
+    "item3": "8,spores: plant cr15-21",
+    "item4": "7,heart: dragon cr15-21"
+  },
+  "polymorph blade": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3911,gold ingot",
+    "focus": "4409,cut ruby",
+    "item1": "10,dreamlily",
+    "item2": "5,core: celestial cr15-21",
+    "item3": "3,organ: humanoid cr15-21",
+    "item4": "6,very rare block"
+  },
+  "potion of cloud giant strength": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "4231,mizzium ingot",
+    "focus": "4048,cut hearthstone",
+    "item1": "4,rare poison ingredient",
+    "item2": "2,adamantine ingot",
+    "item3": "2,hide: beast cr15-21",
+    "item4": "4,very rare tile"
+  },
+  "potion of flying": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "4208,very rare tile",
+    "focus": "4257,cut diamond",
+    "item1": "2,meat: giant cr15-21",
+    "item2": "6,residue: elemental cr15-21",
+    "item3": "7,core: elemental cr15-21",
+    "item4": "5,bone: giant cr15-21"
+  },
+  "potion of greater invisibility": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "2019,platinum ingot",
+    "focus": "2899,cut ruby",
+    "item1": "7,sap: plant cr15-21",
+    "item2": "5,core: celestial cr15-21",
+    "item3": "2,organ: celestial cr15-21",
+    "item4": "7,brain: aberration cr15-21"
+  },
+  "potion of longevity": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "4381,hizagkuur ingot",
+    "focus": "4306,cut diamond",
+    "item1": "3,meat: fey cr15-21",
+    "item2": "2,essence: elemental cr15-21",
+    "item3": "3,lodestone",
+    "item4": "6,bone: undead cr15-21"
+  },
+  "potion of mind control (monster)": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "4550,very rare block",
+    "focus": "2645,cut opal",
+    "item1": "5,flesh: aberration cr15-21",
+    "item2": "9,meat: fey cr15-21",
+    "item3": "5,core: fey cr15-21",
+    "item4": "1,bone: humanoid cr15-21"
+  },
+  "potion of possibility": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "8603,very rare aggregate",
+    "focus": "224,cut opal",
+    "item1": "4,essence: undead cr15-21",
+    "item2": "5,bone: beast cr15-21",
+    "item3": "9,very rare tile",
+    "item4": "8,mizzium ingot"
+  },
+  "potion of speed": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "3728,very rare block",
+    "focus": "369,cut opal",
+    "item1": "6,organ: humanoid cr15-21",
+    "item2": "6,components: construct cr15-21",
+    "item3": "8,meat: giant cr15-21",
+    "item4": "10,meat: beast cr15-21"
+  },
+  "potion of supreme healing": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "2612,very rare aggregate",
+    "focus": "4056,cut ruby",
+    "item1": "6,organ: aberration cr15-21",
+    "item2": "7,very rare poison ingredient",
+    "item3": "4,meat: dragon cr15-21",
+    "item4": "6,gland: dragon cr15-21"
+  },
+  "potion of vitality": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "6053,very rare tile",
+    "focus": "3461,cut diamond",
+    "item1": "10,marrow: giant cr15-21",
+    "item2": "1,essence: fey cr15-21",
+    "item3": "2,marrow: beast cr15-21",
+    "item4": "1,organ: humanoid cr15-21"
+  },
+  "prehistoric figurine of wondrous power, carnelian triceratops": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1484,gold ingot",
+    "focus": "2008,cut diamond",
+    "item1": "4,meat: beast cr15-21",
+    "item2": "10,marrow: beast cr15-21",
+    "item3": "10,very rare potion ingredient",
+    "item4": "1,mass: ooze cr15-21"
+  },
+  "psychic absorbing tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "2667,very rare block",
+    "focus": "4267,cut hearthstone",
+    "item1": "10,very rare tile",
+    "item2": "4,very rare aggregate",
+    "item3": "5,lodestone",
+    "item4": "8,rare potion ingredient"
+  },
+  "quarterstaff of the acrobat": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "1842,lodestone",
+    "focus": "826,cut diamond",
+    "item1": "2,hizagkuur ingot",
+    "item2": "4,bark: plant cr15-21",
+    "item3": "8,mass: ooze cr15-21",
+    "item4": "6,adamantine ingot"
+  },
+  "radiant absorbing tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "3496,lodestone",
+    "focus": "3166,cut sunstone",
+    "item1": "3,heart: dragon cr15-21",
+    "item2": "10,adamantine ingot",
+    "item3": "6,meat: dragon cr15-21",
+    "item4": "10,gland: dragon cr15-21"
+  },
+  "radiant war pick": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "7636,lodestone",
+    "focus": "1436,cut diamond",
+    "item1": "9,hizagkuur ingot",
+    "item2": "2,meat: dragon cr15-21",
+    "item3": "1,flesh: celestial cr15-21",
+    "item4": "1,very rare aggregate"
+  },
+  "raptor feather robe": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "6872,platinum ingot",
+    "focus": "2758,cut bloodstone",
+    "item1": "7,organ: monstrosity cr15-21",
+    "item2": "2,organ: celestial cr15-21",
+    "item3": "1,core: aberration cr15-21",
+    "item4": "2,organ: aberration cr15-21"
+  }
+}

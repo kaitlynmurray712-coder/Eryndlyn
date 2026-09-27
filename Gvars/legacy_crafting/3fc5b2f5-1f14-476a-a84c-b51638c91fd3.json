@@ -1,0 +1,330 @@
+{
+  "evoker's exchange": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "46,uncommon aggregate",
+    "focus": "31,cut amber",
+    "item1": "5,bone: beast cr5-8",
+    "item2": "5,silver ingot"
+  },
+  "eye of sunrise": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "18,lead ingot",
+    "focus": "3,cut amber",
+    "item1": "1,essence: elemental cr5-8",
+    "item2": "6,uncommon block"
+  },
+  "eyedrops of clarity": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "6,uncommon aggregate",
+    "focus": "70,cut amber",
+    "item1": "1,bark: plant cr5-8",
+    "item2": "10,components: construct cr5-8"
+  },
+  "eyes of charming": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "40,uncommon pole",
+    "focus": "32,cut quartz",
+    "item1": "10,uncommon block",
+    "item2": "4,organ: fiend cr5-8"
+  },
+  "eyes of minute seeing": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "13,uncommon tile",
+    "focus": "12,cut emerald",
+    "item1": "10,flesh: celestial cr5-8",
+    "item2": "1,blood: dragon cr5-8"
+  },
+  "eyes of the beheld": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "38,uncommon aggregate",
+    "focus": "29,cut onyx",
+    "item1": "6,bone: undead cr5-8",
+    "item2": "3,uncommon plank"
+  },
+  "eyes of the eagle": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "1,uncommon aggregate",
+    "focus": "16,cut amber",
+    "item1": "6,cloth",
+    "item2": "9,blood: humanoid cr5-8"
+  },
+  "fabulist gem": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "46,uncommon aggregate",
+    "focus": "23,cut quartz",
+    "item1": "1,common potion ingredient",
+    "item2": "10,lead ingot"
+  },
+  "familiar figurine": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "2,silver ingot",
+    "focus": "9,cut amber",
+    "item1": "10,blood: humanoid cr5-8",
+    "item2": "4,chitin: monstrosity cr5-8"
+  },
+  "familiar's collar": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "31,iron ingot",
+    "focus": "8,cut topaz",
+    "item1": "10,uncommon pole",
+    "item2": "3,uncommon block"
+  },
+  "feather rock": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "13,lead ingot",
+    "focus": "1,cut topaz",
+    "item1": "5,fiber",
+    "item2": "7,flesh: humanoid cr5-8"
+  },
+  "felling greataxe": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "2,uncommon aggregate",
+    "focus": "49,cut onyx",
+    "item1": "10,hide: fey cr5-8",
+    "item2": "7,bone: beast cr5-8"
+  },
+  "fey blade": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "3,lead ingot",
+    "focus": "33,cut quartz",
+    "item1": "5,common potion ingredient",
+    "item2": "2,silver ingot"
+  },
+  "feywatch shield": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "1,iron ingot",
+    "focus": "52,cut emerald",
+    "item1": "7,gland: monstrosity cr5-8",
+    "item2": "8,bone: beast cr5-8"
+  },
+  "feywild shard": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "7,uncommon block",
+    "focus": "34,cut amber",
+    "item1": "10,essence: fey cr5-8",
+    "item2": "5,cloth"
+  },
+  "feywood ivy": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "21,silver ingot",
+    "focus": "3,cut emerald",
+    "item1": "1,cloth",
+    "item2": "5,mass: plant cr5-8"
+  },
+  "field cauldron": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "14,uncommon pole",
+    "focus": "25,cut quartz",
+    "item1": "4,iron ingot",
+    "item2": "7,common potion ingredient"
+  },
+  "figurine of wondrous power, silver raven": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "6,lead ingot",
+    "focus": "17,cut emerald",
+    "item1": "7,blood: fiend cr5-8",
+    "item2": "1,flour"
+  },
+  "finder's goggles": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "43,iron ingot",
+    "focus": "31,cut topaz",
+    "item1": "5,blood: undead cr5-8",
+    "item2": "9,hide: aberration cr5-8"
+  },
+  "fire shield": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "8,iron ingot",
+    "focus": "12,cut topaz",
+    "item1": "10,scale: dragon cr5-8",
+    "item2": "4,uncommon aggregate"
+  },
+  "fists of the guiding star": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "56,uncommon pole",
+    "focus": "17,cut onyx",
+    "item1": "5,uncommon aggregate",
+    "item2": "3,scale: dragon cr5-8"
+  },
+  "fizzing green": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "36,uncommon pole",
+    "focus": "26,cut quartz",
+    "item1": "8,residue: elemental cr5-8",
+    "item2": "7,uncommon block"
+  },
+  "flame lance": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "36,uncommon pole",
+    "focus": "8,cut amber",
+    "item1": "7,uncommon tile",
+    "item2": "9,residue: elemental cr5-8"
+  },
+  "flamebreather staff": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "26,uncommon pole",
+    "focus": "1,cut topaz",
+    "item1": "7,uncommon tile",
+    "item2": "1,essence: elemental cr5-8"
+  },
+  "flammable tincture": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "14,lead ingot",
+    "focus": "9,cut onyx",
+    "item1": "5,meat: dragon cr5-8",
+    "item2": "3,chitin: monstrosity cr5-8"
+  },
+  "flood pauldron": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "39,uncommon tile",
+    "focus": "22,cut amber",
+    "item1": "4,meat: giant cr5-8",
+    "item2": "2,bone: celestial cr5-8"
+  },
+  "flying broomstick": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "2,uncommon pole",
+    "focus": "14,cut quartz",
+    "item1": "8,residue: elemental cr5-8",
+    "item2": "4,essence: elemental cr5-8"
+  },
+  "focus circlet": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "4,uncommon pole",
+    "focus": "8,cut quartz",
+    "item1": "5,meat: dragon cr5-8",
+    "item2": "9,bone: monstrosity cr5-8"
+  },
+  "forge slag": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "15,uncommon aggregate",
+    "focus": "64,cut quartz",
+    "item1": "1,flesh: humanoid cr5-8",
+    "item2": "5,bark: plant cr5-8"
+  },
+  "forgekeeper's spark": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "7,uncommon aggregate",
+    "focus": "37,cut emerald",
+    "item1": "1,silver ingot",
+    "item2": "7,uncommon plank"
+  },
+  "gardener's solution": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "48,uncommon aggregate",
+    "focus": "2,cut emerald",
+    "item1": "7,bone: aberration cr5-8",
+    "item2": "2,slime: ooze cr5-8"
+  },
+  "gargoyle hooch": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "30,uncommon plank",
+    "focus": "32,cut quartz",
+    "item1": "7,iron ingot",
+    "item2": "10,blood: undead cr5-8"
+  },
+  "gargoyle powder": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "29,uncommon block",
+    "focus": "51,cut amber",
+    "item1": "10,flesh: celestial cr5-8",
+    "item2": "3,fiber"
+  },
+  "gauntlets of deliverance": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "18,iron ingot",
+    "focus": "4,cut topaz",
+    "item1": "3,components: construct cr5-8",
+    "item2": "7,uncommon tile"
+  },
+  "gauntlets of ogre power": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "20,iron ungot",
+    "focus": "56,cut onyx",
+    "item1": "3,plating: construct cr5-8",
+    "item2": "5,bone: giant cr5-8"
+  },
+  "gelatinous whip": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "20,silver ingot",
+    "focus": "33,cut quartz",
+    "item1": "5,organ: fiend cr5-8",
+    "item2": "8,blood: celestial cr5-8"
+  },
+  "gem of brightness": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "23,uncommon tile",
+    "focus": "9,cut onyx",
+    "item1": "8,residue: elemental cr5-8",
+    "item2": "1,flesh: undead cr5-8"
+  },
+  "glass carver": {
+    "rarity": "uncommon",
+    "tool": "glassblower's tools",
+    "base": "3,silver ingot",
+    "focus": "24,cut quartz",
+    "item1": "4,bone: beast cr5-8",
+    "item2": "10,iron ingot"
+  },
+  "gloves of amphibios": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "34,lead ingot",
+    "focus": "12,cut emerald",
+    "item1": "2,uncommon aggregate",
+    "item2": "10,bone: monstrosity cr5-8"
+  },
+  "gloves of missile snaring": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "9,iron ingot",
+    "focus": "50,cut onyx",
+    "item1": "9,blood: celestial cr5-8",
+    "item2": "1,fiber"
+  },
+  "blood capsule": {
+    "rarity": "uncommon",
+    "tool": "glassblower's tools",
+    "base": "35,uncommon glass",
+    "focus": "45,cut onyx",
+    "item1": "8,blood: humanoid cr5-8",
+    "item2": "7,essence: undead cr5-8"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "mizzium apparatus": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "7,uncommon aggregate",
+    "focus": "35,cut quartz",
+    "item1": "8,uncommon block",
+    "item2": "1,plating: construct cr5-8"
+  },
+  "molted lizard skin": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "18,iron ingot",
+    "focus": "41,cut emerald",
+    "item1": "2,residue: elemental cr5-8",
+    "item2": "4,flesh: monstrosity cr5-8"
+  },
+  "monocle of secrets": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "76,uncommon tile",
+    "focus": "5,cut onyx",
+    "item1": "8,organ: aberration cr5-8",
+    "item2": "8,hide: aberration cr5-8"
+  },
+  "mosspot": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "12,uncommon tile",
+    "focus": "27,cut quartz",
+    "item1": "3,common potion ingredient",
+    "item2": "9,flour"
+  },
+  "mountain snail": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "42,uncommon pole",
+    "focus": "34,cut emerald",
+    "item1": "10,bone: celestial cr5-8",
+    "item2": "4,meat: fey cr5-8"
+  },
+  "mourningsteel ghost candle": {
+    "rarity": "uncommon",
+    "tool": "potter's tools",
+    "base": "35,uncommon tile",
+    "focus": "12,cut onyx",
+    "item1": "8,blood: undead cr5-8",
+    "item2": "9,flesh: undead cr5-8"
+  },
+  "mournshade": {
+    "rarity": "uncommon",
+    "tool": "potter's tools",
+    "base": "3,uncommon tile",
+    "focus": "50,cut topaz",
+    "item1": "4,essence: fey cr5-8",
+    "item2": "1,common potion ingredient"
+  },
+  "move a thing": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "35,uncommon tile",
+    "focus": "45,cut amber",
+    "item1": "8,uncommon block",
+    "item2": "9,uncommon aggregate"
+  },
+  "mummy rot antidote": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "19,uncommon pole",
+    "focus": "58,cut quartz",
+    "item1": "9,uncommon tile",
+    "item2": "7,meat: fey cr5-8"
+  },
+  "munchanka root": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "8,uncommon tile",
+    "focus": "9,cut amber",
+    "item1": "3,blood: undead cr5-8",
+    "item2": "6,uncommon block"
+  },
+  "murk blowgun": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "48,uncommon aggregate",
+    "focus": "19,cut amber",
+    "item1": "10,blood: dragon cr5-8",
+    "item2": "9,flesh: monstrosity cr5-8"
+  },
+  "mustard painted stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "50,uncommon tile",
+    "focus": "31,cut quartz",
+    "item1": "9,mass: ooze cr5-8",
+    "item2": "7,hide: fey cr5-8"
+  },
+  "nakudama spice": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "6,lead ingot",
+    "focus": "11,cut quartz",
+    "item1": "5,essence: elemental cr5-8",
+    "item2": "5,mass: ooze cr5-8"
+  },
+  "nature's mantle": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "47,silver ingot",
+    "focus": "34,cut emerald",
+    "item1": "3,uncommon aggregate",
+    "item2": "6,iron ingot"
+  },
+  "necklace of adaptation": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "6,uncommon aggregate",
+    "focus": "75,cut amber",
+    "item1": "7,sap: plant cr5-8",
+    "item2": "3,fiber"
+  },
+  "nest charm": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "29,lead ingot",
+    "focus": "44,cut topaz",
+    "item1": "5,hide: fey cr5-8",
+    "item2": "1,scale: dragon cr5-8"
+  },
+  "night caller": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "44,lead ingot",
+    "focus": "8,cut onyx",
+    "item1": "9,organ: aberration cr5-8",
+    "item2": "8,blood: fiend cr5-8"
+  },
+  "night messenger's coat": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "37,silver ingot",
+    "focus": "2,cut onyx",
+    "item1": "5,flesh: aberration cr5-8",
+    "item2": "6,blood: fiend cr5-8"
+  },
+  "night owl's half-moon spectacles": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "4,iron ingot",
+    "focus": "32,cut onyx",
+    "item1": "4,flesh: aberration cr5-8",
+    "item2": "8,common potion ingredient"
+  },
+  "night thistle": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "41,uncommon tile",
+    "focus": "34,cut onyx",
+    "item1": "3,flesh: undead cr5-8",
+    "item2": "6,blood: undead cr5-8"
+  },
+  "no-stones": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "42,uncommon block",
+    "focus": "33,cut quartz",
+    "item1": "8,flesh: humanoid cr5-8",
+    "item2": "2,bone: giant cr5-8"
+  },
+  "noodle eel": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "31,uncommon block",
+    "focus": "10,cut emerald",
+    "item1": "3,lead ingot",
+    "item2": "4,cloth"
+  },
+  "object embodiment": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "52,silver ingot",
+    "focus": "3,cut amber",
+    "item1": "9,cloth",
+    "item2": "6,fiber"
+  },
+  "oil of slipperiness": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "42,lead ingot",
+    "focus": "11,cut emerald",
+    "item1": "1,bark: plant cr5-8",
+    "item2": "1,mass: ooze cr5-8"
+  },
+  "ol' stumpy": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "8,uncommon plank",
+    "focus": "5,cut topaz",
+    "item1": "4,bone: humanoid cr5-8",
+    "item2": "8,uncommon aggregate"
+  },
+  "only members jacket": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "23,silver ingot",
+    "focus": "30,cut amber",
+    "item1": "5,residue: elemental cr5-8",
+    "item2": "10,essence: elemental cr5-8"
+  },
+  "opu opu spring water": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "20,iron ingot",
+    "focus": "55,cut quartz",
+    "item1": "6,meat: beast cr5-8",
+    "item2": "7,common potion ingredient"
+  },
+  "orc stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "41,uncommon block",
+    "focus": "16,cut emerald",
+    "item1": "9,uncommon plank",
+    "item2": "4,common potion ingredient"
+  },
+  "orchard seed": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "26,uncommon plank",
+    "focus": "23,cut emerald",
+    "item1": "1,meat: fey cr5-8",
+    "item2": "9,common potion ingredient"
+  },
+  "orner's venomous crossbow": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "10,uncommon pole",
+    "focus": "60,cut onyx",
+    "item1": "1,uncommon fish fillet",
+    "item2": "6,uncommon aggregate"
+  },
+  "orzhov guild signet": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "4,uncommon pole",
+    "focus": "37,cut amber",
+    "item1": "6,bone: celestial cr5-8",
+    "item2": "4,flesh: celestial cr5-8"
+  },
+  "overseer's spade": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "35,uncommon plank",
+    "focus": "17,cut quartz",
+    "item1": "9,uncommon fish fillet",
+    "item2": "2,uncommon pole"
+  },
+  "owlbear leather armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "26,iron ingot",
+    "focus": "53,cut quartz",
+    "item1": "9,gland: monstrosity cr5-8",
+    "item2": "1,chitin: monstrosity cr5-8"
+  },
+  "painted stones": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "34,uncommon aggregate",
+    "focus": "54,cut onyx",
+    "item1": "5,uncommon tile",
+    "item2": "3,meat: giant cr5-8"
+  },
+  "paper bird": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "61,silver ingot",
+    "focus": "7,cut amber",
+    "item1": "2,scale: dragon cr5-8",
+    "item2": "9,gear: construct cr5-8"
+  },
+  "partridge armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "11,uncommon aggregate",
+    "focus": "11,cut quartz",
+    "item1": "1,components: construct cr5-8",
+    "item2": "6,hide: beast cr5-8"
+  },
+  "pearl of power": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "63,uncommon tile",
+    "focus": "1,cut topaz",
+    "item1": "1,uncommon plank",
+    "item2": "2,flesh: fiend cr5-8"
+  },
+  "pegasus quill": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "22,iron ingot",
+    "focus": "49,cut topaz",
+    "item1": "6,meat: giant cr5-8",
+    "item2": "7,bark: plant cr5-8"
+  },
+  "pendant of prismatic protection": {
+    "rarity": "uncommon",
+    "tool": "glassblower's tools",
+    "base": "49,uncommon block",
+    "focus": "29,cut quartz",
+    "item1": "7,blood: celestial cr5-8",
+    "item2": "6,mass: ooze cr5-8"
+  },
+  "pendants of belonging": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "23,uncommon tile",
+    "focus": "44,cut onyx",
+    "item1": "4,gland: monstrosity cr5-8",
+    "item2": "1,blood: undead cr5-8"
+  }
+}

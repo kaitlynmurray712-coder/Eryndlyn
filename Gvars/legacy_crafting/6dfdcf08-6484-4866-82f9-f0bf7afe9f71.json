@@ -1,0 +1,282 @@
+{
+  "+3 arcane grimoire": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "4630,gold ingot",
+    "focus": "4017,cut opal",
+    "item1": "6,core: aberration cr15-21",
+    "item2": "10,flesh: aberration cr15-21",
+    "item3": "1,core: fey cr15-21",
+    "item4": "6,meat: fey cr15-21"
+  },
+  "+3 bloodwell vial": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "3999,mizzium ingot",
+    "focus": "310,cut bloodstone",
+    "item1": "6,very rare tile",
+    "item2": "6,gold ingot",
+    "item3": "3,gland: dragon cr15-21",
+    "item4": "8,organ: monstrosity cr15-21"
+  },
+  "+3 dragonhide belt": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "2807,platinum ingot",
+    "focus": "1440,cut ruby",
+    "item1": "7,hizagkuur ingot",
+    "item2": "8,mizzium ingot",
+    "item3": "5,blood: fiend cr15-21",
+    "item4": "4,very rare aggregate"
+  },
+  "+3 moon sickle": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "361,very rare aggregate",
+    "focus": "8378,cut bloodstone",
+    "item1": "8,core: construct cr15-21",
+    "item2": "5,bone: fey cr15-21",
+    "item3": "5,gland: dragon cr15-21",
+    "item4": "6,bone: humanoid cr15-21"
+  },
+  "+3 rhythm-maker's drum": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "1165,platinum ingot",
+    "focus": "4478,cut diamond",
+    "item1": "3,organ: aberration cr15-21",
+    "item2": "1,bone: humanoid cr15-21",
+    "item3": "10,bark: plant cr15-21",
+    "item4": "1,scale: dragon cr15-21"
+  },
+  "+3 rod of the pact keeper": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "5348,very rare plank",
+    "focus": "985,cut ruby",
+    "item1": "3,dreamlily",
+    "item2": "9,mass: ooze cr15-21",
+    "item3": "10,very rare tile",
+    "item4": "7,bone: giant cr15-21"
+  },
+  "+3 shield (*)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "7091,adamantine ingot",
+    "focus": "2788,cut hearthstone",
+    "item1": "3,marrow: beast cr15-21",
+    "item2": "2,hide: beast cr15-21",
+    "item3": "8,very rare aggregate",
+    "item4": "9,platinum ingot"
+  },
+  "+3 wand of the war mage": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "2478,very rare plank",
+    "focus": "762,cut opal",
+    "item1": "9,organ: humanoid cr15-21",
+    "item2": "4,sap: plant cr15-21",
+    "item3": "3,mizzium ingot",
+    "item4": "5,core: undead cr15-21"
+  },
+  "+3 weapon": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "6592,hizagkuur ingot",
+    "focus": "1669,cut opal",
+    "item1": "6,horn: dragon cr15-21",
+    "item2": "9,residue: elemental cr15-21",
+    "item3": "2,gear: construct cr15-21",
+    "item4": "2,core: ooze cr15-21"
+  },
+  "+3 weapon (no damage)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "104,very rare block",
+    "focus": "3795,cut opal",
+    "item1": "4,bone: fey cr15-21",
+    "item2": "7,flesh: monstrosity cr15-21",
+    "item3": "6,residue: elemental cr15-21",
+    "item4": "6,core: fiend cr15-21"
+  },
+  "+3 wraps of unarmed power": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "739,very rare plank",
+    "focus": "3166,cut sunstone",
+    "item1": "5,adamantine ingot",
+    "item2": "1,sap: plant cr15-21",
+    "item3": "4,very rare potion ingredient",
+    "item4": "4,very rare poison ingredient"
+  },
+  "abjurer's bangle (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1857,very rare tile",
+    "focus": "4695,cut hearthstone",
+    "item1": "8,core: celestial cr15-21",
+    "item2": "9,dreamlily",
+    "item3": "10,flesh: humanoid cr15-21",
+    "item4": "1,mass: plant cr15-21"
+  },
+  "abracadabrus": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3455,very rare block",
+    "focus": "4707,cut bloodstone",
+    "item1": "7,essence: elemental cr15-21",
+    "item2": "2,very rare poison ingredient",
+    "item3": "3,meat: giant cr15-21",
+    "item4": "3,very rare potion ingredient"
+  },
+  "absorbing tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "5811,lodestone",
+    "focus": "2427,cut diamond",
+    "item1": "1,mass: ooze cr15-21",
+    "item2": "2,rare potion ingredient",
+    "item3": "5,essence: undead cr15-21",
+    "item4": "7,brain: aberration cr15-21"
+  },
+  "acid absorbing tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "3639,very rare tile",
+    "focus": "4085,cut opal",
+    "item1": "4,rare poison ingredient",
+    "item2": "2,blood: fiend cr15-21",
+    "item3": "10,marrow: beast cr15-21",
+    "item4": "9,mass: plant cr15-21"
+  },
+  "aciurgist's blade": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2891,mizzium ingot",
+    "focus": "2449,cut bloodstone",
+    "item1": "6,very rare plank",
+    "item2": "4,flesh: monstrosity cr15-21",
+    "item3": "6,core: fey cr15-21",
+    "item4": "8,organ: celestial cr15-21"
+  },
+  "amber birdcage": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "2060,adamantine ingot",
+    "focus": "5510,cut sunstone",
+    "item1": "7,dreamlily",
+    "item2": "5,slime: ooze cr15-21",
+    "item3": "6,very rare poison ingredient",
+    "item4": "10,flesh: humanoid cr15-21"
+  },
+  "amethyst lodestone": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "2813,mizzium ingot",
+    "focus": "5155,cut opal",
+    "item1": "4,rare poison ingredient",
+    "item2": "10,blood: undead cr15-21",
+    "item3": "9,essence: fey cr15-21",
+    "item4": "8,residue: elemental cr15-21"
+  },
+  "ammunition of slaying": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2166,very rare pole",
+    "focus": "3394,cut hearthstone",
+    "item1": "7,bone: beast cr15-21",
+    "item2": "3,bone: undead cr15-21",
+    "item3": "7,slime: ooze cr15-21",
+    "item4": "4,very rare poison ingredient"
+  },
+  "amulet of betrayal": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3157,mizzium ingot",
+    "focus": "2991,cut hearthstone",
+    "item1": "6,bone: beast cr15-21",
+    "item2": "10,platinum ingot",
+    "item3": "8,organ: monstrosity cr15-21",
+    "item4": "6,meat: beast cr15-21"
+  },
+  "amulet of duplicity": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "225,platinum ingot",
+    "focus": "4565,cut diamond",
+    "item1": "3,marrow: beast cr15-21",
+    "item2": "10,hizagkuur ingot",
+    "item3": "3,flesh: monstrosity cr15-21",
+    "item4": "7,mizzium ingot"
+  },
+  "amulet of the black skull": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "7149,very rare plank",
+    "focus": "546,cut bloodstone",
+    "item1": "5,core: aberration cr15-21",
+    "item2": "1,very rare tile",
+    "item3": "4,core: undead cr15-21",
+    "item4": "7,flesh: fiend cr15-21"
+  },
+  "amulet of the planes": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "5926,very rare block",
+    "focus": "1318,cut diamond",
+    "item1": "5,flesh: monstrosity cr15-21",
+    "item2": "7,gear: construct cr15-21",
+    "item3": "6,components: construct cr15-21",
+    "item4": "6,core: construct cr15-21"
+  },
+  "amulet of the spirit naga": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4047,gold ingot",
+    "focus": "500,lodestone",
+    "item1": "4,flesh: humanoid cr15-21",
+    "item2": "6,bone: humanoid cr15-21",
+    "item3": "6,very rare aggregate",
+    "item4": "4,flesh: undead cr15-21"
+  },
+  "animated shield": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4328,gold ingot",
+    "focus": "3327,cut diamond",
+    "item1": "10,components: construct cr15-21",
+    "item2": "6,hizagkuur ingot",
+    "item3": "1,meat: beast cr15-21",
+    "item4": "10,hide: beast cr15-21"
+  },
+  "antimagic armor": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "5130,hizagkuur ingot",
+    "focus": "3087,cut hearthstone",
+    "item1": "7,plate: monstrosity cr15-21",
+    "item2": "5,flesh: monstrosity cr15-21",
+    "item3": "9,adamantine ingot",
+    "item4": "6,platinum ingot"
+  },
+  "arborguard shield": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3923,gold ingot",
+    "focus": "5138,cut diamond",
+    "item1": "7,meat: beast cr15-21",
+    "item2": "4,bone: beast cr15-21",
+    "item3": "8,mizzium ingot",
+    "item4": "8,organ: monstrosity cr15-21"
+  },
+  "arc rifle": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3191,hizagkuur ingot",
+    "focus": "109,cut opal",
+    "item1": "3,mizzium ingot",
+    "item2": "4,essence: undead cr15-21",
+    "item3": "6,scale: dragon cr15-21",
+    "item4": "5,core: fey cr15-21"
+  }
+}

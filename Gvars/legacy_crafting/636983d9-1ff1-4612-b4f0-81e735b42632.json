@@ -1,0 +1,272 @@
+{
+  "lafula's iron teapot": {
+    "rarity": "very rare",
+    "tool": "brewer's supplies",
+    "base": "824,mizzium ingot",
+    "focus": "1862,cut opal",
+    "item1": "8,blood: fiend cr15-21",
+    "item2": "1,core: elemental cr15-21",
+    "item3": "6,very rare block",
+    "item4": "8,core: celestial cr15-21"
+  },
+  "lantern of the chained reaper (very rare)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1040,platinum ingot",
+    "focus": "7415,cut opal",
+    "item1": "10,core: construct cr15-21",
+    "item2": "2,essence: elemental cr15-21",
+    "item3": "4,bark: plant cr15-21",
+    "item4": "9,gold ingot"
+  },
+  "last stand armor": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3792,adamantine ingot",
+    "focus": "1906,cut diamond",
+    "item1": "7,chitin: monstrosity cr15-21",
+    "item2": "4,components: construct cr15-21",
+    "item3": "9,gear: construct cr15-21",
+    "item4": "2,mizzium ingot"
+  },
+  "leonora's throne of indolence": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1150,lodestone",
+    "focus": "7422,cut ruby",
+    "item1": "6,very rare potion ingredient",
+    "item2": "4,chitin: monstrosity cr15-21",
+    "item3": "7,platinum ingot",
+    "item4": "7,adamantine ingot"
+  },
+  "lifewell tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "4389,gold ingot",
+    "focus": "5110,cut sunstone",
+    "item1": "2,bone: undead cr15-21",
+    "item2": "9,very rare plank",
+    "item3": "10,chitin: monstrosity cr15-21",
+    "item4": "9,lodestone"
+  },
+  "light drinker": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "7504,adamantine ingot",
+    "focus": "1489,cut diamond",
+    "item1": "8,hizagkuur ingot",
+    "item2": "9,very rare aggregate",
+    "item3": "3,scale: dragon cr15-21",
+    "item4": "1,mizzium ingot"
+  },
+  "lightning absorbing tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "425,very rare block",
+    "focus": "2272,cut ruby",
+    "item1": "2,gland: dragon cr15-21",
+    "item2": "3,flesh: celestial cr15-21",
+    "item3": "9,core: elemental cr15-21",
+    "item4": "5,horn: dragon cr15-21"
+  },
+  "lindwyrm venom": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2751,platinum ingot",
+    "focus": "6570,cut diamond",
+    "item1": "3,flesh: aberration cr15-21",
+    "item2": "9,very rare poison ingredient",
+    "item3": "6,quicksilver",
+    "item4": "6,flesh: humanoid cr15-21"
+  },
+  "living armor": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1262,hizagkuur ingot",
+    "focus": "1604,cut hearthstone",
+    "item1": "7,gold ingot",
+    "item2": "1,plate: monstrosity cr15-21",
+    "item3": "7,meat: beast cr15-21",
+    "item4": "2,mizzium ingot"
+  },
+  "lord's ensemble": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "5620,platinum ingot",
+    "focus": "2223,cut hearthstone",
+    "item1": "8,plate: monstrosity cr15-21",
+    "item2": "5,hizagkuur ingot",
+    "item3": "3,core: ooze cr15-21",
+    "item4": "10,gold ingot"
+  },
+  "lucent destroyer": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4624,very rare block",
+    "focus": "1869,cut ruby",
+    "item1": "8,organ: monstrosity cr15-21",
+    "item2": "2,residue: elemental cr15-21",
+    "item3": "9,brain: aberration cr15-21",
+    "item4": "1,flesh: monstrosity cr15-21"
+  },
+  "luma feather robe": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "2054,very rare pole",
+    "focus": "1594,cut bloodstone",
+    "item1": "4,core: elemental cr15-21",
+    "item2": "4,gear: construct cr15-21",
+    "item3": "1,very rare poison ingredient",
+    "item4": "8,blood: fiend cr15-21"
+  },
+  "lute of thunderous thumping": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2681,platinum ingot",
+    "focus": "942,cut diamond",
+    "item1": "8,gland: dragon cr15-21",
+    "item2": "3,adamantine ingot",
+    "item3": "8,essence: elemental cr15-21",
+    "item4": "7,very rare fish fillet"
+  },
+  "maddgoth's helm": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2531,adamantine ingot",
+    "focus": "2816,cut hearthstone",
+    "item1": "7,plate: monstrosity cr15-21",
+    "item2": "8,gear: construct cr15-21",
+    "item3": "6,gold ingot",
+    "item4": "5,chitin: monstrosity cr15-21"
+  },
+  "magentan sun-saw (very rare)": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "4149,platinum ingot",
+    "focus": "918,cut diamond",
+    "item1": "1,core: elemental cr15-21",
+    "item2": "7,organ: celestial cr15-21",
+    "item3": "4,flesh: celestial cr15-21",
+    "item4": "3,very rare tile"
+  },
+  "manual of bodily health": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "916,mizzium ingot",
+    "focus": "3334,cut sunstone",
+    "item1": "5,slime: ooze cr15-21",
+    "item2": "8,very rare plank",
+    "item3": "2,components: construct cr15-21",
+    "item4": "7,rare potion ingredient"
+  },
+  "manual of clay golems": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "3703,very rare plank",
+    "focus": "6149,cut ruby",
+    "item1": "6,plate: monstrosity cr15-21",
+    "item2": "10,mizzium ingot",
+    "item3": "4,dreamlily",
+    "item4": "6,essence: fey cr15-21"
+  },
+  "manual of flesh golems": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "3260,hizagkuur ingot",
+    "focus": "6482,cut sunstone",
+    "item1": "1,slime: ooze cr15-21",
+    "item2": "2,flesh: undead cr15-21",
+    "item3": "4,meat: dragon cr15-21",
+    "item4": "10,heart: dragon cr15-21"
+  },
+  "manual of gainful exercise": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "6866,lodestone",
+    "focus": "1535,cut ruby",
+    "item1": "4,slime: ooze cr15-21",
+    "item2": "7,very rare fish fillet",
+    "item3": "10,very rare aggregate",
+    "item4": "2,residue: elemental cr15-21"
+  },
+  "manual of golems": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "5280,platinum ingot",
+    "focus": "972,cut diamond",
+    "item1": "4,essence: elemental cr15-21",
+    "item2": "6,gear: construct cr15-21",
+    "item3": "2,organ: celestial cr15-21",
+    "item4": "7,hide: beast cr15-21"
+  },
+  "manual of iron golems": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "2271,hizagkuur ingot",
+    "focus": "3343,cut opal",
+    "item1": "1,quicksilver",
+    "item2": "6,hide: beast cr15-21",
+    "item3": "2,very rare block",
+    "item4": "5,residue: elemental cr15-21"
+  },
+  "manual of occult anatomy +2": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "2093,very rare plank",
+    "focus": "3198,cut diamond",
+    "item1": "2,marrow: giant cr15-21",
+    "item2": "1,meat: beast cr15-21",
+    "item3": "2,core: celestial cr15-21",
+    "item4": "8,essence: undead cr15-21"
+  },
+  "manual of quickness of action": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "3668,very rare tile",
+    "focus": "1987,cut diamond",
+    "item1": "2,flesh: celestial cr15-21",
+    "item2": "1,organ: aberration cr15-21",
+    "item3": "10,flesh: humanoid cr15-21",
+    "item4": "2,essence: elemental cr15-21"
+  },
+  "manual of stone golems": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "2140,lodestone",
+    "focus": "2983,cut diamond",
+    "item1": "8,marrow: beast cr15-21",
+    "item2": "9,flesh: undead cr15-21",
+    "item3": "6,gland: dragon cr15-21",
+    "item4": "3,very rare block"
+  },
+  "marotte of the lord of fools (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1350,lodestone",
+    "focus": "7008,cut diamond",
+    "item1": "6,adamantine ingot",
+    "item2": "8,spores: plant cr15-21",
+    "item3": "3,sap: plant cr15-21",
+    "item4": "4,components: construct cr15-21"
+  },
+  "mask of lethica nightborne (very rare)": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "3745,very rare aggregate",
+    "focus": "3541,cut bloodstone",
+    "item1": "2,flesh: fiend cr15-21",
+    "item2": "10,flesh: aberration cr15-21",
+    "item3": "3,very rare poison ingredient",
+    "item4": "6,flesh: undead cr15-21"
+  },
+  "masks of the sacred beasts (mule)": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "3918,very rare pole",
+    "focus": "1581,cut opal",
+    "item1": "1,core: fey cr15-21",
+    "item2": "6,very rare poison ingredient",
+    "item3": "5,core: plant cr15-21",
+    "item4": "9,essence: fey cr15-21"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "arc of the alicorn": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2389,very rare block",
+    "focus": "298,cut diamond",
+    "item1": "9,core: plant cr15-21",
+    "item2": "5,scale: dragon cr15-21",
+    "item3": "5,flesh: aberration cr15-21",
+    "item4": "3,blood: undead cr15-21"
+  },
+  "arcane cannon": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "90,very rare pole",
+    "focus": "5328,cut diamond",
+    "item1": "6,flesh: humanoid cr15-21",
+    "item2": "5,hide: beast cr15-21",
+    "item3": "2,meat: dragon cr15-21",
+    "item4": "1,bone: giant cr15-21"
+  },
+  "arcane propulsion arm": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "224,very rare block",
+    "focus": "3253,cut opal",
+    "item1": "9,core: celestial cr15-21",
+    "item2": "10,bone: beast cr15-21",
+    "item3": "6,marrow: beast cr15-21",
+    "item4": "4,mass: ooze cr15-21"
+  },
+  "archivist's key": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2817,mizzium ingot",
+    "focus": "50,cut diamond",
+    "item1": "8,very rare pole",
+    "item2": "8,very rare aggregate",
+    "item3": "5,heart: dragon cr15-21",
+    "item4": "2,meat: giant cr15-21"
+  },
+  "armor of safeguarding": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2172,adamantine ingot",
+    "focus": "1789,cut diamond",
+    "item1": "10,very rare block",
+    "item2": "5,organ: monstrosity cr15-21",
+    "item3": "10,components: construct cr15-21",
+    "item4": "8,marrow: beast cr15-21"
+  },
+  "armor of the white rose": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1740,quicksilver",
+    "focus": "4123,cut diamond",
+    "item1": "6,adamantine ingot",
+    "item2": "10,gold ingot",
+    "item3": "6,very rare aggregate",
+    "item4": "9,flesh: monstrosity cr15-21"
+  },
+  "axe of the galloping headsman (very rare)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "6071,very rare pole",
+    "focus": "2145,cut hearthstone",
+    "item1": "8,organ: aberration cr15-21",
+    "item2": "6,marrow: beast cr15-21",
+    "item3": "3,gear: construct cr15-21",
+    "item4": "2,quicksilver"
+  },
+  "bag of devouring": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4564,adamantine ingot",
+    "focus": "3147,cut hearthstone",
+    "item1": "10,core: fey cr15-21",
+    "item2": "5,quicksilver",
+    "item3": "9,scale: dragon cr15-21",
+    "item4": "7,rare poison ingredient"
+  },
+  "bag of eyes": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "1400,very rare aggregate",
+    "focus": "3099,cut bloodstone",
+    "item1": "4,rare potion ingredient",
+    "item2": "1,platinum ingot",
+    "item3": "4,very rare pole",
+    "item4": "4,quicksilver"
+  },
+  "baleful talon": {
+    "rarity": "very rare",
+    "tool": "brewer's supplies",
+    "base": "4403,lodestone",
+    "focus": "1213,cut diamond",
+    "item1": "5,chitin: monstrosity cr15-21",
+    "item2": "4,mass: ooze cr15-21",
+    "item3": "6,plating: construct cr15-21",
+    "item4": "2,components: construct cr15-21"
+  },
+  "banjo of ol' jericho sticks (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1364,hizagkuur ingot",
+    "focus": "6670,cut sunstone",
+    "item1": "2,bone: humanoid cr15-21",
+    "item2": "9,slime: ooze cr15-21",
+    "item3": "1,very rare tile",
+    "item4": "10,marrow: beast cr15-21"
+  },
+  "barrier tattoo (large)": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "1627,hizagkuur ingot",
+    "focus": "5655,cut hearthstone",
+    "item1": "4,bone: beast cr15-21",
+    "item2": "2,very rare poison ingredient",
+    "item3": "8,very rare fish fillet",
+    "item4": "8,flesh: celestial cr15-21"
+  },
+  "battle standard of infernal power": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4428,gold ingot",
+    "focus": "435,cut bloodstone",
+    "item1": "10,plating: construct cr15-21",
+    "item2": "5,bone: humanoid cr15-21",
+    "item3": "5,rare potion ingredient",
+    "item4": "6,dreamlily"
+  },
+  "bell of the dusk mother (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3105,mizzium ingot",
+    "focus": "2113,cut bloodstone",
+    "item1": "8,organ: humanoid cr15-21",
+    "item2": "1,plating: construct cr15-21",
+    "item3": "3,bone: beast cr15-21",
+    "item4": "3,meat: giant cr15-21"
+  },
+  "belt of fire giant strength": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "3979,quicksilver",
+    "focus": "2472,cut sunstone",
+    "item1": "1,essence: elemental cr15-21",
+    "item2": "8,gold ingot",
+    "item3": "7,platinum ingot",
+    "item4": "9,horn: dragon cr15-21"
+  },
+  "belt of frost giant strength": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "5156,platinum ingot",
+    "focus": "2934,cut opal",
+    "item1": "5,very rare potion ingredient",
+    "item2": "10,essence: elemental cr15-21",
+    "item3": "5,core: ooze cr15-21",
+    "item4": "5,slime: ooze cr15-21"
+  },
+  "belt of stone giant strength": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "767,very rare tile",
+    "focus": "7988,cut bloodstone",
+    "item1": "1,very rare plank",
+    "item2": "5,blood: undead cr15-21",
+    "item3": "1,hizagkuur ingot",
+    "item4": "4,core: ooze cr15-21"
+  },
+  "black candle": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "6874,mizzium ingot",
+    "focus": "725,lodestone",
+    "item1": "1,flesh: fiend cr15-21",
+    "item2": "2,core: fiend cr15-21",
+    "item3": "6,flesh: aberration cr15-21",
+    "item4": "10,very rare aggregate"
+  },
+  "black dragon scale mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "6933,mizzium ingot",
+    "focus": "713,cut ruby",
+    "item1": "4,core: fiend cr15-21",
+    "item2": "7,essence: elemental cr15-21",
+    "item3": "2,meat: dragon cr15-21",
+    "item4": "8,residue: elemental cr15-21"
+  },
+  "blade of the medusa": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2425,gold ingot",
+    "focus": "2620,cut hearthstone",
+    "item1": "10,rare potion ingredient",
+    "item2": "10,very rare fish fillet",
+    "item3": "4,flesh: celestial cr15-21",
+    "item4": "5,core: fey cr15-21"
+  },
+  "blast scepter": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3022,very rare plank",
+    "focus": "1878,cut opal",
+    "item1": "2,scale: dragon cr15-21",
+    "item2": "1,organ: humanoid cr15-21",
+    "item3": "1,very rare aggregate",
+    "item4": "7,plate: monstrosity cr15-21"
+  },
+  "blood moon blade": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1863,gold ingot",
+    "focus": "6387,cut opal",
+    "item1": "10,very rare poison ingredient",
+    "item2": "10,gear: construct cr15-21",
+    "item3": "1,core: ooze cr15-21",
+    "item4": "2,flesh: monstrosity cr15-21"
+  },
+  "bloodaxe": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "282,mizzium ingot",
+    "focus": "4125,cut bloodstone",
+    "item1": "9,very rare block",
+    "item2": "6,bone: giant cr15-21",
+    "item3": "5,components: construct cr15-21",
+    "item4": "3,blood: undead cr15-21"
+  },
+  "bloodsbane": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1040,platinum ingot",
+    "focus": "8645,cut sunstone",
+    "item1": "5,flesh: aberration cr15-21",
+    "item2": "5,very rare pole",
+    "item3": "3,adamantine ingot",
+    "item4": "1,flesh: humanoid cr15-21"
+  },
+  "bloodseeker ammunition": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1427,very rare aggregate",
+    "focus": "3440,cut bloodstone",
+    "item1": "4,bone: fiend cr15-21",
+    "item2": "9,flesh: celestial cr15-21",
+    "item3": "4,components: construct cr15-21",
+    "item4": "7,quicksilver"
+  },
+  "bloodshed blade": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "775,gold ingot",
+    "focus": "1984,cut bloodstone",
+    "item1": "3,meat: beast cr15-21",
+    "item2": "4,flesh: fiend cr15-21",
+    "item3": "4,very rare aggregate",
+    "item4": "10,residue: elemental cr15-21"
+  },
+  "bloodthirster scimitar": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "5980,gold ingot",
+    "focus": "764,cut bloodstone",
+    "item1": "6,core: celestial cr15-21",
+    "item2": "1,very rare aggregate",
+    "item3": "10,organ: celestial cr15-21",
+    "item4": "2,very rare block"
+  },
+  "bloody marilith (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2466,mizzium ingot",
+    "focus": "6156,cut bloodstone",
+    "item1": "8,core: construct cr15-21",
+    "item2": "9,plate: monstrosity cr15-21",
+    "item3": "1,mass: plant cr15-21",
+    "item4": "8,organ: celestial cr15-21"
+  }
+}

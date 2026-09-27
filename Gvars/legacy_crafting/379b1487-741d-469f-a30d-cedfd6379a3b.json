@@ -1,0 +1,308 @@
+{
+  "vial of greed": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "118,copper ingot",
+    "focus": "549,cut jacinth",
+    "item1": "9,cut obsidian",
+    "item2": "5,blood: fiend cr9-14",
+    "item3": "5,blood: celestial cr9-14"
+  },
+  "vicious weapon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "364,mithril ingot",
+    "focus": "41,cut agate",
+    "item1": "5,mass: plant cr9-14",
+    "item2": "6,residue: elemental cr9-14",
+    "item3": "2,bone: beast cr9-14"
+  },
+  "viper khopesh": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "346,rare tile",
+    "focus": "102,cut sapphire",
+    "item1": "2,cut obsidian",
+    "item2": "2,components: construct cr9-14",
+    "item3": "2,rare pole"
+  },
+  "visage of the old ways (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "80,rare aggregate",
+    "focus": "580,cut obsidian",
+    "item1": "7,sap: plant cr9-14",
+    "item2": "8,mithril ingot",
+    "item3": "9,uncommon potion ingredient"
+  },
+  "voidwalker armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "542,mithril ingot",
+    "focus": "174,cut moonstone",
+    "item1": "4,rare block",
+    "item2": "10,marrow: beast cr9-14",
+    "item3": "2,chitin: monstrosity cr9-14"
+  },
+  "voyage collar": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "140,rare plank",
+    "focus": "783,cut jacinth",
+    "item1": "6,bone: fey cr9-14",
+    "item2": "2,horn: dragon cr9-14",
+    "item3": "7,durable fiber"
+  },
+  "wand of binding": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "93,rare plank",
+    "focus": "886,cut agate",
+    "item1": "1,uncommon potion ingredient",
+    "item2": "9,durable fiber",
+    "item3": "1,cut obsidian"
+  },
+  "wand of dancing": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "253,rare tile",
+    "focus": "251,cut obsidian",
+    "item1": "5,flesh: celestial cr9-14",
+    "item2": "9,mass: ooze cr9-14",
+    "item3": "6,marrow: giant cr9-14"
+  },
+  "wand of enemy detection": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "152,rare pole",
+    "focus": "482,cut amethyst",
+    "item1": "10,durable fiber",
+    "item2": "2,uncommon poison ingredient",
+    "item3": "1,naphtha"
+  },
+  "wand of fear": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "438,rare tile",
+    "focus": "546,cut sapphire",
+    "item1": "3,flesh: humanoid cr9-14",
+    "item2": "5,durable cloth",
+    "item3": "7,organ: celestial cr9-14"
+  },
+  "wand of fireballs": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "488,rare pole",
+    "focus": "1,cut amethyst",
+    "item1": "2,core: elemental cr9-14",
+    "item2": "8,copper ingot",
+    "item3": "2,blood: fiend cr9-14"
+  },
+  "wand of gilding": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "35,rare pole",
+    "focus": "336,cut jade",
+    "item1": "6,naphtha",
+    "item2": "3,copper ingot",
+    "item3": "4,durable cloth"
+  },
+  "wand of jinxes": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "263,rare plank",
+    "focus": "438,cut moonstone",
+    "item1": "10,flesh: aberration cr9-14",
+    "item2": "6,mass: ooze cr9-14",
+    "item3": "7,mithril ingot"
+  },
+  "wand of lightning bolts": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "543,rare aggregate",
+    "focus": "253,cut jacinth",
+    "item1": "9,core: elemental cr9-14",
+    "item2": "9,organ: celestial cr9-14",
+    "item3": "6,meat: dragon cr9-14"
+  },
+  "wand of paralysis": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "419,rare plank",
+    "focus": "3,cut jacinth",
+    "item1": "4,marrow: giant cr9-14",
+    "item2": "6,scale: dragon cr9-14",
+    "item3": "6,brain: aberration cr9-14"
+  },
+  "wand of restoration": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "6,rare plank",
+    "focus": "450,cut sapphire",
+    "item1": "7,marrow: giant cr9-14",
+    "item2": "4,blood: fey cr9-14",
+    "item3": "9,core: ooze cr9-14"
+  },
+  "wand of stars": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "564,cut obsidian",
+    "focus": "103,cut moonstone",
+    "item1": "7,flesh: celestial cr9-14",
+    "item2": "1,essence: elemental cr9-14",
+    "item3": "5,blood: fiend cr9-14"
+  },
+  "wand of viscid globs": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "459,rare block",
+    "focus": "146,cut amethyst",
+    "item1": "10,uncommon potion ingredient",
+    "item2": "4,rare plank",
+    "item3": "4,slime: ooze cr9-14"
+  },
+  "wand of winter": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "460,mithril ingot",
+    "focus": "304,cut moonstone",
+    "item1": "5,core: ooze cr9-14",
+    "item2": "1,rare fish fillet",
+    "item3": "2,uncommon potion ingredient"
+  },
+  "wand of wonder": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "350,rare pole",
+    "focus": "41,cut sapphire",
+    "item1": "4,scale: dragon cr9-14",
+    "item2": "3,organ: humanoid cr9-14",
+    "item3": "6,flesh: aberration cr9-14"
+  },
+  "wand of the frostrose": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "31,rare plank",
+    "focus": "268,cut sapphire",
+    "item1": "6,uncommon potion ingredient",
+    "item2": "3,bone: beast cr9-14",
+    "item3": "5,slime: ooze cr9-14"
+  },
+  "waning moon": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "381,rare block",
+    "focus": "150,cut obsidian",
+    "item1": "2,flesh: undead cr9-14",
+    "item2": "1,flesh: celestial cr9-14",
+    "item3": "1,organ: humanoid cr9-14"
+  },
+  "war horn of valor": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "151,copper ingot",
+    "focus": "286,cut obsidian",
+    "item1": "9,residue: elemental cr9-14",
+    "item2": "10,uncommon poison ingredient",
+    "item3": "1,hide: beast cr9-14"
+  },
+  "wardancer's spear": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "135,rare plank",
+    "focus": "309,cut moonstone",
+    "item1": "9,blood: fey cr9-14",
+    "item2": "9,blood: fiend cr9-14",
+    "item3": "6,bone: undead cr9-14"
+  },
+  "warhammer of eruptions": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "146,rare plank",
+    "focus": "348,cut agate",
+    "item1": "4,bone: undead cr9-14",
+    "item2": "1,meat: beast cr9-14",
+    "item3": "5,rare tile"
+  },
+  "warp anchor": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "166,rare aggregate",
+    "focus": "309,cut agate",
+    "item1": "10,meat: beast cr9-14",
+    "item2": "5,rare block",
+    "item3": "2,durable cloth"
+  },
+  "warrior's passkey": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "561,rare block",
+    "focus": "359,cut obsidian",
+    "item1": "10,bone: giant cr9-14",
+    "item2": "5,slime: ooze cr9-14",
+    "item3": "7,mass: ooze cr9-14"
+  },
+  "watch of prospecting": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "67,cut obsidian",
+    "focus": "752,cut jade",
+    "item1": "3,core: elemental cr9-14",
+    "item2": "1,essence: elemental cr9-14",
+    "item3": "1,blood: fey cr9-14"
+  },
+  "wavecutter": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "229,copper ingot",
+    "focus": "155,cut jacinth",
+    "item1": "6,charcoal",
+    "item2": "1,scale: dragon cr9-14",
+    "item3": "3,blood: fey cr9-14"
+  },
+  "wayfarer's boots": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "99,cut obsidian",
+    "focus": "399,cut moonstone",
+    "item1": "4,components: construct cr9-14",
+    "item2": "3,bone: beast cr9-14",
+    "item3": "5,mithril ingot"
+  },
+  "wayfinder sphere": {
+    "rarity": "rare",
+    "tool": "cartographer's tools",
+    "base": "89,rare tile",
+    "focus": "292,cut agate",
+    "item1": "4,gear: construct cr9-14",
+    "item2": "5,meat: fey cr9-14",
+    "item3": "1,bone: beast cr9-14"
+  },
+  "weapon of certain death": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "57,mithril ingot",
+    "focus": "193,cut obsidian",
+    "item1": "5,essence: undead cr9-14",
+    "item2": "6,blood: undead cr9-14",
+    "item3": "9,rare tile"
+  },
+  "weapon of the sun and moon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "503,copper ingot",
+    "focus": "146,cut sapphire",
+    "item1": "10,residue: elemental cr9-14",
+    "item2": "4,organ: celestial cr9-14",
+    "item3": "5,mithril ingot"
+  },
+  "webgrip bow": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "197,rare pole",
+    "focus": "373,cut sapphire",
+    "item1": "1,mass: ooze cr9-14",
+    "item2": "5,bone: humanoid cr9-14",
+    "item3": "8,rare block"
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "+1 rod of the pact keeper": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "43,uncommon pole",
+    "focus": "18,cut quartz",
+    "item1": "8,plating: construct cr5-8",
+    "item2": "9,flesh: undead cr5-8"
+  },
+  "+1 shield": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "30,uncommon pole",
+    "focus": "11,cut quartz",
+    "item1": "6,plating: construct cr5-8",
+    "item2": "10,uncommon block"
+  },
+  "+1 wand of the war mage": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "17,silver ingot",
+    "focus": "25,cut quartz",
+    "item1": "2,iron ingot",
+    "item2": "4,sap: plant cr5-8"
+  },
+  "+1 weapon": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "13,uncommon plank",
+    "focus": "6,cut emerald",
+    "item1": "3,essence: fey cr5-8",
+    "item2": "2,flesh: monstrosity cr5-8"
+  },
+  "+1 weapon (no damage)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "6,iron ingot",
+    "focus": "55,cut emerald",
+    "item1": "3,blood: celestial cr5-8",
+    "item2": "8,uncommon tile"
+  },
+  "+1 wraps of unarmed power": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "7,cloth",
+    "focus": "14,cut amber",
+    "item1": "10,cut obsidian",
+    "item2": "4,flesh: undead cr5-8"
+  },
+  "a new look": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "86,uncommon potion ingredient",
+    "focus": "36,cut amber",
+    "item1": "3,gear: construct cr5-8",
+    "item2": "1,blood: undead cr5-8"
+  },
+  "abjurer's bangle (uncommon)": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "8,copper ingot",
+    "focus": "2,cut onyx",
+    "item1": "5,uncommon tile",
+    "item2": "10,blood: dragon cr5-8"
+  },
+  "acorn charm": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "16,silver ingot",
+    "focus": "22,cut amber",
+    "item1": "7,blood: fiend cr5-8",
+    "item2": "4,cloth"
+  },
+  "adamantine armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "10,iron ingot",
+    "focus": "24,cut quartz",
+    "item1": "6,bone: monstrosity cr5-8",
+    "item2": "4,components: construct cr5-8"
+  },
+  "adamantine weapon": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "44,silver ingot",
+    "focus": "27,cut onyx",
+    "item1": "4,uncommon pole",
+    "item2": "2,plating: construct cr5-8"
+  },
+  "alchemist's potion belt": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "9,uncommon pole",
+    "focus": "4,cut emerald",
+    "item1": "10,mass: ooze cr5-8",
+    "item2": "7,bone: celestial cr5-8"
+  },
+  "alchemy jug": {
+    "rarity": "uncommon",
+    "tool": "potter's tools",
+    "base": "6,uncommon tile",
+    "focus": "18,cut quartz",
+    "item1": "10,silver ingot",
+    "item2": "5,uncommon aggregate"
+  },
+  "alchemy jug (blue)": {
+    "rarity": "uncommon",
+    "tool": "potter's tools",
+    "base": "10,iron ingot",
+    "focus": "33,cut amber",
+    "item1": "5,flesh: monstrosity cr5-8",
+    "item2": "4,uncommon pole"
+  },
+  "alchemy jug (orange)": {
+    "rarity": "uncommon",
+    "tool": "potter's tools",
+    "base": "11,uncommon tile",
+    "focus": "22,cut topaz",
+    "item1": "7,hide: beast cr5-8",
+    "item2": "5,blood: celestial cr5-8"
+  },
+  "amber runestone": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "50,uncommon block",
+    "focus": "32,cut quartz",
+    "item1": "10,meat: giant cr5-8",
+    "item2": "7,meat: dragon cr5-8"
+  },
+  "ambitious medic's box": {
+    "rarity": "uncommon",
+    "tool": "carpenter's tools",
+    "base": "5,uncommon block",
+    "focus": "49,cut quartz",
+    "item1": "5,uncommon pole",
+    "item2": "7,mass: plant cr5-8"
+  },
+  "amulet of buoyancy": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "30,uncommon block",
+    "focus": "18,cut emerald",
+    "item1": "1,components: construct cr5-8",
+    "item2": "1,silver ingot"
+  },
+  "amulet of proof against detection and location": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "51,lead ingot",
+    "focus": "30,cut quartz",
+    "item1": "6,components: construct cr5-8",
+    "item2": "8,silver ingot"
+  },
+  "amulet of the drunkard": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "8,iron ingot",
+    "focus": "47,cut quartz",
+    "item1": "6,hide: beast cr5-8",
+    "item2": "3,uncommon block"
+  },
+  "angler's armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "40,lead ingot",
+    "focus": "26,cut emerald",
+    "item1": "7,chitin: monstrosity cr5-8",
+    "item2": "8,plating: construct cr5-8"
+  },
+  "angler's worldly fisher": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "19,uncommon pole",
+    "focus": "35,cut emerald",
+    "item1": "4,essence: elemental cr5-8",
+    "item2": "5,slime: ooze cr5-8"
+  },
+  "anglerfish helm": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "11,silver ingot",
+    "focus": "28,cut quartz",
+    "item1": "8,essence: elemental cr5-8",
+    "item2": "8,uncommon fish fillet"
+  },
+  "antlers of the true path": {
+    "rarity": "uncommon",
+    "tool": "cartographer's tools",
+    "base": "17,uncommon block",
+    "focus": "38,cut amber",
+    "item1": "2,essence: elemental cr5-8",
+    "item2": "2,sap: plant cr5-8"
+  },
+  "arcane battery": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "23,lead ingot",
+    "focus": "29,cut onyx",
+    "item1": "7,flesh: celestial cr5-8",
+    "item2": "4,fiber"
+  },
+  "arcane solvent": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "10,uncommon aggregate",
+    "focus": "15,cut emerald",
+    "item1": "8,blood: humanoid cr5-8",
+    "item2": "2,uncommon block"
+  },
+  "arcanist's magnificent magnifier": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "12,silver ingot",
+    "focus": "45,cut emerald",
+    "item1": "2,residue: elemental cr5-8",
+    "item2": "7,hide: beast cr5-8"
+  },
+  "armor of fungal spores": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "24,silver ingot",
+    "focus": "60,cut amber",
+    "item1": "2,bone: beast cr5-8",
+    "item2": "5,uncommon pole"
+  },
+  "armor of weightlessness": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "31,lead ingot",
+    "focus": "33,cut emerald",
+    "item1": "5,bone: monstrosity cr5-8",
+    "item2": "9,uncommon block"
+  },
+  "armor of the fallen": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "11,silver ingot",
+    "focus": "51,cut quartz",
+    "item1": "2,flesh: monstrosity cr5-8",
+    "item2": "10,lead ingot"
+  },
+  "astronomer's boon": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "23,uncommon plank",
+    "focus": "30,cut onyx",
+    "item1": "1,iron ingot",
+    "item2": "10,lead ingot"
+  },
+  "azorius guild signet": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "11,uncommon block",
+    "focus": "32,cut onyx",
+    "item1": "9,hide: fey cr5-8",
+    "item2": "10,meat: giant cr5-8"
+  },
+  "baba yaga's dancing broom": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "7,uncommon block",
+    "focus": "16,cut amber",
+    "item1": "4,flour",
+    "item2": "3,bone: undead cr5-8"
+  },
+  "babble pipes": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "7,lead ingot",
+    "focus": "26,cut amber",
+    "item1": "7,flesh: monstrosity cr5-8",
+    "item2": "8,meat: beast cr5-8"
+  },
+  "badge of the savant": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "10,uncommon tile",
+    "focus": "15,cut amber",
+    "item1": "2,essence: elemental cr5-8",
+    "item2": "7,essence: fey cr5-8"
+  },
+  "badge of the savant (abjuration)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "77,uncommon pole",
+    "focus": "8,cut onyx",
+    "item1": "8,iron ingot",
+    "item2": "3,silver ingot"
+  },
+  "badge of the savant (conjuration)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "68,silver ingot",
+    "focus": "15,cut quartz",
+    "item1": "7,uncommon tile",
+    "item2": "8,blood: fiend cr5-8"
+  },
+  "badge of the savant (divination)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "37,lead ingot",
+    "focus": "11,cut quartz",
+    "item1": "1,gear: construct cr5-8",
+    "item2": "9,blood: celestial cr5-8"
+  },
+  "badge of the savant (enchantment)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "70,uncommon pole",
+    "focus": "12,cut quartz",
+    "item1": "6,sap: plant cr5-8",
+    "item2": "3,flesh: humanoid cr5-8"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "scorned heart breastplate": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "461,copper ingot",
+    "focus": "121,cut jade",
+    "item1": "10,components: construct cr9-14",
+    "item2": "3,mithril ingot",
+    "item3": "9,marrow: beast cr9-14"
+  },
+  "scorpion armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "631,copper ingot",
+    "focus": "93,cut sapphire",
+    "item1": "4,components: construct cr9-14",
+    "item2": "8,rare aggregate",
+    "item3": "4,marrow: beast cr9-14"
+  },
+  "scroll of nightmares": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "478,rare block",
+    "focus": "33,cut obsidian",
+    "item1": "6,uncommon poison ingredient",
+    "item2": "2,essence: undead cr9-14",
+    "item3": "5,flesh: undead cr9-14"
+  },
+  "scroll of protection": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "487,rare pole",
+    "focus": "120,cut amethyst",
+    "item1": "10,essence: elemental cr9-14",
+    "item2": "9,flesh: fiend cr9-14",
+    "item3": "3,uncommon potion ingredient"
+  },
+  "scroll of protection (aberrations)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "482,rare pole",
+    "focus": "131,cut sapphire",
+    "item1": "6,bone: humanoid cr9-14",
+    "item2": "2,organ: aberration cr9-14",
+    "item3": "8,durable cloth"
+  },
+  "scroll of protection (beasts)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "136,mithril ingot",
+    "focus": "267,cut jade",
+    "item1": "6,rare plank",
+    "item2": "8,meat: fey cr9-14",
+    "item3": "2,fine fiber"
+  },
+  "scroll of protection (celestials)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "134,rare pole",
+    "focus": "516,cut amethyst",
+    "item1": "4,flesh: humanoid cr9-14",
+    "item2": "10,blood: fey cr9-14",
+    "item3": "8,bone: undead cr9-14"
+  },
+  "scroll of protection (constructs)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "435,mithril ingot",
+    "focus": "74,cut amethyst",
+    "item1": "10,uncommon poison ingredient",
+    "item2": "3,bone: beast cr9-14",
+    "item3": "10,brain: aberration cr9-14"
+  },
+  "scroll of protection (dragons)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "99,copper ingot",
+    "focus": "513,cut jacinth",
+    "item1": "6,rare aggregate",
+    "item2": "10,essence: elemental cr9-14",
+    "item3": "1,meat: dragon cr9-14"
+  },
+  "scroll of protection (elementals)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "97,rare block",
+    "focus": "170,cut sapphire",
+    "item1": "3,rare tile",
+    "item2": "7,bone: humanoid cr9-14",
+    "item3": "8,flesh: celestial cr9-14"
+  },
+  "scroll of protection (fey)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "223,rare block",
+    "focus": "224,cut sapphire",
+    "item1": "7,rare plank",
+    "item2": "1,hide: aberration cr9-14",
+    "item3": "7,durable fiber"
+  },
+  "scroll of protection (fiends)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "322,rare block",
+    "focus": "429,cut agate",
+    "item1": "5,meat: fey cr9-14",
+    "item2": "2,bone: giant cr9-14",
+    "item3": "6,gland: dragon cr9-14"
+  },
+  "scroll of protection (giants)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "228,cut obsidian",
+    "focus": "53,cut agate",
+    "item1": "9,flesh: aberration cr9-14",
+    "item2": "1,rare tile",
+    "item3": "9,essence: undead cr9-14"
+  },
+  "scroll of protection (humanoids)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "6,copper ingot",
+    "focus": "404,cut moonstone",
+    "item1": "5,blood: undead cr9-14",
+    "item2": "10,brain: aberration cr9-14",
+    "item3": "2,cut obsidian"
+  },
+  "scroll of protection (monstrosities)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "214,mithril ingot",
+    "focus": "441,cut sapphire",
+    "item1": "8,slime: ooze cr9-14",
+    "item2": "6,bark: plant cr9-14",
+    "item3": "6,core: elemental cr9-14"
+  },
+  "scroll of protection (oozes)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "244,rare pole",
+    "focus": "32,cut agate",
+    "item1": "3,meat: beast cr9-14",
+    "item2": "8,bone: fiend cr9-14",
+    "item3": "1,fine fiber"
+  },
+  "scroll of protection (plants)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "79,rare pole",
+    "focus": "410,cut jade",
+    "item1": "4,meat: fey cr9-14",
+    "item2": "10,marrow: beast cr9-14",
+    "item3": "6,rare plank"
+  },
+  "scroll of protection (undead)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "92,rare aggregate",
+    "focus": "816,cut obsidian",
+    "item1": "3,rare tile",
+    "item2": "1,bone: undead cr9-14",
+    "item3": "5,rare block"
+  },
+  "scroll of the jester": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "146,copper ingot",
+    "focus": "662,cut agate",
+    "item1": "9,marrow: giant cr9-14",
+    "item2": "7,gear: construct cr9-14",
+    "item3": "8,flesh: humanoid cr9-14"
+  },
+  "scythe of the harvest terror (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "134,rare plank",
+    "focus": "438,cut amethyst",
+    "item1": "10,rare fish fillet",
+    "item2": "5,mass: ooze cr9-14",
+    "item3": "2,organ: humanoid cr9-14"
+  },
+  "scythed arm blades": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "236,mithril ingot",
+    "focus": "350,cut jacinth",
+    "item1": "8,blood: fiend cr9-14",
+    "item2": "2,fine fiber",
+    "item3": "4,cut obsidian"
+  },
+  "selesnya keyrune": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "255,cut obsidian",
+    "focus": "360,cut jacinth",
+    "item1": "5,fine fiber",
+    "item2": "4,flesh: undead cr9-14",
+    "item3": "9,mass: plant cr9-14"
+  },
+  "seraphim's stiletto": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "206,rare pole",
+    "focus": "298,cut sapphire",
+    "item1": "9,blood: celestial cr9-14",
+    "item2": "7,bone: fiend cr9-14",
+    "item3": "1,marrow: beast cr9-14"
+  },
+  "serpent hide": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "90,rare plank",
+    "focus": "290,cut jade",
+    "item1": "3,uncommon potion ingredient",
+    "item2": "3,bone: fey cr9-14",
+    "item3": "9,bone: humanoid cr9-14"
+  },
+  "serpent's fang": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "148,rare pole",
+    "focus": "647,cut jacinth",
+    "item1": "8,uncommon potion ingredient",
+    "item2": "2,bark: plant cr9-14",
+    "item3": "4,rare fish fillet"
+  },
+  "severed reaction": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "54,rare aggregate",
+    "focus": "394,cut moonstone",
+    "item1": "9,marrow: giant cr9-14",
+    "item2": "8,flesh: undead cr9-14",
+    "item3": "3,cut obsidian"
+  },
+  "shadow portal scroll": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "462,rare pole",
+    "focus": "367,cut obsidian",
+    "item1": "4,rare aggregate",
+    "item2": "1,bone: fiend cr9-14",
+    "item3": "9,flesh: undead cr9-14"
+  },
+  "shadow tag": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "475,mithril ingot",
+    "focus": "386,cut amethyst",
+    "item1": "7,flesh: fiend cr9-14",
+    "item2": "7,brain: aberration cr9-14",
+    "item3": "4,flesh: undead cr9-14"
+  },
+  "shadowfell brand tattoo": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "35,rare block",
+    "focus": "894,cut amethyst",
+    "item1": "9,uncommon poison ingredient",
+    "item2": "3,brain: aberration cr9-14",
+    "item3": "9,bone: undead cr9-14"
+  },
+  "shadowfell shard": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "166,rare aggregate",
+    "focus": "254,cut obsidian",
+    "item1": "5,blood: fiend cr9-14",
+    "item2": "1,flesh: fiend cr9-14",
+    "item3": "9,uncommon potion ingredient"
+  },
+  "shard of xeluan": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "341,rare pole",
+    "focus": "323,cut sapphire",
+    "item1": "7,core: ooze cr9-14",
+    "item2": "3,meat: fey cr9-14",
+    "item3": "2,organ: aberration cr9-14"
+  },
+  "shield guardian amulet": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "506,copper ingot",
+    "focus": "236,cut moonstone",
+    "item1": "8,organ: monstrosity cr9-14",
+    "item2": "10,rare tile",
+    "item3": "8,plate: monstrosity cr9-14"
+  },
+  "shield of far sight": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "513,copper ingot",
+    "focus": "328,cut moonstone",
+    "item1": "4,mithril ingot",
+    "item2": "2,organ: monstrosity cr9-14",
+    "item3": "3,chitin: monstrosity cr9-14"
+  }
+}

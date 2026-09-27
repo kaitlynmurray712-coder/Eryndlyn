@@ -1,0 +1,308 @@
+{
+  "coat of the crest": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "163,cut obsidian",
+    "focus": "150,cut sapphire",
+    "item1": "5,sap: plant cr9-14",
+    "item2": "1,rare block",
+    "item3": "3,bone: humanoid cr9-14"
+  },
+  "cogwork wings": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "123,cut obsidian",
+    "focus": "681,cut jacinth",
+    "item1": "2,rare block",
+    "item2": "8,gland: dragon cr9-14",
+    "item3": "1,core: elemental cr9-14"
+  },
+  "cold snap circlet": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "272,rare pole",
+    "focus": "296,cut sapphire",
+    "item1": "7,rare fish fillet",
+    "item2": "7,mass: ooze cr9-14",
+    "item3": "3,core: elemental cr9-14"
+  },
+  "coldfire anvil": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "107,rare block",
+    "focus": "611,cut jacinth",
+    "item1": "9,blood: fiend cr9-14",
+    "item2": "3,organ: fiend cr9-14",
+    "item3": "3,horn: dragon cr9-14"
+  },
+  "comet ballista": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "693,rare pole",
+    "focus": "2,cut amethyst",
+    "item1": "9,scale: dragon cr9-14",
+    "item2": "9,mass: plant cr9-14",
+    "item3": "4,marrow: beast cr9-14"
+  },
+  "conspirator's coat": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "339,copper ingot",
+    "focus": "44,cut sapphire",
+    "item1": "2,rare block",
+    "item2": "3,bone: giant cr9-14",
+    "item3": "5,meat: giant cr9-14"
+  },
+  "contingency band": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "285,rare plank",
+    "focus": "32,cut jade",
+    "item1": "1,components: construct cr9-14",
+    "item2": "7,durable fiber",
+    "item3": "9,cut obsidian"
+  },
+  "corpse slayer": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "24,rare tile",
+    "focus": "261,cut amethyst",
+    "item1": "3,marrow: beast cr9-14",
+    "item2": "6,slime: ooze cr9-14",
+    "item3": "10,bone: fey cr9-14"
+  },
+  "corrupted pendant": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "533,rare tile",
+    "focus": "78,cut obsidian",
+    "item1": "1,blood: fey cr9-14",
+    "item2": "2,mass: ooze cr9-14",
+    "item3": "4,plating: construct cr9-14"
+  },
+  "cottage chest": {
+    "rarity": "rare",
+    "tool": "carpenter's tools",
+    "base": "244,rare block",
+    "focus": "287,cut agate",
+    "item1": "8,charcoal",
+    "item2": "7,essence: elemental cr9-14",
+    "item3": "7,bone: fey cr9-14"
+  },
+  "covolt scythe": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "698,mithril ingot",
+    "focus": "2,cut agate",
+    "item1": "6,core: elemental cr9-14",
+    "item2": "10,naphtha",
+    "item3": "9,organ: aberration cr9-14"
+  },
+  "crafter's brew": {
+    "rarity": "rare",
+    "tool": "brewer's supplies",
+    "base": "171,rare tile",
+    "focus": "140,cut sapphire",
+    "item1": "4,rare plank",
+    "item2": "9,plating: construct cr9-14",
+    "item3": "8,organ: celestial cr9-14"
+  },
+  "crest of the sacred flame": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "191,rare pole",
+    "focus": "374,cut jacinth",
+    "item1": "8,blood: fiend cr9-14",
+    "item2": "8,gland: dragon cr9-14",
+    "item3": "1,rare block"
+  },
+  "crimson octopus ink": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "374,rare pole",
+    "focus": "87,cut agate",
+    "item1": "5,mithril ingot",
+    "item2": "9,horn: dragon cr9-14",
+    "item3": "10,slime: ooze cr9-14"
+  },
+  "crown of the barrow king (rare)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "632,rare plank",
+    "focus": "150,cut sapphire",
+    "item1": "1,horn: dragon cr9-14",
+    "item2": "8,marrow: giant cr9-14",
+    "item3": "4,charcoal"
+  },
+  "crown of the mindmaster matriarch": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "169,rare tile",
+    "focus": "95,cut sapphire",
+    "item1": "5,brain: aberration cr9-14",
+    "item2": "10,organ: humanoid cr9-14",
+    "item3": "2,bone: humanoid cr9-14"
+  },
+  "crown of the wrath bringer": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "13,copper ingot",
+    "focus": "548,cut amethyst",
+    "item1": "3,rare tile",
+    "item2": "10,essence: elemental cr9-14",
+    "item3": "2,gland: dragon cr9-14"
+  },
+  "crystal blade": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "369,mithril ingot",
+    "focus": "168,cut obsidian",
+    "item1": "2,organ: celestial cr9-14",
+    "item2": "3,gland: dragon cr9-14",
+    "item3": "8,core: elemental cr9-14"
+  },
+  "cube of cubes": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "201,rare plank",
+    "focus": "636,cut amethyst",
+    "item1": "1,plating: construct cr9-14",
+    "item2": "2,brain: aberration cr9-14",
+    "item3": "6,organ: humanoid cr9-14"
+  },
+  "cube of force": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "228,rare aggregate",
+    "focus": "237,cut jade",
+    "item1": "10,mass: plant cr9-14",
+    "item2": "2,plating: construct cr9-14",
+    "item3": "4,bone: beast cr9-14"
+  },
+  "cube of summoning": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "654,rare block",
+    "focus": "166,cut sapphire",
+    "item1": "4,organ: celestial cr9-14",
+    "item2": "9,rare fish fillet",
+    "item3": "4,blood: undead cr9-14"
+  },
+  "cube of teleportation": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "43,cut obsidian",
+    "focus": "212,cut jade",
+    "item1": "8,rare plank",
+    "item2": "6,organ: humanoid cr9-14",
+    "item3": "9,mass: plant cr9-14"
+  },
+  "cutlass of briggsy kratch (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "376,rare tile",
+    "focus": "317,cut jade",
+    "item1": "10,meat: giant cr9-14",
+    "item2": "10,durable cloth",
+    "item3": "8,rare fish fillet"
+  },
+  "daern's instant fortress": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "334,rare plank",
+    "focus": "51,cut jacinth",
+    "item1": "4,hide: aberration cr9-14",
+    "item2": "8,mass: ooze cr9-14",
+    "item3": "2,charcoal"
+  },
+  "dagger of blindsight": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "174,copper ingot",
+    "focus": "402,cut obsidian",
+    "item1": "8,rare block",
+    "item2": "10,bone: giant cr9-14",
+    "item3": "6,plating: construct cr9-14"
+  },
+  "dagger of denial": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "565,copper ingot",
+    "focus": "176,cut agate",
+    "item1": "7,charcoal",
+    "item2": "8,rare plank",
+    "item3": "6,organ: aberration cr9-14"
+  },
+  "dagger of venom": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "11,rare pole",
+    "focus": "243,cut moonstone",
+    "item1": "10,marrow: giant cr9-14",
+    "item2": "8,blood: undead cr9-14",
+    "item3": "5,rare block"
+  },
+  "dancing feet": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "224,cut obsidian",
+    "focus": "425,cut jade",
+    "item1": "2,meat: giant cr9-14",
+    "item2": "4,uncommon poison ingredient",
+    "item3": "10,residue: elemental cr9-14"
+  },
+  "dawn and dusk": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "253,copper ingot",
+    "focus": "173,cut sapphire",
+    "item1": "3,organ: celestial cr9-14",
+    "item2": "4,core: elemental cr9-14",
+    "item3": "5,blood: celestial cr9-14"
+  },
+  "dazzling weapon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "636,cut obsidian",
+    "focus": "115,cut agate",
+    "item1": "4,essence: elemental cr9-14",
+    "item2": "3,blood: celestial cr9-14",
+    "item3": "3,chitin: monstrosity cr9-14"
+  },
+  "deathloop watch": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "464,cut obsidian",
+    "focus": "335,cut amethyst",
+    "item1": "7,bone: humanoid cr9-14",
+    "item2": "3,essence: undead cr9-14",
+    "item3": "8,uncommon poison ingredient"
+  },
+  "deck of oracles": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "46,rare block",
+    "focus": "229,cut sapphire",
+    "item1": "1,flesh: humanoid cr9-14",
+    "item2": "7,hide: aberration cr9-14",
+    "item3": "8,uncommon potion ingredient"
+  },
+  "delerium crystal focus": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "51,rare aggregate",
+    "focus": "292,cut obsidian",
+    "item1": "8,uncommon potion ingredient",
+    "item2": "7,sap: plant cr9-14",
+    "item3": "7,mass: plant cr9-14"
+  },
+  "delerium-forged blade": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "946,mithril ingot",
+    "focus": "24,cut jacinth",
+    "item1": "7,plate: monstrosity cr9-14",
+    "item2": "2,flesh: humanoid cr9-14",
+    "item3": "8,blood: fey cr9-14"
+  }
+}

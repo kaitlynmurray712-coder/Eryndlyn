@@ -1,0 +1,314 @@
+{
+  "lightbringer": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "28,iron ingot",
+    "focus": "47,cut amber",
+    "item1": "8,blood: celestial cr5-8",
+    "item2": "10,residue: elemental cr5-8"
+  },
+  "lions blume": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "16,uncommon pole",
+    "focus": "53,cut amber",
+    "item1": "3,mass: ooze cr5-8",
+    "item2": "10,meat: fey cr5-8"
+  },
+  "liquid arcana": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "36,uncommon plank",
+    "focus": "40,cut topaz",
+    "item1": "4,blood: humanoid cr5-8",
+    "item2": "6,organ: fiend cr5-8"
+  },
+  "liquid disguise": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "47,uncommon aggregate",
+    "focus": "30,cut quartz",
+    "item1": "8,common potion ingredient",
+    "item2": "5,flesh: fiend cr5-8"
+  },
+  "liquid dispel": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "16,uncommon plank",
+    "focus": "63,cut topaz",
+    "item1": "1,uncommon tile",
+    "item2": "7,slime: ooze cr5-8"
+  },
+  "living gloves": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "6,uncommon pole",
+    "focus": "2,cut amber",
+    "item1": "9,essence: elemental cr5-8",
+    "item2": "9,components: construct cr5-8"
+  },
+  "living spud": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "36,uncommon tile",
+    "focus": "1,cut amber",
+    "item1": "8,mass: ooze cr5-8",
+    "item2": "8,mass: plant cr5-8"
+  },
+  "locket of the stolen heart": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "50,uncommon block",
+    "focus": "39,cut amber",
+    "item1": "3,flesh: fiend cr5-8",
+    "item2": "5,meat: fey cr5-8"
+  },
+  "lorehold primer": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "20,uncommon block",
+    "focus": "2,cut emerald",
+    "item1": "4,hide: aberration cr5-8",
+    "item2": "8,hide: fey cr5-8"
+  },
+  "luckleaf": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "11,uncommon plank",
+    "focus": "3,cut amber",
+    "item1": "3,uncommon tile",
+    "item2": "10,blood: undead cr5-8"
+  },
+  "luna moth cape": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "6,uncommon plank",
+    "focus": "12,cut topaz",
+    "item1": "8,bone: giant cr5-8",
+    "item2": "1,lead ingot"
+  },
+  "lunar elixir": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "18,uncommon aggregate",
+    "focus": "16,cut onyx",
+    "item1": "9,organ: aberration cr5-8",
+    "item2": "4,essence: elemental cr5-8"
+  },
+  "lunar weapon": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "56,silver ingot",
+    "focus": "18,cut quartz",
+    "item1": "2,meat: giant cr5-8",
+    "item2": "1,blood: dragon cr5-8"
+  },
+  "lupine mask": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "33,uncommon aggregate",
+    "focus": "1,cut emerald",
+    "item1": "3,mass: ooze cr5-8",
+    "item2": "7,common potion ingredient"
+  },
+  "mace of the pumpkin king": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "28,iron ingot",
+    "focus": "35,cut topaz",
+    "item1": "1,flour",
+    "item2": "8,uncommon aggregate"
+  },
+  "magentan sun-saw (uncommon)": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "32,iron ingot",
+    "focus": "55,cut amber",
+    "item1": "6,lead ingot",
+    "item2": "1,essence: elemental cr5-8"
+  },
+  "magic monk's rice wine": {
+    "rarity": "uncommon",
+    "tool": "brewer's supplies",
+    "base": "28,iron ingot",
+    "focus": "60,cut emerald",
+    "item1": "2,common potion ingredient",
+    "item2": "10,residue: elemental cr5-8"
+  },
+  "mandible bident": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "9,lead ingot",
+    "focus": "58,cut topaz",
+    "item1": "9,organ: fiend cr5-8",
+    "item2": "1,flesh: humanoid cr5-8"
+  },
+  "mantle of the lightbender": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "29,lead ingot",
+    "focus": "11,cut amber",
+    "item1": "6,residue: elemental cr5-8",
+    "item2": "7,blood: dragon cr5-8"
+  },
+  "mariner's armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "17,uncommon plank",
+    "focus": "1,cut quartz",
+    "item1": "10,lead ingot",
+    "item2": "10,plating: construct cr5-8"
+  },
+  "marlin lunger": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "52,uncommon plank",
+    "focus": "18,cut onyx",
+    "item1": "6,mass: plant cr5-8",
+    "item2": "4,gear: construct cr5-8"
+  },
+  "marotte of chance": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "38,uncommon aggregate",
+    "focus": "16,cut topaz",
+    "item1": "2,slime: ooze cr5-8",
+    "item2": "10,gland: monstrosity cr5-8"
+  },
+  "mask of the beast": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "8,uncommon aggregate",
+    "focus": "41,cut emerald",
+    "item1": "8,mass: plant cr5-8",
+    "item2": "6,fiber"
+  },
+  "masks of the sacred beasts (lion)": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "9,uncommon plank",
+    "focus": "13,cut amber",
+    "item1": "5,sap: plant cr5-8",
+    "item2": "9,bark: plant cr5-8"
+  },
+  "mechanical wonder (domestic)": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "54,uncommon aggregate",
+    "focus": "1,cut emerald",
+    "item1": "2,essence: elemental cr5-8",
+    "item2": "3,residue: elemental cr5-8"
+  },
+  "medallion of thoughts": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "6,uncommon aggregate",
+    "focus": "17,cut quartz",
+    "item1": "10,flesh: aberration cr5-8",
+    "item2": "2,bone: humanoid cr5-8"
+  },
+  "meditative trance": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "9,uncommon pole",
+    "focus": "61,cut topaz",
+    "item1": "9,hide: beast cr5-8",
+    "item2": "3,flesh: monstrosity cr5-8"
+  },
+  "medusan signet": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "16,uncommon plank",
+    "focus": "38,cut onyx",
+    "item1": "6,uncommon pole",
+    "item2": "2,silver ingot"
+  },
+  "metronome drum": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "60,uncommon pole",
+    "focus": "1,cut topaz",
+    "item1": "8,flesh: celestial cr5-8",
+    "item2": "1,uncommon block"
+  },
+  "millstone of grinding": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "25,uncommon tile",
+    "focus": "42,cut emerald",
+    "item1": "5,uncommon plank",
+    "item2": "5,gland: monstrosity cr5-8"
+  },
+  "mimicloak": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "1,iron ingot",
+    "focus": "37,cut emerald",
+    "item1": "3,bone: beast cr5-8",
+    "item2": "10,uncommon block"
+  },
+  "mind carapace armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "14,uncommon plank",
+    "focus": "67,cut onyx",
+    "item1": "6,bone: humanoid cr5-8",
+    "item2": "1,hide: fey cr5-8"
+  },
+  "mind crystal (careful)": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "9,uncommon aggregate",
+    "focus": "57,cut quartz",
+    "item1": "2,uncommon block",
+    "item2": "2,meat: fey cr5-8"
+  },
+  "mind crystal (distant)": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "21,uncommon block",
+    "focus": "27,cut quartz",
+    "item1": "6,common potion ingredient",
+    "item2": "10,bone: humanoid cr5-8"
+  },
+  "mind crystal (empowered)": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "1,uncommon aggregate",
+    "focus": "21,cut onyx",
+    "item1": "1,organ: aberration cr5-8",
+    "item2": "9,uncommon block"
+  },
+  "mind crystal (extended)": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "37,uncommon tile",
+    "focus": "8,cut quartz",
+    "item1": "4,flesh: aberration cr5-8",
+    "item2": "5,hide: fey cr5-8"
+  },
+  "mind over might": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "20,uncommon aggregate",
+    "focus": "55,cut quartz",
+    "item1": "8,common potion ingredient",
+    "item2": "10,essence: fey cr5-8"
+  },
+  "mind sharpener": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "24,iron ingot",
+    "focus": "1,cut quartz",
+    "item1": "2,flesh: humanoid cr5-8",
+    "item2": "9,flesh: aberration cr5-8"
+  },
+  "mithral armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "16,uncommon plank",
+    "focus": "4,cut quartz",
+    "item1": "4,flesh: monstrosity cr5-8",
+    "item2": "5,gland: monstrosity cr5-8"
+  }
+}

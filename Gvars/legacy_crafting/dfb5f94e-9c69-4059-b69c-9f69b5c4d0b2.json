@@ -1,0 +1,314 @@
+{
+  "cloak of splendor": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "11,uncommon tile",
+    "focus": "26,cut emerald",
+    "item1": "2,meat: beast cr5-8",
+    "item2": "3,hide: beast cr5-8"
+  },
+  "cloak of the manta ray": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "6,silver ingot",
+    "focus": "44,cut quartz",
+    "item1": "7,flesh: monstrosity cr5-8",
+    "item2": "4,bone: beast cr5-8"
+  },
+  "cloak of the raven": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "39,silver ingot",
+    "focus": "5,cut quartz",
+    "item1": "9,components: construct cr5-8",
+    "item2": "7,hide: beast cr5-8"
+  },
+  "clockwork earwig": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "73,silver ingot",
+    "focus": "1,cut onyx",
+    "item1": "6,uncommon tile",
+    "item2": "9,blood: humanoid cr5-8"
+  },
+  "clockwork mend-a-pillar": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "1,uncommon tile",
+    "focus": "25,cut emerald",
+    "item1": "8,blood: dragon cr5-8",
+    "item2": "8,uncommon fish fillet"
+  },
+  "club of dancing": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "65,silver ingot",
+    "focus": "18,cut quartz",
+    "item1": "6,mass: ooze cr5-8",
+    "item2": "2,flesh: humanoid cr5-8"
+  },
+  "club of the forest drake": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "15,uncommon pole",
+    "focus": "10,cut emerald",
+    "item1": "3,hide: fey cr5-8",
+    "item2": "6,hide: beast cr5-8"
+  },
+  "club of the rook": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "67,lead ingot",
+    "focus": "19,cut topaz",
+    "item1": "3,flour",
+    "item2": "9,essence: fey cr5-8"
+  },
+  "coiling grasp tattoo": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "15,lead ingot",
+    "focus": "37,cut emerald",
+    "item1": "5,blood: undead cr5-8",
+    "item2": "6,hide: fey cr5-8"
+  },
+  "condensed order": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "71,silver ingot",
+    "focus": "12,cut amber",
+    "item1": "6,flesh: celestial cr5-8",
+    "item2": "2,lead ingot"
+  },
+  "corrupted seawater": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "29,iron ingot",
+    "focus": "48,cut emerald",
+    "item1": "7,mass: ooze cr5-8",
+    "item2": "9,essence: elemental cr5-8"
+  },
+  "corrupted slime": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "39,uncommon block",
+    "focus": "38,cut topaz",
+    "item1": "10,meat: giant cr5-8",
+    "item2": "7,components: construct cr5-8"
+  },
+  "courtesan's fanblade": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "27,silver ingot",
+    "focus": "4,cut emerald",
+    "item1": "4,organ: aberration cr5-8",
+    "item2": "4,hide: beast cr5-8"
+  },
+  "covolt dagger": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "35,lead ingot",
+    "focus": "9,cut emerald",
+    "item1": "2,uncommon block",
+    "item2": "7,meat: dragon cr5-8"
+  },
+  "cracked driftglobe": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "64,uncommon tile",
+    "focus": "11,cut topaz",
+    "item1": "5,residue: elemental cr5-8",
+    "item2": "10,bone: giant cr5-8"
+  },
+  "crackling jasper": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "9,iron ingot",
+    "focus": "1,cut emerald",
+    "item1": "6,hide: beast cr5-8",
+    "item2": "10,bone: beast cr5-8"
+  },
+  "crown of daffodils": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "3,uncommon pole",
+    "focus": "17,cut topaz",
+    "item1": "8,iron ingot",
+    "item2": "7,bone: beast cr5-8"
+  },
+  "crown of the forest": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "28,uncommon pole",
+    "focus": "4,cut emerald",
+    "item1": "7,common potion ingredient",
+    "item2": "1,uncommon plank"
+  },
+  "cuff of captions": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "68,uncommon block",
+    "focus": "19,cut amber",
+    "item1": "7,essence: fey cr5-8",
+    "item2": "1,uncommon aggregate"
+  },
+  "cursed luckstone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "8,uncommon block",
+    "focus": "9,cut topaz",
+    "item1": "7,silver ingot",
+    "item2": "1,meat: beast cr5-8"
+  },
+  "dagger of first light": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "37,lead ingot",
+    "focus": "16,cut amber",
+    "item1": "5,silver ingot",
+    "item2": "10,essence: elemental cr5-8"
+  },
+  "dark mantle": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "36,uncommon block",
+    "focus": "11,cut onyx",
+    "item1": "3,flesh: fiend cr5-8",
+    "item2": "7,uncommon tile"
+  },
+  "dawn petal": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "24,iron ingot",
+    "focus": "27,cut amber",
+    "item1": "10,meat: dragon cr5-8",
+    "item2": "5,residue: elemental cr5-8"
+  },
+  "dazing hammer": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "46,uncommon plank",
+    "focus": "14,cut amber",
+    "item1": "6,blood: undead cr5-8",
+    "item2": "6,organ: aberration cr5-8"
+  },
+  "decanter of endless water": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "22,uncommon pole",
+    "focus": "55,cut quartz",
+    "item1": "5,common potion ingredient",
+    "item2": "9,hide: beast cr5-8"
+  },
+  "deck of illusions": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "87,uncommon pole",
+    "focus": "1,cut onyx",
+    "item1": "5,flesh: humanoid cr5-8",
+    "item2": "5,bone: celestial cr5-8"
+  },
+  "deck of miscellany": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "36,silver ingot",
+    "focus": "16,cut onyx",
+    "item1": "10,bone: monstrosity cr5-8",
+    "item2": "4,gear: construct cr5-8"
+  },
+  "deck of wonder": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "8,uncommon plank",
+    "focus": "37,cut emerald",
+    "item1": "8,blood: fiend cr5-8",
+    "item2": "3,gear: construct cr5-8"
+  },
+  "demonskin": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "4,lead ingot",
+    "focus": "14,cut onyx",
+    "item1": "1,iron ingot",
+    "item2": "10,essence: elemental cr5-8"
+  },
+  "detective's notebook": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "2,uncommon plank",
+    "focus": "73,cut onyx",
+    "item1": "1,meat: dragon cr5-8",
+    "item2": "2,mass: ooze cr5-8"
+  },
+  "dimir guild signet": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "6,uncommon aggregate",
+    "focus": "51,cut emerald",
+    "item1": "6,slime: ooze cr5-8",
+    "item2": "8,components: construct cr5-8"
+  },
+  "direstone dwarven key": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "5,uncommon aggregate",
+    "focus": "54,cut amber",
+    "item1": "5,blood: fiend cr5-8",
+    "item2": "6,bone: humanoid cr5-8"
+  },
+  "dominic's field guide to language": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "6,uncommon pole",
+    "focus": "2,cut emerald",
+    "item1": "10,flesh: celestial cr5-8",
+    "item2": "10,iron ingot"
+  },
+  "don't eat dirt": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "6,uncommon pole",
+    "focus": "26,cut emerald",
+    "item1": "4,mass: ooze cr5-8",
+    "item2": "7,bone: monstrosity cr5-8"
+  },
+  "don't hit me juice": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "47,lead ingot",
+    "focus": "7,cut emerald",
+    "item1": "2,bone: beast cr5-8",
+    "item2": "9,residue: elemental cr5-8"
+  },
+  "doubloon diver's goggles": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "3,uncommon plank",
+    "focus": "38,cut amber",
+    "item1": "4,bone: undead cr5-8",
+    "item2": "10,blood: fiend cr5-8"
+  },
+  "dragon root": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "20,iron ingot",
+    "focus": "7,cut topaz",
+    "item1": "3,blood: dragon cr5-8",
+    "item2": "10,essence: elemental cr5-8"
+  },
+  "dramus's dancing shoes": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "13,uncommon pole",
+    "focus": "36,cut amber",
+    "item1": "8,organ: aberration cr5-8",
+    "item2": "10,hide: beast cr5-8"
+  },
+  "dried leech": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "26,lead ingot",
+    "focus": "34,cut quartz",
+    "item1": "10,gear: construct cr5-8",
+    "item2": "1,hide: fey cr5-8"
+  }
+}

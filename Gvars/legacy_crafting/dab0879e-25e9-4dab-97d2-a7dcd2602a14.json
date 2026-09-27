@@ -1,0 +1,345 @@
+{
+  "cloak of many fashions": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "13,silver ingot",
+    "focus": "5,cut topaz",
+    "item1": "7,iron ingot"
+  },
+  "clockwork amulet": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "13,silver ingot",
+    "focus": "5,cut emerald",
+    "item1": "7,chitin: monstrosity cr0-4"
+  },
+  "clothes of mending": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "3,uncommon block",
+    "focus": "14,cut emerald",
+    "item1": "8,common potion ingredient"
+  },
+  "cloud horn": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,uncommon aggregate",
+    "focus": "10,cut onyx",
+    "item1": "7,meat: beast cr0-4"
+  },
+  "cloud-touched boomerang": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "21,uncommon aggregate",
+    "focus": "1,cut topaz",
+    "item1": "3,essence: elemental cr0-4"
+  },
+  "coin of delving": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "22,uncommon aggregate",
+    "focus": "1,cut onyx",
+    "item1": "2,mass: plant cr0-4"
+  },
+  "coin's edge": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "13,silver ingot",
+    "focus": "3,cut topaz",
+    "item1": "9,flour"
+  },
+  "common glamerweave": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "21,iron ingot",
+    "focus": "2,cut quartz",
+    "item1": "2,bone: undead cr0-4"
+  },
+  "cream of ooze moisturizing face serum": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "2,iron ingot",
+    "focus": "16,cut onyx",
+    "item1": "7,organ: fiend cr0-4"
+  },
+  "creeping bolete": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,uncommon block",
+    "focus": "19,cut topaz",
+    "item1": "3,mass: plant cr0-4"
+  },
+  "crystal clear": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "11,uncommon aggregate",
+    "focus": "6,cut quartz",
+    "item1": "8,uncommon tile"
+  },
+  "cuddly strixhaven mascot": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "13,lead ingot",
+    "focus": "7,cut quartz",
+    "item1": "5,meat: giant cr0-4"
+  },
+  "dancing juice": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "6,lead ingot",
+    "focus": "9,cut emerald",
+    "item1": "10,common potion ingredient"
+  },
+  "dark shard amulet": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "14,lead ingot",
+    "focus": "2,cut onyx",
+    "item1": "9,bone: undead cr0-4"
+  },
+  "detective's tonic": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "16,uncommon plank",
+    "focus": "2,cut topaz",
+    "item1": "7,bone: undead cr0-4"
+  },
+  "displacement field": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "16,uncommon aggregate",
+    "focus": "7,cut topaz",
+    "item1": "2,uncommon tile"
+  },
+  "djinn and tonic (common)": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "2,uncommon plank",
+    "focus": "17,cut emerald",
+    "item1": "6,meat: fey cr0-4"
+  },
+  "dorrin plate": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "21,lead ingot",
+    "focus": "1,cut emerald",
+    "item1": "3,iron ingot"
+  },
+  "doublet of dramatic demise": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "20,iron ingot",
+    "focus": "1,cut onyx",
+    "item1": "4,uncommon aggregate"
+  },
+  "dread helm": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "1,lead ingot",
+    "focus": "21,cut emerald",
+    "item1": "3,silver ingot"
+  },
+  "dress of many pockets": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "18,uncommon tile",
+    "focus": "3,cut amber",
+    "item1": "4,cloth"
+  },
+  "dried fruit": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,uncommon block",
+    "focus": "9,cut onyx",
+    "item1": "8,flesh: humanoid cr0-4"
+  },
+  "drowner's pearl": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "9,iron ingot",
+    "focus": "12,cut quartz",
+    "item1": "4,uncommon fish fillet"
+  },
+  "duck foot": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "15,uncommon aggregate",
+    "focus": "6,cut onyx",
+    "item1": "4,meat: beast cr0-4"
+  },
+  "duko the trickster's elixir": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "11,uncommon tile",
+    "focus": "10,cut onyx",
+    "item1": "4,meat: dragon cr0-4"
+  },
+  "eagle's vision": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "14,uncommon block",
+    "focus": "1,cut onyx",
+    "item1": "10,bone: aberration cr0-4"
+  },
+  "ear horn of hearing": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "11,iron ingot",
+    "focus": "6,cut topaz",
+    "item1": "8,meat: fey cr0-4"
+  },
+  "earring of message": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "2,silver ingot",
+    "focus": "17,cut emerald",
+    "item1": "6,essence: fey cr0-4"
+  },
+  "earwax": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "1,uncommon pole",
+    "focus": "16,cut emerald",
+    "item1": "8,cloth"
+  },
+  "elder elixir": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "1,lead ingot",
+    "focus": "19,cut topaz",
+    "item1": "5,uncommon aggregate"
+  },
+  "enduring spellbook": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "8,lead ingot",
+    "focus": "7,cut onyx",
+    "item1": "10,slime: ooze cr0-4"
+  },
+  "ersatz eye": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "15,lead ingot",
+    "focus": "9,cut amber",
+    "item1": "1,bone: giant cr0-4"
+  },
+  "essence of umami": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "6,uncommon pole",
+    "focus": "11,cut emerald",
+    "item1": "8,bone: giant cr0-4"
+  },
+  "everbright lantern": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "9,iron ingot",
+    "focus": "11,cut emerald",
+    "item1": "5,sap: plant cr0-4"
+  },
+  "eye kite": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "9,uncommon tile",
+    "focus": "10,cut onyx",
+    "item1": "6,essence: elemental cr0-4"
+  },
+  "eyes of akibu": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "13,uncommon block",
+    "focus": "3,cut topaz",
+    "item1": "9,common potion ingredient"
+  },
+  "face of fugari": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,lead ingot",
+    "focus": "8,cut quartz",
+    "item1": "9,flesh: monstrosity cr0-4"
+  },
+  "feather token": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,iron ingot",
+    "focus": "10,cut topaz",
+    "item1": "5,residue: elemental cr0-4"
+  },
+  "fish folk tooth": {
+    "rarity": "common",
+    "tool": "cook's utensils",
+    "base": "2,uncommon tile",
+    "focus": "17,cut quartz",
+    "item1": "6,common potion ingredient"
+  },
+  "fish head": {
+    "rarity": "common",
+    "tool": "cook's utensils",
+    "base": "5,uncommon block",
+    "focus": "11,cut quartz",
+    "item1": "9,mass: ooze cr0-4"
+  },
+  "fisherman's spear": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "8,lead ingot",
+    "focus": "13,cut quartz",
+    "item1": "4,common potion ingredient"
+  },
+  "flash paper": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "16,silver ingot",
+    "focus": "3,cut topaz",
+    "item1": "6,essence: elemental cr0-4"
+  },
+  "flip and skip": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "2,lead ingot",
+    "focus": "21,cut onyx",
+    "item1": "2,sap: plant cr0-4"
+  },
+  "fluffplum tonic": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "11,iron ingot",
+    "focus": "11,cut onyx",
+    "item1": "3,meat: fey cr0-4"
+  },
+  "forecaster's cloak": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "14,uncommon pole",
+    "focus": "8,cut quartz",
+    "item1": "3,hide: beast cr0-4"
+  },
+  "fortune's flower": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "14,uncommon pole",
+    "focus": "5,cut amber",
+    "item1": "6,hide: beast cr0-4"
+  },
+  "foxfire charm": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "13,silver ingot",
+    "focus": "7,cut amber",
+    "item1": "5,uncommon tile"
+  },
+  "freerunner's armor": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "16,silver ingot",
+    "focus": "8,cut quartz",
+    "item1": "1,uncommon tile"
+  },
+  "glowskin": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "8,uncommon plank",
+    "focus": "8,cut topaz",
+    "item1": "9,essence: elemental cr0-4"
+  }
+}

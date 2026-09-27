@@ -1,0 +1,308 @@
+{
+  "ioun stone, religious knowledge": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "200,rare block",
+    "focus": "286,cut jacinth",
+    "item1": "1,plating: construct cr9-14",
+    "item2": "4,core: ooze cr9-14",
+    "item3": "8,organ: aberration cr9-14"
+  },
+  "ioun stone, reserve": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "490,mithril ingot",
+    "focus": "252,cut moonstone",
+    "item1": "1,rare plank",
+    "item2": "2,bone: fey cr9-14",
+    "item3": "4,components: construct cr9-14"
+  },
+  "ioun stone, self-preservation": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "40,cut obsidian",
+    "focus": "878,cut jade",
+    "item1": "3,essence: elemental cr9-14",
+    "item2": "3,brain: aberration cr9-14",
+    "item3": "3,naphtha"
+  },
+  "ioun stone, supreme intellect": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "273,cut obsidian",
+    "focus": "299,cut obsidian",
+    "item1": "6,scale: dragon cr9-14",
+    "item2": "9,bone: fey cr9-14",
+    "item3": "8,flesh: fiend cr9-14"
+  },
+  "ioun stone, sustenance": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "77,rare block",
+    "focus": "270,cut amethyst",
+    "item1": "10,blood: celestial cr9-14",
+    "item2": "4,flesh: humanoid cr9-14",
+    "item3": "6,horn: dragon cr9-14"
+  },
+  "irimbi chrysalis": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "158,copper ingot",
+    "focus": "189,cut jade",
+    "item1": "1,flesh: humanoid cr9-14",
+    "item2": "10,bone: humanoid cr9-14",
+    "item3": "6,rare block"
+  },
+  "iron bands of bilarro": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "755,mithril ingot",
+    "focus": "174,cut sapphire",
+    "item1": "1,charcoal",
+    "item2": "3,copper ingot",
+    "item3": "8,organ: monstrosity cr9-14"
+  },
+  "iron ring": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "4,copper ingot",
+    "focus": "273,cut moonstone",
+    "item1": "10,gland: dragon cr9-14",
+    "item2": "2,marrow: beast cr9-14",
+    "item3": "7,flesh: aberration cr9-14"
+  },
+  "ironleaf impaler": {
+    "rarity": "rare",
+    "tool": "brewer's supplies",
+    "base": "516,rare pole",
+    "focus": "184,cut jade",
+    "item1": "5,uncommon potion ingredient",
+    "item2": "9,meat: giant cr9-14",
+    "item3": "6,rare aggregate"
+  },
+  "island nectar": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "492,rare potion ingredient",
+    "focus": "475,cut sapphire",
+    "item1": "2,mass: plant cr9-14",
+    "item2": "3,brain: aberration cr9-14",
+    "item3": "10,charcoal"
+  },
+  "izzet keyrune": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "248,rare block",
+    "focus": "90,cut amethyst",
+    "item1": "8,naphtha",
+    "item2": "9,bone: undead cr9-14",
+    "item3": "6,hide: beast cr9-14"
+  },
+  "jinxed poker chip": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "521,rare plank",
+    "focus": "3,cut jacinth",
+    "item1": "6,rare fish fillet",
+    "item2": "4,mithril ingot",
+    "item3": "3,mass: ooze cr9-14"
+  },
+  "kagonesti forest shroud": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "245,rare tile",
+    "focus": "545,cut agate",
+    "item1": "1,uncommon poison ingredient",
+    "item2": "10,spores: plant cr9-14",
+    "item3": "5,bone: fey cr9-14"
+  },
+  "kinetic bowstring": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "66,mithril ingot",
+    "focus": "669,cut jade",
+    "item1": "10,hide: aberration cr9-14",
+    "item2": "1,essence: undead cr9-14",
+    "item3": "8,gland: dragon cr9-14"
+  },
+  "knave's eye patch": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "617,rare aggregate",
+    "focus": "49,cut moonstone",
+    "item1": "10,rare fish fillet",
+    "item2": "1,rare block",
+    "item3": "6,essence: elemental cr9-14"
+  },
+  "knife of stolen resistance": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "76,rare aggregate",
+    "focus": "369,cut obsidian",
+    "item1": "1,core: ooze cr9-14",
+    "item2": "2,durable cloth",
+    "item3": "6,core: elemental cr9-14"
+  },
+  "knifewing cape": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "101,rare pole",
+    "focus": "254,cut sapphire",
+    "item1": "7,mithril ingot",
+    "item2": "7,uncommon poison ingredient",
+    "item3": "5,essence: elemental cr9-14"
+  },
+  "lamian facestealer": {
+    "rarity": "rare",
+    "tool": "brewer's supplies",
+    "base": "328,rare block",
+    "focus": "90,cut agate",
+    "item1": "9,rare fish fillet",
+    "item2": "4,residue: elemental cr9-14",
+    "item3": "8,blood: fiend cr9-14"
+  },
+  "lantern of the chained reaper (rare)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "40,cut obsidian",
+    "focus": "350,cut jacinth",
+    "item1": "4,rare pole",
+    "item2": "8,essence: elemental cr9-14",
+    "item3": "1,fine fiber"
+  },
+  "lash of immolation": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "130,mithril ingot",
+    "focus": "201,cut jacinth",
+    "item1": "3,copper ingot",
+    "item2": "5,bone: fiend cr9-14",
+    "item3": "7,scale: dragon cr9-14"
+  },
+  "lash of the spelldrinker": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "301,rare aggregate",
+    "focus": "404,cut sapphire",
+    "item1": "7,blood: fiend cr9-14",
+    "item2": "9,copper ingot",
+    "item3": "4,essence: elemental cr9-14"
+  },
+  "last resort": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "284,rare plank",
+    "focus": "55,cut jade",
+    "item1": "2,uncommon potion ingredient",
+    "item2": "5,gear: construct cr9-14",
+    "item3": "2,slime: ooze cr9-14"
+  },
+  "leather golem armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "299,cut obsidian",
+    "focus": "44,cut sapphire",
+    "item1": "4,plating: construct cr9-14",
+    "item2": "2,chitin: monstrosity cr9-14",
+    "item3": "9,rare tile"
+  },
+  "libram of souls and flesh": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "408,cut obsidian",
+    "focus": "543,cut amethyst",
+    "item1": "9,blood: fiend cr9-14",
+    "item2": "3,organ: fiend cr9-14",
+    "item3": "9,flesh: humanoid cr9-14"
+  },
+  "life's flower restorative": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "370,rare plank",
+    "focus": "11,cut moonstone",
+    "item1": "3,blood: fey cr9-14",
+    "item2": "8,bark: plant cr9-14",
+    "item3": "10,bone: beast cr9-14"
+  },
+  "lightning khopesh": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "376,rare block",
+    "focus": "212,cut sapphire",
+    "item1": "3,copper ingot",
+    "item2": "2,essence: elemental cr9-14",
+    "item3": "6,core: elemental cr9-14"
+  },
+  "lightscreen hover boots": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "402,copper ingot",
+    "focus": "59,cut sapphire",
+    "item1": "4,core: elemental cr9-14",
+    "item2": "7,flesh: celestial cr9-14",
+    "item3": "10,residue: elemental cr9-14"
+  },
+  "liliana's rose": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "445,rare block",
+    "focus": "17,cut amethyst",
+    "item1": "7,flesh: humanoid cr9-14",
+    "item2": "5,charcoal",
+    "item3": "7,uncommon poison ingredient"
+  },
+  "lionfish poison": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "312,mithril ingot",
+    "focus": "617,cut sapphire",
+    "item1": "5,core: elemental cr9-14",
+    "item2": "4,core: ooze cr9-14",
+    "item3": "2,marrow: beast cr9-14"
+  },
+  "loadstone": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "254,rare pole",
+    "focus": "577,cut moonstone",
+    "item1": "8,components: construct cr9-14",
+    "item2": "3,flesh: humanoid cr9-14",
+    "item3": "5,essence: undead cr9-14"
+  },
+  "lord commander's badge": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "616,rare tile",
+    "focus": "41,cut jacinth",
+    "item1": "10,cut obsidian",
+    "item2": "8,bone: undead cr9-14",
+    "item3": "9,durable fiber"
+  },
+  "luminous war pick": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "608,mithril ingot",
+    "focus": "150,cut jade",
+    "item1": "9,gear: construct cr9-14",
+    "item2": "4,flesh: humanoid cr9-14",
+    "item3": "5,bone: beast cr9-14"
+  },
+  "lycan weapon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "85,copper ingot",
+    "focus": "717,cut sapphire",
+    "item1": "6,flesh: aberration cr9-14",
+    "item2": "8,flesh: humanoid cr9-14",
+    "item3": "2,rare block"
+  },
+  "lycanthropy antidote": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "421,rare aggregate",
+    "focus": "94,cut jade",
+    "item1": "10,bone: fey cr9-14",
+    "item2": "8,durable cloth",
+    "item3": "7,hide: beast cr9-14"
+  }
+}

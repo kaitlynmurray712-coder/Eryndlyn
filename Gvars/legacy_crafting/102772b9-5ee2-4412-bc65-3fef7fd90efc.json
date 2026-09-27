@@ -1,0 +1,232 @@
+{
+  "ruidium weapon": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1437,platinum ingot",
+    "focus": "5138,cut hearthstone",
+    "item1": "1,spores: plant cr15-21",
+    "item2": "8,flesh: monstrosity cr15-21",
+    "item3": "3,marrow: giant cr15-21",
+    "item4": "8,lodestone"
+  },
+  "runestone of the wild titan (very rare)": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "971,lodestone",
+    "focus": "1949,cut diamond",
+    "item1": "9,marrow: beast cr15-21",
+    "item2": "7,rare poison ingredient",
+    "item3": "7,bark: plant cr15-21",
+    "item4": "3,very rare pole"
+  },
+  "saber of unity": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "576,very rare pole",
+    "focus": "2432,cut bloodstone",
+    "item1": "9,very rare aggregate",
+    "item2": "2,very rare plank",
+    "item3": "3,very rare potion ingredient",
+    "item4": "1,lodestone"
+  },
+  "sage's signet (bear)": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "2546,adamantine ingot",
+    "focus": "138,cut bloodstone",
+    "item1": "2,platinum ingot",
+    "item2": "6,organ: monstrosity cr15-21",
+    "item3": "4,essence: undead cr15-21",
+    "item4": "4,organ: aberration cr15-21"
+  },
+  "sage's signet (hart)": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "5663,lodestone",
+    "focus": "956,cut hearthstone",
+    "item1": "2,core: elemental cr15-21",
+    "item2": "3,core: ooze cr15-21",
+    "item3": "2,core: plant cr15-21",
+    "item4": "1,plate: monstrosity cr15-21"
+  },
+  "sage's signet (lion)": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "1244,gold ingot",
+    "focus": "5156,cut ruby",
+    "item1": "6,bone: beast cr15-21",
+    "item2": "10,meat: beast cr15-21",
+    "item3": "3,core: plant cr15-21",
+    "item4": "8,bone: undead cr15-21"
+  },
+  "sage's signet (wolf)": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "4010,mizzium ingot",
+    "focus": "1318,cut hearthstone",
+    "item1": "5,spores: plant cr15-21",
+    "item2": "5,very rare potion ingredient",
+    "item3": "2,bone: beast cr15-21",
+    "item4": "4,marrow: beast cr15-21"
+  },
+  "sanctum amulet": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "318,hizagkuur ingot",
+    "focus": "5578,cut diamond",
+    "item1": "8,gold ingot",
+    "item2": "7,marrow: beast cr15-21",
+    "item3": "9,flesh: monstrosity cr15-21",
+    "item4": "4,plate: monstrosity cr15-21"
+  },
+  "sapphire buckler": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "2851,gold ingot",
+    "focus": "2335,cut hearthstone",
+    "item1": "1,core: fey cr15-21",
+    "item2": "9,very rare fish fillet",
+    "item3": "1,core: ooze cr15-21",
+    "item4": "1,mass: ooze cr15-21"
+  },
+  "scepter of faith": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3173,hizagkuur ingot",
+    "focus": "1163,cut ruby",
+    "item1": "9,core: ooze cr15-21",
+    "item2": "6,core: fiend cr15-21",
+    "item3": "9,chitin: monstrosity cr15-21",
+    "item4": "4,meat: dragon cr15-21"
+  },
+  "scimitar of speed": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4552,very rare plank",
+    "focus": "1947,cut bloodstone",
+    "item1": "9,bone: giant cr15-21",
+    "item2": "8,meat: beast cr15-21",
+    "item3": "3,very rare tile",
+    "item4": "7,slime: ooze cr15-21"
+  },
+  "scroll of mapping (very rare)": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "5215,very rare aggregate",
+    "focus": "2140,cut bloodstone",
+    "item1": "7,core: celestial cr15-21",
+    "item2": "1,core: aberration cr15-21",
+    "item3": "8,adamantine ingot",
+    "item4": "2,meat: beast cr15-21"
+  },
+  "scythe of the harvest terror (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "120,platinum ingot",
+    "focus": "2905,cut bloodstone",
+    "item1": "10,flesh: aberration cr15-21",
+    "item2": "3,bone: beast cr15-21",
+    "item3": "10,gland: dragon cr15-21",
+    "item4": "4,essence: fey cr15-21"
+  },
+  "seeing glass": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "1843,mizzium ingot",
+    "focus": "1767,cut opal",
+    "item1": "1,very rare aggregate",
+    "item2": "9,very rare poison ingredient",
+    "item3": "8,hizagkuur ingot",
+    "item4": "3,flesh: celestial cr15-21"
+  },
+  "shard of the ise rune": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "435,very rare aggregate",
+    "focus": "5892,cut bloodstone",
+    "item1": "2,very rare potion ingredient",
+    "item2": "4,meat: beast cr15-21",
+    "item3": "7,bone: giant cr15-21",
+    "item4": "6,marrow: beast cr15-21"
+  },
+  "shield of dawn's herald": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1016,mizzium ingot",
+    "focus": "1862,cut sunstone",
+    "item1": "10,core: elemental cr15-21",
+    "item2": "9,flesh: celestial cr15-21",
+    "item3": "8,residue: elemental cr15-21",
+    "item4": "3,essence: elemental cr15-21"
+  },
+  "shield of marius renathyr (very rare)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3722,platinum ingot",
+    "focus": "701,cut hearthstone",
+    "item1": "3,plate: monstrosity cr15-21",
+    "item2": "9,bone: beast cr15-21",
+    "item3": "8,mizzium ingot",
+    "item4": "2,very rare aggregate"
+  },
+  "shield of the cavalier": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4843,very rare pole",
+    "focus": "2150,cut diamond",
+    "item1": "7,components: construct cr15-21",
+    "item2": "1,meat: beast cr15-21",
+    "item3": "5,gold ingot",
+    "item4": "4,plating: construct cr15-21"
+  },
+  "shield of the uven rune": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2793,mizzium ingot",
+    "focus": "2263,cut diamond",
+    "item1": "5,meat: beast cr15-21",
+    "item2": "8,plate: monstrosity cr15-21",
+    "item3": "3,gold ingot",
+    "item4": "10,plating: construct cr15-21"
+  },
+  "shooting star": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "6245,lodestone",
+    "focus": "2161,cut diamond",
+    "item1": "6,core: aberration cr15-21",
+    "item2": "2,meat: fey cr15-21",
+    "item3": "2,very rare fish fillet",
+    "item4": "2,organ: aberration cr15-21"
+  },
+  "shovel of yorgrim (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3754,mizzium ingot",
+    "focus": "2724,cut sunstone",
+    "item1": "2,adamantine ingot",
+    "item2": "9,very rare potion ingredient",
+    "item3": "5,core: fey cr15-21",
+    "item4": "4,very rare plank"
+  },
+  "shroud of kairious": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "746,very rare aggregate",
+    "focus": "3905,cut sunstone",
+    "item1": "2,hizagkuur ingot",
+    "item2": "1,core: ooze cr15-21",
+    "item3": "3,heart: dragon cr15-21",
+    "item4": "2,very rare block"
+  },
+  "silver dragon scale mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2444,lodestone",
+    "focus": "3722,cut sunstone",
+    "item1": "4,core: elemental cr15-21",
+    "item2": "1,very rare tile",
+    "item3": "8,essence: elemental cr15-21",
+    "item4": "5,residue: elemental cr15-21"
+  }
+}

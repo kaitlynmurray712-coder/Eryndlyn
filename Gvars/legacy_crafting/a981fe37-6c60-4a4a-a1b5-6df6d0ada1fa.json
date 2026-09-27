@@ -1,0 +1,282 @@
+{
+  "ghost sight bow": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2318,very rare pole",
+    "focus": "2643,cut opal",
+    "item1": "9,blood: fiend cr15-21",
+    "item2": "10,organ: fiend cr15-21",
+    "item3": "5,lodestone",
+    "item4": "3,essence: undead cr15-21"
+  },
+  "ghost step tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "4996,very rare tile",
+    "focus": "1925,lodestone",
+    "item1": "3,flesh: humanoid cr15-21",
+    "item2": "7,rare poison ingredient",
+    "item3": "10,very rare poison ingredient",
+    "item4": "4,bone: fiend cr15-21"
+  },
+  "gloves of mimicry": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "1285,mizzium ingot",
+    "focus": "3743,cut bloodstone",
+    "item1": "2,bone: humanoid cr15-21",
+    "item2": "8,quicksilver",
+    "item3": "8,blood: fiend cr15-21",
+    "item4": "1,flesh: fiend cr15-21"
+  },
+  "gloves of the walking shade": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "3367,very rare plank",
+    "focus": "3232,cut ruby",
+    "item1": "2,very rare block",
+    "item2": "7,gear: construct cr15-21",
+    "item3": "7,meat: giant cr15-21",
+    "item4": "6,core: undead cr15-21"
+  },
+  "gold dragon scale mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1440,hizagkuur ingot",
+    "focus": "7297,cut diamond",
+    "item1": "3,organ: celestial cr15-21",
+    "item2": "2,essence: elemental cr15-21",
+    "item3": "7,gland: dragon cr15-21",
+    "item4": "6,residue: elemental cr15-21"
+  },
+  "gold rings of might": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2473,hizagkuur ingot",
+    "focus": "3273,cut sunstone",
+    "item1": "10,scale: dragon cr15-21",
+    "item2": "7,heart: dragon cr15-21",
+    "item3": "9,mizzium ingot",
+    "item4": "5,very rare aggregate"
+  },
+  "golgari keyrune": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "7792,adamantine ingot",
+    "focus": "1128,cut hearthstone",
+    "item1": "2,blood: fiend cr15-21",
+    "item2": "7,flesh: humanoid cr15-21",
+    "item3": "1,scale: dragon cr15-21",
+    "item4": "5,dreamlily"
+  },
+  "grasping staff": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "5897,very rare plank",
+    "focus": "2767,cut ruby",
+    "item1": "9,flesh: monstrosity cr15-21",
+    "item2": "2,gold ingot",
+    "item3": "6,flesh: humanoid cr15-21",
+    "item4": "2,organ: fiend cr15-21"
+  },
+  "green dragon scale mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1508,very rare aggregate",
+    "focus": "8078,cut ruby",
+    "item1": "8,gold ingot",
+    "item2": "6,mizzium ingot",
+    "item3": "4,platinum ingot",
+    "item4": "10,scale: dragon cr15-21"
+  },
+  "green knight's vow": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2169,lodestone",
+    "focus": "4377,cut bloodstone",
+    "item1": "6,blood: fiend cr15-21",
+    "item2": "7,flesh: undead cr15-21",
+    "item3": "2,very rare potion ingredient",
+    "item4": "1,very rare aggregate"
+  },
+  "hammer of runic focus": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "7270,very rare aggregate",
+    "focus": "2585,cut bloodstone",
+    "item1": "6,core: celestial cr15-21",
+    "item2": "3,blood: fiend cr15-21",
+    "item3": "10,hide: beast cr15-21",
+    "item4": "3,mass: ooze cr15-21"
+  },
+  "hat of many spells": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "362,very rare block",
+    "focus": "3942,cut hearthstone",
+    "item1": "6,flesh: aberration cr15-21",
+    "item2": "8,meat: beast cr15-21",
+    "item3": "6,spores: plant cr15-21",
+    "item4": "7,residue: elemental cr15-21"
+  },
+  "hazewalker plate": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4201,platinum ingot",
+    "focus": "626,cut diamond",
+    "item1": "4,gear: construct cr15-21",
+    "item2": "10,flesh: monstrosity cr15-21",
+    "item3": "7,plating: construct cr15-21",
+    "item4": "3,core: construct cr15-21"
+  },
+  "heartless cage pendant": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1421,platinum ingot",
+    "focus": "5783,cut opal",
+    "item1": "8,meat: fey cr15-21",
+    "item2": "3,very rare plank",
+    "item3": "7,meat: beast cr15-21",
+    "item4": "1,blood: undead cr15-21"
+  },
+  "heartstone": {
+    "rarity": "very rare",
+    "tool": "mason's tools",
+    "base": "302,very rare plank",
+    "focus": "9657,cut opal",
+    "item1": "3,marrow: giant cr15-21",
+    "item2": "5,flesh: aberration cr15-21",
+    "item3": "3,bone: humanoid cr15-21",
+    "item4": "9,components: construct cr15-21"
+  },
+  "helm of brilliance": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3262,hizagkuur ingot",
+    "focus": "4757,cut diamond",
+    "item1": "4,marrow: beast cr15-21",
+    "item2": "6,very rare block",
+    "item3": "2,bone: beast cr15-21",
+    "item4": "5,plating: construct cr15-21"
+  },
+  "helm of devil command": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2771,platinum ingot",
+    "focus": "27,cut diamond",
+    "item1": "6,bone: beast cr15-21",
+    "item2": "6,mizzium ingot",
+    "item3": "5,gold ingot",
+    "item4": "1,organ: monstrosity cr15-21"
+  },
+  "helm of the broken dragon": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2089,hizagkuur ingot",
+    "focus": "5601,cut diamond",
+    "item1": "6,platinum ingot",
+    "item2": "1,residue: elemental cr15-21",
+    "item3": "6,core: elemental cr15-21",
+    "item4": "1,scale: dragon cr15-21"
+  },
+  "helm of the chromatic dragon": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2236,hizagkuur ingot",
+    "focus": "2127,cut diamond",
+    "item1": "10,horn: dragon cr15-21",
+    "item2": "5,residue: elemental cr15-21",
+    "item3": "3,gland: dragon cr15-21",
+    "item4": "6,very rare block"
+  },
+  "helm of the platinum dragon": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2955,platinum ingot",
+    "focus": "596,cut diamond",
+    "item1": "1,gold ingot",
+    "item2": "5,heart: dragon cr15-21",
+    "item3": "5,essence: elemental cr15-21",
+    "item4": "3,blood: fiend cr15-21"
+  },
+  "helm of the ruby dragon": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2309,hizagkuur ingot",
+    "focus": "4828,cut ruby",
+    "item1": "1,blood: fiend cr15-21",
+    "item2": "9,heart: dragon cr15-21",
+    "item3": "2,core: elemental cr15-21",
+    "item4": "2,flesh: fiend cr15-21"
+  },
+  "heward's hireling armor": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "5516,very rare block",
+    "focus": "1064,cut hearthstone",
+    "item1": "3,gear: construct cr15-21",
+    "item2": "7,flesh: monstrosity cr15-21",
+    "item3": "4,adamantine ingot",
+    "item4": "2,core: construct cr15-21"
+  },
+  "hide of the brimstone behemoth (very rare)": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "6078,very rare aggregate",
+    "focus": "2058,cut diamond",
+    "item1": "9,bone: fiend cr15-21",
+    "item2": "4,core: elemental cr15-21",
+    "item3": "4,gear: construct cr15-21",
+    "item4": "5,hide: beast cr15-21"
+  },
+  "hook of the tall man (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1776,lodestone",
+    "focus": "1991,cut hearthstone",
+    "item1": "2,horn: dragon cr15-21",
+    "item2": "2,rare poison ingredient",
+    "item3": "8,meat: dragon cr15-21",
+    "item4": "1,organ: aberration cr15-21"
+  },
+  "horn of valhalla, bronze": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "5706,platinum ingot",
+    "focus": "1909,cut sunstone",
+    "item1": "6,scale: dragon cr15-21",
+    "item2": "6,rare potion ingredient",
+    "item3": "1,marrow: giant cr15-21",
+    "item4": "6,essence: fey cr15-21"
+  },
+  "horn of the wild hunt": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "1699,very rare pole",
+    "focus": "1015,cut diamond",
+    "item1": "5,essence: fey cr15-21",
+    "item2": "5,bone: beast cr15-21",
+    "item3": "10,marrow: beast cr15-21",
+    "item4": "7,hide: beast cr15-21"
+  },
+  "horned ring": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "5381,mizzium ingot",
+    "focus": "1765,cut hearthstone",
+    "item1": "4,very rare potion ingredient",
+    "item2": "10,flesh: monstrosity cr15-21",
+    "item3": "8,essence: elemental cr15-21",
+    "item4": "5,core: undead cr15-21"
+  },
+  "horseshoes of a zephyr": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "1692,very rare block",
+    "focus": "8141,cut bloodstone",
+    "item1": "2,core: aberration cr15-21",
+    "item2": "5,meat: giant cr15-21",
+    "item3": "5,bone: fey cr15-21",
+    "item4": "2,very rare aggregate"
+  }
+}

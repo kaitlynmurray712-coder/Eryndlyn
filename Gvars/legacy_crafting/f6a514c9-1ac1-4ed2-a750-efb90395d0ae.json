@@ -1,0 +1,317 @@
+{
+  "wand sheath": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "16,uncommon pole",
+    "focus": "8,cut amber",
+    "item1": "1,organ: fiend cr0-4"
+  },
+  "wand of conducting": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "22,uncommon pole",
+    "focus": "2,cut emerald",
+    "item1": "1,essence: fey cr0-4"
+  },
+  "wand of pyrotechnics": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "15,uncommon plank",
+    "focus": "8,cut onyx",
+    "item1": "2,fiber"
+  },
+  "wand of scowls": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "14,uncommon tile",
+    "focus": "5,cut quartz",
+    "item1": "6,flesh: aberration cr0-4"
+  },
+  "wand of smiles": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "10,uncommon pole",
+    "focus": "5,cut amber",
+    "item1": "10,uncommon aggregate"
+  },
+  "weapon master's elixir": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "8,iron ingot",
+    "focus": "7,cut topaz",
+    "item1": "10,residue: elemental cr0-4"
+  },
+  "whispergust mote": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "13,uncommon tile",
+    "focus": "7,cut onyx",
+    "item1": "5,slime: ooze cr0-4"
+  },
+  "widemouth bucket": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,silver ingot",
+    "focus": "13,cut amber",
+    "item1": "2,mass: plant cr0-4"
+  },
+  "williwig's time stopper": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "1,uncommon block",
+    "focus": "21,cut onyx",
+    "item1": "3,bone: aberration cr0-4"
+  },
+  "windbloom": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "9,lead ingot",
+    "focus": "9,cut topaz",
+    "item1": "7,uncommon aggregate"
+  },
+  "wispy sour (common)": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "5,uncommon tile",
+    "focus": "12,cut emerald",
+    "item1": "8,meat: dragon cr0-4"
+  },
+  "witch's broom": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "4,uncommon plank",
+    "focus": "17,cut onyx",
+    "item1": "4,flesh: undead cr0-4"
+  },
+  "witch's eye coral": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,silver ingot",
+    "focus": "17,cut amber",
+    "item1": "5,mass: ooze cr0-4"
+  },
+  "witch's hidden gem": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "3,uncommon aggregate",
+    "focus": "18,cut quartz",
+    "item1": "4,essence: elemental cr0-4"
+  },
+  "wonder juice": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,uncommon block",
+    "focus": "16,cut quartz",
+    "item1": "5,common potion ingredient"
+  },
+  "wyllow's staff of flowers": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "19,uncommon plank",
+    "focus": "4,cut emerald",
+    "item1": "2,mass: plant cr0-4"
+  },
+  "yugi sap": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "7,uncommon aggregate",
+    "focus": "14,cut amber",
+    "item1": "4,organ: fiend cr0-4"
+  },
+  "yuma shrub": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "7,iron ingot",
+    "focus": "16,cut amber",
+    "item1": "2,flesh: humanoid cr0-4"
+  },
+  "+1 armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "165,mithril ingot",
+    "focus": "784,cut sapphire",
+    "item1": "10,rare aggregate",
+    "item2": "7,gear: construct cr9-14",
+    "item3": "1,rare block"
+  },
+  "+1 fate dealer's deck": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "748,rare block",
+    "focus": "70,cut sapphire",
+    "item1": "3,uncommon poison ingredient",
+    "item2": "7,flesh: humanoid cr9-14",
+    "item3": "3,rare tile"
+  },
+  "+1 true name": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "520,rare block",
+    "focus": "460,cut amethyst",
+    "item1": "1,hide: aberration cr9-14",
+    "item2": "1,uncommon poison ingredient",
+    "item3": "5,blood: fey cr9-14"
+  },
+  "+2 all-purpose tool": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "543,rare plank",
+    "focus": "20,cut sapphire",
+    "item1": "2,core: elemental cr9-14",
+    "item2": "8,rare tile",
+    "item3": "9,fine fiber"
+  },
+  "+2 ammunition": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "793,copper ingot",
+    "focus": "84,cut moonstone",
+    "item1": "9,uncommon potion ingredient",
+    "item2": "1,blood: undead cr9-14",
+    "item3": "6,rare plank"
+  },
+  "+2 amulet of the devout": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "246,mithril ingot",
+    "focus": "122,cut jade",
+    "item1": "10,rare tile",
+    "item2": "9,plate: monstrosity cr9-14",
+    "item3": "7,meat: beast cr9-14"
+  },
+  "+2 arcane grimoire": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "604,rare plank",
+    "focus": "31,cut jacinth",
+    "item1": "6,core: elemental cr9-14",
+    "item2": "2,sap: plant cr9-14",
+    "item3": "8,organ: celestial cr9-14"
+  },
+  "+2 bloodwell vial": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "311,mithril ingot",
+    "focus": "305,cut sapphire",
+    "item1": "7,cut obsidian",
+    "item2": "7,fine fiber",
+    "item3": "3,bark: plant cr9-14"
+  },
+  "+2 dragonhide belt": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "498,rare plank",
+    "focus": "12,cut amethyst",
+    "item1": "9,gland: dragon cr9-14",
+    "item2": "7,core: elemental cr9-14",
+    "item3": "1,organ: fiend cr9-14"
+  },
+  "+2 moon sickle": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "283,copper ingot",
+    "focus": "91,cut amethyst",
+    "item1": "3,rare pole",
+    "item2": "1,naphtha",
+    "item3": "9,chitin: monstrosity cr9-14"
+  },
+  "+2 rhythm-maker's drum": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "479,rare block",
+    "focus": "415,cut jacinth",
+    "item1": "4,rare plank",
+    "item2": "2,hide: beast cr9-14",
+    "item3": "2,charcoal"
+  },
+  "+2 ring of protection": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "638,mithril ingot",
+    "focus": "239,cut sapphire",
+    "item1": "3,rare aggregate",
+    "item2": "8,rare tile",
+    "item3": "5,copper ingot"
+  },
+  "+2 rod of the pact keeper": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "125,rare pole",
+    "focus": "762,cut amethyst",
+    "item1": "10,plating: construct cr9-14",
+    "item2": "2,rare plank",
+    "item3": "8,naphtha"
+  },
+  "+2 shield (*)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "742,copper ingot",
+    "focus": "214,cut moonstone",
+    "item1": "2,rare tile",
+    "item2": "5,marrow: beast cr9-14",
+    "item3": "1,mithril ingot"
+  },
+  "+2 wand of the war mage": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "82,rare plank",
+    "focus": "412,cut amethyst",
+    "item1": "10,components: construct cr9-14",
+    "item2": "6,flesh: fiend cr9-14",
+    "item3": "1,marrow: beast cr9-14"
+  },
+  "+2 weapon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "511,copper ingot",
+    "focus": "111,cut moonstone",
+    "item1": "3,core: ooze cr9-14",
+    "item2": "8,residue: elemental cr9-14",
+    "item3": "9,bone: fiend cr9-14"
+  },
+  "+2 weapon (no damage)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "233,mithril ingot",
+    "focus": "190,cut moonstone",
+    "item1": "2,organ: humanoid cr9-14",
+    "item2": "1,flesh: fiend cr9-14",
+    "item3": "10,blood: undead cr9-14"
+  },
+  "+2 wraps of unarmed power": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "385,cut obsidian",
+    "focus": "257,cut obsidian",
+    "item1": "1,hide: beast cr9-14",
+    "item2": "9,bone: undead cr9-14",
+    "item3": "4,naphtha"
+  },
+  "aastrika's crown": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "94,mithril ingot",
+    "focus": "356,cut jade",
+    "item1": "2,gland: dragon cr9-14",
+    "item2": "8,naphtha",
+    "item3": "8,flesh: celestial cr9-14"
+  },
+  "abjurer's bangle (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "242,rare tile",
+    "focus": "173,cut jacinth",
+    "item1": "1,bone: fey cr9-14",
+    "item2": "8,core: ooze cr9-14",
+    "item3": "6,organ: celestial cr9-14"
+  },
+  "acheron blade": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "183,rare block",
+    "focus": "385,cut jacinth",
+    "item1": "3,organ: celestial cr9-14",
+    "item2": "3,uncommon poison ingredient",
+    "item3": "10,rare fish fillet"
+  }
+}

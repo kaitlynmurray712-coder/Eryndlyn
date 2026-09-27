@@ -1,0 +1,299 @@
+{
+  "figurine of wondrous power, ebony fly": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "165,rare tile",
+    "focus": "273,cut moonstone",
+    "item1": "8,brain: aberration cr9-14",
+    "item2": "4,blood: fiend cr9-14",
+    "item3": "10,slime: ooze cr9-14"
+  },
+  "figurine of wondrous power, golden lions": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "483,rare pole",
+    "focus": "237,cut jacinth",
+    "item1": "10,residue: elemental cr9-14",
+    "item2": "3,gland: dragon cr9-14",
+    "item3": "8,horn: dragon cr9-14"
+  },
+  "figurine of wondrous power, ivory goats": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "304,rare plank",
+    "focus": "322,cut amethyst",
+    "item1": "5,flesh: monstrosity cr9-14",
+    "item2": "7,fine fiber",
+    "item3": "9,rare block"
+  },
+  "figurine of wondrous power, marble elephant": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "409,rare block",
+    "focus": "208,cut jade",
+    "item1": "4,bone: giant cr9-14",
+    "item2": "2,blood: fiend cr9-14",
+    "item3": "9,core: ooze cr9-14"
+  },
+  "figurine of wondrous power, onyx dog": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "327,rare aggregate",
+    "focus": "628,cut obsidian",
+    "item1": "4,durable cloth",
+    "item2": "5,marrow: giant cr9-14",
+    "item3": "9,mithril ingot"
+  },
+  "figurine of wondrous power, serpentine owl": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "607,rare tile",
+    "focus": "142,cut sapphire",
+    "item1": "3,organ: celestial cr9-14",
+    "item2": "4,naphtha",
+    "item3": "3,flesh: celestial cr9-14"
+  },
+  "flame tongue": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "235,mithril ingot",
+    "focus": "165,cut sapphire",
+    "item1": "8,core: elemental cr9-14",
+    "item2": "10,residue: elemental cr9-14",
+    "item3": "6,rare tile"
+  },
+  "flamefriend lantern": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "72,copper ingot",
+    "focus": "557,cut sapphire",
+    "item1": "8,scale: dragon cr9-14",
+    "item2": "8,rare tile",
+    "item3": "4,residue: elemental cr9-14"
+  },
+  "flayer slayer": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "110,mithril ingot",
+    "focus": "767,cut obsidian",
+    "item1": "7,gear: construct cr9-14",
+    "item2": "7,rare fish fillet",
+    "item3": "5,uncommon poison ingredient"
+  },
+  "flying chariot": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "545,rare pole",
+    "focus": "9,cut sapphire",
+    "item1": "6,durable cloth",
+    "item2": "10,core: elemental cr9-14",
+    "item3": "1,rare block"
+  },
+  "focus breaker": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "241,cut obsidian",
+    "focus": "28,cut agate",
+    "item1": "3,rare fish fillet",
+    "item2": "8,gear: construct cr9-14",
+    "item3": "9,organ: monstrosity cr9-14"
+  },
+  "folding boat": {
+    "rarity": "rare",
+    "tool": "carpenter's tools",
+    "base": "270,mithril ingot",
+    "focus": "295,cut jacinth",
+    "item1": "8,hide: aberration cr9-14",
+    "item2": "1,flesh: monstrosity cr9-14",
+    "item3": "7,hide: beast cr9-14"
+  },
+  "forest seed": {
+    "rarity": "rare",
+    "tool": "cook's utensils",
+    "base": "335,rare plank",
+    "focus": "91,cut agate",
+    "item1": "7,hide: beast cr9-14",
+    "item2": "2,durable fiber",
+    "item3": "2,bark: plant cr9-14"
+  },
+  "forgework dragon shield": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "2,mithril ingot",
+    "focus": "373,cut amethyst",
+    "item1": "5,core: elemental cr9-14",
+    "item2": "6,copper ingot",
+    "item3": "6,organ: fiend cr9-14"
+  },
+  "fork of eddy summoning": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "429,rare plank",
+    "focus": "59,cut amethyst",
+    "item1": "4,organ: celestial cr9-14",
+    "item2": "1,core: ooze cr9-14",
+    "item3": "2,brain: aberration cr9-14"
+  },
+  "fractal key": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "483,cut obsidian",
+    "focus": "15,cut amethyst",
+    "item1": "1,organ: monstrosity cr9-14",
+    "item2": "7,core: ooze cr9-14",
+    "item3": "2,rare fish fillet"
+  },
+  "frog prince statuette": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "77,copper ingot",
+    "focus": "211,cut obsidian",
+    "item1": "8,flesh: aberration cr9-14",
+    "item2": "3,marrow: beast cr9-14",
+    "item3": "3,organ: celestial cr9-14"
+  },
+  "frostglow weapon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "489,copper ingot",
+    "focus": "229,cut moonstone",
+    "item1": "1,hide: beast cr9-14",
+    "item2": "10,mass: ooze cr9-14",
+    "item3": "5,rare fish fillet"
+  },
+  "frozen armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "356,cut obsidian",
+    "focus": "147,cut moonstone",
+    "item1": "10,plating: construct cr9-14",
+    "item2": "3,flesh: monstrosity cr9-14",
+    "item3": "5,marrow: beast cr9-14"
+  },
+  "fulminating treatise": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "250,cut obsidian",
+    "focus": "4,cut jacinth",
+    "item1": "9,organ: humanoid cr9-14",
+    "item2": "4,flesh: aberration cr9-14",
+    "item3": "9,meat: giant cr9-14"
+  },
+  "fused chimeric hide": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "135,cut obsidian",
+    "focus": "129,cut obsidian",
+    "item1": "9,flesh: undead cr9-14",
+    "item2": "10,bone: humanoid cr9-14",
+    "item3": "7,bone: fey cr9-14"
+  },
+  "galder's bubble pipe": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "117,rare plank",
+    "focus": "236,cut amethyst",
+    "item1": "8,organ: monstrosity cr9-14",
+    "item2": "6,uncommon potion ingredient",
+    "item3": "3,plate: monstrosity cr9-14"
+  },
+  "gambler's blade": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "152,rare pole",
+    "focus": "499,cut moonstone",
+    "item1": "4,blood: fiend cr9-14",
+    "item2": "6,flesh: fiend cr9-14",
+    "item3": "8,fine fiber"
+  },
+  "gauntlets of eldritch ferocity": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "124,mithril ingot",
+    "focus": "560,cut jacinth",
+    "item1": "3,meat: beast cr9-14",
+    "item2": "2,gear: construct cr9-14",
+    "item3": "4,hide: aberration cr9-14"
+  },
+  "gauntlets of flaming fury": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "598,copper ingot",
+    "focus": "200,cut jade",
+    "item1": "7,organ: aberration cr9-14",
+    "item2": "10,bone: undead cr9-14",
+    "item3": "3,meat: beast cr9-14"
+  },
+  "gauntlets of rage": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "118,rare pole",
+    "focus": "116,cut amethyst",
+    "item1": "7,meat: dragon cr9-14",
+    "item2": "2,durable cloth",
+    "item3": "8,blood: undead cr9-14"
+  },
+  "gavel of the venn rune": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "187,cut obsidian",
+    "focus": "82,cut jade",
+    "item1": "1,core: ooze cr9-14",
+    "item2": "10,durable fiber",
+    "item3": "1,scale: dragon cr9-14"
+  },
+  "gem of seeing": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "52,rare tile",
+    "focus": "194,cut jade",
+    "item1": "7,uncommon poison ingredient",
+    "item2": "3,durable cloth",
+    "item3": "2,mass: ooze cr9-14"
+  },
+  "gentleman's saber": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "587,rare block",
+    "focus": "101,cut jacinth",
+    "item1": "4,slime: ooze cr9-14",
+    "item2": "4,bone: fiend cr9-14",
+    "item3": "7,blood: fey cr9-14"
+  },
+  "ghost armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "369,mithril ingot",
+    "focus": "34,cut amethyst",
+    "item1": "3,bone: humanoid cr9-14",
+    "item2": "7,blood: undead cr9-14",
+    "item3": "5,bone: undead cr9-14"
+  },
+  "ghost lantern": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "497,rare block",
+    "focus": "394,cut obsidian",
+    "item1": "1,organ: fiend cr9-14",
+    "item2": "8,blood: undead cr9-14",
+    "item3": "2,rare tile"
+  },
+  "gi of shifting seasons": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "529,rare block",
+    "focus": "103,cut sapphire",
+    "item1": "4,slime: ooze cr9-14",
+    "item2": "7,essence: elemental cr9-14",
+    "item3": "8,core: ooze cr9-14"
+  },
+  "giant femur club": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "105,rare aggregate",
+    "focus": "663,cut jacinth",
+    "item1": "5,bone: fiend cr9-14",
+    "item2": "3,rare pole",
+    "item3": "1,charcoal"
+  }
+}

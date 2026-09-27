@@ -1,0 +1,282 @@
+{
+  "raven's slumber": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3365,very rare aggregate",
+    "focus": "3572,cut bloodstone",
+    "item1": "1,organ: humanoid cr15-21",
+    "item2": "6,bone: giant cr15-21",
+    "item3": "7,flesh: undead cr15-21",
+    "item4": "8,plating: construct cr15-21"
+  },
+  "recall crystal": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "2321,very rare tile",
+    "focus": "2720,cut bloodstone",
+    "item1": "5,horn: dragon cr15-21",
+    "item2": "4,flesh: aberration cr15-21",
+    "item3": "3,blood: fiend cr15-21",
+    "item4": "7,bone: undead cr15-21"
+  },
+  "red dragon scale mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3430,mizzium ingot",
+    "focus": "1836,cut ruby",
+    "item1": "4,scale: dragon cr15-21",
+    "item2": "3,very rare tile",
+    "item3": "9,flesh: fiend cr15-21",
+    "item4": "2,heart: dragon cr15-21"
+  },
+  "reincarnation dust": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "2969,gold ingot",
+    "focus": "1780,cut bloodstone",
+    "item1": "7,components: construct cr15-21",
+    "item2": "4,very rare fish fillet",
+    "item3": "6,blood: fiend cr15-21",
+    "item4": "6,spores: plant cr15-21"
+  },
+  "rejuvenating draft (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1818,mizzium ingot",
+    "focus": "7733,cut ruby",
+    "item1": "6,organ: fiend cr15-21",
+    "item2": "8,organ: aberration cr15-21",
+    "item3": "1,very rare plank",
+    "item4": "10,very rare block"
+  },
+  "rejuvenation potion": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "5180,platinum ingot",
+    "focus": "4450,cut ruby",
+    "item1": "1,very rare fish fillet",
+    "item2": "3,slime: ooze cr15-21",
+    "item3": "4,flesh: celestial cr15-21",
+    "item4": "5,lodestone"
+  },
+  "reliquary of holy memories (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "605,platinum ingot",
+    "focus": "3558,cut bloodstone",
+    "item1": "4,marrow: giant cr15-21",
+    "item2": "4,spores: plant cr15-21",
+    "item3": "8,very rare aggregate",
+    "item4": "6,bone: giant cr15-21"
+  },
+  "ring of amity": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4172,mizzium ingot",
+    "focus": "3728,cut sunstone",
+    "item1": "8,core: fey cr15-21",
+    "item2": "9,bone: humanoid cr15-21",
+    "item3": "10,very rare poison ingredient",
+    "item4": "1,core: elemental cr15-21"
+  },
+  "ring of collecting": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1585,adamantine ingot",
+    "focus": "5350,cut hearthstone",
+    "item1": "10,meat: dragon cr15-21",
+    "item2": "5,gland: dragon cr15-21",
+    "item3": "2,gold ingot",
+    "item4": "7,mizzium ingot"
+  },
+  "ring of lunar might": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1111,platinum ingot",
+    "focus": "5154,cut ruby",
+    "item1": "8,sap: plant cr15-21",
+    "item2": "7,heart: dragon cr15-21",
+    "item3": "6,meat: fey cr15-21",
+    "item4": "1,rare poison ingredient"
+  },
+  "ring of red fury": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2016,platinum ingot",
+    "focus": "6601,cut bloodstone",
+    "item1": "4,blood: undead cr15-21",
+    "item2": "5,marrow: beast cr15-21",
+    "item3": "10,bone: humanoid cr15-21",
+    "item4": "7,core: ooze cr15-21"
+  },
+  "ring of regeneration": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4238,platinum ingot",
+    "focus": "2367,cut bloodstone",
+    "item1": "1,rare poison ingredient",
+    "item2": "3,hizagkuur ingot",
+    "item3": "2,bone: beast cr15-21",
+    "item4": "10,flesh: celestial cr15-21"
+  },
+  "ring of scarlet shadows": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "6893,platinum ingot",
+    "focus": "2123,lodestone",
+    "item1": "5,flesh: fiend cr15-21",
+    "item2": "4,flesh: undead cr15-21",
+    "item3": "4,organ: aberration cr15-21",
+    "item4": "3,blood: fiend cr15-21"
+  },
+  "ring of shooting stars": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4807,adamantine ingot",
+    "focus": "4593,cut opal",
+    "item1": "2,sap: plant cr15-21",
+    "item2": "2,hizagkuur ingot",
+    "item3": "8,very rare plank",
+    "item4": "1,flesh: undead cr15-21"
+  },
+  "ring of telekinesis": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2691,gold ingot",
+    "focus": "6345,cut diamond",
+    "item1": "9,adamantine ingot",
+    "item2": "8,meat: giant cr15-21",
+    "item3": "2,essence: fey cr15-21",
+    "item4": "9,rare poison ingredient"
+  },
+  "ring of treachery": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1959,platinum ingot",
+    "focus": "5675,cut hearthstone",
+    "item1": "8,flesh: celestial cr15-21",
+    "item2": "6,essence: undead cr15-21",
+    "item3": "3,dreamlily",
+    "item4": "1,core: construct cr15-21"
+  },
+  "ring of the split mind": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4701,adamantine ingot",
+    "focus": "2768,cut diamond",
+    "item1": "9,flesh: humanoid cr15-21",
+    "item2": "10,bone: humanoid cr15-21",
+    "item3": "6,flesh: aberration cr15-21",
+    "item4": "9,brain: aberration cr15-21"
+  },
+  "robe of scintillating colors": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "1991,very rare tile",
+    "focus": "3230,cut ruby",
+    "item1": "7,very rare fish fillet",
+    "item2": "6,residue: elemental cr15-21",
+    "item3": "10,scale: dragon cr15-21",
+    "item4": "1,dreamlily"
+  },
+  "robe of stars": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "2123,very rare block",
+    "focus": "1449,cut diamond",
+    "item1": "1,chitin: monstrosity cr15-21",
+    "item2": "6,very rare poison ingredient",
+    "item3": "6,bone: fiend cr15-21",
+    "item4": "1,very rare pole"
+  },
+  "rod of absorption": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "2790,very rare pole",
+    "focus": "2029,cut bloodstone",
+    "item1": "1,heart: dragon cr15-21",
+    "item2": "8,very rare potion ingredient",
+    "item3": "1,bone: fiend cr15-21",
+    "item4": "1,very rare aggregate"
+  },
+  "rod of alertness": {
+    "rarity": "very rare",
+    "tool": "brewer's supplies",
+    "base": "418,very rare plank",
+    "focus": "2084,cut sunstone",
+    "item1": "1,flesh: humanoid cr15-21",
+    "item2": "4,very rare fish fillet",
+    "item3": "1,chitin: monstrosity cr15-21",
+    "item4": "8,very rare block"
+  },
+  "rod of hellish flames": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "4635,lodestone",
+    "focus": "1088,cut diamond",
+    "item1": "3,horn: dragon cr15-21",
+    "item2": "7,essence: elemental cr15-21",
+    "item3": "10,residue: elemental cr15-21",
+    "item4": "1,blood: fiend cr15-21"
+  },
+  "rod of security": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "4891,very rare pole",
+    "focus": "927,cut opal",
+    "item1": "9,blood: fiend cr15-21",
+    "item2": "6,sap: plant cr15-21",
+    "item3": "1,flesh: humanoid cr15-21",
+    "item4": "10,lodestone"
+  },
+  "rod of the sovereigns' servant": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "2554,very rare plank",
+    "focus": "2604,cut opal",
+    "item1": "10,horn: dragon cr15-21",
+    "item2": "1,very rare potion ingredient",
+    "item3": "4,essence: elemental cr15-21",
+    "item4": "7,core: elemental cr15-21"
+  },
+  "rotor of return": {
+    "rarity": "very rare",
+    "tool": "potter's tools",
+    "base": "1110,very rare aggregate",
+    "focus": "2448,cut hearthstone",
+    "item1": "5,core: celestial cr15-21",
+    "item2": "3,sap: plant cr15-21",
+    "item3": "4,organ: humanoid cr15-21",
+    "item4": "4,hide: beast cr15-21"
+  },
+  "royal blade of amphibios": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "5183,platinum ingot",
+    "focus": "532,cut sunstone",
+    "item1": "2,very rare aggregate",
+    "item2": "8,core: undead cr15-21",
+    "item3": "9,flesh: fiend cr15-21",
+    "item4": "7,meat: giant cr15-21"
+  },
+  "ruidium armor": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "7692,gold ingot",
+    "focus": "290,cut hearthstone",
+    "item1": "3,adamantine ingot",
+    "item2": "1,bone: beast cr15-21",
+    "item3": "1,core: construct cr15-21",
+    "item4": "6,flesh: monstrosity cr15-21"
+  },
+  "ruidium shield": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "84,quicksilver",
+    "focus": "2723,cut hearthstone",
+    "item1": "6,plating: construct cr15-21",
+    "item2": "2,flesh: monstrosity cr15-21",
+    "item3": "6,organ: monstrosity cr15-21",
+    "item4": "5,core: construct cr15-21"
+  }
+}
