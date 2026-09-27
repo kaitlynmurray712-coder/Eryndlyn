@@ -1,0 +1,314 @@
+{
+  "boots of the winding path": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "6,silver ingot",
+    "focus": "11,cut quartz",
+    "item1": "9,meat: dragon cr5-8",
+    "item2": "2,uncommon tile"
+  },
+  "boots of the winterlands": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "7,uncommon pole",
+    "focus": "6,cut emerald",
+    "item1": "9,mass: ooze cr5-8",
+    "item2": "9,uncommon fish fillet"
+  },
+  "boros guild signet": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "1,uncommon plank",
+    "focus": "52,cut onyx",
+    "item1": "7,essence: elemental cr5-8",
+    "item2": "10,meat: giant cr5-8"
+  },
+  "bottle cap (supa-fizz!)": {
+    "rarity": "uncommon",
+    "tool": "glassblower's tools",
+    "base": "55,iron ingot",
+    "focus": "26,cut onyx",
+    "item1": "8,uncommon fish fillet",
+    "item2": "5,bone: celestial cr5-8"
+  },
+  "bottled bind": {
+    "rarity": "uncommon",
+    "tool": "glassblower's tools",
+    "base": "31,uncommon aggregate",
+    "focus": "35,cut onyx",
+    "item1": "5,essence: elemental cr5-8",
+    "item2": "8,scale: dragon cr5-8"
+  },
+  "bottled breath": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "127,uncommon potion ingredient",
+    "focus": "23,cut topaz",
+    "item1": "2,essence: elemental cr5-8",
+    "item2": "2,residue: elemental cr5-8"
+  },
+  "bracers of archery": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "9,iron ingot",
+    "focus": "13,cut quartz",
+    "item1": "7,uncommon tile",
+    "item2": "3,meat: beast cr5-8"
+  },
+  "bramble buckler": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "24,uncommon aggregate",
+    "focus": "48,cut topaz",
+    "item1": "6,flour",
+    "item2": "10,mass: plant cr5-8"
+  },
+  "brawler's ring": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "34,lead ingot",
+    "focus": "32,cut topaz",
+    "item1": "3,essence: elemental cr5-8",
+    "item2": "8,bone: undead cr5-8"
+  },
+  "breakfast in a bottle": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "21,flour",
+    "focus": "34,cut emerald",
+    "item1": "9,meat: beast cr5-8",
+    "item2": "2,mass: plant cr5-8"
+  },
+  "bridge seed": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "22,uncommon plank",
+    "focus": "47,cut emerald",
+    "item1": "9,mass: plant cr5-8",
+    "item2": "6,essence: fey cr5-8"
+  },
+  "brooch of living essence": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "3,silver ingot",
+    "focus": "22,cut amber",
+    "item1": "5,lead ingot",
+    "item2": "7,uncommon fish fillet"
+  },
+  "brooch of shielding": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "37,uncommon plank",
+    "focus": "16,cut emerald",
+    "item1": "3,hide: beast cr5-8",
+    "item2": "10,uncommon block"
+  },
+  "broom of flying": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "14,uncommon tile",
+    "focus": "33,cut topaz",
+    "item1": "10,bone: giant cr5-8",
+    "item2": "3,meat: giant cr5-8"
+  },
+  "brutal macuahuitl": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "42,silver ingot",
+    "focus": "24,cut topaz",
+    "item1": "9,uncommon tile",
+    "item2": "3,meat: giant cr5-8"
+  },
+  "bulette bulwark": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "13,uncommon block",
+    "focus": "60,cut quartz",
+    "item1": "3,meat: giant cr5-8",
+    "item2": "3,hide: beast cr5-8"
+  },
+  "burrage's collegiate case": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "28,uncommon pole",
+    "focus": "4,cut emerald",
+    "item1": "6,uncommon aggregate",
+    "item2": "6,hide: beast cr5-8"
+  },
+  "crt tv & chicken timer": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "29,uncommon plank",
+    "focus": "11,cut quartz",
+    "item1": "8,flesh: humanoid cr5-8",
+    "item2": "2,blood: humanoid cr5-8"
+  },
+  "calling quills": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "23,lead ingot",
+    "focus": "9,cut emerald",
+    "item1": "6,flesh: celestial cr5-8",
+    "item2": "1,residue: elemental cr5-8"
+  },
+  "camper's respite": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "16,uncommon block",
+    "focus": "30,cut emerald",
+    "item1": "4,components: construct cr5-8",
+    "item2": "4,uncommon fish fillet"
+  },
+  "candleflame bow": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "31,uncommon pole",
+    "focus": "55,cut topaz",
+    "item1": "2,organ: fiend cr5-8",
+    "item2": "1,scale: dragon cr5-8"
+  },
+  "canister of vreyval's soothing tea": {
+    "rarity": "uncommon",
+    "tool": "brewer's supplies",
+    "base": "23,uncommon block",
+    "focus": "12,cut amber",
+    "item1": "8,components: construct cr5-8",
+    "item2": "10,flour"
+  },
+  "canseco bat": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "68,iron ingot",
+    "focus": "20,cut topaz",
+    "item1": "1,blood: fiend cr5-8",
+    "item2": "8,organ: fiend cr5-8"
+  },
+  "cap of vanishing": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "7,silver ingot",
+    "focus": "63,cut onyx",
+    "item1": "5,uncommon tile",
+    "item2": "2,bone: undead cr5-8"
+  },
+  "cap of water breathing": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "22,iron ingot",
+    "focus": "44,cut quartz",
+    "item1": "8,uncommon fish fillet",
+    "item2": "8,essence: elemental cr5-8"
+  },
+  "card sharp's deck": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "9,lead ingot",
+    "focus": "7,cut emerald",
+    "item1": "5,plating: construct cr5-8",
+    "item2": "6,mass: ooze cr5-8"
+  },
+  "carvaloth scale armor": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "9,uncommon plank",
+    "focus": "11,cut emerald",
+    "item1": "3,plating: construct cr5-8",
+    "item2": "10,bone: beast cr5-8"
+  },
+  "catspeed": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "36,uncommon block",
+    "focus": "48,cut quartz",
+    "item1": "5,scale: dragon cr5-8",
+    "item2": "10,bone: giant cr5-8"
+  },
+  "celestial sunrise (uncommon)": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "16,iron ingot",
+    "focus": "29,cut amber",
+    "item1": "4,essence: elemental cr5-8",
+    "item2": "9,scale: dragon cr5-8"
+  },
+  "champion's weapon": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "13,lead ingot",
+    "focus": "18,cut onyx",
+    "item1": "4,flesh: undead cr5-8",
+    "item2": "6,fiber"
+  },
+  "charm of swarms": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "73,uncommon tile",
+    "focus": "14,cut quartz",
+    "item1": "3,flesh: aberration cr5-8",
+    "item2": "9,plating: construct cr5-8"
+  },
+  "charred wand of magic missiles": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "17,uncommon plank",
+    "focus": "37,cut onyx",
+    "item1": "5,bone: celestial cr5-8",
+    "item2": "3,meat: beast cr5-8"
+  },
+  "chitinous club of c'naazo": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "19,uncommon plank",
+    "focus": "3,cut topaz",
+    "item1": "5,hide: beast cr5-8",
+    "item2": "2,bone: giant cr5-8"
+  },
+  "circlet of blasting": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "8,uncommon block",
+    "focus": "33,cut emerald",
+    "item1": "8,blood: humanoid cr5-8",
+    "item2": "1,essence: elemental cr5-8"
+  },
+  "circlet of human perfection": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "34,uncommon aggregate",
+    "focus": "5,cut onyx",
+    "item1": "3,bone: beast cr5-8",
+    "item2": "9,common potion ingredient"
+  },
+  "claymore of the great badger": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "8,uncommon pole",
+    "focus": "14,cut emerald",
+    "item1": "9,sap: plant cr5-8",
+    "item2": "9,meat: giant cr5-8"
+  },
+  "cloak of elvenkind": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "43,uncommon block",
+    "focus": "29,cut quartz",
+    "item1": "5,gland: monstrosity cr5-8",
+    "item2": "2,gear: construct cr5-8"
+  },
+  "cloak of protection": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "52,uncommon plank",
+    "focus": "10,cut emerald",
+    "item1": "8,flesh: monstrosity cr5-8",
+    "item2": "5,hide: beast cr5-8"
+  },
+  "cloak of spines": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "16,silver ingot",
+    "focus": "16,cut quartz",
+    "item1": "5,iron ingot",
+    "item2": "5,components: construct cr5-8"
+  }
+}

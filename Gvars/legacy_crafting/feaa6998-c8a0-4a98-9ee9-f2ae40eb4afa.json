@@ -1,0 +1,322 @@
+{
+  "stonemason's companion": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "26,uncommon pole",
+    "focus": "47,cut onyx",
+    "item1": "1,cloth",
+    "item2": "9,flesh: aberration cr5-8"
+  },
+  "storm boomerang": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "13,lead ingot",
+    "focus": "2,cut topaz",
+    "item1": "9,iron ingot",
+    "item2": "9,residue: elemental cr5-8"
+  },
+  "stuffy familiar": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "57,silver ingot",
+    "focus": "14,cut amber",
+    "item1": "2,flour",
+    "item2": "7,flesh: undead cr5-8"
+  },
+  "sun shroom": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "27,uncommon plank",
+    "focus": "34,cut amber",
+    "item1": "2,uncommon aggregate",
+    "item2": "2,flesh: celestial cr5-8"
+  },
+  "sunbaked cassette": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "41,lead ingot",
+    "focus": "8,cut topaz",
+    "item1": "2,residue: elemental cr5-8",
+    "item2": "3,meat: dragon cr5-8"
+  },
+  "swansong staff": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "27,uncommon pole",
+    "focus": "29,cut emerald",
+    "item1": "9,uncommon fish fillet",
+    "item2": "5,uncommon aggregate"
+  },
+  "swashbuckler's boots": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "9,iron ingot",
+    "focus": "10,cut amber",
+    "item1": "8,residue: elemental cr5-8",
+    "item2": "8,blood: dragon cr5-8"
+  },
+  "sword of vengeance": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "20,silver ingot",
+    "focus": "27,cut onyx",
+    "item1": "2,flesh: fiend cr5-8",
+    "item2": "10,uncommon block"
+  },
+  "talons of the squall": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "32,uncommon aggregate",
+    "focus": "16,cut quartz",
+    "item1": "9,residue: elemental cr5-8",
+    "item2": "9,lead ingot"
+  },
+  "tavern seed": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "15,uncommon plank",
+    "focus": "8,cut amber",
+    "item1": "2,mass: plant cr5-8",
+    "item2": "7,cloth"
+  },
+  "telltale heart": {
+    "rarity": "uncommon",
+    "tool": "brewer's supplies",
+    "base": "24,silver ingot",
+    "focus": "16,cut emerald",
+    "item1": "5,meat: beast cr5-8",
+    "item2": "3,flesh: celestial cr5-8"
+  },
+  "thayan spell tattoo": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "35,silver ingot",
+    "focus": "6,cut quartz",
+    "item1": "10,flesh: humanoid cr5-8",
+    "item2": "5,uncommon pole"
+  },
+  "thessaltoxin antidote": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "7,uncommon plank",
+    "focus": "32,cut quartz",
+    "item1": "2,flesh: undead cr5-8",
+    "item2": "9,uncommon tile"
+  },
+  "thomas's dimensional trousers": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "15,uncommon plank",
+    "focus": "8,cut topaz",
+    "item1": "1,essence: fey cr5-8",
+    "item2": "4,fiber"
+  },
+  "titan cricket greaves": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "46,uncommon plank",
+    "focus": "5,cut emerald",
+    "item1": "10,iron ingot",
+    "item2": "2,organ: fiend cr5-8"
+  },
+  "toka truffle": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "5,lead ingot",
+    "focus": "70,cut emerald",
+    "item1": "4,hide: beast cr5-8",
+    "item2": "3,meat: fey cr5-8"
+  },
+  "trampling crossbow": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "8,lead ingot",
+    "focus": "26,cut topaz",
+    "item1": "8,uncommon aggregate",
+    "item2": "1,plating: construct cr5-8"
+  },
+  "travel alchemical kit": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "8,lead ingot",
+    "focus": "35,cut quartz",
+    "item1": "10,blood: humanoid cr5-8",
+    "item2": "8,uncommon tile"
+  },
+  "treant arrow": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "71,uncommon plank",
+    "focus": "17,cut amber",
+    "item1": "7,mass: plant cr5-8",
+    "item2": "3,essence: fey cr5-8"
+  },
+  "trident of fish command": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "10,iron ingot",
+    "focus": "78,cut quartz",
+    "item1": "4,essence: elemental cr5-8",
+    "item2": "5,bone: beast cr5-8"
+  },
+  "true name": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "2,uncommon block",
+    "focus": "10,cut onyx",
+    "item1": "9,meat: fey cr5-8",
+    "item2": "10,common potion ingredient"
+  },
+  "tunnel vision": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "27,iron ingot",
+    "focus": "52,cut quartz",
+    "item1": "1,hide: aberration cr5-8",
+    "item2": "3,bone: humanoid cr5-8"
+  },
+  "twin telepathy": {
+    "rarity": "uncommon",
+    "tool": "cartographer's tools",
+    "base": "37,uncommon tile",
+    "focus": "3,cut quartz",
+    "item1": "2,organ: aberration cr5-8",
+    "item2": "9,uncommon block"
+  },
+  "twin vision": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "66,uncommon aggregate",
+    "focus": "14,cut onyx",
+    "item1": "7,blood: humanoid cr5-8",
+    "item2": "9,flesh: humanoid cr5-8"
+  },
+  "umber painted stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "12,uncommon tile",
+    "focus": "19,cut amber",
+    "item1": "5,organ: aberration cr5-8",
+    "item2": "6,uncommon block"
+  },
+  "umbrella of shielding": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "25,uncommon tile",
+    "focus": "1,cut quartz",
+    "item1": "1,chitin: monstrosity cr5-8",
+    "item2": "9,plating: construct cr5-8"
+  },
+  "uncanny focus": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "55,silver ingot",
+    "focus": "34,cut amber",
+    "item1": "3,uncommon pole",
+    "item2": "5,mass: ooze cr5-8"
+  },
+  "uncommon glamerweave": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "13,lead ingot",
+    "focus": "38,cut quartz",
+    "item1": "4,uncommon tile",
+    "item2": "9,fiber"
+  },
+  "unknown elixir": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "82,uncommon tile",
+    "focus": "1,cut topaz",
+    "item1": "5,hide: beast cr5-8",
+    "item2": "3,iron ingot"
+  },
+  "vain virtuoso's violin": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "22,uncommon pole",
+    "focus": "6,cut quartz",
+    "item1": "3,plating: construct cr5-8",
+    "item2": "3,uncommon aggregate"
+  },
+  "vanisher hat": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "30,uncommon tile",
+    "focus": "51,cut onyx",
+    "item1": "4,flesh: aberration cr5-8",
+    "item2": "2,blood: fiend cr5-8"
+  },
+  "vanrak's mithral shirt": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "49,iron ingot",
+    "focus": "5,cut topaz",
+    "item1": "8,uncommon tile",
+    "item2": "2,hide: aberration cr5-8"
+  },
+  "vinyl record": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "11,uncommon block",
+    "focus": "12,cut quartz",
+    "item1": "8,bone: humanoid cr5-8",
+    "item2": "8,silver ingot"
+  },
+  "violet painted stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "11,uncommon tile",
+    "focus": "7,cut emerald",
+    "item1": "9,common potion ingredient",
+    "item2": "4,cloth"
+  },
+  "wand of dowsing": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "4,uncommon pole",
+    "focus": "31,cut emerald",
+    "item1": "10,meat: dragon cr5-8",
+    "item2": "4,blood: celestial cr5-8"
+  },
+  "wand of entangle": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "22,uncommon pole",
+    "focus": "3,cut onyx",
+    "item1": "8,fiber",
+    "item2": "7,sap: plant cr5-8"
+  },
+  "wand of magic detection": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "21,uncommon pole",
+    "focus": "16,cut topaz",
+    "item1": "10,gland: monstrosity cr5-8",
+    "item2": "10,essence: elemental cr5-8"
+  },
+  "wand of magic missiles": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "25,uncommon pole",
+    "focus": "1,cut amber",
+    "item1": "4,blood: dragon cr5-8",
+    "item2": "1,hide: aberration cr5-8"
+  },
+  "wand of secrets": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "72,uncommon pole",
+    "focus": "5,cut onyx",
+    "item1": "7,uncommon tile",
+    "item2": "10,organ: aberration cr5-8"
+  },
+  "wand of shadows": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "20,uncommon pole",
+    "focus": "67,cut onyx",
+    "item1": "4,common potion ingredient",
+    "item2": "9,organ: fiend cr5-8"
+  }
+}

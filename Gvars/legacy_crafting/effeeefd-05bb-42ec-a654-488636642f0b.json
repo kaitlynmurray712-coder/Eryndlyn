@@ -1,0 +1,282 @@
+{
+  "talon tincture": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "6490,very rare pole",
+    "focus": "1261,cut opal",
+    "item1": "3,very rare tile",
+    "item2": "5,sap: plant cr15-21",
+    "item3": "8,core: fey cr15-21",
+    "item4": "7,bone: fey cr15-21"
+  },
+  "tasha's creeping keelboat": {
+    "rarity": "very rare",
+    "tool": "carpenter's tools",
+    "base": "5450,adamantine ingot",
+    "focus": "1048,cut ruby",
+    "item1": "8,organ: fiend cr15-21",
+    "item2": "8,meat: dragon cr15-21",
+    "item3": "9,bone: fiend cr15-21",
+    "item4": "4,core: fiend cr15-21"
+  },
+  "tearulai": {
+    "rarity": "very rare",
+    "tool": "brewer's supplies",
+    "base": "4659,very rare aggregate",
+    "focus": "742,cut diamond",
+    "item1": "2,meat: giant cr15-21",
+    "item2": "3,bark: plant cr15-21",
+    "item3": "10,core: celestial cr15-21",
+    "item4": "5,bone: humanoid cr15-21"
+  },
+  "the bag": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "780,hizagkuur ingot",
+    "focus": "6679,cut sunstone",
+    "item1": "10,organ: monstrosity cr15-21",
+    "item2": "7,scale: dragon cr15-21",
+    "item3": "1,quicksilver",
+    "item4": "4,meat: fey cr15-21"
+  },
+  "the closing argument": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4082,lodestone",
+    "focus": "3021,cut bloodstone",
+    "item1": "5,heart: dragon cr15-21",
+    "item2": "9,bone: undead cr15-21",
+    "item3": "3,very rare block",
+    "item4": "7,blood: fiend cr15-21"
+  },
+  "thunder absorbing tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "7582,very rare block",
+    "focus": "1330,cut diamond",
+    "item1": "7,lodestone",
+    "item2": "7,essence: elemental cr15-21",
+    "item3": "2,heart: dragon cr15-21",
+    "item4": "5,platinum ingot"
+  },
+  "thunderbuss": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3401,gold ingot",
+    "focus": "1914,cut sunstone",
+    "item1": "10,essence: elemental cr15-21",
+    "item2": "3,bone: giant cr15-21",
+    "item3": "1,marrow: giant cr15-21",
+    "item4": "3,rare potion ingredient"
+  },
+  "thunderous greatclub": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "2989,very rare plank",
+    "focus": "1382,cut sunstone",
+    "item1": "3,very rare aggregate",
+    "item2": "2,gold ingot",
+    "item3": "2,gland: dragon cr15-21",
+    "item4": "8,meat: giant cr15-21"
+  },
+  "tidecaller trident": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1038,mizzium ingot",
+    "focus": "5349,cut diamond",
+    "item1": "1,core: elemental cr15-21",
+    "item2": "5,very rare potion ingredient",
+    "item3": "10,bone: beast cr15-21",
+    "item4": "5,slime: ooze cr15-21"
+  },
+  "timepiece of travel": {
+    "rarity": "very rare",
+    "tool": "cook's utensils",
+    "base": "2400,very rare block",
+    "focus": "918,cut opal",
+    "item1": "1,meat: fey cr15-21",
+    "item2": "9,flesh: humanoid cr15-21",
+    "item3": "4,very rare potion ingredient",
+    "item4": "1,organ: humanoid cr15-21"
+  },
+  "tinkertop boltblaster 1000": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1466,mizzium ingot",
+    "focus": "4869,cut hearthstone",
+    "item1": "4,very rare fish fillet",
+    "item2": "1,essence: fey cr15-21",
+    "item3": "7,bone: fiend cr15-21",
+    "item4": "8,sap: plant cr15-21"
+  },
+  "titan's tooth claymore": {
+    "rarity": "very rare",
+    "tool": "potter's tools",
+    "base": "1615,adamantine ingot",
+    "focus": "7820,cut opal",
+    "item1": "10,sap: plant cr15-21",
+    "item2": "10,components: construct cr15-21",
+    "item3": "3,core: fey cr15-21",
+    "item4": "7,core: fiend cr15-21"
+  },
+  "tome of advanced fighting styles": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "1266,lodestone",
+    "focus": "4578,cut sunstone",
+    "item1": "2,bone: fiend cr15-21",
+    "item2": "5,mass: plant cr15-21",
+    "item3": "5,mass: ooze cr15-21",
+    "item4": "4,chitin: monstrosity cr15-21"
+  },
+  "tome of clear thought": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "2457,mizzium ingot",
+    "focus": "1956,cut opal",
+    "item1": "1,bone: fey cr15-21",
+    "item2": "2,core: aberration cr15-21",
+    "item3": "1,flesh: humanoid cr15-21",
+    "item4": "7,organ: humanoid cr15-21"
+  },
+  "tome of leadership and influence": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "1809,mizzium ingot",
+    "focus": "1997,cut opal",
+    "item1": "6,organ: monstrosity cr15-21",
+    "item2": "1,platinum ingot",
+    "item3": "5,flesh: aberration cr15-21",
+    "item4": "4,blood: fiend cr15-21"
+  },
+  "tome of understanding": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "650,hizagkuur ingot",
+    "focus": "2638,cut ruby",
+    "item1": "2,organ: celestial cr15-21",
+    "item2": "4,core: aberration cr15-21",
+    "item3": "8,organ: monstrosity cr15-21",
+    "item4": "1,bone: humanoid cr15-21"
+  },
+  "tooth of the jinxed leviathan (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1336,very rare plank",
+    "focus": "1554,cut bloodstone",
+    "item1": "8,essence: fey cr15-21",
+    "item2": "10,flesh: aberration cr15-21",
+    "item3": "5,organ: monstrosity cr15-21",
+    "item4": "7,components: construct cr15-21"
+  },
+  "toy riverboat": {
+    "rarity": "very rare",
+    "tool": "carpenter's tools",
+    "base": "900,platinum ingot",
+    "focus": "3829,cut diamond",
+    "item1": "5,very rare potion ingredient",
+    "item2": "4,bone: beast cr15-21",
+    "item3": "1,rare potion ingredient",
+    "item4": "6,residue: elemental cr15-21"
+  },
+  "umbril opal necklace": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "4019,very rare tile",
+    "focus": "4836,cut diamond",
+    "item1": "4,essence: elemental cr15-21",
+    "item2": "8,spores: plant cr15-21",
+    "item3": "3,very rare plank",
+    "item4": "10,organ: celestial cr15-21"
+  },
+  "vampire blood potion": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "993,mizzium ingot",
+    "focus": "3644,cut ruby",
+    "item1": "9,mass: ooze cr15-21",
+    "item2": "2,core: construct cr15-21",
+    "item3": "3,essence: elemental cr15-21",
+    "item4": "1,platinum ingot"
+  },
+  "veil of the weeping widow (very rare)": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "6775,very rare plank",
+    "focus": "1027,cut opal",
+    "item1": "7,hide: beast cr15-21",
+    "item2": "10,dreamlily",
+    "item3": "3,flesh: humanoid cr15-21",
+    "item4": "10,core: aberration cr15-21"
+  },
+  "visage of the old ways (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4902,lodestone",
+    "focus": "1739,cut hearthstone",
+    "item1": "3,organ: celestial cr15-21",
+    "item2": "10,marrow: giant cr15-21",
+    "item3": "10,sap: plant cr15-21",
+    "item4": "7,dreamlily"
+  },
+  "visionary's cloak": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "4925,hizagkuur ingot",
+    "focus": "1249,cut hearthstone",
+    "item1": "5,flesh: aberration cr15-21",
+    "item2": "2,essence: fey cr15-21",
+    "item3": "10,brain: aberration cr15-21",
+    "item4": "8,flesh: humanoid cr15-21"
+  },
+  "voyager staff": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "2748,lodestone",
+    "focus": "1090,cut ruby",
+    "item1": "3,bone: humanoid cr15-21",
+    "item2": "4,gold ingot",
+    "item3": "3,bone: beast cr15-21",
+    "item4": "3,organ: humanoid cr15-21"
+  },
+  "vyra's broken path": {
+    "rarity": "very rare",
+    "tool": "cartographer's tools",
+    "base": "2434,adamantine ingot",
+    "focus": "4280,cut diamond",
+    "item1": "7,bone: giant cr15-21",
+    "item2": "8,slime: ooze cr15-21",
+    "item3": "10,residue: elemental cr15-21",
+    "item4": "6,very rare fish fillet"
+  },
+  "wakened dragon vessel": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "1953,lodestone",
+    "focus": "4682,cut diamond",
+    "item1": "9,horn: dragon cr15-21",
+    "item2": "10,platinum ingot",
+    "item3": "6,essence: elemental cr15-21",
+    "item4": "8,residue: elemental cr15-21"
+  },
+  "wakened dragon's wrath weapon": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "8975,platinum ingot",
+    "focus": "338,cut diamond",
+    "item1": "7,core: elemental cr15-21",
+    "item2": "1,organ: fiend cr15-21",
+    "item3": "5,very rare aggregate",
+    "item4": "9,essence: elemental cr15-21"
+  },
+  "wakened dragon-touched focus": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4812,gold ingot",
+    "focus": "1166,cut ruby",
+    "item1": "5,core: elemental cr15-21",
+    "item2": "2,residue: elemental cr15-21",
+    "item3": "7,bone: fiend cr15-21",
+    "item4": "4,horn: dragon cr15-21"
+  }
+}

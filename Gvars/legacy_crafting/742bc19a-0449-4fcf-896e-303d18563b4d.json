@@ -1,0 +1,314 @@
+{
+  "badge of the savant (evocation)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "27,iron ingot",
+    "focus": "16,cut quartz",
+    "item1": "1,residue: elemental cr5-8",
+    "item2": "1,slime: ooze cr5-8"
+  },
+  "badge of the savant (illusion)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "9,uncommon aggregate",
+    "focus": "23,cut amber",
+    "item1": "1,uncommon tile",
+    "item2": "8,cloth"
+  },
+  "badge of the savant (necromancy)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "1,uncommon tile",
+    "focus": "44,cut onyx",
+    "item1": "3,bone: undead cr5-8",
+    "item2": "6,uncommon aggregate"
+  },
+  "badge of the savant (transmutation)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "5,uncommon tile",
+    "focus": "11,cut quartz",
+    "item1": "2,bark: plant cr5-8",
+    "item2": "7,flesh: undead cr5-8"
+  },
+  "baffled candle": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "12,uncommon block",
+    "focus": "12,cut amber",
+    "item1": "7,bone: humanoid cr5-8",
+    "item2": "2,blood: undead cr5-8"
+  },
+  "bag of holding": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "43,cloth",
+    "focus": "40,cut onyx",
+    "item1": "3,flesh: aberration cr5-8",
+    "item2": "2,essense: fey cr5-8"
+  },
+  "bag of tricks": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "14,uncommon pole",
+    "focus": "80,cut emerald",
+    "item1": "5,hide: fey cr5-8",
+    "item2": "1,bark: plant cr5-8"
+  },
+  "bag of tricks, gray": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "62,silver ingot",
+    "focus": "16,cut quartz",
+    "item1": "4,plating: construct cr5-8",
+    "item2": "2,bone: giant cr5-8"
+  },
+  "bag of tricks, rust": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "7,uncommon pole",
+    "focus": "7,cut emerald",
+    "item1": "5,blood: humanoid cr5-8",
+    "item2": "9,flesh: fiend cr5-8"
+  },
+  "bag of tricks, tan": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "17,uncommon tile",
+    "focus": "28,cut quartz",
+    "item1": "7,plating: construct cr5-8",
+    "item2": "1,bone: beast cr5-8"
+  },
+  "balance of harmony": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "37,uncommon pole",
+    "focus": "31,cut quartz",
+    "item1": "2,mass: ooze cr5-8",
+    "item2": "3,bone: beast cr5-8"
+  },
+  "ballista prosthesis": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "12,iron ingot",
+    "focus": "17,cut amber",
+    "item1": "8,uncommon plank",
+    "item2": "1,cloth"
+  },
+  "balloon pack": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "16,lead ingot",
+    "focus": "1,cut emerald",
+    "item1": "10,bone: monstrosity cr5-8",
+    "item2": "7,bone: beast cr5-8"
+  },
+  "bane shield": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "24,iron ingot",
+    "focus": "2,cut quartz",
+    "item1": "6,flesh: monstrosity cr5-8",
+    "item2": "9,hide: beast cr5-8"
+  },
+  "barrier tattoo (small)": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "43,uncommon pole",
+    "focus": "34,cut topaz",
+    "item1": "8,blood: humanoid cr5-8",
+    "item2": "4,bone: giant cr5-8"
+  },
+  "battlechef field dresser": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "57,silver ingot",
+    "focus": "2,cut topaz",
+    "item1": "5,flour",
+    "item2": "5,essence: elemental cr5-8"
+  },
+  "beard cannon": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "33,uncommon tile",
+    "focus": "9,cut emerald",
+    "item1": "5,blood: celestial cr5-8",
+    "item2": "4,uncommon aggregate"
+  },
+  "bell of resonance": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "45,uncommon tile",
+    "focus": "31,cut quartz",
+    "item1": "7,lead ingot",
+    "item2": "3,bone: beast cr5-8"
+  },
+  "belt of the weald": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "6,iron ingot",
+    "focus": "28,cut quartz",
+    "item1": "3,uncommon fish fillet",
+    "item2": "5,flesh: celestial cr5-8"
+  },
+  "black cinnamon": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "37,uncommon plank",
+    "focus": "25,cut onyx",
+    "item1": "7,flesh: undead cr5-8",
+    "item2": "9,uncommon aggregate"
+  },
+  "black pearl": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "10,uncommon plank",
+    "focus": "74,cut onyx",
+    "item1": "6,hide: aberration cr5-8",
+    "item2": "3,uncommon aggregate"
+  },
+  "blade of grass": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "51,lead ingot",
+    "focus": "26,cut quartz",
+    "item1": "5,bone: giant cr5-8",
+    "item2": "4,mass: ooze cr5-8"
+  },
+  "blasted goggles": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "60,iron ingot",
+    "focus": "17,cut quartz",
+    "item1": "9,slime: ooze cr5-8",
+    "item2": "6,mass: plant cr5-8"
+  },
+  "blood spear": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "42,silver ingot",
+    "focus": "1,cut emerald",
+    "item1": "10,mass: plant cr5-8",
+    "item2": "2,bone: celestial cr5-8"
+  },
+  "blood of the lycanthrope antidote": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "24,uncommon tile",
+    "focus": "19,cut amber",
+    "item1": "10,flour",
+    "item2": "8,essence: fey cr5-8"
+  },
+  "bloodhound amulet": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "59,silver ingot",
+    "focus": "4,cut quartz",
+    "item1": "8,lead ingot",
+    "item2": "2,gland: monstrosity cr5-8"
+  },
+  "bloodmire phiale": {
+    "rarity": "uncommon",
+    "tool": "brewer's supplies",
+    "base": "15,uncommon block",
+    "focus": "59,cut topaz",
+    "item1": "4,uncommon pole",
+    "item2": "6,uncommon fish fillet"
+  },
+  "bloodrage greataxe": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "32,uncommon plank",
+    "focus": "22,cut topaz",
+    "item1": "2,organ: aberration cr5-8",
+    "item2": "1,blood: celestial cr5-8"
+  },
+  "bloodthirsty bistoury": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "34,uncommon aggregate",
+    "focus": "26,cut topaz",
+    "item1": "6,meat: giant cr5-8",
+    "item2": "10,essence: fey cr5-8"
+  },
+  "bone painted stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "14,uncommon tile",
+    "focus": "50,cut onyx",
+    "item1": "4,bone: humanoid cr5-8",
+    "item2": "9,organ: fiend cr5-8"
+  },
+  "book of clothier's croquis": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "16,uncommon pole",
+    "focus": "49,cut emerald",
+    "item1": "2,hide: fey cr5-8",
+    "item2": "1,residue: elemental cr5-8"
+  },
+  "boomerang shield": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "33,lead ingot",
+    "focus": "28,cut topaz",
+    "item1": "7,bone: giant cr5-8",
+    "item2": "2,uncommon pole"
+  },
+  "boots of dancing": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "12,lead ingot",
+    "focus": "13,cut emerald",
+    "item1": "8,chitin: monstrosity cr5-8",
+    "item2": "5,hide: beast cr5-8"
+  },
+  "boots of elvenkind": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "8,iron ingot",
+    "focus": "17,cut emerald",
+    "item1": "3,chitin: monstrosity cr5-8",
+    "item2": "5,gland: monstrosity cr5-8"
+  },
+  "boots of shadow walking": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "16,uncommon block",
+    "focus": "50,cut onyx",
+    "item1": "5,hide: aberration cr5-8",
+    "item2": "4,organ: aberration cr5-8"
+  },
+  "boots of soft landing": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "38,uncommon tile",
+    "focus": "45,cut emerald",
+    "item1": "6,bone: monstrosity cr5-8",
+    "item2": "2,lead ingot"
+  },
+  "boots of striding and springing": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "45,uncommon block",
+    "focus": "2,cut quartz",
+    "item1": "3,bone: beast cr5-8",
+    "item2": "10,gear: construct cr5-8"
+  },
+  "boots of the stampede": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "60,silver ingot",
+    "focus": "12,cut quartz",
+    "item1": "4,lead ingot",
+    "item2": "5,plating: construct cr5-8"
+  },
+  "boots of the vigilant": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "5,iron ingot",
+    "focus": "24,cut quartz",
+    "item1": "10,silver ingot",
+    "item2": "4,meat: beast cr5-8"
+  }
+}

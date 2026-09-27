@@ -1,0 +1,308 @@
+{
+  "sunforger": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "183,copper ingot",
+    "focus": "53,cut sapphire",
+    "item1": "9,blood: celestial cr9-14",
+    "item2": "10,organ: celestial cr9-14",
+    "item3": "9,meat: dragon cr9-14"
+  },
+  "sword of life stealing": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "538,copper ingot",
+    "focus": "51,cut obsidian",
+    "item1": "7,bark: plant cr9-14",
+    "item2": "7,organ: celestial cr9-14",
+    "item3": "8,organ: fiend cr9-14"
+  },
+  "sword of wounding": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "426,rare block",
+    "focus": "25,cut moonstone",
+    "item1": "1,rare plank",
+    "item2": "3,hide: aberration cr9-14",
+    "item3": "1,essence: undead cr9-14"
+  },
+  "sword of the crimson abbot (rare)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "367,cut obsidian",
+    "focus": "313,cut jacinth",
+    "item1": "3,essence: undead cr9-14",
+    "item2": "1,flesh: fiend cr9-14",
+    "item3": "5,naphtha"
+  },
+  "talisman of the phoenix": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "25,rare block",
+    "focus": "576,cut moonstone",
+    "item1": "5,essence: undead cr9-14",
+    "item2": "2,mass: plant cr9-14",
+    "item3": "8,bone: beast cr9-14"
+  },
+  "talon gloves": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "491,rare pole",
+    "focus": "490,cut jade",
+    "item1": "3,bone: undead cr9-14",
+    "item2": "2,rare block",
+    "item3": "4,bone: fey cr9-14"
+  },
+  "tears of the moon": {
+    "rarity": "rare",
+    "tool": "brewer's supplies",
+    "base": "35,rare block",
+    "focus": "728,cut agate",
+    "item1": "8,copper ingot",
+    "item2": "6,blood: celestial cr9-14",
+    "item3": "4,gear: construct cr9-14"
+  },
+  "teleportation tablet": {
+    "rarity": "rare",
+    "tool": "carpenter's tools",
+    "base": "225,rare plank",
+    "focus": "649,cut amethyst",
+    "item1": "9,mithril ingot",
+    "item2": "4,copper ingot",
+    "item3": "6,durable cloth"
+  },
+  "tempest griffon bracers": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "413,copper ingot",
+    "focus": "219,cut sapphire",
+    "item1": "1,plate: monstrosity cr9-14",
+    "item2": "1,rare block",
+    "item3": "3,rare aggregate"
+  },
+  "tentacle rod": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "388,rare plank",
+    "focus": "174,cut agate",
+    "item1": "8,organ: celestial cr9-14",
+    "item2": "10,durable fiber",
+    "item3": "2,meat: beast cr9-14"
+  },
+  "tentacle whip": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "11,copper ingot",
+    "focus": "259,cut jacinth",
+    "item1": "9,essence: elemental cr9-14",
+    "item2": "8,bark: plant cr9-14",
+    "item3": "7,gear: construct cr9-14"
+  },
+  "thalamus thread": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "197,rare tile",
+    "focus": "722,cut jade",
+    "item1": "6,spores: plant cr9-14",
+    "item2": "4,gear: construct cr9-14",
+    "item3": "9,mithril ingot"
+  },
+  "the shield of sacred flame": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "168,copper ingot",
+    "focus": "809,cut jacinth",
+    "item1": "3,residue: elemental cr9-14",
+    "item2": "3,organ: fiend cr9-14",
+    "item3": "8,bone: fiend cr9-14"
+  },
+  "tincture of mourning": {
+    "rarity": "rare",
+    "tool": "potter's tools",
+    "base": "51,cut obsidian",
+    "focus": "234,cut obsidian",
+    "item1": "5,blood: undead cr9-14",
+    "item2": "8,flesh: fiend cr9-14",
+    "item3": "4,organ: fiend cr9-14"
+  },
+  "tome of the ethereal": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "97,rare aggregate",
+    "focus": "468,cut jade",
+    "item1": "4,rare plank",
+    "item2": "7,components: construct cr9-14",
+    "item3": "2,charcoal"
+  },
+  "tooth of the jinxed leviathan (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "176,mithril ingot",
+    "focus": "326,cut jade",
+    "item1": "5,rare aggregate",
+    "item2": "6,mass: ooze cr9-14",
+    "item3": "5,rare plank"
+  },
+  "torrdok's magnificent forgery": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "17,rare aggregate",
+    "focus": "808,cut moonstone",
+    "item1": "9,essence: elemental cr9-14",
+    "item2": "5,marrow: beast cr9-14",
+    "item3": "8,slime: ooze cr9-14"
+  },
+  "traitor's gauntlet": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "459,rare tile",
+    "focus": "236,cut moonstone",
+    "item1": "5,uncommon poison ingredient",
+    "item2": "9,uncommon potion ingredient",
+    "item3": "7,plating: construct cr9-14"
+  },
+  "travel wok": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "109,rare pole",
+    "focus": "421,cut obsidian",
+    "item1": "10,organ: humanoid cr9-14",
+    "item2": "6,spores: plant cr9-14",
+    "item3": "3,blood: fey cr9-14"
+  },
+  "tremor spike": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "151,rare plank",
+    "focus": "126,cut sapphire",
+    "item1": "10,organ: fiend cr9-14",
+    "item2": "3,bone: giant cr9-14",
+    "item3": "7,plate: monstrosity cr9-14"
+  },
+  "trident of henchantment": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "247,mithril ingot",
+    "focus": "630,cut obsidian",
+    "item1": "8,organ: aberration cr9-14",
+    "item2": "1,blood: celestial cr9-14",
+    "item3": "7,core: ooze cr9-14"
+  },
+  "trollblood potion": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "117,rare potion ingredient",
+    "focus": "722,cut agate",
+    "item1": "5,blood: fey cr9-14",
+    "item2": "3,components: construct cr9-14",
+    "item3": "3,organ: aberration cr9-14"
+  },
+  "turtle dove dagger": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "368,rare aggregate",
+    "focus": "95,cut obsidian",
+    "item1": "1,components: construct cr9-14",
+    "item2": "2,blood: undead cr9-14",
+    "item3": "9,rare fish fillet"
+  },
+  "two-birds sling": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "637,rare block",
+    "focus": "250,cut obsidian",
+    "item1": "5,flesh: celestial cr9-14",
+    "item2": "8,horn: dragon cr9-14",
+    "item3": "5,flesh: monstrosity cr9-14"
+  },
+  "tyrannosaurus rax": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "392,rare tile",
+    "focus": "158,cut jade",
+    "item1": "4,rare aggregate",
+    "item2": "8,flesh: undead cr9-14",
+    "item3": "9,flesh: fiend cr9-14"
+  },
+  "umbral armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "136,mithril ingot",
+    "focus": "615,cut sapphire",
+    "item1": "3,bone: beast cr9-14",
+    "item2": "3,marrow: beast cr9-14",
+    "item3": "3,components: construct cr9-14"
+  },
+  "umi's powerful undertow": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "153,mithril ingot",
+    "focus": "153,cut agate",
+    "item1": "6,residue: elemental cr9-14",
+    "item2": "1,uncommon poison ingredient",
+    "item3": "10,marrow: giant cr9-14"
+  },
+  "unerring dowsing rod": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "173,copper ingot",
+    "focus": "433,cut amethyst",
+    "item1": "9,mass: plant cr9-14",
+    "item2": "2,bone: humanoid cr9-14",
+    "item3": "3,essence: undead cr9-14"
+  },
+  "unified might": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "557,rare pole",
+    "focus": "428,cut agate",
+    "item1": "1,rare tile",
+    "item2": "1,mass: ooze cr9-14",
+    "item3": "2,gland: dragon cr9-14"
+  },
+  "ups-a-daisy": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "405,rare block",
+    "focus": "92,cut sapphire",
+    "item1": "7,bone: humanoid cr9-14",
+    "item2": "3,blood: celestial cr9-14",
+    "item3": "2,organ: fiend cr9-14"
+  },
+  "urnblade": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "634,mithril ingot",
+    "focus": "336,cut obsidian",
+    "item1": "3,flesh: humanoid cr9-14",
+    "item2": "6,rare block",
+    "item3": "1,core: elemental cr9-14"
+  },
+  "veil of the weeping widow (rare)": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "453,mithril ingot",
+    "focus": "490,cut agate",
+    "item1": "9,organ: aberration cr9-14",
+    "item2": "7,rare block",
+    "item3": "5,rare fish fillet"
+  },
+  "ventilating lungs": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "44,rare pole",
+    "focus": "907,cut sapphire",
+    "item1": "5,copper ingot",
+    "item2": "3,charcoal",
+    "item3": "6,bone: undead cr9-14"
+  },
+  "verax weapon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "402,copper ingot",
+    "focus": "203,cut agate",
+    "item1": "5,blood: undead cr9-14",
+    "item2": "1,bone: fiend cr9-14",
+    "item3": "2,marrow: beast cr9-14"
+  }
+}

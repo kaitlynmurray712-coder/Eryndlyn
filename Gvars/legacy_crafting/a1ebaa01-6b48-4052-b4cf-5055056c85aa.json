@@ -1,0 +1,308 @@
+{
+  "ring of the arcane berserker": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "851,mithril ingot",
+    "focus": "94,cut jade",
+    "item1": "2,meat: dragon cr9-14",
+    "item2": "4,charcoal",
+    "item3": "3,blood: celestial cr9-14"
+  },
+  "ring of the ghouls": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "198,copper ingot",
+    "focus": "174,cut amethyst",
+    "item1": "1,meat: fey cr9-14",
+    "item2": "8,slime: ooze cr9-14",
+    "item3": "5,blood: fiend cr9-14"
+  },
+  "ring of the ram": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "386,mithril ingot",
+    "focus": "73,cut jacinth",
+    "item1": "4,copper ingot",
+    "item2": "1,mass: plant cr9-14",
+    "item3": "9,rare block"
+  },
+  "ring of the sky hunter": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "461,copper ingot",
+    "focus": "111,cut sapphire",
+    "item1": "5,essence: elemental cr9-14",
+    "item2": "8,meat: dragon cr9-14",
+    "item3": "8,fine fiber"
+  },
+  "rings of the true companions": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "273,copper ingot",
+    "focus": "203,cut agate",
+    "item1": "8,bone: humanoid cr9-14",
+    "item2": "1,naphtha",
+    "item3": "6,bark: plant cr9-14"
+  },
+  "riptide crossbow": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "675,mithril ingot",
+    "focus": "68,cut moonstone",
+    "item1": "4,rare fish fillet",
+    "item2": "3,bone: beast cr9-14",
+    "item3": "9,uncommon potion ingredient"
+  },
+  "robe of eyes": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "56,cut obsidian",
+    "focus": "475,cut moonstone",
+    "item1": "6,naphtha",
+    "item2": "2,sap: plant cr9-14",
+    "item3": "5,meat: giant cr9-14"
+  },
+  "robe of summer": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "29,cut obsidian",
+    "focus": "698,cut obsidian",
+    "item1": "4,flesh: humanoid cr9-14",
+    "item2": "3,meat: fey cr9-14",
+    "item3": "7,blood: fiend cr9-14"
+  },
+  "rod of refstophobia": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "747,rare plank",
+    "focus": "225,cut agate",
+    "item1": "8,cut obsidian",
+    "item2": "5,chitin: monstrosity cr9-14",
+    "item3": "5,mass: ooze cr9-14"
+  },
+  "rod of reverberation": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "247,rare pole",
+    "focus": "176,cut jade",
+    "item1": "2,gland: dragon cr9-14",
+    "item2": "5,blood: celestial cr9-14",
+    "item3": "10,bone: undead cr9-14"
+  },
+  "rod of rulership": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "227,rare pole",
+    "focus": "123,cut jade",
+    "item1": "3,gear: construct cr9-14",
+    "item2": "2,meat: fey cr9-14",
+    "item3": "2,naphtha"
+  },
+  "rod of storms": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "684,rare pole",
+    "focus": "177,cut sapphire",
+    "item1": "7,marrow: giant cr9-14",
+    "item2": "3,horn: dragon cr9-14",
+    "item3": "3,gland: dragon cr9-14"
+  },
+  "rod of water absorption": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "72,rare plank",
+    "focus": "246,cut sapphire",
+    "item1": "6,uncommon potion ingredient",
+    "item2": "2,hide: beast cr9-14",
+    "item3": "1,rare fish fillet"
+  },
+  "rod of the magicycle": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "271,rare pole",
+    "focus": "645,cut agate",
+    "item1": "4,mass: ooze cr9-14",
+    "item2": "1,bone: undead cr9-14",
+    "item3": "8,horn: dragon cr9-14"
+  },
+  "rod of the vonindod": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "142,rare plank",
+    "focus": "569,cut obsidian",
+    "item1": "10,gear: construct cr9-14",
+    "item2": "4,charcoal",
+    "item3": "2,durable cloth"
+  },
+  "rogue's mantle": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "297,copper ingot",
+    "focus": "398,cut jade",
+    "item1": "9,hide: beast cr9-14",
+    "item2": "6,mithril ingot",
+    "item3": "5,components: construct cr9-14"
+  },
+  "ronin neko figurine": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "190,rare block",
+    "focus": "663,cut agate",
+    "item1": "7,marrow: beast cr9-14",
+    "item2": "10,rare pole",
+    "item3": "4,meat: beast cr9-14"
+  },
+  "rope of entanglement": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "219,mithril ingot",
+    "focus": "67,cut obsidian",
+    "item1": "2,bone: humanoid cr9-14",
+    "item2": "1,rare aggregate",
+    "item3": "7,rare block"
+  },
+  "ruby red bike": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "511,cut obsidian",
+    "focus": "403,cut moonstone",
+    "item1": "2,rare block",
+    "item2": "10,essence: undead cr9-14",
+    "item3": "4,flesh: celestial cr9-14"
+  },
+  "ruinous flail": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "279,rare tile",
+    "focus": "45,cut jade",
+    "item1": "2,rare fish fillet",
+    "item2": "3,components: construct cr9-14",
+    "item3": "6,bone: undead cr9-14"
+  },
+  "runestone of the wild titan (rare)": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "272,cut obsidian",
+    "focus": "250,cut jade",
+    "item1": "9,meat: fey cr9-14",
+    "item2": "7,blood: fey cr9-14",
+    "item3": "9,mass: plant cr9-14"
+  },
+  "sage arol's beetle": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "478,rare pole",
+    "focus": "101,cut moonstone",
+    "item1": "1,brain: aberration cr9-14",
+    "item2": "2,bone: fiend cr9-14",
+    "item3": "1,flesh: aberration cr9-14"
+  },
+  "sage's mirror": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "127,rare tile",
+    "focus": "137,cut moonstone",
+    "item1": "4,blood: celestial cr9-14",
+    "item2": "1,durable fiber",
+    "item3": "1,meat: dragon cr9-14"
+  },
+  "sage's signet (serpent)": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "558,rare aggregate",
+    "focus": "140,cut agate",
+    "item1": "10,durable cloth",
+    "item2": "4,gear: construct cr9-14",
+    "item3": "8,mass: ooze cr9-14"
+  },
+  "sage's signet (songbird)": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "198,rare tile",
+    "focus": "365,cut jade",
+    "item1": "1,mithril ingot",
+    "item2": "10,blood: fey cr9-14",
+    "item3": "3,essence: undead cr9-14"
+  },
+  "saint markovia's thighbone": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "250,rare block",
+    "focus": "418,cut amethyst",
+    "item1": "5,essence: undead cr9-14",
+    "item2": "7,organ: humanoid cr9-14",
+    "item3": "8,bone: humanoid cr9-14"
+  },
+  "saint vitruvio's phylactery": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "860,rare pole",
+    "focus": "55,cut amethyst",
+    "item1": "8,marrow: beast cr9-14",
+    "item2": "5,gear: construct cr9-14",
+    "item3": "10,mass: plant cr9-14"
+  },
+  "salamander flame gauntlets": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "218,mithril ingot",
+    "focus": "39,cut jacinth",
+    "item1": "6,essence: elemental cr9-14",
+    "item2": "10,bone: fiend cr9-14",
+    "item3": "1,residue: elemental cr9-14"
+  },
+  "sands of war": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "531,rare pole",
+    "focus": "186,cut sapphire",
+    "item1": "9,rare tile",
+    "item2": "1,naphtha",
+    "item3": "9,durable cloth"
+  },
+  "sash of sorcerous synergy": {
+    "rarity": "rare",
+    "tool": "weaver's tools",
+    "base": "495,copper ingot",
+    "focus": "321,cut amethyst",
+    "item1": "10,rare tile",
+    "item2": "1,scale: dragon cr9-14",
+    "item3": "9,gland: dragon cr9-14"
+  },
+  "scarlet scourge": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "574,rare block",
+    "focus": "367,cut agate",
+    "item1": "1,bone: beast cr9-14",
+    "item2": "9,meat: fey cr9-14",
+    "item3": "8,flesh: aberration cr9-14"
+  },
+  "scepter weapon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "196,copper ingot",
+    "focus": "170,cut moonstone",
+    "item1": "4,durable fiber",
+    "item2": "6,bone: giant cr9-14",
+    "item3": "10,fine fiber"
+  },
+  "sceptre of saint vitruvio": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "140,cut obsidian",
+    "focus": "684,cut agate",
+    "item1": "9,core: ooze cr9-14",
+    "item2": "7,bone: humanoid cr9-14",
+    "item3": "9,fine fiber"
+  },
+  "scissors of shadow snipping": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "13,rare aggregate",
+    "focus": "249,cut obsidian",
+    "item1": "2,uncommon potion ingredient",
+    "item2": "8,flesh: undead cr9-14",
+    "item3": "10,uncommon poison ingredient"
+  }
+}

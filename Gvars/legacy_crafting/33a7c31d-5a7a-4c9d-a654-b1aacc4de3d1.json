@@ -1,0 +1,299 @@
+{
+  "hero's blade": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "17,copper ingot",
+    "focus": "267,cut jade",
+    "item1": "5,naphtha",
+    "item2": "1,rare pole",
+    "item3": "10,residue: elemental cr9-14"
+  },
+  "heron's eye ring": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "168,copper ingot",
+    "focus": "430,cut agate",
+    "item1": "7,blood: celestial cr9-14",
+    "item2": "2,chitin: monstrosity cr9-14",
+    "item3": "1,meat: fey cr9-14"
+  },
+  "heward's handy haversack": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "27,rare pole",
+    "focus": "697,cut sapphire",
+    "item1": "2,bone: fiend cr9-14",
+    "item2": "4,rare plank",
+    "item3": "7,marrow: beast cr9-14"
+  },
+  "hidden hand": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "88,rare plank",
+    "focus": "769,cut obsidian",
+    "item1": "3,essence: elemental cr9-14",
+    "item2": "3,bone: beast cr9-14",
+    "item3": "8,organ: aberration cr9-14"
+  },
+  "hide of the brimstone behemoth (rare)": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "231,rare tile",
+    "focus": "671,cut obsidian",
+    "item1": "3,chitin: monstrosity cr9-14",
+    "item2": "1,durable cloth",
+    "item3": "5,copper ingot"
+  },
+  "holly's handy haversack": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "271,mithril ingot",
+    "focus": "140,cut jacinth",
+    "item1": "1,rare block",
+    "item2": "8,meat: beast cr9-14",
+    "item3": "2,chitin: monstrosity cr9-14"
+  },
+  "homegrown": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "392,rare aggregate",
+    "focus": "334,cut agate",
+    "item1": "7,uncommon poison ingredient",
+    "item2": "6,organ: monstrosity cr9-14",
+    "item3": "1,flesh: monstrosity cr9-14"
+  },
+  "homeroot": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "526,rare block",
+    "focus": "226,cut obsidian",
+    "item1": "8,flesh: humanoid cr9-14",
+    "item2": "8,meat: beast cr9-14",
+    "item3": "5,durable fiber"
+  },
+  "homeward boots": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "342,copper ingot",
+    "focus": "320,cut jade",
+    "item1": "4,bone: beast cr9-14",
+    "item2": "8,components: construct cr9-14",
+    "item3": "2,flesh: monstrosity cr9-14"
+  },
+  "hook of fisher's delight": {
+    "rarity": "rare",
+    "tool": "cook's utensils",
+    "base": "670,copper ingot",
+    "focus": "230,cut jacinth",
+    "item1": "5,core: elemental cr9-14",
+    "item2": "9,meat: dragon cr9-14",
+    "item3": "1,horn: dragon cr9-14"
+  },
+  "hook of the tall man (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "246,cut obsidian",
+    "focus": "309,cut obsidian",
+    "item1": "6,mithril ingot",
+    "item2": "9,rare tile",
+    "item3": "8,bark: plant cr9-14"
+  },
+  "horatio's impossible ship in a bottle": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "345,cut obsidian",
+    "focus": "361,cut obsidian",
+    "item1": "1,blood: celestial cr9-14",
+    "item2": "4,durable fiber",
+    "item3": "2,flesh: humanoid cr9-14"
+  },
+  "horn of blasting": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "270,rare pole",
+    "focus": "233,cut obsidian",
+    "item1": "10,naphtha",
+    "item2": "10,residue: elemental cr9-14",
+    "item3": "4,marrow: beast cr9-14"
+  },
+  "horn of valhalla, brass": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "472,rare pole",
+    "focus": "213,cut obsidian",
+    "item1": "5,brain: aberration cr9-14",
+    "item2": "9,bone: humanoid cr9-14",
+    "item3": "5,meat: fey cr9-14"
+  },
+  "horn of valhalla, silver": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "175,rare aggregate",
+    "focus": "174,cut jade",
+    "item1": "3,organ: humanoid cr9-14",
+    "item2": "10,durable fiber",
+    "item3": "7,charcoal"
+  },
+  "horn of the endless maze": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "277,rare tile",
+    "focus": "67,cut moonstone",
+    "item1": "2,durable cloth",
+    "item2": "9,horn: dragon cr9-14",
+    "item3": "2,organ: celestial cr9-14"
+  },
+  "horseshoes of speed": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "415,rare pole",
+    "focus": "66,cut agate",
+    "item1": "4,hide: aberration cr9-14",
+    "item2": "4,organ: aberration cr9-14",
+    "item3": "8,naphtha"
+  },
+  "hunter's speed": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "793,rare tile",
+    "focus": "80,cut jacinth",
+    "item1": "10,naphtha",
+    "item2": "9,organ: celestial cr9-14",
+    "item3": "10,organ: fiend cr9-14"
+  },
+  "hydra flail": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "67,rare block",
+    "focus": "791,cut jade",
+    "item1": "10,essence: elemental cr9-14",
+    "item2": "7,bone: beast cr9-14",
+    "item3": "4,charcoal"
+  },
+  "hypnovulfen figure": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "417,rare aggregate",
+    "focus": "74,cut jacinth",
+    "item1": "4,bone: humanoid cr9-14",
+    "item2": "1,rare plank",
+    "item3": "6,rare block"
+  },
+  "idol of the beast of blight (rare)": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "923,copper ingot",
+    "focus": "40,cut sapphire",
+    "item1": "9,rare tile",
+    "item2": "1,core: elemental cr9-14",
+    "item3": "1,blood: celestial cr9-14"
+  },
+  "iggwilv's horn": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "434,cut obsidian",
+    "focus": "164,cut sapphire",
+    "item1": "10,essence: elemental cr9-14",
+    "item2": "5,meat: giant cr9-14",
+    "item3": "6,rare fish fillet"
+  },
+  "inescapable lash": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "710,mithril ingot",
+    "focus": "80,cut amethyst",
+    "item1": "1,organ: fiend cr9-14",
+    "item2": "5,core: elemental cr9-14",
+    "item3": "2,residue: elemental cr9-14"
+  },
+  "infernal amulet": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "59,mithril ingot",
+    "focus": "213,cut jade",
+    "item1": "5,flesh: monstrosity cr9-14",
+    "item2": "1,gear: construct cr9-14",
+    "item3": "6,components: construct cr9-14"
+  },
+  "injector's crossbow": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "665,mithril ingot",
+    "focus": "143,cut moonstone",
+    "item1": "8,rare block",
+    "item2": "8,cut obsidian",
+    "item3": "1,flesh: monstrosity cr9-14"
+  },
+  "insatiable tome": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "23,rare pole",
+    "focus": "417,cut agate",
+    "item1": "9,organ: celestial cr9-14",
+    "item2": "1,rare tile",
+    "item3": "7,flesh: undead cr9-14"
+  },
+  "instrument of the bards, canaith mandolin": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "82,rare pole",
+    "focus": "183,cut moonstone",
+    "item1": "9,marrow: giant cr9-14",
+    "item2": "2,blood: celestial cr9-14",
+    "item3": "4,meat: dragon cr9-14"
+  },
+  "instrument of the bards, cli lyre": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "355,mithril ingot",
+    "focus": "254,cut obsidian",
+    "item1": "5,meat: dragon cr9-14",
+    "item2": "10,rare plank",
+    "item3": "7,organ: humanoid cr9-14"
+  },
+  "ioun stone, awareness": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "167,copper ingot",
+    "focus": "340,cut moonstone",
+    "item1": "9,rare fish fillet",
+    "item2": "10,residue: elemental cr9-14",
+    "item3": "10,chitin: monstrosity cr9-14"
+  },
+  "ioun stone, historical knowledge": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "61,mithril ingot",
+    "focus": "285,cut jade",
+    "item1": "9,blood: fiend cr9-14",
+    "item2": "4,blood: celestial cr9-14",
+    "item3": "3,hide: aberration cr9-14"
+  },
+  "ioun stone, language knowledge": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "217,rare block",
+    "focus": "536,cut moonstone",
+    "item1": "5,organ: celestial cr9-14",
+    "item2": "7,bone: fey cr9-14",
+    "item3": "1,flesh: celestial cr9-14"
+  },
+  "ioun stone, natural knowledge": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "486,rare aggregate",
+    "focus": "143,cut agate",
+    "item1": "2,rare pole",
+    "item2": "7,bone: fiend cr9-14",
+    "item3": "10,durable fiber"
+  },
+  "ioun stone, protection": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "335,rare block",
+    "focus": "277,cut jade",
+    "item1": "4,mass: plant cr9-14",
+    "item2": "4,blood: fey cr9-14",
+    "item3": "9,meat: beast cr9-14"
+  }
+}

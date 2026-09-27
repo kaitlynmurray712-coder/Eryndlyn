@@ -1,0 +1,299 @@
+{
+  "shield of marius renathyr (rare)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "398,cut obsidian",
+    "focus": "233,cut jade",
+    "item1": "3,gear: construct cr9-14",
+    "item2": "9,copper ingot",
+    "item3": "8,mithril ingot"
+  },
+  "shield of missile attraction": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "407,copper ingot",
+    "focus": "48,cut sapphire",
+    "item1": "7,marrow: beast cr9-14",
+    "item2": "9,bone: beast cr9-14",
+    "item3": "2,organ: monstrosity cr9-14"
+  },
+  "shield of shadow form": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "513,copper ingot",
+    "focus": "155,cut obsidian",
+    "item1": "8,organ: aberration cr9-14",
+    "item2": "7,uncommon poison ingredient",
+    "item3": "2,organ: fiend cr9-14"
+  },
+  "shield of the justicars": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "402,cut obsidian",
+    "focus": "404,cut moonstone",
+    "item1": "10,flesh: monstrosity cr9-14",
+    "item2": "9,plating: construct cr9-14",
+    "item3": "5,copper ingot"
+  },
+  "shield of the silver dragon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "220,copper ingot",
+    "focus": "258,cut sapphire",
+    "item1": "2,core: elemental cr9-14",
+    "item2": "4,essence: elemental cr9-14",
+    "item3": "10,bone: fiend cr9-14"
+  },
+  "shovel of yorgrim (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "429,cut obsidian",
+    "focus": "30,cut obsidian",
+    "item1": "10,rare tile",
+    "item2": "9,horn: dragon cr9-14",
+    "item3": "7,hide: beast cr9-14"
+  },
+  "shrieking greaves": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "363,rare aggregate",
+    "focus": "218,cut sapphire",
+    "item1": "7,rare block",
+    "item2": "10,horn: dragon cr9-14",
+    "item3": "4,rare fish fillet"
+  },
+  "siege staff": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "72,rare pole",
+    "focus": "328,cut jacinth",
+    "item1": "6,meat: beast cr9-14",
+    "item2": "3,plating: construct cr9-14",
+    "item3": "1,residue: elemental cr9-14"
+  },
+  "sight of sin": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "78,cut obsidian",
+    "focus": "503,cut amethyst",
+    "item1": "10,organ: monstrosity cr9-14",
+    "item2": "5,rare pole",
+    "item3": "6,rare tile"
+  },
+  "simulacrum elixir": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "497,rare plank",
+    "focus": "56,cut agate",
+    "item1": "6,plating: construct cr9-14",
+    "item2": "5,charcoal",
+    "item3": "3,flesh: celestial cr9-14"
+  },
+  "siren song lyre": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "97,rare plank",
+    "focus": "382,cut obsidian",
+    "item1": "3,rare tile",
+    "item2": "4,plate: monstrosity cr9-14",
+    "item3": "1,blood: celestial cr9-14"
+  },
+  "skull of selfish knowledge": {
+    "rarity": "rare",
+    "tool": "cook's utensils",
+    "base": "277,cut obsidian",
+    "focus": "286,cut amethyst",
+    "item1": "1,bone: humanoid cr9-14",
+    "item2": "5,organ: fiend cr9-14",
+    "item3": "2,flesh: humanoid cr9-14"
+  },
+  "sky anchor": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "231,cut obsidian",
+    "focus": "639,cut sapphire",
+    "item1": "5,horn: dragon cr9-14",
+    "item2": "10,essence: elemental cr9-14",
+    "item3": "7,core: elemental cr9-14"
+  },
+  "skyglider shield": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "56,copper ingot",
+    "focus": "788,cut jacinth",
+    "item1": "1,uncommon potion ingredient",
+    "item2": "3,core: elemental cr9-14",
+    "item3": "3,scale: dragon cr9-14"
+  },
+  "skymetal staff": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "419,rare pole",
+    "focus": "242,cut jacinth",
+    "item1": "1,essence: elemental cr9-14",
+    "item2": "2,rare block",
+    "item3": "3,residue: elemental cr9-14"
+  },
+  "skysail": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "853,rare pole",
+    "focus": "42,cut sapphire",
+    "item1": "9,uncommon poison ingredient",
+    "item2": "7,residue: elemental cr9-14",
+    "item3": "9,durable fiber"
+  },
+  "soul lamp": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "428,rare aggregate",
+    "focus": "89,cut amethyst",
+    "item1": "4,bone: undead cr9-14",
+    "item2": "2,flesh: humanoid cr9-14",
+    "item3": "3,bone: fiend cr9-14"
+  },
+  "soul pendant": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "295,rare aggregate",
+    "focus": "598,cut obsidian",
+    "item1": "2,blood: undead cr9-14",
+    "item2": "6,bone: fiend cr9-14",
+    "item3": "9,uncommon potion ingredient"
+  },
+  "sovereignseed satchel": {
+    "rarity": "rare",
+    "tool": "cook's utensils",
+    "base": "562,rare pole",
+    "focus": "66,cut moonstone",
+    "item1": "6,bone: fey cr9-14",
+    "item2": "7,uncommon poison ingredient",
+    "item3": "2,uncommon potion ingredient"
+  },
+  "speaking stones": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "245,cut obsidian",
+    "focus": "346,cut jade",
+    "item1": "10,sap: plant cr9-14",
+    "item2": "10,fine fiber",
+    "item3": "4,charcoal"
+  },
+  "spell form of erasure": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "2,rare aggregate",
+    "focus": "518,cut obsidian",
+    "item1": "7,rare plank",
+    "item2": "9,bone: giant cr9-14",
+    "item3": "7,blood: fiend cr9-14"
+  },
+  "spell gem (bloodstone)": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "235,rare aggregate",
+    "focus": "742,cut jade",
+    "item1": "1,meat: giant cr9-14",
+    "item2": "7,naphtha",
+    "item3": "4,organ: celestial cr9-14"
+  },
+  "spell gem (quartz)": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "15,rare block",
+    "focus": "497,cut sapphire",
+    "item1": "10,bone: fiend cr9-14",
+    "item2": "1,blood: fey cr9-14",
+    "item3": "10,rare tile"
+  },
+  "spell scroll (level 4)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "684,rare block",
+    "focus": "11,cut obsidian",
+    "item1": "5,flesh: aberration cr9-14",
+    "item2": "4,core: ooze cr9-14",
+    "item3": "3,uncommon poison ingredient"
+  },
+  "spell scroll (level 5)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "3,rare aggregate",
+    "focus": "375,cut moonstone",
+    "item1": "4,durable fiber",
+    "item2": "10,brain: aberration cr9-14",
+    "item3": "1,sap: plant cr9-14"
+  },
+  "spelljamming helm": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "51,mithril ingot",
+    "focus": "645,cut sapphire",
+    "item1": "1,rare tile",
+    "item2": "8,plate: monstrosity cr9-14",
+    "item3": "6,plating: construct cr9-14"
+  },
+  "spellsword": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "26,rare plank",
+    "focus": "403,cut jacinth",
+    "item1": "10,core: ooze cr9-14",
+    "item2": "4,flesh: aberration cr9-14",
+    "item3": "6,core: elemental cr9-14"
+  },
+  "spellwriter's brace": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "26,rare plank",
+    "focus": "462,cut moonstone",
+    "item1": "6,hide: beast cr9-14",
+    "item2": "8,rare tile",
+    "item3": "1,uncommon poison ingredient"
+  },
+  "spellwrought tattoo (4th level)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "518,rare block",
+    "focus": "161,cut amethyst",
+    "item1": "8,fine fiber",
+    "item2": "3,scale: dragon cr9-14",
+    "item3": "7,mithril ingot"
+  },
+  "spellwrought tattoo (5th level)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "85,rare plank",
+    "focus": "667,cut moonstone",
+    "item1": "5,bone: humanoid cr9-14",
+    "item2": "3,uncommon poison ingredient",
+    "item3": "2,charcoal"
+  },
+  "spider staff": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "180,rare plank",
+    "focus": "690,cut jacinth",
+    "item1": "6,durable cloth",
+    "item2": "5,core: elemental cr9-14",
+    "item3": "2,essence: elemental cr9-14"
+  },
+  "spirit sheath": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "467,mithril ingot",
+    "focus": "72,cut sapphire",
+    "item1": "1,meat: dragon cr9-14",
+    "item2": "9,gland: dragon cr9-14",
+    "item3": "7,rare block"
+  },
+  "spiritual rebuke": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "380,rare tile",
+    "focus": "134,cut obsidian",
+    "item1": "6,rare aggregate",
+    "item2": "10,rare block",
+    "item3": "7,bone: humanoid cr9-14"
+  }
+}

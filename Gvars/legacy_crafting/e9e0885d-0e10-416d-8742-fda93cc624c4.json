@@ -1,0 +1,299 @@
+{
+  "blade of the wood": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "121,copper ingot",
+    "focus": "252,cut moonstone",
+    "item1": "9,blood: fey cr9-14",
+    "item2": "6,meat: fey cr9-14",
+    "item3": "10,fine fiber"
+  },
+  "blessing of the moon spirit": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "678,silver ingot",
+    "focus": "67,cut moonstone",
+    "item1": "3,essence: fey cr9-14",
+    "item2": "7,essence: elemental cr9-14",
+    "item3": "10,residue: elemental cr9-14"
+  },
+  "blod stone": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "317,rare block",
+    "focus": "157,cut sapphire",
+    "item1": "5,organ: celestial cr9-14",
+    "item2": "6,flesh: monstrosity cr9-14",
+    "item3": "9,residue: elemental cr9-14"
+  },
+  "bloodmire rod of the witch doctor": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "102,rare plank",
+    "focus": "445,cut moonstone",
+    "item1": "2,mass: plant cr9-14",
+    "item2": "10,flesh: aberration cr9-14",
+    "item3": "8,residue: elemental cr9-14"
+  },
+  "bloodshard trident": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "846,mithril ingot",
+    "focus": "106,cut sapphire",
+    "item1": "4,fine fiber",
+    "item2": "9,bark: plant cr9-14",
+    "item3": "9,flesh: monstrosity cr9-14"
+  },
+  "bloody fiddle": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "433,rare plank",
+    "focus": "69,cut obsidian",
+    "item1": "4,plating: construct cr9-14",
+    "item2": "8,bone: undead cr9-14",
+    "item3": "2,scale: dragon cr9-14"
+  },
+  "blossom of spirit vine": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "98,rare block",
+    "focus": "775,cut obsidian",
+    "item1": "3,organ: humanoid cr9-14",
+    "item2": "2,flesh: humanoid cr9-14",
+    "item3": "3,organ: fiend cr9-14"
+  },
+  "blue chromatic rose": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "533,cut obsidian",
+    "focus": "45,cut jacinth",
+    "item1": "10,organ: humanoid cr9-14",
+    "item2": "7,mithril ingot",
+    "item3": "8,gland: dragon cr9-14"
+  },
+  "blunderbuss of the grinning sinner (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "93,mithril ingot",
+    "focus": "187,cut agate",
+    "item1": "2,flesh: humanoid cr9-14",
+    "item2": "3,flesh: fiend cr9-14",
+    "item3": "9,hide: beast cr9-14"
+  },
+  "bonecounter": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "264,rare block",
+    "focus": "24,cut amethyst",
+    "item1": "8,bone: fiend cr9-14",
+    "item2": "10,bone: undead cr9-14",
+    "item3": "2,uncommon potion ingredient"
+  },
+  "boog's ball": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "428,rare block",
+    "focus": "320,cut amethyst",
+    "item1": "4,core: elemental cr9-14",
+    "item2": "3,rare fish fillet",
+    "item3": "7,flesh: celestial cr9-14"
+  },
+  "boots of levitation": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "630,rare tile",
+    "focus": "21,cut jade",
+    "item1": "10,components: construct cr9-14",
+    "item2": "7,mithril ingot",
+    "item3": "7,meat: beast cr9-14"
+  },
+  "boots of speed": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "153,copper ingot",
+    "focus": "439,cut moonstone",
+    "item1": "9,mithril ingot",
+    "item2": "8,rare tile",
+    "item3": "2,marrow: beast cr9-14"
+  },
+  "boros keyrune": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "339,rare block",
+    "focus": "198,cut jade",
+    "item1": "7,flesh: aberration cr9-14",
+    "item2": "10,bone: fey cr9-14",
+    "item3": "1,gear: construct cr9-14"
+  },
+  "bottled comet": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "214,rare pole",
+    "focus": "587,cut moonstone",
+    "item1": "9,meat: fey cr9-14",
+    "item2": "7,bone: humanoid cr9-14",
+    "item3": "5,rare block"
+  },
+  "bottled lightning": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "709,mithril ingot",
+    "focus": "121,cut jacinth",
+    "item1": "9,rare block",
+    "item2": "6,core: elemental cr9-14",
+    "item3": "6,horn: dragon cr9-14"
+  },
+  "bounder's ball": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "286,rare pole",
+    "focus": "61,cut jacinth",
+    "item1": "3,marrow: giant cr9-14",
+    "item2": "4,horn: dragon cr9-14",
+    "item3": "2,meat: giant cr9-14"
+  },
+  "bow of conflagration": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "472,rare plank",
+    "focus": "311,cut sapphire",
+    "item1": "9,hide: beast cr9-14",
+    "item2": "10,bone: fey cr9-14",
+    "item3": "5,rare block"
+  },
+  "bow of the cobra": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "38,rare pole",
+    "focus": "481,cut agate",
+    "item1": "2,bone: giant cr9-14",
+    "item2": "7,naphtha",
+    "item3": "5,fine fiber"
+  },
+  "bow of the eldritch archer": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "44,rare pole",
+    "focus": "618,cut jade",
+    "item1": "6,essence: elemental cr9-14",
+    "item2": "10,core: elemental cr9-14",
+    "item3": "1,bone: humanoid cr9-14"
+  },
+  "bow of the twilight valkyrie": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "207,rare plank",
+    "focus": "599,cut jacinth",
+    "item1": "4,core: elemental cr9-14",
+    "item2": "7,organ: celestial cr9-14",
+    "item3": "10,horn: dragon cr9-14"
+  },
+  "bowark's bombastic beer": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "254,rare tile",
+    "focus": "622,cut jacinth",
+    "item1": "6,scale: dragon cr9-14",
+    "item2": "5,bone: fiend cr9-14",
+    "item3": "7,blood: fiend cr9-14"
+  },
+  "bowl of commanding water elementals": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "553,copper ingot",
+    "focus": "185,cut moonstone",
+    "item1": "6,bone: beast cr9-14",
+    "item2": "1,slime: ooze cr9-14",
+    "item3": "6,uncommon potion ingredient"
+  },
+  "bracer of flying daggers": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "75,copper ingot",
+    "focus": "453,cut sapphire",
+    "item1": "3,horn: dragon cr9-14",
+    "item2": "2,residue: elemental cr9-14",
+    "item3": "7,scale: dragon cr9-14"
+  },
+  "bracers of arc lightning": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "262,copper ingot",
+    "focus": "21,cut sapphire",
+    "item1": "2,horn: dragon cr9-14",
+    "item2": "2,flesh: celestial cr9-14",
+    "item3": "3,blood: celestial cr9-14"
+  },
+  "bracers of asmodeus": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "283,rare pole",
+    "focus": "62,cut jade",
+    "item1": "4,plate: monstrosity cr9-14",
+    "item2": "7,plating: construct cr9-14",
+    "item3": "1,meat: beast cr9-14"
+  },
+  "bracers of celerity": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "353,mithril ingot",
+    "focus": "31,cut moonstone",
+    "item1": "5,plate: monstrosity cr9-14",
+    "item2": "8,rare block",
+    "item3": "2,plating: construct cr9-14"
+  },
+  "bracers of defense": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "179,copper ingot",
+    "focus": "68,cut sapphire",
+    "item1": "4,plate: monstrosity cr9-14",
+    "item2": "9,flesh: monstrosity cr9-14",
+    "item3": "2,rare tile"
+  },
+  "bracers of the iron octopus": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "121,mithril ingot",
+    "focus": "653,cut sapphire",
+    "item1": "6,organ: monstrosity cr9-14",
+    "item2": "9,plating: construct cr9-14",
+    "item3": "10,chitin: monstrosity cr9-14"
+  },
+  "brazier of commanding fire elementals": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "513,mithril ingot",
+    "focus": "8,cut sapphire",
+    "item1": "7,blood: fiend cr9-14",
+    "item2": "4,rare aggregate",
+    "item3": "8,gland: dragon cr9-14"
+  },
+  "breastplate of balance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "784,mithril ingot",
+    "focus": "203,cut jade",
+    "item1": "2,rare aggregate",
+    "item2": "6,components: construct cr9-14",
+    "item3": "5,plating: construct cr9-14"
+  },
+  "bridle of capturing": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "469,mithril ingot",
+    "focus": "241,cut amethyst",
+    "item1": "9,durable fiber",
+    "item2": "6,plate: monstrosity cr9-14",
+    "item3": "6,rare tile"
+  },
+  "brooch of the elements": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "242,rare pole",
+    "focus": "271,cut sapphire",
+    "item1": "6,mithril ingot",
+    "item2": "10,rare aggregate",
+    "item3": "2,flesh: humanoid cr9-14"
+  }
+}

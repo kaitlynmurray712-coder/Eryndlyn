@@ -1,0 +1,314 @@
+{
+  "hew": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "61,uncommon aggregate",
+    "focus": "7,cut amber",
+    "item1": "1,bone: humanoid cr5-8",
+    "item2": "6,blood: undead cr5-8"
+  },
+  "hideaway vase": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "6,uncommon plank",
+    "focus": "54,cut quartz",
+    "item1": "8,uncommon fish fillet",
+    "item2": "6,uncommon block"
+  },
+  "house of cards": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "15,uncommon tile",
+    "focus": "57,cut quartz",
+    "item1": "1,blood: fiend cr5-8",
+    "item2": "7,lead ingot"
+  },
+  "hurler's gloves": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "6,lead ingot",
+    "focus": "68,cut onyx",
+    "item1": "7,scale: dragon cr5-8",
+    "item2": "7,blood: undead cr5-8"
+  },
+  "hushed ring": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "23,lead ingot",
+    "focus": "40,cut onyx",
+    "item1": "5,uncommon block",
+    "item2": "2,bark: plant cr5-8"
+  },
+  "illusion in a bottle": {
+    "rarity": "uncommon",
+    "tool": "glassblower's tools",
+    "base": "28,silver ingot",
+    "focus": "17,cut topaz",
+    "item1": "5,hide: fey cr5-8",
+    "item2": "5,flesh: humanoid cr5-8"
+  },
+  "immovable rod": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "42,silver ingot",
+    "focus": "5,cut emerald",
+    "item1": "5,bone: giant cr5-8",
+    "item2": "8,common potion ingredient"
+  },
+  "incredible luck": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "12,uncommon tile",
+    "focus": "45,cut quartz",
+    "item1": "6,flesh: aberration cr5-8",
+    "item2": "9,common potion ingredient"
+  },
+  "indigo painted stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "59,uncommon tile",
+    "focus": "4,cut onyx",
+    "item1": "6,meat: dragon cr5-8",
+    "item2": "1,lead ingot"
+  },
+  "infernal puzzle box": {
+    "rarity": "uncommon",
+    "tool": "carpenter's tools",
+    "base": "8,uncommon aggregate",
+    "focus": "7,cut amber",
+    "item1": "1,gland: monstrosity cr5-8",
+    "item2": "9,uncommon plank"
+  },
+  "insignia of claws": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "65,uncommon tile",
+    "focus": "31,cut onyx",
+    "item1": "1,hide: beast cr5-8",
+    "item2": "1,essence: elemental cr5-8"
+  },
+  "instant door": {
+    "rarity": "uncommon",
+    "tool": "carpenter's tools",
+    "base": "38,uncommon tile",
+    "focus": "22,cut onyx",
+    "item1": "8,scale: dragon cr5-8",
+    "item2": "4,bone: beast cr5-8"
+  },
+  "instaprint camera": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "32,uncommon block",
+    "focus": "19,cut amber",
+    "item1": "1,silver ingot",
+    "item2": "5,uncommon pole"
+  },
+  "instrument of the bards, doss lute": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "30,iron ingot",
+    "focus": "35,cut topaz",
+    "item1": "7,lead ingot",
+    "item2": "3,scale: dragon cr5-8"
+  },
+  "instrument of the bards, fochlucan bandore": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "1,lead ingot",
+    "focus": "26,cut quartz",
+    "item1": "9,organ: fiend cr5-8",
+    "item2": "1,uncommon pole"
+  },
+  "instrument of the bards, mac-fuirmidh cittern": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "5,lead ingot",
+    "focus": "38,cut emerald",
+    "item1": "9,residue: elemental cr5-8",
+    "item2": "3,flesh: celestial cr5-8"
+  },
+  "invisible tonic": {
+    "rarity": "uncommon",
+    "tool": "brewer's supplies",
+    "base": "2,uncommon plank",
+    "focus": "42,cut onyx",
+    "item1": "9,organ: fiend cr5-8",
+    "item2": "6,uncommon tile"
+  },
+  "invulnerability": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "28,uncommon aggregate",
+    "focus": "47,cut emerald",
+    "item1": "8,scale: dragon cr5-8",
+    "item2": "3,sap: plant cr5-8"
+  },
+  "izzet guild signet": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "73,iron ingot",
+    "focus": "4,cut quartz",
+    "item1": "8,common potion ingredient",
+    "item2": "5,hide: fey cr5-8"
+  },
+  "jabbadoon's feather": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "1,uncommon tile",
+    "focus": "12,cut quartz",
+    "item1": "7,bone: giant cr5-8",
+    "item2": "8,sap: plant cr5-8"
+  },
+  "javelin of lightning": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "57,uncommon block",
+    "focus": "2,cut amber",
+    "item1": "2,residue: elemental cr5-8",
+    "item2": "5,uncommon tile"
+  },
+  "jinxed rum": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "6,silver ingot",
+    "focus": "31,cut quartz",
+    "item1": "9,uncommon tile",
+    "item2": "10,plating: construct cr5-8"
+  },
+  "jo'catian denier": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "51,uncommon tile",
+    "focus": "31,cut onyx",
+    "item1": "4,meat: fey cr5-8",
+    "item2": "1,chitin: monstrosity cr5-8"
+  },
+  "jo'catian rebuker": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "14,uncommon block",
+    "focus": "31,cut amber",
+    "item1": "10,meat: dragon cr5-8",
+    "item2": "3,uncommon tile"
+  },
+  "juniper painted stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "27,uncommon block",
+    "focus": "26,cut emerald",
+    "item1": "7,bone: giant cr5-8",
+    "item2": "6,flesh: humanoid cr5-8"
+  },
+  "keoghtom's ointment": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "10,uncommon block",
+    "focus": "24,cut quartz",
+    "item1": "4,flour",
+    "item2": "5,sap: plant cr5-8"
+  },
+  "kestra's bent spoon": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "15,uncommon block",
+    "focus": "42,cut quartz",
+    "item1": "5,gland: monstrosity cr5-8",
+    "item2": "9,common potion ingredient"
+  },
+  "keys to the sandcastle": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "25,uncommon tile",
+    "focus": "22,cut emerald",
+    "item1": "10,meat: beast cr5-8",
+    "item2": "5,bone: humanoid cr5-8"
+  },
+  "keytar": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "2,silver ingot",
+    "focus": "55,cut emerald",
+    "item1": "7,gland: monstrosity cr5-8",
+    "item2": "6,slime: ooze cr5-8"
+  },
+  "knightly seed": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "2,uncommon aggregate",
+    "focus": "49,cut onyx",
+    "item1": "10,uncommon tile",
+    "item2": "4,organ: fiend cr5-8"
+  },
+  "kojobi fruit": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "6,uncommon block",
+    "focus": "35,cut quartz",
+    "item1": "6,meat: dragon cr5-8",
+    "item2": "1,blood: celestial cr5-8"
+  },
+  "kwark's wondrous kernels": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "64,uncommon block",
+    "focus": "22,cut amber",
+    "item1": "6,silver ingot",
+    "item2": "6,lead ingot"
+  },
+  "kwark's wondrous kernels, planter": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "4,uncommon plank",
+    "focus": "9,cut amber",
+    "item1": "9,sap: plant cr5-8",
+    "item2": "8,bone: beast cr5-8"
+  },
+  "kwark's wondrous kernels, tossable": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "10,iron ingot",
+    "focus": "35,cut emerald",
+    "item1": "1,meat: giant cr5-8",
+    "item2": "9,uncommon fish fillet"
+  },
+  "lantern of revealing": {
+    "rarity": "uncommon",
+    "tool": "glassblower's tools",
+    "base": "18,uncommon plank",
+    "focus": "15,cut onyx",
+    "item1": "5,essence: fey cr5-8",
+    "item2": "3,flesh: humanoid cr5-8"
+  },
+  "laughing moss": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "62,uncommon pole",
+    "focus": "16,cut onyx",
+    "item1": "2,blood: celestial cr5-8",
+    "item2": "6,slime: ooze cr5-8"
+  },
+  "life tether ankh": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "22,lead ingot",
+    "focus": "61,cut quartz",
+    "item1": "7,sap: plant cr5-8",
+    "item2": "8,mass: ooze cr5-8"
+  },
+  "life-steal": {
+    "rarity": "uncommon",
+    "tool": "brewer's supplies",
+    "base": "14,uncommon tile",
+    "focus": "9,cut quartz",
+    "item1": "6,blood: humanoid cr5-8",
+    "item2": "5,organ: fiend cr5-8"
+  },
+  "lifetime supply": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "20,uncommon block",
+    "focus": "72,cut onyx",
+    "item1": "2,hide: aberration cr5-8",
+    "item2": "5,essence: fey cr5-8"
+  }
+}

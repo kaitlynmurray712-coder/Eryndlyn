@@ -1,0 +1,338 @@
+{
+  "basilisk crystal": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "8,uncommon tile",
+    "focus": "16,cut onyx",
+    "item1": "1,uncommon block"
+  },
+  "bead of nourishment": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "15,silver ingot",
+    "focus": "2,cut amber",
+    "item1": "8,flesh: aberration cr0-4"
+  },
+  "bead of refreshment": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "12,iron ingot",
+    "focus": "3,cut emerald",
+    "item1": "10,lead ingot"
+  },
+  "beard brew": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "2,uncommon aggregate",
+    "focus": "14,cut topaz",
+    "item1": "9,flesh: humanoid cr0-4"
+  },
+  "beast hide": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "3,uncommon aggregate",
+    "focus": "12,cut emerald",
+    "item1": "10,sap: plant cr0-4"
+  },
+  "bell of alarm": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,uncommon pole",
+    "focus": "18,cut amber",
+    "item1": "3,bone: monstrosity cr0-4"
+  },
+  "bellhop topper": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,uncommon pole",
+    "focus": "14,cut quartz",
+    "item1": "7,chitin: monstrosity cr0-4"
+  },
+  "bird's-eye bolt": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "15,uncommon tile",
+    "focus": "2,cut amber",
+    "item1": "8,uncommon fish fillet"
+  },
+  "bloody marilith (common)": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "5,uncommon tile",
+    "focus": "11,cut topaz",
+    "item1": "9,uncommon block"
+  },
+  "blue back salmon": {
+    "rarity": "common",
+    "tool": "cook's utensils",
+    "base": "13,silver ingot",
+    "focus": "3,cut quartz",
+    "item1": "9,hide: beast cr0-4"
+  },
+  "bonfire charm": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "7,iron ingot",
+    "focus": "10,cut amber",
+    "item1": "8,lead ingot"
+  },
+  "bonfire seed": {
+    "rarity": "common",
+    "tool": "cook's utensils",
+    "base": "2,iron ingot",
+    "focus": "14,cut amber",
+    "item1": "9,blood: dragon cr0-4"
+  },
+  "book of instant copying": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "14,uncommon aggregate",
+    "focus": "3,cut amber",
+    "item1": "8,essence: elemental cr0-4"
+  },
+  "boom beri": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,iron ingot",
+    "focus": "14,cut quartz",
+    "item1": "8,bone: undead cr0-4"
+  },
+  "boots of false tracks": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "18,iron ingot",
+    "focus": "6,cut quartz",
+    "item1": "1,meat: beast cr0-4"
+  },
+  "bora bug": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,lead ingot",
+    "focus": "7,cut topaz",
+    "item1": "10,essence: fey cr0-4"
+  },
+  "bottle of boundless coffee": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "12,uncommon plank",
+    "focus": "4,cut emerald",
+    "item1": "9,silver ingot"
+  },
+  "bottled bomb": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "2,lead ingot",
+    "focus": "16,cut topaz",
+    "item1": "7,uncommon block"
+  },
+  "bottled slime": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "17,uncommon tile",
+    "focus": "1,cut quartz",
+    "item1": "7,meat: giant cr0-4"
+  },
+  "bottled torch": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "6,uncommon plank",
+    "focus": "16,cut quartz",
+    "item1": "3,fiber"
+  },
+  "breathing bubble": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,iron ingot",
+    "focus": "7,cut onyx",
+    "item1": "7,flesh: fiend cr0-4"
+  },
+  "brush reed": {
+    "rarity": "common",
+    "tool": "painter's supplies",
+    "base": "8,uncommon aggregate",
+    "focus": "10,cut onyx",
+    "item1": "7,meat: dragon cr0-4"
+  },
+  "brute brew": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "1,uncommon tile",
+    "focus": "15,cut amber",
+    "item1": "9,bone: undead cr0-4"
+  },
+  "bubble message": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "20,uncommon tile",
+    "focus": "4,cut topaz",
+    "item1": "1,meat: dragon cr0-4"
+  },
+  "bullfrog totem": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "15,silver ingot",
+    "focus": "4,cut emerald",
+    "item1": "6,flour"
+  },
+  "bundle of driko twigs": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "9,uncommon tile",
+    "focus": "13,cut onyx",
+    "item1": "3,uncommon block"
+  },
+  "camp mite": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,uncommon aggregate",
+    "focus": "7,cut amber",
+    "item1": "8,bone: aberration cr0-4"
+  },
+  "camper's crutch": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,uncommon block",
+    "focus": "11,cut emerald",
+    "item1": "4,uncommon fish fillet"
+  },
+  "candle of the deep": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "7,uncommon plank",
+    "focus": "10,cut topaz",
+    "item1": "8,sap: plant cr0-4"
+  },
+  "candlecap": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "20,uncommon pole",
+    "focus": "2,cut onyx",
+    "item1": "3,bone: undead cr0-4"
+  },
+  "candleflame helm": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "14,iron ingot",
+    "focus": "3,cut topaz",
+    "item1": "8,meat: dragon cr0-4"
+  },
+  "candy xorn": {
+    "rarity": "common",
+    "tool": "cook's utensils",
+    "base": "14,uncommon pole",
+    "focus": "5,cut onyx",
+    "item1": "6,flesh: undead cr0-4"
+  },
+  "carbonated snake": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "2,uncommon tile",
+    "focus": "15,cut emerald",
+    "item1": "8,plating: construct cr0-4"
+  },
+  "cartographer's map case": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "6,uncommon plank",
+    "focus": "11,cut quartz",
+    "item1": "8,meat: giant cr0-4"
+  },
+  "cast-off armor": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "3,iron ingot",
+    "focus": "16,cut emerald",
+    "item1": "6,uncommon aggregate"
+  },
+  "cat's eye": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "6,uncommon block",
+    "focus": "15,cut quartz",
+    "item1": "4,residue: elemental cr0-4"
+  },
+  "cave diver": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,uncommon aggregate",
+    "focus": "6,cut topaz",
+    "item1": "7,bone: aberration cr0-4"
+  },
+  "celestial sunrise (common)": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,lead ingot",
+    "focus": "14,cut topaz",
+    "item1": "1,flesh: celestial cr0-4"
+  },
+  "charlatan's die": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,uncommon tile",
+    "focus": "8,cut onyx",
+    "item1": "9,bone: giant cr0-4"
+  },
+  "chest of preserving": {
+    "rarity": "common",
+    "tool": "carpenter's tools",
+    "base": "1,uncommon plank",
+    "focus": "14,cut topaz",
+    "item1": "10,uncommon fish fillet"
+  },
+  "chicken egg": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "20,silver ingot",
+    "focus": "2,cut amber",
+    "item1": "3,common potion ingredient"
+  },
+  "chisuay's heavenly tea": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "11,lead ingot",
+    "focus": "5,cut emerald",
+    "item1": "9,meat: dragon cr0-4"
+  },
+  "cinderskin": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "8,uncommon tile",
+    "focus": "16,cut quartz",
+    "item1": "1,uncommon pole"
+  },
+  "claws of the crab king": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,silver ingot",
+    "focus": "12,cut quartz",
+    "item1": "2,residue: elemental cr0-4"
+  },
+  "clay snake tail": {
+    "rarity": "common",
+    "tool": "potter's tools",
+    "base": "7,uncommon plank",
+    "focus": "12,cut topaz",
+    "item1": "6,uncommon pole"
+  },
+  "cleaning cube": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "6,uncommon aggregate",
+    "focus": "10,cut topaz",
+    "item1": "4,mass: ooze cr0-4"
+  },
+  "cleansing stone": {
+    "rarity": "common",
+    "tool": "mason's tools",
+    "base": "15,uncommon block",
+    "focus": "4,cut emerald",
+    "item1": "6,components: construct cr0-4"
+  },
+  "cloak of billowing": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "15,lead ingot",
+    "focus": "3,cut quartz",
+    "item1": "7,essence: elemental cr0-4"
+  }
+}

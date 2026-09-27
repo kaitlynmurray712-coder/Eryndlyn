@@ -1,0 +1,322 @@
+{
+  "gloves of swimming and climbing": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "49,uncommon block",
+    "focus": "38,cut emerald",
+    "item1": "5,blood: humanoid cr5-8",
+    "item2": "1,meat: giant cr5-8"
+  },
+  "gloves of thievery": {
+    "rarity": "uncommon",
+    "tool": "leatherworker's tools",
+    "base": "10,uncommon pole",
+    "focus": "21,cut topaz",
+    "item1": "3,cloth",
+    "item2": "2,lead ingot"
+  },
+  "gloves of the great badger": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "13,uncommon aggregate",
+    "focus": "30,cut quartz",
+    "item1": "3,flour",
+    "item2": "9,iron ingot"
+  },
+  "glow worms of the vale": {
+    "rarity": "uncommon",
+    "tool": "brewer's supplies",
+    "base": "43,uncommon pole",
+    "focus": "10,cut onyx",
+    "item1": "9,blood: fiend cr5-8",
+    "item2": "3,uncommon fish fillet"
+  },
+  "glowing ember": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "37,iron ingot",
+    "focus": "17,cut amber",
+    "item1": "4,blood: dragon cr5-8",
+    "item2": "8,residue: elemental cr5-8"
+  },
+  "glowstone helmet": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "9,lead ingot",
+    "focus": "33,cut quartz",
+    "item1": "1,plating: construct cr5-8",
+    "item2": "10,uncommon tile"
+  },
+  "gnashing key": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "1,uncommon tile",
+    "focus": "12,cut topaz",
+    "item1": "7,residue: elemental cr5-8",
+    "item2": "9,meat: dragon cr5-8"
+  },
+  "gobble gunk": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "28,uncommon pole",
+    "focus": "5,cut emerald",
+    "item1": "5,flesh: fiend cr5-8",
+    "item2": "4,blood: celestial cr5-8"
+  },
+  "goblin chisel": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "26,silver ingot",
+    "focus": "1,cut emerald",
+    "item1": "8,scale: dragon cr5-8",
+    "item2": "7,bone: monstrosity cr5-8"
+  },
+  "goggles of night": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "33,uncommon tile",
+    "focus": "36,cut onyx",
+    "item1": "4,flesh: fiend cr5-8",
+    "item2": "1,organ: aberration cr5-8"
+  },
+  "goggles of object reading": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "18,silver ingot",
+    "focus": "4,cut amber",
+    "item1": "5,meat: dragon cr5-8",
+    "item2": "5,lead ingot"
+  },
+  "golgari guild signet": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "29,uncommon tile",
+    "focus": "3,cut quartz",
+    "item1": "3,silver ingot",
+    "item2": "2,blood: dragon cr5-8"
+  },
+  "grand friendship": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "2,iron ingot",
+    "focus": "12,cut quartz",
+    "item1": "4,gear: construct cr5-8",
+    "item2": "8,blood: undead cr5-8"
+  },
+  "great owl's shroud": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "5,uncommon tile",
+    "focus": "26,cut quartz",
+    "item1": "9,mass: ooze cr5-8",
+    "item2": "9,hide: beast cr5-8"
+  },
+  "griffon component pack": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "8,uncommon block",
+    "focus": "53,cut quartz",
+    "item1": "8,uncommon plank",
+    "item2": "2,slime: ooze cr5-8"
+  },
+  "gruul guild signet": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "2,silver ingot",
+    "focus": "10,cut topaz",
+    "item1": "10,uncommon plank",
+    "item2": "4,blood: undead cr5-8"
+  },
+  "guardian emblem": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "19,lead ingot",
+    "focus": "3,cut quartz",
+    "item1": "7,silver ingot",
+    "item2": "5,residue: elemental cr5-8"
+  },
+  "guardian spheres": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "18,uncommon plank",
+    "focus": "1,cut amber",
+    "item1": "5,uncommon pole",
+    "item2": "5,mass: ooze cr5-8"
+  },
+  "guild signet": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "17,uncommon tile",
+    "focus": "22,cut quartz",
+    "item1": "2,cloth",
+    "item2": "2,gear: construct cr5-8"
+  },
+  "gusting blowgun": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "4,uncommon aggregate",
+    "focus": "14,cut onyx",
+    "item1": "4,flesh: aberration cr5-8",
+    "item2": "3,common potion ingredient"
+  },
+  "hadiya's handy quill": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "14,iron ingot",
+    "focus": "5,cut topaz",
+    "item1": "1,uncommon fish fillet",
+    "item2": "8,hide: fey cr5-8"
+  },
+  "hag eye": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "53,uncommon aggregate",
+    "focus": "1,cut onyx",
+    "item1": "5,residue: elemental cr5-8",
+    "item2": "10,meat: beast cr5-8"
+  },
+  "hakumon's ramen broth": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "19,uncommon aggregate",
+    "focus": "11,cut onyx",
+    "item1": "9,mass: ooze cr5-8",
+    "item2": "8,slime: ooze cr5-8"
+  },
+  "happy joy cake": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "8,silver ingot",
+    "focus": "66,cut emerald",
+    "item1": "4,meat: giant cr5-8",
+    "item2": "10,iron ingot"
+  },
+  "harkon's bite": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "63,uncommon pole",
+    "focus": "14,cut quartz",
+    "item1": "6,meat: fey cr5-8",
+    "item2": "6,lead ingot"
+  },
+  "harper pin": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "21,iron ingot",
+    "focus": "20,cut onyx",
+    "item1": "8,uncommon fish fillet",
+    "item2": "3,essence: elemental cr5-8"
+  },
+  "harvest": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "10,uncommon block",
+    "focus": "30,cut topaz",
+    "item1": "9,gear: construct cr5-8",
+    "item2": "5,meat: beast cr5-8"
+  },
+  "hat of disguise": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "14,uncommon tile",
+    "focus": "23,cut topaz",
+    "item1": "3,organ: fiend cr5-8",
+    "item2": "3,essence: fey cr5-8"
+  },
+  "hat of vortexes": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "45,silver ingot",
+    "focus": "10,cut topaz",
+    "item1": "10,flesh: aberration cr5-8",
+    "item2": "6,uncommon tile"
+  },
+  "hat of the sanguine coven": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "51,silver ingot",
+    "focus": "27,cut quartz",
+    "item1": "8,plating: construct cr5-8",
+    "item2": "8,lead ingot"
+  },
+  "hazewind cape": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "20,uncommon pole",
+    "focus": "27,cut quartz",
+    "item1": "3,blood: dragon cr5-8",
+    "item2": "10,silver ingot"
+  },
+  "headband of intellect": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "10,uncommon tile",
+    "focus": "17,cut onyx",
+    "item1": "7,components: construct cr5-8",
+    "item2": "5,scale: dragon cr5-8"
+  },
+  "headdress of the serpent king": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "38,uncommon tile",
+    "focus": "41,cut emerald",
+    "item1": "3,meat: beast cr5-8",
+    "item2": "7,cloth"
+  },
+  "headhunter's bullseye lantern": {
+    "rarity": "uncommon",
+    "tool": "glassblower's tools",
+    "base": "29,silver ingot",
+    "focus": "11,cut emerald",
+    "item1": "3,bone: celestial cr5-8",
+    "item2": "6,essence: elemental cr5-8"
+  },
+  "hedonic motivator": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "8,uncommon plank",
+    "focus": "46,cut amber",
+    "item1": "10,chitin: monstrosity cr5-8",
+    "item2": "4,mass: plant cr5-8"
+  },
+  "hellfire weapon": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "43,lead ingot",
+    "focus": "20,cut topaz",
+    "item1": "3,scale: dragon cr5-8",
+    "item2": "3,blood: dragon cr5-8"
+  },
+  "helm of awareness": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "21,iron ingot",
+    "focus": "53,cut quartz",
+    "item1": "7,uncommon block",
+    "item2": "1,uncommon aggregate"
+  },
+  "helm of comprehending languages": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "25,iron ingot",
+    "focus": "67,cut quartz",
+    "item1": "3,gland: monstrosity cr5-8",
+    "item2": "1,gear: construct cr5-8"
+  },
+  "helm of telepathy": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "19,lead ingot",
+    "focus": "25,cut quartz",
+    "item1": "10,uncommon aggregate",
+    "item2": "4,common potion ingredient"
+  },
+  "helm of underwater action": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "12,iron ingot",
+    "focus": "44,cut quartz",
+    "item1": "7,slime: ooze cr5-8",
+    "item2": "8,bone: beast cr5-8"
+  }
+}

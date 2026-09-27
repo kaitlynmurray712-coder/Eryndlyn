@@ -1,0 +1,282 @@
+{
+  "matron's mug": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1427,very rare aggregate",
+    "focus": "2856,cut opal",
+    "item1": "5,very rare fish fillet",
+    "item2": "10,bone: beast cr15-21",
+    "item3": "7,bone: fey cr15-21",
+    "item4": "1,adamantine ingot"
+  },
+  "midnight armor": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2525,platinum ingot",
+    "focus": "5299,lodestone",
+    "item1": "3,very rare tile",
+    "item2": "2,organ: fiend cr15-21",
+    "item3": "3,very rare poison ingredient",
+    "item4": "5,core: aberration cr15-21"
+  },
+  "mindblasting cap": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4136,very rare block",
+    "focus": "3373,cut hearthstone",
+    "item1": "9,organ: aberration cr15-21",
+    "item2": "2,flesh: aberration cr15-21",
+    "item3": "2,brain: aberration cr15-21",
+    "item4": "10,bone: humanoid cr15-21"
+  },
+  "mindguard crown": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "894,very rare aggregate",
+    "focus": "3665,cut opal",
+    "item1": "1,lodestone",
+    "item2": "2,very rare tile",
+    "item3": "4,organ: aberration cr15-21",
+    "item4": "2,bone: fey cr15-21"
+  },
+  "mindmaster's monocle": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "643,very rare aggregate",
+    "focus": "6124,cut diamond",
+    "item1": "2,core: fey cr15-21",
+    "item2": "7,flesh: aberration cr15-21",
+    "item3": "7,very rare block",
+    "item4": "3,bone: humanoid cr15-21"
+  },
+  "mindrazor": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3902,adamantine ingot",
+    "focus": "5337,cut diamond",
+    "item1": "7,core: fey cr15-21",
+    "item2": "5,brain: aberration cr15-21",
+    "item3": "8,lodestone",
+    "item4": "9,very rare tile"
+  },
+  "mirror of infinite transpondence": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "529,very rare aggregate",
+    "focus": "7191,cut opal",
+    "item1": "6,essence: fey cr15-21",
+    "item2": "4,core: construct cr15-21",
+    "item3": "3,sap: plant cr15-21",
+    "item4": "4,marrow: giant cr15-21"
+  },
+  "mirror of life trapping": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "8392,very rare block",
+    "focus": "25,cut opal",
+    "item1": "4,bone: fey cr15-21",
+    "item2": "1,very rare poison ingredient",
+    "item3": "10,flesh: undead cr15-21",
+    "item4": "10,adamantine ingot"
+  },
+  "mirror of reflected pasts": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "2334,very rare block",
+    "focus": "1069,cut hearthstone",
+    "item1": "10,organ: aberration cr15-21",
+    "item2": "4,bone: humanoid cr15-21",
+    "item3": "5,very rare potion ingredient",
+    "item4": "10,organ: humanoid cr15-21"
+  },
+  "mistral mantle": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "3240,mizzium ingot",
+    "focus": "2609,cut diamond",
+    "item1": "3,hizagkuur ingot",
+    "item2": "8,components: construct cr15-21",
+    "item3": "3,organ: monstrosity cr15-21",
+    "item4": "3,gear: construct cr15-21"
+  },
+  "monster hunter's weapon +2": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "401,mizzium ingot",
+    "focus": "6399,cut bloodstone",
+    "item1": "2,very rare plank",
+    "item2": "3,mass: ooze cr15-21",
+    "item3": "5,very rare fish fillet",
+    "item4": "10,organ: aberration cr15-21"
+  },
+  "moonbeam chain mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "184,quicksilver",
+    "focus": "3774,cut hearthstone",
+    "item1": "9,plate: monstrosity cr15-21",
+    "item2": "1,flesh: monstrosity cr15-21",
+    "item3": "2,mizzium ingot",
+    "item4": "1,chitin: monstrosity cr15-21"
+  },
+  "mourningsteel demi-gauntlets": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3307,very rare aggregate",
+    "focus": "488,cut opal",
+    "item1": "9,very rare tile",
+    "item2": "3,essence: undead cr15-21",
+    "item3": "3,flesh: undead cr15-21",
+    "item4": "9,core: undead cr15-21"
+  },
+  "mudslick tower": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3667,gold ingot",
+    "focus": "1966,cut hearthstone",
+    "item1": "7,hizagkuur ingot",
+    "item2": "2,rare potion ingredient",
+    "item3": "6,spores: plant cr15-21",
+    "item4": "3,blood: fiend cr15-21"
+  },
+  "navigation orb": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "1312,very rare aggregate",
+    "focus": "7156,cut diamond",
+    "item1": "7,slime: ooze cr15-21",
+    "item2": "1,core: fiend cr15-21",
+    "item3": "2,core: celestial cr15-21",
+    "item4": "10,organ: monstrosity cr15-21"
+  },
+  "necrotic absorbing tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "1493,very rare tile",
+    "focus": "3794,cut hearthstone",
+    "item1": "3,flesh: fiend cr15-21",
+    "item2": "9,core: fey cr15-21",
+    "item3": "1,essence: undead cr15-21",
+    "item4": "9,meat: beast cr15-21"
+  },
+  "nectar of the green man": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3487,adamantine ingot",
+    "focus": "57,cut hearthstone",
+    "item1": "8,meat: fey cr15-21",
+    "item2": "9,essence: fey cr15-21",
+    "item3": "5,lodestone",
+    "item4": "7,core: elemental cr15-21"
+  },
+  "niko's mace": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3132,adamantine ingot",
+    "focus": "867,cut hearthstone",
+    "item1": "6,organ: aberration cr15-21",
+    "item2": "7,very rare tile",
+    "item3": "10,bone: beast cr15-21",
+    "item4": "3,rare potion ingredient"
+  },
+  "nimbus coronet": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "3627,very rare pole",
+    "focus": "5489,cut opal",
+    "item1": "7,bone: giant cr15-21",
+    "item2": "8,very rare potion ingredient",
+    "item3": "8,organ: celestial cr15-21",
+    "item4": "3,slime: ooze cr15-21"
+  },
+  "nine lives stealer": {
+    "rarity": "very rare",
+    "tool": "brewer's supplies",
+    "base": "1042,adamantine ingot",
+    "focus": "3096,cut hearthstone",
+    "item1": "2,bone: beast cr15-21",
+    "item2": "8,mass: ooze cr15-21",
+    "item3": "3,very rare aggregate",
+    "item4": "5,core: ooze cr15-21"
+  },
+  "nolzur's marvelous pigments": {
+    "rarity": "very rare",
+    "tool": "painter's supplies",
+    "base": "2495,hizagkuur ingot",
+    "focus": "788,cut ruby",
+    "item1": "7,meat: giant cr15-21",
+    "item2": "1,mizzium ingot",
+    "item3": "10,flesh: celestial cr15-21",
+    "item4": "1,very rare fish fillet"
+  },
+  "novanite armor": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3191,platinum ingot",
+    "focus": "1408,cut diamond",
+    "item1": "5,organ: monstrosity cr15-21",
+    "item2": "8,hide: beast cr15-21",
+    "item3": "4,marrow: beast cr15-21",
+    "item4": "3,very rare aggregate"
+  },
+  "oathbow": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "593,gold ingot",
+    "focus": "6768,cut bloodstone",
+    "item1": "3,very rare poison ingredient",
+    "item2": "6,bone: fiend cr15-21",
+    "item3": "6,dreamlily",
+    "item4": "8,plate: monstrosity cr15-21"
+  },
+  "oathkeeper's resolve": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2727,very rare tile",
+    "focus": "3370,cut sunstone",
+    "item1": "5,organ: celestial cr15-21",
+    "item2": "8,flesh: fiend cr15-21",
+    "item3": "3,gold ingot",
+    "item4": "10,slime: ooze cr15-21"
+  },
+  "ogramau's graveyard": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "441,very rare tile",
+    "focus": "4768,cut bloodstone",
+    "item1": "6,very rare potion ingredient",
+    "item2": "6,flesh: fiend cr15-21",
+    "item3": "7,very rare aggregate",
+    "item4": "1,lodestone"
+  },
+  "oil of sharpness": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "2626,very rare block",
+    "focus": "1565,cut hearthstone",
+    "item1": "2,very rare potion ingredient",
+    "item2": "2,flesh: monstrosity cr15-21",
+    "item3": "8,mizzium ingot",
+    "item4": "4,gland: dragon cr15-21"
+  },
+  "orb of the veil": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "7125,lodestone",
+    "focus": "1106,cut ruby",
+    "item1": "4,core: fey cr15-21",
+    "item2": "7,plating: construct cr15-21",
+    "item3": "10,bone: humanoid cr15-21",
+    "item4": "2,brain: aberration cr15-21"
+  },
+  "ornithopter of flying": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2990,very rare pole",
+    "focus": "6211,cut diamond",
+    "item1": "6,marrow: giant cr15-21",
+    "item2": "6,core: elemental cr15-21",
+    "item3": "3,mizzium ingot",
+    "item4": "10,very rare aggregate"
+  }
+}

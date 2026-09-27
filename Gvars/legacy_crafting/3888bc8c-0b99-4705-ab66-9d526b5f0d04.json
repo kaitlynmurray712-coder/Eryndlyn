@@ -1,0 +1,314 @@
+{
+  "driftglobe": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "41,uncommon aggregate",
+    "focus": "16,cut amber",
+    "item1": "7,uncommon block",
+    "item2": "4,silver ingot"
+  },
+  "durability": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "16,lead ingot",
+    "focus": "29,cut onyx",
+    "item1": "3,flesh: aberration cr5-8",
+    "item2": "4,flesh: celestial cr5-8"
+  },
+  "dusk dagger (uncommon)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "52,uncommon plank",
+    "focus": "2,cut onyx",
+    "item1": "1,mass: ooze cr5-8",
+    "item2": "3,blood: humanoid cr5-8"
+  },
+  "dust of corrosion": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "6,uncommon plank",
+    "focus": "13,cut topaz",
+    "item1": "8,bone: giant cr5-8",
+    "item2": "4,organ: aberration cr5-8"
+  },
+  "dust of deliciousness": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "29,uncommon tile",
+    "focus": "15,cut emerald",
+    "item1": "3,uncommon block",
+    "item2": "8,residue: elemental cr5-8"
+  },
+  "dust of disappearance": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "25,lead ingot",
+    "focus": "25,cut quartz",
+    "item1": "7,uncommon pole",
+    "item2": "5,meat: beast cr5-8"
+  },
+  "dust of dryness": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "39,silver ingot",
+    "focus": "13,cut amber",
+    "item1": "9,mass: plant cr5-8",
+    "item2": "5,uncommon fish fillet"
+  },
+  "dust of sneezing and choking": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "78,uncommon plank",
+    "focus": "1,cut amber",
+    "item1": "9,hide: fey cr5-8",
+    "item2": "3,meat: beast cr5-8"
+  },
+  "ear cuff of the climber": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "15,silver ingot",
+    "focus": "22,cut emerald",
+    "item1": "3,flesh: aberration cr5-8",
+    "item2": "9,flesh: humanoid cr5-8"
+  },
+  "earrings of eclipse": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "16,lead ingot",
+    "focus": "4,cut emerald",
+    "item1": "10,uncommon pole",
+    "item2": "2,organ: fiend cr5-8"
+  },
+  "earworm": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "2,uncommon block",
+    "focus": "21,cut amber",
+    "item1": "2,flesh: aberration cr5-8",
+    "item2": "9,chitin: monstrosity cr5-8"
+  },
+  "echo stone": {
+    "rarity": "uncommon",
+    "tool": "mason's tools",
+    "base": "54,uncommon aggregate",
+    "focus": "25,cut amber",
+    "item1": "4,bone: humanoid cr5-8",
+    "item2": "10,meat: giant cr5-8"
+  },
+  "eclipse spear": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "23,silver ingot",
+    "focus": "12,cut quartz",
+    "item1": "4,blood: dragon cr5-8",
+    "item2": "8,essence: fey cr5-8"
+  },
+  "egg of primal water": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "3,uncommon block",
+    "focus": "33,cut emerald",
+    "item1": "3,slime: ooze cr5-8",
+    "item2": "5,essence: elemental cr5-8"
+  },
+  "ehagan's moving ladder": {
+    "rarity": "uncommon",
+    "tool": "carpenter's tools",
+    "base": "29,iron ingot",
+    "focus": "14,cut onyx",
+    "item1": "6,sap: plant cr5-8",
+    "item2": "1,flesh: humanoid cr5-8"
+  },
+  "elder cartographer's glossography": {
+    "rarity": "uncommon",
+    "tool": "cartographer's tools",
+    "base": "35,uncommon plank",
+    "focus": "9,cut onyx",
+    "item1": "3,essence: elemental cr5-8",
+    "item2": "1,flesh: monstrosity cr5-8"
+  },
+  "eldritch claw tattoo": {
+    "rarity": "uncommon",
+    "tool": "calligrapher's supplies",
+    "base": "14,uncommon block",
+    "focus": "7,cut topaz",
+    "item1": "8,uncommon tile",
+    "item2": "6,lead ingot"
+  },
+  "elemental gem": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "1,uncommon block",
+    "focus": "82,cut onyx",
+    "item1": "8,fiber",
+    "item2": "4,residue: elemental cr5-8"
+  },
+  "elemental gem, blue sapphire": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "4,uncommon block",
+    "focus": "26,cut amber",
+    "item1": "10,meat: beast cr5-8",
+    "item2": "9,hide: beast cr5-8"
+  },
+  "elemental gem, emerald": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "2,uncommon block",
+    "focus": "18,cut topaz",
+    "item1": "10,bone: giant cr5-8",
+    "item2": "3,bone: undead cr5-8"
+  },
+  "elemental gem, red corundum": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "42,uncommon tile",
+    "focus": "8,cut emerald",
+    "item1": "9,fiber",
+    "item2": "6,residue: elemental cr5-8"
+  },
+  "elemental gem, yellow diamond": {
+    "rarity": "uncommon",
+    "tool": "jeweler's tools",
+    "base": "17,uncommon block",
+    "focus": "8,cut amber",
+    "item1": "7,residue: elemental cr5-8",
+    "item2": "10,iron ingot"
+  },
+  "elixir of jipampa": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "18,uncommon aggregate",
+    "focus": "59,cut quartz",
+    "item1": "7,common potion ingredient",
+    "item2": "10,flesh: celestial cr5-8"
+  },
+  "emerald goblet": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "16,uncommon aggregate",
+    "focus": "18,cut amber",
+    "item1": "10,slime: ooze cr5-8",
+    "item2": "10,uncommon tile"
+  },
+  "emerald pen": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "17,uncommon plank",
+    "focus": "22,cut onyx",
+    "item1": "6,gland: monstrosity cr5-8",
+    "item2": "8,meat: giant cr5-8"
+  },
+  "enhanced bottled bomb": {
+    "rarity": "uncommon",
+    "tool": "glassblower's tools",
+    "base": "33,iron ingot",
+    "focus": "33,cut topaz",
+    "item1": "10,blood: dragon cr5-8",
+    "item2": "3,essence: elemental cr5-8"
+  },
+  "enhanced lightning breath": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "9,silver ingot",
+    "focus": "63,cut topaz",
+    "item1": "4,iron ingot",
+    "item2": "1,scale: dragon cr5-8"
+  },
+  "enhanced static shock": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "46,uncommon plank",
+    "focus": "23,cut onyx",
+    "item1": "8,meat: fey cr5-8",
+    "item2": "3,meat: beast cr5-8"
+  },
+  "enspelled armor (cantrip)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "24,lead ingot",
+    "focus": "50,cut emerald",
+    "item1": "6,gear: construct cr5-8",
+    "item2": "1,flesh: monstrosity cr5-8"
+  },
+  "enspelled armor (level 1)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "1,lead ingot",
+    "focus": "90,cut emerald",
+    "item1": "1,bone: monstrosity cr5-8",
+    "item2": "2,hide: beast cr5-8"
+  },
+  "enspelled staff (cantrip)": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "7,uncommon pole",
+    "focus": "72,cut emerald",
+    "item1": "5,iron ingot",
+    "item2": "4,residue: elemental cr5-8"
+  },
+  "enspelled staff (level 1)": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "12,uncommon plank",
+    "focus": "58,cut amber",
+    "item1": "9,uncommon aggregate",
+    "item2": "6,organ: fiend cr5-8"
+  },
+  "enspelled weapon (cantrip)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "21,iron ingot",
+    "focus": "30,cut topaz",
+    "item1": "9,mass: ooze cr5-8",
+    "item2": "9,meat: dragon cr5-8"
+  },
+  "enspelled weapon (level 1)": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "18,lead ingot",
+    "focus": "47,cut topaz",
+    "item1": "9,uncommon plank",
+    "item2": "2,common potion ingredient"
+  },
+  "essence of glumbug": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "42,uncommon tile",
+    "focus": "29,cut amber",
+    "item1": "8,plating: construct cr5-8",
+    "item2": "7,mass: plant cr5-8"
+  },
+  "essence of ill omen": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "30,lead ingot",
+    "focus": "50,cut emerald",
+    "item1": "10,bone: humanoid cr5-8",
+    "item2": "7,meat: beast cr5-8"
+  },
+  "essence of the river spirit": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "57,iron ingot",
+    "focus": "23,cut onyx",
+    "item1": "5,flesh: humanoid cr5-8",
+    "item2": "4,bone: undead cr5-8"
+  },
+  "everhot stew pot": {
+    "rarity": "uncommon",
+    "tool": "cook's utensils",
+    "base": "18,uncommon pole",
+    "focus": "39,cut onyx",
+    "item1": "5,slime: ooze cr5-8",
+    "item2": "2,uncommon block"
+  },
+  "eversmoking bottle": {
+    "rarity": "uncommon",
+    "tool": "glassblower's tools",
+    "base": "64,uncommon block",
+    "focus": "27,cut onyx",
+    "item1": "4,blood: fiend cr5-8",
+    "item2": "5,cloth"
+  }
+}

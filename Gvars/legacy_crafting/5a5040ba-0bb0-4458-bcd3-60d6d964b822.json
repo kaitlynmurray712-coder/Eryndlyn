@@ -1,0 +1,314 @@
+{
+  "periapt of health": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "53,uncommon block",
+    "focus": "27,cut quartz",
+    "item1": "9,bark: plant cr5-8",
+    "item2": "6,blood: celestial cr5-8"
+  },
+  "periapt of wound closure": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "34,uncommon aggregate",
+    "focus": "17,cut quartz",
+    "item1": "6,blood: fiend cr5-8",
+    "item2": "5,bone: celestial cr5-8"
+  },
+  "petrified alligator": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "5,lead ingot",
+    "focus": "62,cut emerald",
+    "item1": "9,mass: ooze cr5-8",
+    "item2": "7,scale: dragon cr5-8"
+  },
+  "phantom walkers": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "25,uncommon plank",
+    "focus": "33,cut topaz",
+    "item1": "2,meat: giant cr5-8",
+    "item2": "1,essence: elemental cr5-8"
+  },
+  "philter of boundless joy": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "24,uncommon plank",
+    "focus": "64,cut emerald",
+    "item1": "2,uncommon block",
+    "item2": "5,essence: fey cr5-8"
+  },
+  "philter of love": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "1,uncommon tile",
+    "focus": "31,cut amber",
+    "item1": "1,hide: aberration cr5-8",
+    "item2": "2,uncommon block"
+  },
+  "philter of lust": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "8,uncommon aggregate",
+    "focus": "20,cut quartz",
+    "item1": "2,meat: beast cr5-8",
+    "item2": "9,mass: ooze cr5-8"
+  },
+  "philter of righteous anger": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "18,lead ingot",
+    "focus": "41,cut onyx",
+    "item1": "10,scale: dragon cr5-8",
+    "item2": "1,uncommon block"
+  },
+  "philter of waking dreams": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "62,silver ingot",
+    "focus": "28,cut quartz",
+    "item1": "8,uncommon aggregate",
+    "item2": "2,blood: humanoid cr5-8"
+  },
+  "phoenix elixir": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "28,silver ingot",
+    "focus": "49,cut topaz",
+    "item1": "9,bone: humanoid cr5-8",
+    "item2": "5,hide: aberration cr5-8"
+  },
+  "pipes of haunting": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "15,uncommon block",
+    "focus": "25,cut quartz",
+    "item1": "2,organ: aberration cr5-8",
+    "item2": "6,uncommon fish fillet"
+  },
+  "pipes of pestilence": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "1,lead ingot",
+    "focus": "20,cut topaz",
+    "item1": "3,mass: ooze cr5-8",
+    "item2": "10,uncommon tile"
+  },
+  "pipes of the sewers": {
+    "rarity": "uncommon",
+    "tool": "woodcarver's tools",
+    "base": "3,lead ingot",
+    "focus": "21,cut onyx",
+    "item1": "1,hide: beast cr5-8",
+    "item2": "4,bone: beast cr5-8"
+  },
+  "pisces shield": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "42,lead ingot",
+    "focus": "48,cut quartz",
+    "item1": "1,meat: beast cr5-8",
+    "item2": "7,hide: beast cr5-8"
+  },
+  "piwafwi (cloak of elvenkind)": {
+    "rarity": "uncommon",
+    "tool": "weaver's tools",
+    "base": "43,uncommon aggregate",
+    "focus": "1,cut emerald",
+    "item1": "6,components: construct cr5-8",
+    "item2": "10,flesh: monstrosity cr5-8"
+  },
+  "pixie dust": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "39,lead ingot",
+    "focus": "4,cut amber",
+    "item1": "1,blood: undead cr5-8",
+    "item2": "4,flesh: aberration cr5-8"
+  },
+  "plate of knight's fellowship": {
+    "rarity": "uncommon",
+    "tool": "smith's tools",
+    "base": "10,uncommon aggregate",
+    "focus": "75,cut onyx",
+    "item1": "8,hide: aberration cr5-8",
+    "item2": "4,blood: fiend cr5-8"
+  },
+  "pocket portal": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "24,lead ingot",
+    "focus": "65,cut onyx",
+    "item1": "3,hide: fey cr5-8",
+    "item2": "4,components: construct cr5-8"
+  },
+  "pocket stomach": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "33,iron ingot",
+    "focus": "50,cut quartz",
+    "item1": "2,silver ingot",
+    "item2": "2,mass: plant cr5-8"
+  },
+  "poison popper": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "56,iron ingot",
+    "focus": "4,cut amber",
+    "item1": "7,silver ingot",
+    "item2": "4,uncommon block"
+  },
+  "poison soaked kukri": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "26,uncommon tile",
+    "focus": "25,cut quartz",
+    "item1": "5,bone: monstrosity cr5-8",
+    "item2": "1,flesh: celestial cr5-8"
+  },
+  "pok pok flakes": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "6,uncommon tile",
+    "focus": "75,cut amber",
+    "item1": "10,fiber",
+    "item2": "9,bone: celestial cr5-8"
+  },
+  "pollinator carapace": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "21,iron ingot",
+    "focus": "8,cut topaz",
+    "item1": "8,common potion ingredient",
+    "item2": "1,blood: dragon cr5-8"
+  },
+  "pollinator pants": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "47,lead ingot",
+    "focus": "20,cut onyx",
+    "item1": "10,uncommon block",
+    "item2": "7,blood: fiend cr5-8"
+  },
+  "pollinator visor": {
+    "rarity": "uncommon",
+    "tool": "tinker's tools",
+    "base": "17,uncommon plank",
+    "focus": "46,cut quartz",
+    "item1": "4,mass: ooze cr5-8",
+    "item2": "4,bone: celestial cr5-8"
+  },
+  "portable cannonballs": {
+    "rarity": "uncommon",
+    "tool": "carpenter's tools",
+    "base": "16,silver ingot",
+    "focus": "58,cut onyx",
+    "item1": "10,hide: aberration cr5-8",
+    "item2": "1,bone: humanoid cr5-8"
+  },
+  "portal compass": {
+    "rarity": "uncommon",
+    "tool": "cartographer's tools",
+    "base": "2,lead ingot",
+    "focus": "28,cut emerald",
+    "item1": "5,silver ingot",
+    "item2": "7,uncommon pole"
+  },
+  "potion of acid resistance": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "11,silver ingot",
+    "focus": "1,cut emerald",
+    "item1": "4,mass: plant cr5-8",
+    "item2": "10,bark: plant cr5-8"
+  },
+  "potion of advantage": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "3,uncommon aggregate",
+    "focus": "57,cut topaz",
+    "item1": "5,sap: plant cr5-8",
+    "item2": "2,cloth"
+  },
+  "potion of animal friendship": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "4,uncommon pole",
+    "focus": "40,cut amber",
+    "item1": "6,bark: plant cr5-8",
+    "item2": "3,sap: plant cr5-8"
+  },
+  "potion of attunement": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "32,uncommon plank",
+    "focus": "5,cut amber",
+    "item1": "10,uncommon pole",
+    "item2": "3,residue: elemental cr5-8"
+  },
+  "potion of cold resistance": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "3,lead ingot",
+    "focus": "57,cut quartz",
+    "item1": "7,slime: ooze cr5-8",
+    "item2": "1,uncommon fish fillet"
+  },
+  "potion of controlled mutation": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "25,silver ingot",
+    "focus": "18,cut amber",
+    "item1": "5,meat: dragon cr5-8",
+    "item2": "7,hide: beast cr5-8"
+  },
+  "potion of exertion": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "31,uncommon block",
+    "focus": "14,cut onyx",
+    "item1": "5,organ: aberration cr5-8",
+    "item2": "2,essence: elemental cr5-8"
+  },
+  "potion of fire breath": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "15,lead ingot",
+    "focus": "28,cut amber",
+    "item1": "10,meat: dragon cr5-8",
+    "item2": "1,silver ingot"
+  },
+  "potion of fire resistance": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "46,uncommon tile",
+    "focus": "5,cut topaz",
+    "item1": "2,uncommon aggregate",
+    "item2": "10,uncommon block"
+  },
+  "potion of force resistance": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "13,uncommon block",
+    "focus": "3,cut amber",
+    "item1": "8,lead ingot",
+    "item2": "5,bone: humanoid cr5-8"
+  },
+  "potion of freezing": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "43,uncommon tile",
+    "focus": "9,cut topaz",
+    "item1": "10,flesh: humanoid cr5-8",
+    "item2": "8,essence: elemental cr5-8"
+  },
+  "potion of greater healing": {
+    "rarity": "uncommon",
+    "tool": "alchemist's supplies",
+    "base": "22,uncommon potion ingredient",
+    "focus": "13,cut emerald",
+    "item1": "3,sap: plant cr5-8",
+    "item2": "4,essence: elemental cr5-8"
+  }
+}

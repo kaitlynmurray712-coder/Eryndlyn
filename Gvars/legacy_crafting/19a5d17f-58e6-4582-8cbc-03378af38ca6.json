@@ -1,0 +1,345 @@
+{
+  "prickleskin": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "13,uncommon pole",
+    "focus": "8,cut quartz",
+    "item1": "4,flesh: celestial cr0-4"
+  },
+  "prism glasses": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "6,iron ingot",
+    "focus": "16,cut amber",
+    "item1": "3,mass: plant cr0-4"
+  },
+  "projected thoughts": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "16,uncommon block",
+    "focus": "8,cut quartz",
+    "item1": "1,meat: fey cr0-4"
+  },
+  "prosthetic limb": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "5,uncommon pole",
+    "focus": "12,cut amber",
+    "item1": "8,uncommon plank"
+  },
+  "pungent sea foam": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,uncommon tile",
+    "focus": "14,cut emerald",
+    "item1": "8,mass: ooze cr0-4"
+  },
+  "pyramid melon": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,uncommon tile",
+    "focus": "8,cut amber",
+    "item1": "9,mass: ooze cr0-4"
+  },
+  "queen's dilemma": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "16,lead ingot",
+    "focus": "3,cut emerald",
+    "item1": "6,essence: elemental cr0-4"
+  },
+  "rabbit's speed": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,iron ingot",
+    "focus": "13,cut amber",
+    "item1": "1,organ: fiend cr0-4"
+  },
+  "rain and thunder seed": {
+    "rarity": "common",
+    "tool": "cook's utensils",
+    "base": "14,uncommon pole",
+    "focus": "4,cut amber",
+    "item1": "7,mass: plant cr0-4"
+  },
+  "raka paste": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,uncommon tile",
+    "focus": "11,cut onyx",
+    "item1": "6,flesh: aberration cr0-4"
+  },
+  "rattle shoot": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "5,iron ingot",
+    "focus": "15,cut onyx",
+    "item1": "5,uncommon pole"
+  },
+  "redsmith crucible set": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "13,uncommon plank",
+    "focus": "3,cut quartz",
+    "item1": "9,residue: elemental cr0-4"
+  },
+  "redsmith hammer": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "17,uncommon tile",
+    "focus": "4,cut quartz",
+    "item1": "4,bone: humanoid cr0-4"
+  },
+  "ribbon rot": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "18,silver ingot",
+    "focus": "2,cut emerald",
+    "item1": "5,meat: fey cr0-4"
+  },
+  "rival coin": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "7,uncommon block",
+    "focus": "9,cut amber",
+    "item1": "9,flesh: fiend cr0-4"
+  },
+  "road warden shield": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "1,lead ingot",
+    "focus": "21,cut emerald",
+    "item1": "3,hide: beast cr0-4"
+  },
+  "rod of endless light": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "18,uncommon plank",
+    "focus": "1,cut topaz",
+    "item1": "6,residue: elemental cr0-4"
+  },
+  "rope caster": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "16,iron ingot",
+    "focus": "2,cut quartz",
+    "item1": "7,flesh: humanoid cr0-4"
+  },
+  "rope of mending": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "6,uncommon block",
+    "focus": "14,cut emerald",
+    "item1": "5,flesh: aberration cr0-4"
+  },
+  "rose quartz koi": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,iron ingot",
+    "focus": "16,cut amber",
+    "item1": "5,hide: beast cr0-4"
+  },
+  "rubberskin": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "9,uncommon aggregate",
+    "focus": "13,cut amber",
+    "item1": "3,flesh: monstrosity cr0-4"
+  },
+  "ruby of the war mage": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "12,uncommon pole",
+    "focus": "5,cut emerald",
+    "item1": "8,uncommon plank"
+  },
+  "rust crab": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,iron ingot",
+    "focus": "4,cut amber",
+    "item1": "9,flesh: aberration cr0-4"
+  },
+  "scalefruit rind": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "5,lead ingot",
+    "focus": "10,cut amber",
+    "item1": "10,meat: dragon cr0-4"
+  },
+  "scribe's pen": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,uncommon aggregate",
+    "focus": "5,cut onyx",
+    "item1": "9,flesh: humanoid cr0-4"
+  },
+  "scuttling lantern": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "16,uncommon pole",
+    "focus": "5,cut onyx",
+    "item1": "4,meat: fey cr0-4"
+  },
+  "sea water": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "7,uncommon plank",
+    "focus": "9,cut emerald",
+    "item1": "9,mass: ooze cr0-4"
+  },
+  "seashell": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "9,silver ingot",
+    "focus": "15,cut amber",
+    "item1": "1,blood: dragon cr0-4"
+  },
+  "secret path": {
+    "rarity": "common",
+    "tool": "cartographer's tools",
+    "base": "22,uncommon aggregate",
+    "focus": "1,cut onyx",
+    "item1": "2,uncommon tile"
+  },
+  "seeking smoke": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "16,iron ingot",
+    "focus": "8,cut amber",
+    "item1": "1,blood: dragon cr0-4"
+  },
+  "sekolahian worshiping statuette": {
+    "rarity": "common",
+    "tool": "mason's tools",
+    "base": "13,uncommon block",
+    "focus": "3,cut onyx",
+    "item1": "9,bone: giant cr0-4"
+  },
+  "sensorius maximus": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,silver ingot",
+    "focus": "14,cut emerald",
+    "item1": "8,essence: fey cr0-4"
+  },
+  "shadow child": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "9,lead ingot",
+    "focus": "11,cut onyx",
+    "item1": "5,flesh: aberration cr0-4"
+  },
+  "sheep dragon wool": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "1,lead ingot",
+    "focus": "17,cut amber",
+    "item1": "7,uncommon block"
+  },
+  "shepherd's bane": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "2,iron ingot",
+    "focus": "22,cut quartz",
+    "item1": "1,mass: ooze cr0-4"
+  },
+  "shield of crows": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "6,lead ingot",
+    "focus": "10,cut emerald",
+    "item1": "9,components: construct cr0-4"
+  },
+  "shield of expression": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "14,lead ingot",
+    "focus": "6,cut emerald",
+    "item1": "5,meat: beast cr0-4"
+  },
+  "shield of swans": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "4,lead ingot",
+    "focus": "13,cut quartz",
+    "item1": "8,meat: beast cr0-4"
+  },
+  "shifter's shine (common)": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,uncommon aggregate",
+    "focus": "3,cut quartz",
+    "item1": "10,meat: beast cr0-4"
+  },
+  "shiftweave": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "9,uncommon tile",
+    "focus": "7,cut emerald",
+    "item1": "9,organ: fiend cr0-4"
+  },
+  "shimmering spectacles": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "1,lead ingot",
+    "focus": "22,cut quartz",
+    "item1": "2,essence: fey cr0-4"
+  },
+  "shipwright's watch": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,uncommon block",
+    "focus": "13,cut topaz",
+    "item1": "9,flesh: fiend cr0-4"
+  },
+  "silver coin of duvra": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "18,lead ingot",
+    "focus": "4,cut quartz",
+    "item1": "3,hide: beast cr0-4"
+  },
+  "silver star cane": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "21,uncommon aggregate",
+    "focus": "3,cut onyx",
+    "item1": "1,chitin: monstrosity cr0-4"
+  },
+  "silvered weapon": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "17,iron ingot",
+    "focus": "2,cut quartz",
+    "item1": "6,uncommon plank"
+  },
+  "sky swimming": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "5,uncommon pole",
+    "focus": "11,cut topaz",
+    "item1": "9,uncommon plank"
+  },
+  "sleepytime sheep stuffy": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "15,uncommon pole",
+    "focus": "4,cut onyx",
+    "item1": "6,bone: aberration cr0-4"
+  },
+  "slugskin": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "3,iron ingot",
+    "focus": "18,cut emerald",
+    "item1": "4,bone: humanoid cr0-4"
+  },
+  "smoldering armor": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "12,iron ingot",
+    "focus": "6,cut amber",
+    "item1": "7,plating: construct cr0-4"
+  }
+}

@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Crafting Dictionary Editor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <h1>Crafting Dictionary</h1>
+      <p>Browse and edit <code>crafting.json</code> in memory. Nothing is written back to the source file.</p>
+    </div>
+    <div class="header-actions">
+      <!-- <label class="button secondary" for="json-file">
+        Load JSON
+        <input id="json-file" type="file" accept=".json,application/json" hidden>
+      </label> -->
+      <button id="copy-all" class="button primary">Copy JSON</button>
+      <button id="reset" class="button secondary">Reset</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-top">
+        <div>
+          <strong>Recipes</strong>
+          <span id="recipe-count" class="count"></span>
+        </div>
+        <button id="new-recipe" class="button primary small">+ New</button>
+      </div>
+
+      <label class="search">
+        <span>Search</span>
+        <input id="search" type="search" placeholder="Search recipes...">
+      </label>
+
+      <div id="recipe-list" class="recipe-list" aria-label="Recipe list"></div>
+    </aside>
+
+    <section class="editor-panel">
+      <div id="empty-state" class="empty-state">
+        <h2>Select a recipe</h2>
+        <p>Choose an entry from the list, or create a new one.</p>
+      </div>
+
+      <form id="editor" class="editor hidden">
+        <div class="editor-heading">
+          <div>
+            <span class="eyebrow">Recipe</span>
+            <h2 id="editor-title">Edit recipe</h2>
+          </div>
+          <div class="editor-actions">
+            <button type="button" id="copy-entry" class="button secondary">Copy Entry</button>
+            <button type="button" id="delete-entry" class="button danger">Delete</button>
+          </div>
+        </div>
+
+        <div class="field-grid">
+          <label class="field field-wide">
+            <span>Recipe name <b>*</b></span>
+            <input id="recipe-name" required autocomplete="off">
+            <small>The object key in the JSON.</small>
+          </label>
+
+          <label class="field">
+            <span>Rarity</span>
+            <input id="rarity" autocomplete="off">
+          </label>
+
+          <label class="field">
+            <span>Tool</span>
+            <input id="tool" autocomplete="off">
+          </label>
+
+          <label class="field">
+            <span>Base</span>
+            <input id="base" autocomplete="off" placeholder="4937,very rare block">
+          </label>
+
+          <label class="field">
+            <span>Focus</span>
+            <input id="focus" autocomplete="off" placeholder="3446,cut opal">
+          </label>
+
+          <label class="field">
+            <span>Item 1</span>
+            <input id="item1" autocomplete="off">
+          </label>
+
+          <label class="field">
+            <span>Item 2</span>
+            <input id="item2" autocomplete="off">
+          </label>
+
+          <label class="field">
+            <span>Item 3</span>
+            <input id="item3" autocomplete="off">
+          </label>
+
+          <label class="field">
+            <span>Item 4</span>
+            <input id="item4" autocomplete="off">
+          </label>
+        </div>
+
+        <div class="save-bar">
+          <span id="status" class="status">Changes are held in memory only.</span>
+          <button type="submit" class="button primary">Save Changes</button>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>

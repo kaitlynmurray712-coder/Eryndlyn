@@ -1,0 +1,308 @@
+{
+  "delver's claws": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "146,rare pole",
+    "focus": "158,cut jade",
+    "item1": "7,blood: undead cr9-14",
+    "item2": "2,charcoal",
+    "item3": "2,flesh: celestial cr9-14"
+  },
+  "demon skin": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "178,rare block",
+    "focus": "341,cut obsidian",
+    "item1": "9,mass: ooze cr9-14",
+    "item2": "9,rare aggregate",
+    "item3": "7,durable fiber"
+  },
+  "devilbone button": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "326,rare aggregate",
+    "focus": "98,cut obsidian",
+    "item1": "1,rare block",
+    "item2": "9,uncommon potion ingredient",
+    "item3": "2,bone: undead cr9-14"
+  },
+  "devotee's censer": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "444,rare pole",
+    "focus": "482,cut sapphire",
+    "item1": "3,core: elemental cr9-14",
+    "item2": "9,gear: construct cr9-14",
+    "item3": "3,meat: fey cr9-14"
+  },
+  "dimensional shackles": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "335,cut obsidian",
+    "focus": "166,cut obsidian",
+    "item1": "2,marrow: giant cr9-14",
+    "item2": "8,essence: undead cr9-14",
+    "item3": "1,copper ingot"
+  },
+  "direstone runic wand": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "20,rare pole",
+    "focus": "564,cut obsidian",
+    "item1": "6,blood: undead cr9-14",
+    "item2": "1,marrow: giant cr9-14",
+    "item3": "8,meat: giant cr9-14"
+  },
+  "disappearing act": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "441,copper ingot",
+    "focus": "514,cut agate",
+    "item1": "3,core: elemental cr9-14",
+    "item2": "1,durable cloth",
+    "item3": "3,flesh: monstrosity cr9-14"
+  },
+  "dissimortuum's cursed mask": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "143,rare block",
+    "focus": "609,cut moonstone",
+    "item1": "6,bone: fiend cr9-14",
+    "item2": "6,organ: fiend cr9-14",
+    "item3": "8,blood: fey cr9-14"
+  },
+  "diviner's dice": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "308,rare block",
+    "focus": "173,cut moonstone",
+    "item1": "10,durable fiber",
+    "item2": "6,bone: beast cr9-14",
+    "item3": "7,uncommon poison ingredient"
+  },
+  "djinn and tonic (rare)": {
+    "rarity": "rare",
+    "tool": "brewer's supplies",
+    "base": "412,rare tile",
+    "focus": "40,cut sapphire",
+    "item1": "10,durable fiber",
+    "item2": "2,organ: humanoid cr9-14",
+    "item3": "5,organ: celestial cr9-14"
+  },
+  "docent": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "313,rare pole",
+    "focus": "141,cut jade",
+    "item1": "2,charcoal",
+    "item2": "2,mass: ooze cr9-14",
+    "item3": "7,blood: fey cr9-14"
+  },
+  "dodecahedron of doom": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "262,copper ingot",
+    "focus": "60,cut jade",
+    "item1": "1,slime: ooze cr9-14",
+    "item2": "9,horn: dragon cr9-14",
+    "item3": "2,core: elemental cr9-14"
+  },
+  "donjon's sundering sphere": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "101,copper ingot",
+    "focus": "661,cut sapphire",
+    "item1": "7,flesh: celestial cr9-14",
+    "item2": "5,meat: dragon cr9-14",
+    "item3": "8,organ: celestial cr9-14"
+  },
+  "doom bloom": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "144,rare block",
+    "focus": "265,cut moonstone",
+    "item1": "6,hide: aberration cr9-14",
+    "item2": "8,meat: dragon cr9-14",
+    "item3": "8,charcoal"
+  },
+  "dragon fang of yutro": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "46,rare plank",
+    "focus": "861,cut sapphire",
+    "item1": "4,copper ingot",
+    "item2": "6,scale: dragon cr9-14",
+    "item3": "3,core: elemental cr9-14"
+  },
+  "dragon frog transmutation": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "238,copper ingot",
+    "focus": "320,cut sapphire",
+    "item1": "9,blood: dragon cr9-14",
+    "item2": "5,bone: giant cr9-14",
+    "item3": "5,mithril ingot"
+  },
+  "dragon slayer": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "407,copper ingot",
+    "focus": "422,cut sapphire",
+    "item1": "5,core: elemental cr9-14",
+    "item2": "2,bone: fiend cr9-14",
+    "item3": "7,residue: elemental cr9-14"
+  },
+  "dragon wing bow": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "310,rare pole",
+    "focus": "627,cut sapphire",
+    "item1": "5,rare block",
+    "item2": "2,essence: elemental cr9-14",
+    "item3": "5,rare tile"
+  },
+  "dragonband": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "205,mithril ingot",
+    "focus": "430,cut amethyst",
+    "item1": "10,rare block",
+    "item2": "4,bone: fiend cr9-14",
+    "item3": "1,rare tile"
+  },
+  "dragonbreath ammunition": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "296,copper ingot",
+    "focus": "353,cut amethyst",
+    "item1": "2,flesh: fiend cr9-14",
+    "item2": "8,organ: fiend cr9-14",
+    "item3": "7,gland: dragon cr9-14"
+  },
+  "dragonguard": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "293,mithril ingot",
+    "focus": "42,cut jacinth",
+    "item1": "7,organ: fiend cr9-14",
+    "item2": "6,copper ingot",
+    "item3": "3,scale: dragon cr9-14"
+  },
+  "dragontooth dagger": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "97,copper ingot",
+    "focus": "229,cut amethyst",
+    "item1": "5,meat: dragon cr9-14",
+    "item2": "10,rare aggregate",
+    "item3": "10,gland: dragon cr9-14"
+  },
+  "draught of slime curse cure": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "153,rare block",
+    "focus": "635,cut moonstone",
+    "item1": "5,gear: construct cr9-14",
+    "item2": "5,essence: undead cr9-14",
+    "item3": "9,bone: giant cr9-14"
+  },
+  "dream saber": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "138,rare aggregate",
+    "focus": "218,cut amethyst",
+    "item1": "6,organ: humanoid cr9-14",
+    "item2": "5,blood: fey cr9-14",
+    "item3": "4,meat: fey cr9-14"
+  },
+  "dress of defense": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "159,rare pole",
+    "focus": "523,cut obsidian",
+    "item1": "7,gear: construct cr9-14",
+    "item2": "10,meat: giant cr9-14",
+    "item3": "4,blood: undead cr9-14"
+  },
+  "dune cowl": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "31,rare tile",
+    "focus": "926,cut amethyst",
+    "item1": "3,marrow: giant cr9-14",
+    "item2": "3,scale: dragon cr9-14",
+    "item3": "6,spores: plant cr9-14"
+  },
+  "duplicitous manuscript": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "134,rare plank",
+    "focus": "431,cut jade",
+    "item1": "1,flesh: undead cr9-14",
+    "item2": "7,sap: plant cr9-14",
+    "item3": "7,core: elemental cr9-14"
+  },
+  "dusk cleaver": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "912,rare pole",
+    "focus": "25,cut sapphire",
+    "item1": "6,blood: celestial cr9-14",
+    "item2": "5,meat: dragon cr9-14",
+    "item3": "8,uncommon poison ingredient"
+  },
+  "dusk dagger (rare)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "727,mithril ingot",
+    "focus": "213,cut amethyst",
+    "item1": "8,mass: plant cr9-14",
+    "item2": "9,essence: undead cr9-14",
+    "item3": "5,rare plank"
+  },
+  "dwarven boozehound's backpack": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "477,rare aggregate",
+    "focus": "206,cut obsidian",
+    "item1": "10,flesh: monstrosity cr9-14",
+    "item2": "5,meat: beast cr9-14",
+    "item3": "7,bone: beast cr9-14"
+  },
+  "eagle whistle": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "789,rare aggregate",
+    "focus": "170,cut agate",
+    "item1": "7,sap: plant cr9-14",
+    "item2": "1,flesh: celestial cr9-14",
+    "item3": "4,gear: construct cr9-14"
+  },
+  "earthboard": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "411,rare block",
+    "focus": "20,cut jacinth",
+    "item1": "6,mithril ingot",
+    "item2": "10,copper ingot",
+    "item3": "6,durable fiber"
+  },
+  "ebony beetle armor": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "366,copper ingot",
+    "focus": "301,cut jade",
+    "item1": "9,organ: monstrosity cr9-14",
+    "item2": "10,plate: monstrosity cr9-14",
+    "item3": "4,chitin: monstrosity cr9-14"
+  },
+  "elder sequoia scale mail": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "493,copper ingot",
+    "focus": "145,cut moonstone",
+    "item1": "7,gear: construct cr9-14",
+    "item2": "7,rare tile",
+    "item3": "3,plate: monstrosity cr9-14"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "spiritwalker breastplate": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "262,mithril ingot",
+    "focus": "22,cut amethyst",
+    "item1": "2,essence: undead cr9-14",
+    "item2": "5,flesh: humanoid cr9-14",
+    "item3": "8,uncommon poison ingredient"
+  },
+  "splinterguard": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "480,copper ingot",
+    "focus": "278,cut sapphire",
+    "item1": "9,rare plank",
+    "item2": "4,chitin: monstrosity cr9-14",
+    "item3": "6,uncommon potion ingredient"
+  },
+  "sream's stoppered oasis": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "24,cut obsidian",
+    "focus": "840,cut sapphire",
+    "item1": "8,organ: fiend cr9-14",
+    "item2": "10,meat: beast cr9-14",
+    "item3": "6,sap: plant cr9-14"
+  },
+  "staff of charming": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "489,rare pole",
+    "focus": "340,cut amethyst",
+    "item1": "9,blood: fey cr9-14",
+    "item2": "2,flesh: aberration cr9-14",
+    "item3": "2,bone: fiend cr9-14"
+  },
+  "staff of defense": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "355,rare plank",
+    "focus": "29,cut agate",
+    "item1": "10,bone: humanoid cr9-14",
+    "item2": "1,meat: beast cr9-14",
+    "item3": "10,meat: dragon cr9-14"
+  },
+  "staff of farryn of the greenwood (rare)": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "122,rare pole",
+    "focus": "250,cut moonstone",
+    "item1": "8,uncommon poison ingredient",
+    "item2": "6,meat: beast cr9-14",
+    "item3": "8,sap: plant cr9-14"
+  },
+  "staff of healing": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "121,mithril ingot",
+    "focus": "712,cut jade",
+    "item1": "1,spores: plant cr9-14",
+    "item2": "6,essence: elemental cr9-14",
+    "item3": "8,gland: dragon cr9-14"
+  },
+  "staff of ruling": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "285,rare pole",
+    "focus": "182,cut amethyst",
+    "item1": "10,mass: ooze cr9-14",
+    "item2": "6,core: elemental cr9-14",
+    "item3": "6,marrow: beast cr9-14"
+  },
+  "staff of swarming insects": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "70,rare plank",
+    "focus": "374,cut amethyst",
+    "item1": "2,copper ingot",
+    "item2": "3,durable cloth",
+    "item3": "6,rare block"
+  },
+  "staff of withering": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "227,copper ingot",
+    "focus": "216,cut obsidian",
+    "item1": "3,uncommon potion ingredient",
+    "item2": "6,rare tile",
+    "item3": "10,organ: humanoid cr9-14"
+  },
+  "staff of the ivory claw": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "185,rare plank",
+    "focus": "97,cut agate",
+    "item1": "2,bone: beast cr9-14",
+    "item2": "7,organ: celestial cr9-14",
+    "item3": "2,marrow: beast cr9-14"
+  },
+  "staff of the rooted hills": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "633,rare plank",
+    "focus": "290,cut agate",
+    "item1": "5,meat: fey cr9-14",
+    "item2": "8,hide: beast cr9-14",
+    "item3": "2,organ: humanoid cr9-14"
+  },
+  "staff of the woodlands": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "730,rare pole",
+    "focus": "156,cut moonstone",
+    "item1": "10,spores: plant cr9-14",
+    "item2": "1,durable fiber",
+    "item3": "3,durable cloth"
+  },
+  "stalagmight geode": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "103,rare aggregate",
+    "focus": "223,cut amethyst",
+    "item1": "9,essence: elemental cr9-14",
+    "item2": "2,plating: construct cr9-14",
+    "item3": "8,rare pole"
+  },
+  "starcrossed bow": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "238,rare plank",
+    "focus": "241,cut amethyst",
+    "item1": "4,rare tile",
+    "item2": "8,meat: giant cr9-14",
+    "item3": "6,durable cloth"
+  },
+  "starmetal shard spear": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "332,mithril ingot",
+    "focus": "262,cut sapphire",
+    "item1": "6,sap: plant cr9-14",
+    "item2": "9,core: ooze cr9-14",
+    "item3": "4,charcoal"
+  },
+  "starshot crossbow": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "11,copper ingot",
+    "focus": "574,cut jacinth",
+    "item1": "3,charcoal",
+    "item2": "5,bone: humanoid cr9-14",
+    "item3": "8,rare block"
+  },
+  "starstone": {
+    "rarity": "rare",
+    "tool": "mason's tools",
+    "base": "392,rare aggregate",
+    "focus": "78,cut amethyst",
+    "item1": "3,spores: plant cr9-14",
+    "item2": "2,flesh: humanoid cr9-14",
+    "item3": "9,residue: elemental cr9-14"
+  },
+  "steam harpoon": {
+    "rarity": "rare",
+    "tool": "brewer's supplies",
+    "base": "505,rare pole",
+    "focus": "94,cut amethyst",
+    "item1": "1,charcoal",
+    "item2": "3,organ: celestial cr9-14",
+    "item3": "2,bone: fey cr9-14"
+  },
+  "steward's seal": {
+    "rarity": "rare",
+    "tool": "cook's utensils",
+    "base": "263,rare tile",
+    "focus": "438,cut moonstone",
+    "item1": "7,slime: ooze cr9-14",
+    "item2": "5,essence: elemental cr9-14",
+    "item3": "3,core: ooze cr9-14"
+  },
+  "stirring dragon vessel": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "196,mithril ingot",
+    "focus": "662,cut sapphire",
+    "item1": "7,scale: dragon cr9-14",
+    "item2": "3,meat: dragon cr9-14",
+    "item3": "7,core: elemental cr9-14"
+  },
+  "stirring dragon's wrath weapon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "137,copper ingot",
+    "focus": "845,cut sapphire",
+    "item1": "1,residue: elemental cr9-14",
+    "item2": "2,flesh: fiend cr9-14",
+    "item3": "8,core: elemental cr9-14"
+  },
+  "stirring dragon-touched focus": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "298,mithril ingot",
+    "focus": "362,cut jacinth",
+    "item1": "9,rare tile",
+    "item2": "9,organ: fiend cr9-14",
+    "item3": "1,essence: elemental cr9-14"
+  },
+  "stirring scaled ornament": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "342,mithril ingot",
+    "focus": "593,cut amethyst",
+    "item1": "2,bone: humanoid cr9-14",
+    "item2": "10,flesh: humanoid cr9-14",
+    "item3": "8,flesh: monstrosity cr9-14"
+  },
+  "stone of controlling earth elementals": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "122,cut obsidian",
+    "focus": "812,cut jacinth",
+    "item1": "4,rare tile",
+    "item2": "7,brain: aberration cr9-14",
+    "item3": "8,bone: fey cr9-14"
+  },
+  "stonespeaker crystal": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "535,rare tile",
+    "focus": "240,cut jade",
+    "item1": "6,organ: celestial cr9-14",
+    "item2": "7,marrow: giant cr9-14",
+    "item3": "9,meat: giant cr9-14"
+  },
+  "storm's eye shield": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "326,copper ingot",
+    "focus": "154,cut sapphire",
+    "item1": "5,horn: dragon cr9-14",
+    "item2": "3,meat: dragon cr9-14",
+    "item3": "10,residue: elemental cr9-14"
+  },
+  "stormbrewer bracers": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "162,mithril ingot",
+    "focus": "748,cut jacinth",
+    "item1": "8,bone: giant cr9-14",
+    "item2": "3,meat: dragon cr9-14",
+    "item3": "2,horn: dragon cr9-14"
+  },
+  "stormrider boots": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "478,rare plank",
+    "focus": "273,cut jacinth",
+    "item1": "7,rare block",
+    "item2": "7,meat: dragon cr9-14",
+    "item3": "7,cut obsidian"
+  },
+  "styx boots": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "277,mithril ingot",
+    "focus": "322,cut moonstone",
+    "item1": "1,rare aggregate",
+    "item2": "5,hide: beast cr9-14",
+    "item3": "3,plating: construct cr9-14"
+  },
+  "summer's dance": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "696,rare tile",
+    "focus": "266,cut jade",
+    "item1": "7,hide: aberration cr9-14",
+    "item2": "1,horn: dragon cr9-14",
+    "item3": "2,chitin: monstrosity cr9-14"
+  },
+  "sun blade": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "166,mithril ingot",
+    "focus": "457,cut jacinth",
+    "item1": "1,residue: elemental cr9-14",
+    "item2": "7,copper ingot",
+    "item3": "4,rare block"
+  },
+  "sun eater staff": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "52,rare pole",
+    "focus": "582,cut sapphire",
+    "item1": "5,flesh: celestial cr9-14",
+    "item2": "2,horn: dragon cr9-14",
+    "item3": "9,copper ingot"
+  },
+  "sun staff": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "186,rare pole",
+    "focus": "342,cut jacinth",
+    "item1": "5,meat: dragon cr9-14",
+    "item2": "8,rare block",
+    "item3": "10,copper ingot"
+  }
+}

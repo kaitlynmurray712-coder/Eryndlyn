@@ -1,0 +1,300 @@
+{
+  "wakened scaled ornament": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "305,very rare aggregate",
+    "focus": "6618,cut opal",
+    "item1": "4,core: fey cr15-21",
+    "item2": "9,very rare pole",
+    "item3": "9,meat: giant cr15-21",
+    "item4": "2,very rare fish fillet"
+  },
+  "wand of merriment": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "4093,very rare plank",
+    "focus": "3520,cut diamond",
+    "item1": "9,organ: aberration cr15-21",
+    "item2": "7,core: fey cr15-21",
+    "item3": "6,mass: ooze cr15-21",
+    "item4": "4,meat: giant cr15-21"
+  },
+  "wand of necrosis": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "3326,very rare pole",
+    "focus": "3466,cut bloodstone",
+    "item1": "10,very rare tile",
+    "item2": "8,gear: construct cr15-21",
+    "item3": "5,core: celestial cr15-21",
+    "item4": "6,chitin: monstrosity cr15-21"
+  },
+  "wand of polymorph": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "81,very rare plank",
+    "focus": "3309,cut sunstone",
+    "item1": "7,bone: beast cr15-21",
+    "item2": "5,marrow: giant cr15-21",
+    "item3": "8,flesh: fiend cr15-21",
+    "item4": "6,essence: elemental cr15-21"
+  },
+  "wand of puppetry": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "881,very rare pole",
+    "focus": "2373,cut hearthstone",
+    "item1": "7,essence: elemental cr15-21",
+    "item2": "2,very rare tile",
+    "item3": "8,very rare fish fillet",
+    "item4": "3,essence: undead cr15-21"
+  },
+  "war's wager": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3700,very rare aggregate",
+    "focus": "5791,cut diamond",
+    "item1": "2,blood: undead cr15-21",
+    "item2": "1,very rare plank",
+    "item3": "9,gear: construct cr15-21",
+    "item4": "9,bone: undead cr15-21"
+  },
+  "warding staff": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "5260,very rare pole",
+    "focus": "3677,cut hearthstone",
+    "item1": "2,platinum ingot",
+    "item2": "8,core: ooze cr15-21",
+    "item3": "7,marrow: giant cr15-21",
+    "item4": "1,very rare poison ingredient"
+  },
+  "watchful helm": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2755,hizagkuur ingot",
+    "focus": "865,cut hearthstone",
+    "item1": "3,flesh: monstrosity cr15-21",
+    "item2": "1,hide: beast cr15-21",
+    "item3": "10,gear: construct cr15-21",
+    "item4": "5,meat: beast cr15-21"
+  },
+  "weapon of agonizing paralysis": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2349,mizzium ingot",
+    "focus": "149,cut bloodstone",
+    "item1": "4,rare poison ingredient",
+    "item2": "10,flesh: undead cr15-21",
+    "item3": "1,flesh: fiend cr15-21",
+    "item4": "1,essence: elemental cr15-21"
+  },
+  "weapon of throne's command": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "855,platinum ingot",
+    "focus": "3382,cut sunstone",
+    "item1": "6,components: construct cr15-21",
+    "item2": "7,chitin: monstrosity cr15-21",
+    "item3": "5,dreamlily",
+    "item4": "10,essence: undead cr15-21"
+  },
+  "wheel of stars": {
+    "rarity": "very rare",
+    "tool": "carpenter's tools",
+    "base": "4243,very rare plank",
+    "focus": "492,cut diamond",
+    "item1": "1,very rare poison ingredient",
+    "item2": "8,brain: aberration cr15-21",
+    "item3": "7,components: construct cr15-21",
+    "item4": "8,flesh: fiend cr15-21"
+  },
+  "whirling bonesaw": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4015,very rare pole",
+    "focus": "2986,cut opal",
+    "item1": "3,essence: undead cr15-21",
+    "item2": "2,core: undead cr15-21",
+    "item3": "8,core: fiend cr15-21",
+    "item4": "5,lodestone"
+  },
+  "whistle of the vagrant (very rare)": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "1162,gold ingot",
+    "focus": "1835,cut opal",
+    "item1": "6,very rare block",
+    "item2": "9,meat: beast cr15-21",
+    "item3": "4,bone: fey cr15-21",
+    "item4": "10,organ: aberration cr15-21"
+  },
+  "white dragon scale mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2253,mizzium ingot",
+    "focus": "2123,cut sunstone",
+    "item1": "2,heart: dragon cr15-21",
+    "item2": "7,flesh: fiend cr15-21",
+    "item3": "5,gland: dragon cr15-21",
+    "item4": "5,hizagkuur ingot"
+  },
+  "wind and whirl": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4667,very rare aggregate",
+    "focus": "4079,cut diamond",
+    "item1": "8,essence: elemental cr15-21",
+    "item2": "3,meat: dragon cr15-21",
+    "item3": "10,bone: giant cr15-21",
+    "item4": "4,marrow: giant cr15-21"
+  },
+  "wraps of the restless": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "363,gold ingot",
+    "focus": "5035,cut opal",
+    "item1": "6,lodestone",
+    "item2": "1,core: celestial cr15-21",
+    "item3": "5,plate: monstrosity cr15-21",
+    "item4": "8,essence: fey cr15-21"
+  },
+  "wyrmreaver gauntlets": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3535,hizagkuur ingot",
+    "focus": "274,cut sunstone",
+    "item1": "10,core: undead cr15-21",
+    "item2": "2,mass: ooze cr15-21",
+    "item3": "6,adamantine ingot",
+    "item4": "5,core: elemental cr15-21"
+  },
+  "xaantikorijek's looking glass": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "4404,very rare tile",
+    "focus": "5204,cut diamond",
+    "item1": "9,core: undead cr15-21",
+    "item2": "6,hizagkuur ingot",
+    "item3": "7,dreamlily",
+    "item4": "7,very rare aggregate"
+  },
+  "xibalban blade": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2389,adamantine ingot",
+    "focus": "3001,cut ruby",
+    "item1": "7,rare potion ingredient",
+    "item2": "8,flesh: celestial cr15-21",
+    "item3": "4,quicksilver",
+    "item4": "8,core: construct cr15-21"
+  },
+  "yellow harbinger's path": {
+    "rarity": "very rare",
+    "tool": "cartographer's tools",
+    "base": "4152,adamantine ingot",
+    "focus": "5245,cut diamond",
+    "item1": "7,core: celestial cr15-21",
+    "item2": "9,gold ingot",
+    "item3": "5,organ: celestial cr15-21",
+    "item4": "7,mizzium ingot"
+  },
+  "adventurer's ring": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "6,lead ingot",
+    "focus": "12,cut onyx",
+    "item1": "7,bone: humanoid cr0-4"
+  },
+  "ale seed": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "10,uncommon tile",
+    "focus": "11,cut emerald",
+    "item1": "4,uncommon pole"
+  },
+  "alluring dye": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "10,silver ingot",
+    "focus": "11,cut amber",
+    "item1": "2,meat: beast cr0-4"
+  },
+  "amber": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "3,silver ingot",
+    "focus": "18,cut topaz",
+    "item1": "4,sap: plant cr0-4"
+  },
+  "animal affinity": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,uncommon block",
+    "focus": "9,cut amber",
+    "item1": "5,essence: fey cr0-4"
+  },
+  "apper carrot": {
+    "rarity": "common",
+    "tool": "cook's utensils",
+    "base": "1,silver ingot",
+    "focus": "17,cut quartz",
+    "item1": "7,flour"
+  },
+  "armblade": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "7,silver ingot",
+    "focus": "10,cut onyx",
+    "item1": "8,flesh: celestial cr0-4"
+  },
+  "armor of gleaming": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "9,uncommon tile",
+    "focus": "8,cut emerald",
+    "item1": "8,plating: construct cr0-4"
+  },
+  "audio oddity": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "16,uncommon block",
+    "focus": "8,cut quartz",
+    "item1": "1,flesh: undead cr0-4"
+  },
+  "aurora dust": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "10,uncommon aggregate",
+    "focus": "5,cut onyx",
+    "item1": "10,meat: beast cr0-4"
+  },
+  "bag of bellstones": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "18,iron ingot",
+    "focus": "2,cut quartz",
+    "item1": "5,cloth"
+  },
+  "ball of wild earth": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "5,common aggregate",
+    "focus": "11,cut emerald",
+    "item1": "6,essense: elemental cr0-4"
+  },
+  "bamboo": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "7,uncommon block",
+    "focus": "12,cut amber",
+    "item1": "6,bone: giant cr0-4"
+  },
+  "bashu powder": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "7,lead ingot",
+    "focus": "15,cut amber",
+    "item1": "3,blood: dragon cr0-4"
+  }
+}

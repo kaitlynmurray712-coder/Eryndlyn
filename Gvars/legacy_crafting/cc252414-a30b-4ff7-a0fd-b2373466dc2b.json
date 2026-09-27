@@ -1,0 +1,299 @@
+{
+  "armor of vulnerability (piercing)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "279,rare tile",
+    "focus": "288,cut moonstone",
+    "item1": "2,plate: monstrosity cr9-14",
+    "item2": "6,plating: construct cr9-14",
+    "item3": "9,components: construct cr9-14"
+  },
+  "armor of vulnerability (slashing)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "312,mithril ingot",
+    "focus": "223,cut sapphire",
+    "item1": "9,organ: fiend cr9-14",
+    "item2": "8,rare tile",
+    "item3": "1,flesh: fiend cr9-14"
+  },
+  "armor of the black river": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "61,mithril ingot",
+    "focus": "673,cut obsidian",
+    "item1": "6,uncommon potion ingredient",
+    "item2": "7,flesh: aberration cr9-14",
+    "item3": "7,flesh: fiend cr9-14"
+  },
+  "arrow-catching shield": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "172,mithril ingot",
+    "focus": "100,cut moonstone",
+    "item1": "7,chitin: monstrosity cr9-14",
+    "item2": "3,copper ingot",
+    "item3": "4,components: construct cr9-14"
+  },
+  "astounding vigor": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "884,cut obsidian",
+    "focus": "68,cut jade",
+    "item1": "9,uncommon potion ingredient",
+    "item2": "7,scale: dragon cr9-14",
+    "item3": "5,organ: fiend cr9-14"
+  },
+  "astral caltrops": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "286,mithril ingot",
+    "focus": "432,cut moonstone",
+    "item1": "10,plating: construct cr9-14",
+    "item2": "1,marrow: beast cr9-14",
+    "item3": "7,residue: elemental cr9-14"
+  },
+  "astral shard": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "601,mithril ingot",
+    "focus": "18,cut sapphire",
+    "item1": "7,residue: elemental cr9-14",
+    "item2": "1,fine fiber",
+    "item3": "10,organ: celestial cr9-14"
+  },
+  "astromancy archive": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "113,rare pole",
+    "focus": "517,cut agate",
+    "item1": "1,flesh: undead cr9-14",
+    "item2": "2,uncommon poison ingredient",
+    "item3": "9,brain: aberration cr9-14"
+  },
+  "atlas of endless horizons": {
+    "rarity": "rare",
+    "tool": "cartographer's tools",
+    "base": "539,rare tile",
+    "focus": "407,cut obsidian",
+    "item1": "3,gland: dragon cr9-14",
+    "item2": "2,essence: elemental cr9-14",
+    "item3": "8,bone: giant cr9-14"
+  },
+  "axe of the galloping headsman (rare)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "379,cut obsidian",
+    "focus": "391,cut amethyst",
+    "item1": "2,blood: fiend cr9-14",
+    "item2": "6,flesh: celestial cr9-14",
+    "item3": "5,organ: humanoid cr9-14"
+  },
+  "azorius keyrune": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "18,rare aggregate",
+    "focus": "521,cut amethyst",
+    "item1": "3,plating: construct cr9-14",
+    "item2": "8,uncommon poison ingredient",
+    "item3": "5,horn: dragon cr9-14"
+  },
+  "badge of the watch": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "149,cut obsidian",
+    "focus": "594,cut obsidian",
+    "item1": "10,rare pole",
+    "item2": "4,gland: dragon cr9-14",
+    "item3": "3,rare fish fillet"
+  },
+  "badge of the wayfarer": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "163,rare aggregate",
+    "focus": "185,cut moonstone",
+    "item1": "2,bone: giant cr9-14",
+    "item2": "1,plating: construct cr9-14",
+    "item3": "4,plate: monstrosity cr9-14"
+  },
+  "bag of beans": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "508,rare pole",
+    "focus": "257,cut amethyst",
+    "item1": "2,cut obsidian",
+    "item2": "9,rare tile",
+    "item3": "1,uncommon poison ingredient"
+  },
+  "band of fruitfulness": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "362,rare block",
+    "focus": "500,cut moonstone",
+    "item1": "1,rare pole",
+    "item2": "8,charcoal",
+    "item3": "6,sap: plant cr9-14"
+  },
+  "bandolier of the elements": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "393,cut obsidian",
+    "focus": "64,cut amethyst",
+    "item1": "8,organ: celestial cr9-14",
+    "item2": "7,durable fiber",
+    "item3": "10,meat: beast cr9-14"
+  },
+  "banjo of ol' jericho sticks (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "247,rare tile",
+    "focus": "60,cut jade",
+    "item1": "7,hide: aberration cr9-14",
+    "item2": "7,copper ingot",
+    "item3": "9,mithril ingot"
+  },
+  "banner of the krig rune": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "109,mithril ingot",
+    "focus": "489,cut amethyst",
+    "item1": "8,hide: beast cr9-14",
+    "item2": "5,mass: plant cr9-14",
+    "item3": "3,charcoal"
+  },
+  "barrier tattoo (medium)": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "273,rare aggregate",
+    "focus": "376,cut moonstone",
+    "item1": "1,charcoal",
+    "item2": "7,mass: plant cr9-14",
+    "item3": "8,fine fiber"
+  },
+  "bartender's armistice": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "389,mithril ingot",
+    "focus": "354,cut moonstone",
+    "item1": "5,mass: ooze cr9-14",
+    "item2": "10,bone: beast cr9-14",
+    "item3": "6,marrow: beast cr9-14"
+  },
+  "battering shield": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "89,copper ingot",
+    "focus": "298,cut moonstone",
+    "item1": "2,plating: construct cr9-14",
+    "item2": "4,hide: beast cr9-14",
+    "item3": "7,organ: monstrosity cr9-14"
+  },
+  "bead of force": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "429,rare tile",
+    "focus": "5,cut jade",
+    "item1": "5,rare pole",
+    "item2": "7,hide: aberration cr9-14",
+    "item3": "7,essence: undead cr9-14"
+  },
+  "beads of meditation": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "658,mithril ingot",
+    "focus": "283,cut jade",
+    "item1": "7,copper ingot",
+    "item2": "4,organ: aberration cr9-14",
+    "item3": "4,blood: celestial cr9-14"
+  },
+  "bearskin cloak": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "86,copper ingot",
+    "focus": "836,cut sapphire",
+    "item1": "5,plating: construct cr9-14",
+    "item2": "4,bone: beast cr9-14",
+    "item3": "10,marrow: beast cr9-14"
+  },
+  "bell branch": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "566,cut obsidian",
+    "focus": "3,cut amethyst",
+    "item1": "3,scale: dragon cr9-14",
+    "item2": "3,slime: ooze cr9-14",
+    "item3": "1,organ: fiend cr9-14"
+  },
+  "bell of the dusk mother (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "399,mithril ingot",
+    "focus": "57,cut moonstone",
+    "item1": "5,sap: plant cr9-14",
+    "item2": "4,hide: aberration cr9-14",
+    "item3": "1,blood: celestial cr9-14"
+  },
+  "belt of dwarvenkind": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "239,rare pole",
+    "focus": "531,cut jade",
+    "item1": "9,rare plank",
+    "item2": "9,essence: elemental cr9-14",
+    "item3": "9,residue: elemental cr9-14"
+  },
+  "belt of hill giant strength": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "434,rare pole",
+    "focus": "520,cut amethyst",
+    "item1": "7,rare plank",
+    "item2": "6,sap: plant cr9-14",
+    "item3": "4,mass: ooze cr9-14"
+  },
+  "belt of the hell hound": {
+    "rarity": "rare",
+    "tool": "leatherworker's tools",
+    "base": "152,rare pole",
+    "focus": "565,cut sapphire",
+    "item1": "9,mithril ingot",
+    "item2": "5,meat: dragon cr9-14",
+    "item3": "8,hide: beast cr9-14"
+  },
+  "berserker axe": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "181,copper ingot",
+    "focus": "190,cut agate",
+    "item1": "3,rare block",
+    "item2": "3,charcoal",
+    "item3": "8,uncommon potion ingredient"
+  },
+  "black chromatic rose": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "224,rare aggregate",
+    "focus": "35,cut amethyst",
+    "item1": "10,blood: fiend cr9-14",
+    "item2": "6,organ: aberration cr9-14",
+    "item3": "10,blood: undead cr9-14"
+  },
+  "blackthorn spear of the moonless hunter": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "445,rare plank",
+    "focus": "93,cut obsidian",
+    "item1": "4,rare block",
+    "item2": "5,organ: aberration cr9-14",
+    "item3": "3,blood: fiend cr9-14"
+  },
+  "blade of retribution": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "483,mithril ingot",
+    "focus": "157,cut moonstone",
+    "item1": "9,fine fiber",
+    "item2": "3,rare block",
+    "item3": "8,core: ooze cr9-14"
+  }
+}

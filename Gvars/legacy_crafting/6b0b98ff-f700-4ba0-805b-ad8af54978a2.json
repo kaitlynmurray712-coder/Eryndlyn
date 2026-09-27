@@ -1,0 +1,282 @@
+{
+  "blue dragon scale mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1895,adamantine ingot",
+    "focus": "1915,cut sunstone",
+    "item1": "8,heart: dragon cr15-21",
+    "item2": "9,very rare aggregate",
+    "item3": "1,meat: dragon cr15-21",
+    "item4": "3,organ: fiend cr15-21"
+  },
+  "blunderbuss of the grinning sinner (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4291,lodestone",
+    "focus": "2329,cut opal",
+    "item1": "4,bone: humanoid cr15-21",
+    "item2": "4,hide: beast cr15-21",
+    "item3": "10,bark: plant cr15-21",
+    "item4": "2,very rare poison ingredient"
+  },
+  "bobbing lily pad": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1083,very rare tile",
+    "focus": "6830,cut opal",
+    "item1": "7,bark: plant cr15-21",
+    "item2": "5,mizzium ingot",
+    "item3": "3,hizagkuur ingot",
+    "item4": "2,rare poison ingredient"
+  },
+  "book of ebon tides": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "1800,very rare pole",
+    "focus": "7256,cut diamond",
+    "item1": "9,residue: elemental cr15-21",
+    "item2": "7,marrow: beast cr15-21",
+    "item3": "9,mass: ooze cr15-21",
+    "item4": "8,essence: elemental cr15-21"
+  },
+  "boots of haste": {
+    "rarity": "very rare",
+    "tool": "leatherworker's tools",
+    "base": "3477,mizzium ingot",
+    "focus": "333,cut hearthstone",
+    "item1": "4,gold ingot",
+    "item2": "5,components: construct cr15-21",
+    "item3": "7,chitin: monstrosity cr15-21",
+    "item4": "4,flesh: monstrosity cr15-21"
+  },
+  "bow of four": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1671,very rare plank",
+    "focus": "3266,cut sunstone",
+    "item1": "4,core: celestial cr15-21",
+    "item2": "6,marrow: beast cr15-21",
+    "item3": "4,adamantine ingot",
+    "item4": "8,bone: fiend cr15-21"
+  },
+  "bow of melodies": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1630,very rare plank",
+    "focus": "3592,cut sunstone",
+    "item1": "8,plating: construct cr15-21",
+    "item2": "5,mizzium ingot",
+    "item3": "10,bone: giant cr15-21",
+    "item4": "6,brain: aberration cr15-21"
+  },
+  "bow of the spelldrinker": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "5783,very rare pole",
+    "focus": "590,cut sunstone",
+    "item1": "3,platinum ingot",
+    "item2": "2,core: ooze cr15-21",
+    "item3": "3,quicksilver",
+    "item4": "3,bone: humanoid cr15-21"
+  },
+  "bracelet of rock magic": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "2184,mizzium ingot",
+    "focus": "414,cut diamond",
+    "item1": "1,marrow: giant cr15-21",
+    "item2": "9,scale: dragon cr15-21",
+    "item3": "10,plate: monstrosity cr15-21",
+    "item4": "4,lodestone"
+  },
+  "bracers of the spellbreaker": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "130,gold ingot",
+    "focus": "3446,cut hearthstone",
+    "item1": "8,very rare aggregate",
+    "item2": "8,organ: monstrosity cr15-21",
+    "item3": "9,meat: beast cr15-21",
+    "item4": "2,gear: construct cr15-21"
+  },
+  "brass dragon scale mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "723,gold ingot",
+    "focus": "3648,cut ruby",
+    "item1": "5,adamantine ingot",
+    "item2": "4,essence: elemental cr15-21",
+    "item3": "3,horn: dragon cr15-21",
+    "item4": "10,meat: dragon cr15-21"
+  },
+  "brazen armor": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1343,quicksilver",
+    "focus": "1207,cut hearthstone",
+    "item1": "3,plating: construct cr15-21",
+    "item2": "6,plate: monstrosity cr15-21",
+    "item3": "5,flesh: monstrosity cr15-21",
+    "item4": "3,organ: monstrosity cr15-21"
+  },
+  "bronze dragon scale mail": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2701,adamantine ingot",
+    "focus": "2654,cut sunstone",
+    "item1": "1,residue: elemental cr15-21",
+    "item2": "10,very rare block",
+    "item3": "1,very rare aggregate",
+    "item4": "2,essence: elemental cr15-21"
+  },
+  "bulette torpedo": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "3143,very rare aggregate",
+    "focus": "3587,cut sunstone",
+    "item1": "4,flesh: celestial cr15-21",
+    "item2": "1,bone: undead cr15-21",
+    "item3": "7,plating: construct cr15-21",
+    "item4": "6,very rare potion ingredient"
+  },
+  "camilla's quicksilver mirror": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "4722,very rare tile",
+    "focus": "1104,cut bloodstone",
+    "item1": "2,meat: fey cr15-21",
+    "item2": "1,very rare fish fillet",
+    "item3": "10,core: fey cr15-21",
+    "item4": "6,very rare plank"
+  },
+  "candle of invocation": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "5996,platinum ingot",
+    "focus": "2290,cut ruby",
+    "item1": "9,flesh: fiend cr15-21",
+    "item2": "8,hide: beast cr15-21",
+    "item3": "3,spores: plant cr15-21",
+    "item4": "9,organ: celestial cr15-21"
+  },
+  "cane of phillip druskenvald (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "487,gold ingot",
+    "focus": "3683,cut opal",
+    "item1": "6,flesh: celestial cr15-21",
+    "item2": "7,organ: humanoid cr15-21",
+    "item3": "7,adamantine ingot",
+    "item4": "5,very rare fish fillet"
+  },
+  "cape of enlargement": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "3828,very rare aggregate",
+    "focus": "3723,cut ruby",
+    "item1": "3,plating: construct cr15-21",
+    "item2": "1,marrow: beast cr15-21",
+    "item3": "8,spores: plant cr15-21",
+    "item4": "2,slime: ooze cr15-21"
+  },
+  "carpet of flying": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "4754,very rare plank",
+    "focus": "3772,cut diamond",
+    "item1": "7,meat: giant cr15-21",
+    "item2": "5,heart: dragon cr15-21",
+    "item3": "6,residue: elemental cr15-21",
+    "item4": "3,very rare tile"
+  },
+  "carpet of flying, 3 ft. \\u00d7 5 ft.": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "1919,very rare pole",
+    "focus": "2585,cut sunstone",
+    "item1": "8,residue: elemental cr15-21",
+    "item2": "10,hizagkuur ingot",
+    "item3": "2,marrow: giant cr15-21",
+    "item4": "9,dreamlily"
+  },
+  "carpet of flying, 4 ft. \\u00d7 6 ft.": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "7247,very rare plank",
+    "focus": "1158,cut sunstone",
+    "item1": "3,core: elemental cr15-21",
+    "item2": "5,essence: elemental cr15-21",
+    "item3": "3,marrow: giant cr15-21",
+    "item4": "2,very rare tile"
+  },
+  "carpet of flying, 5 ft. \\u00d7 7 ft.": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "6052,very rare plank",
+    "focus": "890,cut sunstone",
+    "item1": "1,dreamlily",
+    "item2": "7,platinum ingot",
+    "item3": "9,bone: giant cr15-21",
+    "item4": "10,gland: dragon cr15-21"
+  },
+  "carpet of flying, 6 ft. \\u00d7 9 ft.": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "4895,very rare plank",
+    "focus": "2701,cut diamond",
+    "item1": "9,residue: elemental cr15-21",
+    "item2": "10,bone: giant cr15-21",
+    "item3": "7,meat: giant cr15-21",
+    "item4": "6,gland: dragon cr15-21"
+  },
+  "carrion shroud": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2023,lodestone",
+    "focus": "4735,cut sunstone",
+    "item1": "9,meat: giant cr15-21",
+    "item2": "4,dreamlily",
+    "item3": "5,very rare plank",
+    "item4": "1,bone: humanoid cr15-21"
+  },
+  "cataclysm bolts": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "6144,very rare tile",
+    "focus": "800,cut bloodstone",
+    "item1": "2,very rare fish fillet",
+    "item2": "4,bone: fiend cr15-21",
+    "item3": "8,bark: plant cr15-21",
+    "item4": "3,bone: beast cr15-21"
+  },
+  "cauldron of rebirth": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2879,very rare pole",
+    "focus": "4792,cut ruby",
+    "item1": "9,gold ingot",
+    "item2": "8,essence: elemental cr15-21",
+    "item3": "2,adamantine ingot",
+    "item4": "9,rare potion ingredient"
+  },
+  "cauldron of the vermintoll coven (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "5565,platinum ingot",
+    "focus": "1377,cut ruby",
+    "item1": "1,blood: undead cr15-21",
+    "item2": "7,very rare block",
+    "item3": "4,dreamlily",
+    "item4": "7,very rare plank"
+  },
+  "charged gauntlets": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2793,lodestone",
+    "focus": "5312,cut bloodstone",
+    "item1": "6,core: celestial cr15-21",
+    "item2": "6,brain: aberration cr15-21",
+    "item3": "5,marrow: giant cr15-21",
+    "item4": "7,plate: monstrosity cr15-21"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "adventurer's overcoat": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "727,rare plank",
+    "focus": "18,cut jacinth",
+    "item1": "4,bone: giant cr9-14",
+    "item2": "3,durable fiber",
+    "item3": "4,uncommon potion ingredient"
+  },
+  "aged goodberry wine": {
+    "rarity": "rare",
+    "tool": "brewer's supplies",
+    "base": "158,rare plank",
+    "focus": "147,cut amethyst",
+    "item1": "3,mass: plant cr9-14",
+    "item2": "2,flesh: monstrosity cr9-14",
+    "item3": "1,sap: plant cr9-14"
+  },
+  "air render": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "394,rare aggregate",
+    "focus": "139,cut moonstone",
+    "item1": "5,rare pole",
+    "item2": "9,gear: construct cr9-14",
+    "item3": "3,rare block"
+  },
+  "alchemical compendium": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "564,rare pole",
+    "focus": "52,cut jacinth",
+    "item1": "6,flesh: celestial cr9-14",
+    "item2": "3,flesh: fiend cr9-14",
+    "item3": "10,flesh: humanoid cr9-14"
+  },
+  "amethyst die": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "421,rare aggregate",
+    "focus": "58,cut agate",
+    "item1": "7,meat: fey cr9-14",
+    "item2": "3,core: ooze cr9-14",
+    "item3": "5,rare tile"
+  },
+  "amulet of appearance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "33,mithril ingot",
+    "focus": "582,cut sapphire",
+    "item1": "2,rare aggregate",
+    "item2": "6,plating: construct cr9-14",
+    "item3": "9,chitin: monstrosity cr9-14"
+  },
+  "amulet of health": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "212,copper ingot",
+    "focus": "19,cut sapphire",
+    "item1": "8,mithril ingot",
+    "item2": "9,marrow: beast cr9-14",
+    "item3": "5,plating: construct cr9-14"
+  },
+  "amulet of immutability": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "375,copper ingot",
+    "focus": "171,cut jade",
+    "item1": "4,meat: beast cr9-14",
+    "item2": "2,rare tile",
+    "item3": "8,organ: monstrosity cr9-14"
+  },
+  "amulet of incineration": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "40,rare aggregate",
+    "focus": "449,cut jacinth",
+    "item1": "7,copper ingot",
+    "item2": "1,mithril ingot",
+    "item3": "6,horn: dragon cr9-14"
+  },
+  "amulet of primal wisdom": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "748,mithril ingot",
+    "focus": "169,cut moonstone",
+    "item1": "3,gear: construct cr9-14",
+    "item2": "10,organ: monstrosity cr9-14",
+    "item3": "8,copper ingot"
+  },
+  "amulet of protection from turning": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "403,mithril ingot",
+    "focus": "219,cut moonstone",
+    "item1": "3,plate: monstrosity cr9-14",
+    "item2": "7,chitin: monstrosity cr9-14",
+    "item3": "1,organ: monstrosity cr9-14"
+  },
+  "amulet of the lycanthrope": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "410,mithril ingot",
+    "focus": "122,cut jade",
+    "item1": "7,hide: beast cr9-14",
+    "item2": "3,organ: monstrosity cr9-14",
+    "item3": "6,flesh: monstrosity cr9-14"
+  },
+  "amulet of the sentinel": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "131,mithril ingot",
+    "focus": "215,cut jade",
+    "item1": "8,rare aggregate",
+    "item2": "3,rare tile",
+    "item3": "9,marrow: beast cr9-14"
+  },
+  "appraiser's eye": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "742,rare pole",
+    "focus": "187,cut sapphire",
+    "item1": "8,flesh: humanoid cr9-14",
+    "item2": "5,flesh: fiend cr9-14",
+    "item3": "8,meat: beast cr9-14"
+  },
+  "aqua delerium": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "43,copper ingot",
+    "focus": "218,cut moonstone",
+    "item1": "8,meat: beast cr9-14",
+    "item2": "2,horn: dragon cr9-14",
+    "item3": "6,scale: dragon cr9-14"
+  },
+  "aqua expurgo": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "336,mithril ingot",
+    "focus": "28,cut jade",
+    "item1": "6,components: construct cr9-14",
+    "item2": "1,flesh: aberration cr9-14",
+    "item3": "6,flesh: monstrosity cr9-14"
+  },
+  "arcane oil": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "117,rare tile",
+    "focus": "634,cut obsidian",
+    "item1": "9,residue: elemental cr9-14",
+    "item2": "7,organ: monstrosity cr9-14",
+    "item3": "6,bone: fiend cr9-14"
+  },
+  "arcanist gauntlets": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "341,rare tile",
+    "focus": "149,cut moonstone",
+    "item1": "9,blood: fey cr9-14",
+    "item2": "1,bone: giant cr9-14",
+    "item3": "9,flesh: celestial cr9-14"
+  },
+  "arcanist's scribing wand": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "85,rare pole",
+    "focus": "216,cut jade",
+    "item1": "4,uncommon poison ingredient",
+    "item2": "7,copper ingot",
+    "item3": "3,meat: fey cr9-14"
+  },
+  "armor of acid resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "524,rare tile",
+    "focus": "306,cut moonstone",
+    "item1": "9,mithril ingot",
+    "item2": "4,marrow: beast cr9-14",
+    "item3": "3,chitin: monstrosity cr9-14"
+  },
+  "armor of cold resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "70,copper ingot",
+    "focus": "468,cut moonstone",
+    "item1": "1,rare fish fillet",
+    "item2": "9,marrow: beast cr9-14",
+    "item3": "3,slime: ooze cr9-14"
+  },
+  "armor of fire resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "130,copper ingot",
+    "focus": "105,cut amethyst",
+    "item1": "7,essence: elemental cr9-14",
+    "item2": "1,organ: fiend cr9-14",
+    "item3": "7,rare block"
+  },
+  "armor of force resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "291,rare plank",
+    "focus": "29,cut jade",
+    "item1": "10,copper ingot",
+    "item2": "10,meat: beast cr9-14",
+    "item3": "6,bone: beast cr9-14"
+  },
+  "armor of icarus": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "461,copper ingot",
+    "focus": "493,cut jade",
+    "item1": "8,gear: construct cr9-14",
+    "item2": "7,organ: monstrosity cr9-14",
+    "item3": "8,mithril ingot"
+  },
+  "armor of lightning resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "101,copper ingot",
+    "focus": "196,cut sapphire",
+    "item1": "5,blood: celestial cr9-14",
+    "item2": "7,scale: dragon cr9-14",
+    "item3": "6,mithril ingot"
+  },
+  "armor of necrotic resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "228,copper ingot",
+    "focus": "325,cut jade",
+    "item1": "10,rare tile",
+    "item2": "5,marrow: beast cr9-14",
+    "item3": "1,flesh: monstrosity cr9-14"
+  },
+  "armor of poison resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "461,copper ingot",
+    "focus": "100,cut moonstone",
+    "item1": "6,marrow: beast cr9-14",
+    "item2": "3,mithril ingot",
+    "item3": "10,gear: construct cr9-14"
+  },
+  "armor of psychic resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "230,mithril ingot",
+    "focus": "6,cut sapphire",
+    "item1": "4,rare block",
+    "item2": "7,blood: fey cr9-14",
+    "item3": "8,flesh: aberration cr9-14"
+  },
+  "armor of radiant resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "454,mithril ingot",
+    "focus": "343,cut jacinth",
+    "item1": "3,organ: celestial cr9-14",
+    "item2": "9,residue: elemental cr9-14",
+    "item3": "6,rare aggregate"
+  },
+  "armor of resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "132,copper ingot",
+    "focus": "233,cut jade",
+    "item1": "3,organ: monstrosity cr9-14",
+    "item2": "1,rare aggregate",
+    "item3": "5,chitin: monstrosity cr9-14"
+  },
+  "armor of thunder resistance": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "158,mithril ingot",
+    "focus": "402,cut jacinth",
+    "item1": "2,rare aggregate",
+    "item2": "4,fine fiber",
+    "item3": "2,meat: dragon cr9-14"
+  },
+  "armor of vulnerability": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "334,copper ingot",
+    "focus": "156,cut sapphire",
+    "item1": "2,organ: monstrosity cr9-14",
+    "item2": "8,marrow: beast cr9-14",
+    "item3": "4,bone: beast cr9-14"
+  },
+  "armor of vulnerability (bludgeoning)": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "264,rare plank",
+    "focus": "1,cut moonstone",
+    "item1": "9,gear: construct cr9-14",
+    "item2": "3,flesh: monstrosity cr9-14",
+    "item3": "4,components: construct cr9-14"
+  }
+}

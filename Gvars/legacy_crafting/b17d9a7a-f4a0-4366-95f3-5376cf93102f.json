@@ -1,0 +1,282 @@
+{
+  "spell gem (topaz)": {
+    "rarity": "very rare",
+    "tool": "jeweler's tools",
+    "base": "722,lodestone",
+    "focus": "2470,cut bloodstone",
+    "item1": "5,essence: elemental cr15-21",
+    "item2": "3,mass: plant cr15-21",
+    "item3": "2,core: ooze cr15-21",
+    "item4": "5,very rare plank"
+  },
+  "spell scroll (level 6)": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "1973,very rare plank",
+    "focus": "1144,cut bloodstone",
+    "item1": "2,rare poison ingredient",
+    "item2": "5,mass: plant cr15-21",
+    "item3": "4,core: ooze cr15-21",
+    "item4": "9,scale: dragon cr15-21"
+  },
+  "spell scroll (level 7)": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "2048,very rare plank",
+    "focus": "638,cut sunstone",
+    "item1": "4,core: celestial cr15-21",
+    "item2": "8,core: fey cr15-21",
+    "item3": "10,core: construct cr15-21",
+    "item4": "2,core: elemental cr15-21"
+  },
+  "spell scroll (level 8)": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "9455,very rare aggregate",
+    "focus": "137,cut hearthstone",
+    "item1": "3,brain: aberration cr15-21",
+    "item2": "7,bone: giant cr15-21",
+    "item3": "1,flesh: celestial cr15-21",
+    "item4": "6,rare potion ingredient"
+  },
+  "spellguard shield": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "811,quicksilver",
+    "focus": "6524,cut hearthstone",
+    "item1": "7,marrow: beast cr15-21",
+    "item2": "2,plating: construct cr15-21",
+    "item3": "1,components: construct cr15-21",
+    "item4": "2,meat: beast cr15-21"
+  },
+  "spirit board": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "324,very rare tile",
+    "focus": "5070,lodestone",
+    "item1": "8,rare poison ingredient",
+    "item2": "5,flesh: humanoid cr15-21",
+    "item3": "6,organ: fiend cr15-21",
+    "item4": "1,flesh: fiend cr15-21"
+  },
+  "staff of dunamancy": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "4166,lodestone",
+    "focus": "2519,cut sunstone",
+    "item1": "5,sap: plant cr15-21",
+    "item2": "4,mass: plant cr15-21",
+    "item3": "2,very rare potion ingredient",
+    "item4": "8,core: undead cr15-21"
+  },
+  "staff of farryn of the greenwood (very rare)": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "5597,very rare pole",
+    "focus": "3884,cut opal",
+    "item1": "7,very rare potion ingredient",
+    "item2": "3,rare potion ingredient",
+    "item3": "3,mass: plant cr15-21",
+    "item4": "10,spores: plant cr15-21"
+  },
+  "staff of fate": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "5064,very rare pole",
+    "focus": "1017,cut hearthstone",
+    "item1": "4,very rare tile",
+    "item2": "10,flesh: aberration cr15-21",
+    "item3": "10,very rare aggregate",
+    "item4": "2,lodestone"
+  },
+  "staff of fire": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "2073,very rare plank",
+    "focus": "5344,cut ruby",
+    "item1": "8,very rare aggregate",
+    "item2": "1,very rare block",
+    "item3": "2,mizzium ingot",
+    "item4": "8,horn: dragon cr15-21"
+  },
+  "staff of frost": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "5642,very rare pole",
+    "focus": "3214,cut diamond",
+    "item1": "10,rare potion ingredient",
+    "item2": "8,mass: ooze cr15-21",
+    "item3": "10,core: ooze cr15-21",
+    "item4": "1,very rare potion ingredient"
+  },
+  "staff of power": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "631,very rare plank",
+    "focus": "7001,cut bloodstone",
+    "item1": "5,core: elemental cr15-21",
+    "item2": "1,marrow: giant cr15-21",
+    "item3": "1,organ: humanoid cr15-21",
+    "item4": "5,core: fiend cr15-21"
+  },
+  "staff of radiance": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "6767,hizagkuur ingot",
+    "focus": "2291,cut diamond",
+    "item1": "4,very rare plank",
+    "item2": "4,slime: ooze cr15-21",
+    "item3": "4,core: fey cr15-21",
+    "item4": "2,very rare potion ingredient"
+  },
+  "staff of striking": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "4779,mizzium ingot",
+    "focus": "140,cut sunstone",
+    "item1": "2,brain: aberration cr15-21",
+    "item2": "10,meat: beast cr15-21",
+    "item3": "6,very rare aggregate",
+    "item4": "10,flesh: aberration cr15-21"
+  },
+  "staff of thunder and lightning": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "3371,hizagkuur ingot",
+    "focus": "1044,cut diamond",
+    "item1": "2,dreamlily",
+    "item2": "2,bone: giant cr15-21",
+    "item3": "10,scale: dragon cr15-21",
+    "item4": "10,lodestone"
+  },
+  "staff of the void": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "1310,very rare pole",
+    "focus": "4618,cut diamond",
+    "item1": "2,platinum ingot",
+    "item2": "1,core: aberration cr15-21",
+    "item3": "3,mass: ooze cr15-21",
+    "item4": "2,lodestone"
+  },
+  "star of iron": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1232,very rare pole",
+    "focus": "5592,cut diamond",
+    "item1": "7,spores: plant cr15-21",
+    "item2": "10,bone: undead cr15-21",
+    "item3": "1,flesh: humanoid cr15-21",
+    "item4": "8,meat: beast cr15-21"
+  },
+  "starmetal sliver": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2685,hizagkuur ingot",
+    "focus": "2778,cut opal",
+    "item1": "8,essence: elemental cr15-21",
+    "item2": "3,platinum ingot",
+    "item3": "8,mass: ooze cr15-21",
+    "item4": "2,very rare potion ingredient"
+  },
+  "steel": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1738,platinum ingot",
+    "focus": "984,cut ruby",
+    "item1": "9,marrow: giant cr15-21",
+    "item2": "2,hide: beast cr15-21",
+    "item3": "3,chitin: monstrosity cr15-21",
+    "item4": "2,very rare plank"
+  },
+  "stonemaker war pick": {
+    "rarity": "very rare",
+    "tool": "mason's tools",
+    "base": "532,very rare block",
+    "focus": "6384,cut diamond",
+    "item1": "4,brain: aberration cr15-21",
+    "item2": "1,core: ooze cr15-21",
+    "item3": "7,chitin: monstrosity cr15-21",
+    "item4": "5,organ: celestial cr15-21"
+  },
+  "strig feather robe": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "6787,platinum ingot",
+    "focus": "2833,cut diamond",
+    "item1": "2,flesh: celestial cr15-21",
+    "item2": "3,hizagkuur ingot",
+    "item3": "3,very rare plank",
+    "item4": "3,flesh: humanoid cr15-21"
+  },
+  "sun eater's mind": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "6214,hizagkuur ingot",
+    "focus": "1859,cut ruby",
+    "item1": "7,platinum ingot",
+    "item2": "1,essence: elemental cr15-21",
+    "item3": "2,core: elemental cr15-21",
+    "item4": "6,core: celestial cr15-21"
+  },
+  "sun eater's soul": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "2544,very rare block",
+    "focus": "665,cut diamond",
+    "item1": "6,flesh: celestial cr15-21",
+    "item2": "3,platinum ingot",
+    "item3": "9,core: celestial cr15-21",
+    "item4": "4,mizzium ingot"
+  },
+  "sunken suitcase": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "983,very rare aggregate",
+    "focus": "2005,cut sunstone",
+    "item1": "6,flesh: celestial cr15-21",
+    "item2": "4,heart: dragon cr15-21",
+    "item3": "7,gland: dragon cr15-21",
+    "item4": "1,organ: celestial cr15-21"
+  },
+  "sword of retribution": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1915,platinum ingot",
+    "focus": "4327,cut hearthstone",
+    "item1": "1,marrow: beast cr15-21",
+    "item2": "4,core: fiend cr15-21",
+    "item3": "8,gland: dragon cr15-21",
+    "item4": "9,adamantine ingot"
+  },
+  "sword of sharpness": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4614,adamantine ingot",
+    "focus": "3211,cut diamond",
+    "item1": "3,essence: elemental cr15-21",
+    "item2": "5,residue: elemental cr15-21",
+    "item3": "10,mass: ooze cr15-21",
+    "item4": "1,marrow: beast cr15-21"
+  },
+  "sword of the crimson abbot (very rare)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2166,platinum ingot",
+    "focus": "7180,cut hearthstone",
+    "item1": "1,lodestone",
+    "item2": "2,organ: monstrosity cr15-21",
+    "item3": "2,very rare poison ingredient",
+    "item4": "10,brain: aberration cr15-21"
+  },
+  "sword of the paruns": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2440,gold ingot",
+    "focus": "1548,cut diamond",
+    "item1": "1,meat: beast cr15-21",
+    "item2": "8,components: construct cr15-21",
+    "item3": "2,core: celestial cr15-21",
+    "item4": "2,bone: giant cr15-21"
+  }
+}

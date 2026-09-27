@@ -1,0 +1,338 @@
+{
+  "gohaku rice": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,uncommon plank",
+    "focus": "14,cut quartz",
+    "item1": "1,mass: ooze cr0-4"
+  },
+  "grandma's turnip soup": {
+    "rarity": "common",
+    "tool": "cook's utensils",
+    "base": "13,uncommon pole",
+    "focus": "7,cut emerald",
+    "item1": "5,bone: giant cr0-4"
+  },
+  "green slime": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "20,uncommon pole",
+    "focus": "3,cut topaz",
+    "item1": "2,flesh: celestial cr0-4"
+  },
+  "griffon coinpouch": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "14,uncommon tile",
+    "focus": "1,cut amber",
+    "item1": "10,meat: fey cr0-4"
+  },
+  "griffon key loop": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,silver ingot",
+    "focus": "12,cut emerald",
+    "item1": "3,flesh: celestial cr0-4"
+  },
+  "hakuma sapwood": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "9,uncommon plank",
+    "focus": "10,cut emerald",
+    "item1": "6,mass: plant cr0-4"
+  },
+  "hat of osnomnosis": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "13,silver ingot",
+    "focus": "5,cut amber",
+    "item1": "7,bone: humanoid cr0-4"
+  },
+  "hat of vermin": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "14,lead ingot",
+    "focus": "6,cut amber",
+    "item1": "5,meat: giant cr0-4"
+  },
+  "hat of wizardry": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "17,uncommon plank",
+    "focus": "6,cut quartz",
+    "item1": "2,flesh: monstrosity cr0-4"
+  },
+  "headband of the sweatless": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "7,uncommon pole",
+    "focus": "10,cut quartz",
+    "item1": "8,flesh: aberration cr0-4"
+  },
+  "healing gas": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "7,uncommon aggregate",
+    "focus": "15,cut emerald",
+    "item1": "3,components: construct cr0-4"
+  },
+  "hedgewitch's gardening cane": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,silver ingot",
+    "focus": "12,cut quartz",
+    "item1": "9,blood: celestial cr0-4"
+  },
+  "herbalist's aid": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,uncommon tile",
+    "focus": "21,cut onyx",
+    "item1": "1,essence: fey cr0-4"
+  },
+  "heroism": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "18,lead ingot",
+    "focus": "1,cut emerald",
+    "item1": "6,slime: ooze cr0-4"
+  },
+  "heward's handy spice pouch": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "15,uncommon tile",
+    "focus": "5,cut emerald",
+    "item1": "5,slime: ooze cr0-4"
+  },
+  "hill dragon egg": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "15,uncommon tile",
+    "focus": "3,cut topaz",
+    "item1": "7,blood: dragon cr0-4"
+  },
+  "hindsight": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "7,uncommon aggregate",
+    "focus": "16,cut topaz",
+    "item1": "2,uncommon pole"
+  },
+  "homeward tonic": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "1,uncommon plank",
+    "focus": "17,cut amber",
+    "item1": "7,meat: fey cr0-4"
+  },
+  "horn of silent alarm": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "16,silver ingot",
+    "focus": "4,cut amber",
+    "item1": "5,blood: dragon cr0-4"
+  },
+  "hover hopper": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "14,uncommon plank",
+    "focus": "1,cut amber",
+    "item1": "10,meat: beast cr0-4"
+  },
+  "howler fur": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "6,uncommon pole",
+    "focus": "17,cut onyx",
+    "item1": "2,essence: elemental cr0-4"
+  },
+  "hsirebbig": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "22,uncommon pole",
+    "focus": "2,cut quartz",
+    "item1": "1,flesh: celestial cr0-4"
+  },
+  "illuminator's tattoo": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "1,lead ingot",
+    "focus": "14,cut onyx",
+    "item1": "10,mass: ooze cr0-4"
+  },
+  "imbued wood (fernian ash)": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "11,uncommon tile",
+    "focus": "5,cut amber",
+    "item1": "9,essence: elemental cr0-4"
+  },
+  "imbued wood (irian rosewood)": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "11,uncommon pole",
+    "focus": "6,cut emerald",
+    "item1": "8,essence: fey cr0-4"
+  },
+  "imbued wood (kythrian manchineel)": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "8,uncommon plank",
+    "focus": "15,cut emerald",
+    "item1": "2,meat: fey cr0-4"
+  },
+  "imbued wood (lamannian oak)": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "4,uncommon pole",
+    "focus": "20,cut emerald",
+    "item1": "1,mass: plant cr0-4"
+  },
+  "imbued wood (mabaran ebony)": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "17,silver ingot",
+    "focus": "5,cut emerald",
+    "item1": "3,meat: fey cr0-4"
+  },
+  "imbued wood (risian pine)": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "2,uncommon plank",
+    "focus": "19,cut amber",
+    "item1": "4,sap: plant cr0-4"
+  },
+  "imbued wood (shavarran birch)": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "3,uncommon pole",
+    "focus": "16,cut emerald",
+    "item1": "6,essence: fey cr0-4"
+  },
+  "imbued wood (xorian wenge)": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "14,uncommon aggregate",
+    "focus": "5,cut emerald",
+    "item1": "6,hide: beast cr0-4"
+  },
+  "imbued wood focus": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "4,uncommon block",
+    "focus": "12,cut amber",
+    "item1": "9,meat: beast cr0-4"
+  },
+  "incoming!": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "6,lead ingot",
+    "focus": "13,cut amber",
+    "item1": "6,meat: beast cr0-4"
+  },
+  "inker's armband": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "10,uncommon plank",
+    "focus": "14,cut amber",
+    "item1": "1,chitin: monstrosity cr0-4"
+  },
+  "inspector's silverware": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,uncommon aggregate",
+    "focus": "8,cut amber",
+    "item1": "5,common potion ingredient"
+  },
+  "instrument of illusions": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "12,uncommon aggregate",
+    "focus": "5,cut amber",
+    "item1": "8,uncommon pole"
+  },
+  "instrument of scribing": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "14,uncommon aggregate",
+    "focus": "8,cut topaz",
+    "item1": "3,uncommon pole"
+  },
+  "intoxicating aroma": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,uncommon tile",
+    "focus": "9,cut amber",
+    "item1": "6,residue: elemental cr0-4"
+  },
+  "iron belly": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "9,lead ingot",
+    "focus": "13,cut amber",
+    "item1": "3,plating: construct cr0-4"
+  },
+  "iron mind": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,uncommon tile",
+    "focus": "6,cut onyx",
+    "item1": "7,flesh: aberration cr0-4"
+  },
+  "irresistible charm": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,lead ingot",
+    "focus": "4,cut emerald",
+    "item1": "9,flesh: celestial cr0-4"
+  },
+  "itchi beri": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "14,uncommon aggregate",
+    "focus": "2,cut emerald",
+    "item1": "9,uncommon plank"
+  },
+  "jack-o'-lantern bits": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "14,lead ingot",
+    "focus": "7,cut quartz",
+    "item1": "4,common potion ingredient"
+  },
+  "jumping bonfire": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "6,iron ingot",
+    "focus": "18,cut amber",
+    "item1": "1,lead ingot"
+  },
+  "keening voice": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,silver ingot",
+    "focus": "16,cut emerald",
+    "item1": "1,essence: elemental cr0-4"
+  },
+  "keycharm": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,uncommon aggregate",
+    "focus": "14,cut topaz",
+    "item1": "7,meat: fey cr0-4"
+  },
+  "kinetic pop": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "4,uncommon aggregate",
+    "focus": "18,cut quartz",
+    "item1": "3,components: construct cr0-4"
+  },
+  "kloth leech": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "13,iron ingot",
+    "focus": "5,cut emerald",
+    "item1": "7,bone: aberration cr0-4"
+  }
+}

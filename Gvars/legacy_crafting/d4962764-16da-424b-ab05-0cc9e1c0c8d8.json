@@ -1,0 +1,338 @@
+{
+  "knobble leaf seaweed": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,uncommon tile",
+    "focus": "11,cut emerald",
+    "item1": "10,mass: ooze cr0-4"
+  },
+  "kojo root": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,lead ingot",
+    "focus": "15,cut onyx",
+    "item1": "6,meat: giant cr0-4"
+  },
+  "labyrinth rope": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "12,lead ingot",
+    "focus": "10,cut onyx",
+    "item1": "3,flesh: monstrosity cr0-4"
+  },
+  "ladybug kinship": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,silver ingot",
+    "focus": "5,cut quartz",
+    "item1": "10,bone: humanoid cr0-4"
+  },
+  "language lore": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,uncommon block",
+    "focus": "14,cut quartz",
+    "item1": "8,meat: giant cr0-4"
+  },
+  "lantern of tracking": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "15,uncommon aggregate",
+    "focus": "1,cut emerald",
+    "item1": "9,bone: humanoid cr0-4"
+  },
+  "leatherbeard": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "19,uncommon plank",
+    "focus": "2,cut emerald",
+    "item1": "4,flesh: fiend cr0-4"
+  },
+  "light sling": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,iron ingot",
+    "focus": "12,cut amber",
+    "item1": "10,meat: dragon cr0-4"
+  },
+  "lightning breath": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,lead ingot",
+    "focus": "19,cut topaz",
+    "item1": "2,iron ingot"
+  },
+  "lilypad tonic": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "5,uncommon pole",
+    "focus": "14,cut quartz",
+    "item1": "6,essence: fey cr0-4"
+  },
+  "liquid cat": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "16,uncommon aggregate",
+    "focus": "7,cut topaz",
+    "item1": "2,flesh: celestial cr0-4"
+  },
+  "liquid lockpick": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "1,uncommon plank",
+    "focus": "19,cut emerald",
+    "item1": "5,sap: plant cr0-4"
+  },
+  "liquid mending": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "9,uncommon pole",
+    "focus": "15,cut amber",
+    "item1": "1,flesh: celestial cr0-4"
+  },
+  "lock of trickery": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "2,silver ingot",
+    "focus": "14,cut topaz",
+    "item1": "9,uncommon tile"
+  },
+  "lovers vine": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "4,uncommon plank",
+    "focus": "14,cut amber",
+    "item1": "7,fiber"
+  },
+  "machine oil": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "9,uncommon aggregate",
+    "focus": "12,cut amber",
+    "item1": "4,organ: fiend cr0-4"
+  },
+  "magnificent pocket vanity": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "17,uncommon block",
+    "focus": "5,cut quartz",
+    "item1": "3,common potion ingredient"
+  },
+  "mandrake root": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "1,uncommon aggregate",
+    "focus": "16,cut onyx",
+    "item1": "8,blood: celestial cr0-4"
+  },
+  "manifested nostalgia": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "4,uncommon block",
+    "focus": "20,cut onyx",
+    "item1": "1,flesh: fiend cr0-4"
+  },
+  "manifold tool": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "13,uncommon aggregate",
+    "focus": "10,cut onyx",
+    "item1": "2,silver ingot"
+  },
+  "mask of changed appearance": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "15,uncommon plank",
+    "focus": "2,cut topaz",
+    "item1": "8,bone: giant cr0-4"
+  },
+  "masks of the sacred beasts (crocodile)": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "6,uncommon plank",
+    "focus": "14,cut emerald",
+    "item1": "5,meat: beast cr0-4"
+  },
+  "masque charm": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "9,uncommon aggregate",
+    "focus": "14,cut quartz",
+    "item1": "2,uncommon tile"
+  },
+  "masquerade tattoo": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "6,iron ingot",
+    "focus": "9,cut topaz",
+    "item1": "10,blood: celestial cr0-4"
+  },
+  "mechanical wonder (flying)": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,uncommon pole",
+    "focus": "19,cut topaz",
+    "item1": "3,essence: elemental cr0-4"
+  },
+  "mechanical wonder (mobility)": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "22,silver ingot",
+    "focus": "1,cut topaz",
+    "item1": "2,uncommon tile"
+  },
+  "medal of muscle": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "8,lead ingot",
+    "focus": "7,cut topaz",
+    "item1": "10,flour"
+  },
+  "medal of wit": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "11,uncommon block",
+    "focus": "11,cut emerald",
+    "item1": "3,blood: dragon cr0-4"
+  },
+  "medal of the conch": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "8,uncommon plank",
+    "focus": "15,cut amber",
+    "item1": "2,meat: dragon cr0-4"
+  },
+  "medal of the horizonback": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "2,uncommon block",
+    "focus": "22,cut onyx",
+    "item1": "1,flesh: undead cr0-4"
+  },
+  "medal of the maze": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "12,uncommon aggregate",
+    "focus": "7,cut quartz",
+    "item1": "6,bone: humanoid cr0-4"
+  },
+  "medal of the meat pie": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "4,silver ingot",
+    "focus": "11,cut amber",
+    "item1": "10,bone: monstrosity cr0-4"
+  },
+  "medal of the wetlands": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "18,lead ingot",
+    "focus": "2,cut quartz",
+    "item1": "5,uncommon aggregate"
+  },
+  "mellowort": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "6,lead ingot",
+    "focus": "11,cut onyx",
+    "item1": "8,sap: plant cr0-4"
+  },
+  "melodious bird calls": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,lead ingot",
+    "focus": "10,cut quartz",
+    "item1": "3,bone: giant cr0-4"
+  },
+  "merriment": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,silver ingot",
+    "focus": "5,cut amber",
+    "item1": "9,flesh: fiend cr0-4"
+  },
+  "messenger owl seed": {
+    "rarity": "common",
+    "tool": "cook's utensils",
+    "base": "12,iron ingot",
+    "focus": "7,cut emerald",
+    "item1": "6,mass: plant cr0-4"
+  },
+  "mind crystal (subtle)": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "14,uncommon aggregate",
+    "focus": "2,cut quartz",
+    "item1": "9,flesh: aberration cr0-4"
+  },
+  "monkey's coil": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "17,uncommon aggregate",
+    "focus": "3,cut quartz",
+    "item1": "5,cloth"
+  },
+  "moodmark paint": {
+    "rarity": "common",
+    "tool": "painter's supplies",
+    "base": "19,uncommon aggregate",
+    "focus": "3,cut onyx",
+    "item1": "3,flour"
+  },
+  "moon-touched sword": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "4,silver ingot",
+    "focus": "17,cut topaz",
+    "item1": "4,fiber"
+  },
+  "mountain ox dung": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,uncommon aggregate",
+    "focus": "10,cut emerald",
+    "item1": "4,bone: humanoid cr0-4"
+  },
+  "mouse tree nut": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "14,uncommon pole",
+    "focus": "3,cut onyx",
+    "item1": "8,uncommon tile"
+  },
+  "musical mixer": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "18,lead ingot",
+    "focus": "5,cut topaz",
+    "item1": "2,organ: fiend cr0-4"
+  },
+  "mystery key": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,silver ingot",
+    "focus": "5,cut quartz",
+    "item1": "8,meat: dragon cr0-4"
+  },
+  "mythallar bracelet": {
+    "rarity": "common",
+    "tool": "jeweler's tools",
+    "base": "4,uncommon block",
+    "focus": "11,cut emerald",
+    "item1": "10,essence: elemental cr0-4"
+  },
+  "narutomaki": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,silver ingot",
+    "focus": "13,cut quartz",
+    "item1": "4,sap: plant cr0-4"
+  },
+  "nobblewort": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "14,uncommon block",
+    "focus": "1,cut onyx",
+    "item1": "10,uncommon tile"
+  }
+}

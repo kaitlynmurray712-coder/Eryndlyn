@@ -1,0 +1,331 @@
+{
+  "oaken candle": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "14,uncommon pole",
+    "focus": "2,cut amber",
+    "item1": "9,plating: construct cr0-4"
+  },
+  "oil of the trademark flourish": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "2,uncommon pole",
+    "focus": "16,cut amber",
+    "item1": "7,chitin: monstrosity cr0-4"
+  },
+  "oporion glass": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "17,uncommon pole",
+    "focus": "7,cut emerald",
+    "item1": "1,uncommon fish fillet"
+  },
+  "orb of direction": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "8,uncommon tile",
+    "focus": "10,cut quartz",
+    "item1": "7,flesh: celestial cr0-4"
+  },
+  "orb of gonging": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "10,uncommon aggregate",
+    "focus": "6,cut onyx",
+    "item1": "9,iron ingot"
+  },
+  "orb of remembrance": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "13,uncommon tile",
+    "focus": "11,cut emerald",
+    "item1": "1,flesh: humanoid cr0-4"
+  },
+  "orb of shielding": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "13,silver ingot",
+    "focus": "6,cut quartz",
+    "item1": "6,uncommon tile"
+  },
+  "orb of shielding (fernian basalt)": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "16,silver ingot",
+    "focus": "3,cut quartz",
+    "item1": "6,bone: monstrosity cr0-4"
+  },
+  "orb of shielding (irian quartz)": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "12,lead ingot",
+    "focus": "5,cut emerald",
+    "item1": "8,bone: monstrosity cr0-4"
+  },
+  "orb of shielding (kythrian skarn)": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "4,lead ingot",
+    "focus": "13,cut emerald",
+    "item1": "8,hide: beast cr0-4"
+  },
+  "orb of shielding (lamannian flint)": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "3,silver ingot",
+    "focus": "14,cut emerald",
+    "item1": "8,chitin: monstrosity cr0-4"
+  },
+  "orb of shielding (mabaran obsidian)": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "3,iron ingot",
+    "focus": "12,cut emerald",
+    "item1": "10,flesh: monstrosity cr0-4"
+  },
+  "orb of shielding (risian shale)": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "20,silver ingot",
+    "focus": "1,cut emerald",
+    "item1": "4,components: construct cr0-4"
+  },
+  "orb of shielding (shavarran chert)": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "5,uncommon plank",
+    "focus": "10,cut emerald",
+    "item1": "10,chitin: monstrosity cr0-4"
+  },
+  "orb of shielding (xorian marble)": {
+    "rarity": "common",
+    "tool": "smith's tools",
+    "base": "21,lead ingot",
+    "focus": "3,cut emerald",
+    "item1": "1,components: construct cr0-4"
+  },
+  "orb of time": {
+    "rarity": "common",
+    "tool": "glassblower's tools",
+    "base": "2,uncommon aggregate",
+    "focus": "15,cut onyx",
+    "item1": "8,common potion ingredient"
+  },
+  "origami crane": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "13,uncommon tile",
+    "focus": "9,cut amber",
+    "item1": "3,organ: fiend cr0-4"
+  },
+  "orostead iced tea (common)": {
+    "rarity": "common",
+    "tool": "brewer's supplies",
+    "base": "12,uncommon block",
+    "focus": "7,cut quartz",
+    "item1": "6,slime: ooze cr0-4"
+  },
+  "painter's sun hat": {
+    "rarity": "common",
+    "tool": "weaver's tools",
+    "base": "10,lead ingot",
+    "focus": "10,cut topaz",
+    "item1": "5,blood: celestial cr0-4"
+  },
+  "paradise plumage": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "11,lead ingot",
+    "focus": "4,cut quartz",
+    "item1": "10,slime: ooze cr0-4"
+  },
+  "paranoia": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,uncommon tile",
+    "focus": "7,cut topaz",
+    "item1": "8,mass: plant cr0-4"
+  },
+  "passing memory": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "3,uncommon aggregate",
+    "focus": "19,cut quartz",
+    "item1": "3,uncommon block"
+  },
+  "pathseeking": {
+    "rarity": "common",
+    "tool": "cartographer's tools",
+    "base": "12,lead ingot",
+    "focus": "11,cut emerald",
+    "item1": "2,flesh: humanoid cr0-4"
+  },
+  "peeping willow": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,iron ingot",
+    "focus": "14,cut quartz",
+    "item1": "3,flesh: undead cr0-4"
+  },
+  "perfect memory": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,uncommon block",
+    "focus": "3,cut onyx",
+    "item1": "10,uncommon aggregate"
+  },
+  "performer's puppet": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,uncommon plank",
+    "focus": "14,cut amber",
+    "item1": "3,fiber"
+  },
+  "perfume of bewitching": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "12,iron ingot",
+    "focus": "3,cut amber",
+    "item1": "10,uncommon pole"
+  },
+  "periscope rod": {
+    "rarity": "common",
+    "tool": "woodcarver's tools",
+    "base": "16,silver ingot",
+    "focus": "4,cut topaz",
+    "item1": "5,bone: humanoid cr0-4"
+  },
+  "photosynthetic skin": {
+    "rarity": "common",
+    "tool": "leatherworker's tools",
+    "base": "7,lead ingot",
+    "focus": "14,cut topaz",
+    "item1": "4,bone: humanoid cr0-4"
+  },
+  "pig snout": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,iron ingot",
+    "focus": "7,cut emerald",
+    "item1": "10,uncommon pole"
+  },
+  "pigment": {
+    "rarity": "common",
+    "tool": "painter's supplies",
+    "base": "4,uncommon pole",
+    "focus": "13,cut amber",
+    "item1": "8,uncommon tile"
+  },
+  "pink candle wax": {
+    "rarity": "common",
+    "tool": "calligrapher's supplies",
+    "base": "9,uncommon tile",
+    "focus": "9,cut onyx",
+    "item1": "7,plating: construct cr0-4"
+  },
+  "pipe of remembrance": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "8,silver ingot",
+    "focus": "10,cut quartz",
+    "item1": "7,meat: beast cr0-4"
+  },
+  "pipe of smoke monsters": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,lead ingot",
+    "focus": "6,cut amber",
+    "item1": "8,flesh: fiend cr0-4"
+  },
+  "poison": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "18,lead ingot",
+    "focus": "1,cut quartz",
+    "item1": "6,blood: dragon cr0-4"
+  },
+  "pole of angling": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "9,uncommon plank",
+    "focus": "15,cut quartz",
+    "item1": "1,bone: giant cr0-4"
+  },
+  "pole of collapsing": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "18,uncommon pole",
+    "focus": "2,cut quartz",
+    "item1": "5,bone: undead cr0-4"
+  },
+  "poltergeist candle holder": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "10,iron ingot",
+    "focus": "11,cut quartz",
+    "item1": "4,blood: celestial cr0-4"
+  },
+  "pot of awakening": {
+    "rarity": "common",
+    "tool": "potter's tools",
+    "base": "6,uncommon block",
+    "focus": "17,cut onyx",
+    "item1": "2,essence: elemental cr0-4"
+  },
+  "potion of climbing": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "10,uncommon pole",
+    "focus": "14,cut emerald",
+    "item1": "1,meat: beast cr0-4"
+  },
+  "potion of comprehension": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "5,uncommon aggregate",
+    "focus": "13,cut onyx",
+    "item1": "7,blood: dragon cr0-4"
+  },
+  "potion of fog": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "14,lead ingot",
+    "focus": "3,cut topaz",
+    "item1": "8,mass: ooze cr0-4"
+  },
+  "potion of healing": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "3,common potion ingredient",
+    "focus": "17,cut amber",
+    "item1": "5,fiber"
+  },
+  "potion of healing touch": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "8,iron ingot",
+    "focus": "7,cut emerald",
+    "item1": "10,flesh: aberration cr0-4"
+  },
+  "potion of soft steps": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "1,uncommon plank",
+    "focus": "18,cut amber",
+    "item1": "6,uncommon fish fillet"
+  },
+  "potion of watchful rest": {
+    "rarity": "common",
+    "tool": "alchemist's supplies",
+    "base": "6,uncommon block",
+    "focus": "9,cut emerald",
+    "item1": "10,components: construct cr0-4"
+  },
+  "pressure capsule": {
+    "rarity": "common",
+    "tool": "tinker's tools",
+    "base": "11,uncommon tile",
+    "focus": "5,cut emerald",
+    "item1": "9,bone: giant cr0-4"
+  }
+}

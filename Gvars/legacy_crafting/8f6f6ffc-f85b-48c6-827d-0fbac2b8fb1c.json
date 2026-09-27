@@ -1,0 +1,282 @@
+{
+  "enspelled armor (level 5)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "1453,gold ingot",
+    "focus": "1303,cut diamond",
+    "item1": "6,plate: monstrosity cr15-21",
+    "item2": "7,flesh: monstrosity cr15-21",
+    "item3": "4,core: construct cr15-21",
+    "item4": "6,meat: beast cr15-21"
+  },
+  "enspelled staff (level 4)": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "2074,very rare pole",
+    "focus": "1144,cut opal",
+    "item1": "1,mizzium ingot",
+    "item2": "4,very rare aggregate",
+    "item3": "3,organ: celestial cr15-21",
+    "item4": "10,lodestone"
+  },
+  "enspelled staff (level 5)": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "142,very rare pole",
+    "focus": "4417,cut ruby",
+    "item1": "7,essence: fey cr15-21",
+    "item2": "10,organ: fiend cr15-21",
+    "item3": "10,mass: ooze cr15-21",
+    "item4": "5,meat: giant cr15-21"
+  },
+  "enspelled weapon (level 4)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "6193,mizzium ingot",
+    "focus": "1858,cut sunstone",
+    "item1": "8,slime: ooze cr15-21",
+    "item2": "1,plating: construct cr15-21",
+    "item3": "6,brain: aberration cr15-21",
+    "item4": "4,platinum ingot"
+  },
+  "enspelled weapon (level 5)": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "6790,adamantine ingot",
+    "focus": "576,cut bloodstone",
+    "item1": "5,organ: humanoid cr15-21",
+    "item2": "1,gland: dragon cr15-21",
+    "item3": "8,core: elemental cr15-21",
+    "item4": "2,spores: plant cr15-21"
+  },
+  "enzymatic gastrostaff": {
+    "rarity": "very rare",
+    "tool": "woodcarver's tools",
+    "base": "5839,very rare pole",
+    "focus": "2510,cut bloodstone",
+    "item1": "7,horn: dragon cr15-21",
+    "item2": "3,essence: fey cr15-21",
+    "item3": "6,mizzium ingot",
+    "item4": "5,meat: dragon cr15-21"
+  },
+  "essence of shadowkeep": {
+    "rarity": "very rare",
+    "tool": "alchemist's supplies",
+    "base": "2264,lodestone",
+    "focus": "5388,cut bloodstone",
+    "item1": "9,flesh: fiend cr15-21",
+    "item2": "1,blood: undead cr15-21",
+    "item3": "1,very rare poison ingredient",
+    "item4": "2,very rare block"
+  },
+  "executioner's axe": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "9641,very rare aggregate",
+    "focus": "202,cut hearthstone",
+    "item1": "1,organ: celestial cr15-21",
+    "item2": "10,very rare potion ingredient",
+    "item3": "4,lodestone",
+    "item4": "10,very rare plank"
+  },
+  "eye of the white worm (very rare)": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1395,very rare aggregate",
+    "focus": "4035,cut bloodstone",
+    "item1": "2,brain: aberration cr15-21",
+    "item2": "9,adamantine ingot",
+    "item3": "1,organ: celestial cr15-21",
+    "item4": "5,very rare fish fillet"
+  },
+  "far gear": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1904,hizagkuur ingot",
+    "focus": "6612,cut sunstone",
+    "item1": "5,bone: fiend cr15-21",
+    "item2": "6,marrow: giant cr15-21",
+    "item3": "6,core: fey cr15-21",
+    "item4": "10,core: elemental cr15-21"
+  },
+  "fate cutter shears": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "985,very rare plank",
+    "focus": "3969,cut opal",
+    "item1": "1,brain: aberration cr15-21",
+    "item2": "6,flesh: humanoid cr15-21",
+    "item3": "7,very rare potion ingredient",
+    "item4": "9,very rare poison ingredient"
+  },
+  "feather robe": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "7381,hizagkuur ingot",
+    "focus": "182,cut bloodstone",
+    "item1": "6,bone: undead cr15-21",
+    "item2": "5,mizzium ingot",
+    "item3": "10,core: undead cr15-21",
+    "item4": "6,flesh: undead cr15-21"
+  },
+  "figurine of wondrous power, obsidian steed": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "1514,very rare aggregate",
+    "focus": "4778,cut bloodstone",
+    "item1": "1,meat: dragon cr15-21",
+    "item2": "3,gold ingot",
+    "item3": "8,bone: fey cr15-21",
+    "item4": "1,dreamlily"
+  },
+  "fire absorbing tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "4912,very rare aggregate",
+    "focus": "287,cut ruby",
+    "item1": "10,residue: elemental cr15-21",
+    "item2": "10,very rare tile",
+    "item3": "8,essence: elemental cr15-21",
+    "item4": "8,core: elemental cr15-21"
+  },
+  "fish suit": {
+    "rarity": "very rare",
+    "tool": "cook's utensils",
+    "base": "3842,very rare tile",
+    "focus": "1252,cut diamond",
+    "item1": "9,slime: ooze cr15-21",
+    "item2": "2,bone: beast cr15-21",
+    "item3": "8,essence: elemental cr15-21",
+    "item4": "4,residue: elemental cr15-21"
+  },
+  "flame of ingenuity": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4770,gold ingot",
+    "focus": "3268,cut diamond",
+    "item1": "10,flesh: fiend cr15-21",
+    "item2": "1,mizzium ingot",
+    "item3": "10,meat: dragon cr15-21",
+    "item4": "1,organ: fiend cr15-21"
+  },
+  "flying citadel helm": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "4096,quicksilver",
+    "focus": "4158,cut diamond",
+    "item1": "2,horn: dragon cr15-21",
+    "item2": "1,very rare plank",
+    "item3": "1,marrow: giant cr15-21",
+    "item4": "1,rare potion ingredient"
+  },
+  "fool's blade": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3014,gold ingot",
+    "focus": "3205,cut opal",
+    "item1": "9,flesh: celestial cr15-21",
+    "item2": "1,scale: dragon cr15-21",
+    "item3": "2,quicksilver",
+    "item4": "5,very rare potion ingredient"
+  },
+  "fool's lamp": {
+    "rarity": "very rare",
+    "tool": "glassblower's tools",
+    "base": "2550,very rare block",
+    "focus": "2299,cut hearthstone",
+    "item1": "2,components: construct cr15-21",
+    "item2": "9,bone: fey cr15-21",
+    "item3": "10,organ: humanoid cr15-21",
+    "item4": "7,bone: giant cr15-21"
+  },
+  "force absorbing tattoo": {
+    "rarity": "very rare",
+    "tool": "calligrapher's supplies",
+    "base": "7511,very rare aggregate",
+    "focus": "2360,cut opal",
+    "item1": "10,meat: fey cr15-21",
+    "item2": "3,core: aberration cr15-21",
+    "item3": "8,flesh: monstrosity cr15-21",
+    "item4": "2,residue: elemental cr15-21"
+  },
+  "forcebreaker weapon": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "5038,hizagkuur ingot",
+    "focus": "4185,cut ruby",
+    "item1": "6,core: elemental cr15-21",
+    "item2": "2,organ: aberration cr15-21",
+    "item3": "8,very rare fish fillet",
+    "item4": "8,very rare plank"
+  },
+  "foresight weapon": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "243,mizzium ingot",
+    "focus": "3415,cut sunstone",
+    "item1": "5,residue: elemental cr15-21",
+    "item2": "10,core: celestial cr15-21",
+    "item3": "6,plate: monstrosity cr15-21",
+    "item4": "8,bone: beast cr15-21"
+  },
+  "frost brand": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "4753,lodestone",
+    "focus": "4904,cut opal",
+    "item1": "2,hide: beast cr15-21",
+    "item2": "5,residue: elemental cr15-21",
+    "item3": "2,slime: ooze cr15-21",
+    "item4": "4,meat: beast cr15-21"
+  },
+  "frostburn spear": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "2911,platinum ingot",
+    "focus": "151,cut diamond",
+    "item1": "1,core: fiend cr15-21",
+    "item2": "4,flesh: fiend cr15-21",
+    "item3": "8,blood: fiend cr15-21",
+    "item4": "3,heart: dragon cr15-21"
+  },
+  "furious flail": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "2566,hizagkuur ingot",
+    "focus": "3055,cut ruby",
+    "item1": "10,organ: aberration cr15-21",
+    "item2": "3,core: celestial cr15-21",
+    "item3": "3,core: plant cr15-21",
+    "item4": "6,plate: monstrosity cr15-21"
+  },
+  "gallus feather robe": {
+    "rarity": "very rare",
+    "tool": "weaver's tools",
+    "base": "1212,adamantine ingot",
+    "focus": "6726,cut sunstone",
+    "item1": "10,bone: undead cr15-21",
+    "item2": "4,core: elemental cr15-21",
+    "item3": "9,very rare aggregate",
+    "item4": "9,organ: celestial cr15-21"
+  },
+  "gametoy": {
+    "rarity": "very rare",
+    "tool": "tinker's tools",
+    "base": "8041,very rare pole",
+    "focus": "370,cut hearthstone",
+    "item1": "8,gear: construct cr15-21",
+    "item2": "5,blood: undead cr15-21",
+    "item3": "3,mass: ooze cr15-21",
+    "item4": "10,essence: elemental cr15-21"
+  },
+  "gateway ring": {
+    "rarity": "very rare",
+    "tool": "smith's tools",
+    "base": "3252,hizagkuur ingot",
+    "focus": "4140,cut sunstone",
+    "item1": "3,slime: ooze cr15-21",
+    "item2": "8,organ: humanoid cr15-21",
+    "item3": "3,essence: undead cr15-21",
+    "item4": "4,dreamlily"
+  }
+}

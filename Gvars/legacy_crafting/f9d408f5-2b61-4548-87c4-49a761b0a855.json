@@ -1,0 +1,299 @@
+{
+  "oceanic weapon": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "123,mithril ingot",
+    "focus": "842,cut sapphire",
+    "item1": "9,core: elemental cr9-14",
+    "item2": "4,rare fish fillet",
+    "item3": "1,marrow: beast cr9-14"
+  },
+  "oiki's pinwheel": {
+    "rarity": "rare",
+    "tool": "carpenter's tools",
+    "base": "153,copper ingot",
+    "focus": "125,cut jade",
+    "item1": "7,gear: construct cr9-14",
+    "item2": "5,bone: giant cr9-14",
+    "item3": "2,blood: undead cr9-14"
+  },
+  "oil of etherealness": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "713,rare tile",
+    "focus": "207,cut sapphire",
+    "item1": "7,organ: monstrosity cr9-14",
+    "item2": "7,flesh: aberration cr9-14",
+    "item3": "1,bone: fey cr9-14"
+  },
+  "opal of the ild rune": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "681,cut obsidian",
+    "focus": "70,cut obsidian",
+    "item1": "7,core: ooze cr9-14",
+    "item2": "3,blood: undead cr9-14",
+    "item3": "2,meat: beast cr9-14"
+  },
+  "orange slime": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "162,rare plank",
+    "focus": "175,cut agate",
+    "item1": "7,meat: dragon cr9-14",
+    "item2": "8,uncommon potion ingredient",
+    "item3": "8,naphtha"
+  },
+  "orb of the stein rune": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "156,rare pole",
+    "focus": "645,cut jade",
+    "item1": "10,cut obsidian",
+    "item2": "8,marrow: giant cr9-14",
+    "item3": "8,organ: fiend cr9-14"
+  },
+  "orelia's tome of beast familiars": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "45,cut obsidian",
+    "focus": "368,cut moonstone",
+    "item1": "10,marrow: beast cr9-14",
+    "item2": "10,meat: fey cr9-14",
+    "item3": "5,bone: beast cr9-14"
+  },
+  "orzhov keyrune": {
+    "rarity": "rare",
+    "tool": "jeweler's tools",
+    "base": "570,rare aggregate",
+    "focus": "283,cut amethyst",
+    "item1": "3,hide: beast cr9-14",
+    "item2": "2,mass: ooze cr9-14",
+    "item3": "6,rare block"
+  },
+  "ota lantern oil": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "292,rare pole",
+    "focus": "76,cut amethyst",
+    "item1": "6,durable cloth",
+    "item2": "2,bone: fiend cr9-14",
+    "item3": "5,scale: dragon cr9-14"
+  },
+  "outer essence shard": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "130,rare aggregate",
+    "focus": "289,cut moonstone",
+    "item1": "4,organ: celestial cr9-14",
+    "item2": "8,copper ingot",
+    "item3": "3,slime: ooze cr9-14"
+  },
+  "outer essence shard (chaotic)": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "482,rare block",
+    "focus": "397,cut amethyst",
+    "item1": "4,horn: dragon cr9-14",
+    "item2": "5,core: elemental cr9-14",
+    "item3": "8,essence: elemental cr9-14"
+  },
+  "outer essence shard (evil)": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "31,cut obsidian",
+    "focus": "432,cut moonstone",
+    "item1": "3,components: construct cr9-14",
+    "item2": "10,core: ooze cr9-14",
+    "item3": "6,flesh: fiend cr9-14"
+  },
+  "outer essence shard (good)": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "292,copper ingot",
+    "focus": "282,cut obsidian",
+    "item1": "10,gland: dragon cr9-14",
+    "item2": "6,rare plank",
+    "item3": "7,uncommon poison ingredient"
+  },
+  "outer essence shard (lawful)": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "168,cut obsidian",
+    "focus": "394,cut obsidian",
+    "item1": "7,flesh: celestial cr9-14",
+    "item2": "2,hide: aberration cr9-14",
+    "item3": "7,fine fiber"
+  },
+  "overmatter totem": {
+    "rarity": "rare",
+    "tool": "woodcarver's tools",
+    "base": "332,copper ingot",
+    "focus": "49,cut amethyst",
+    "item1": "5,blood: celestial cr9-14",
+    "item2": "10,components: construct cr9-14",
+    "item3": "9,organ: humanoid cr9-14"
+  },
+  "pack of revisibility bombs": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "18,rare pole",
+    "focus": "751,cut jacinth",
+    "item1": "6,copper ingot",
+    "item2": "4,scale: dragon cr9-14",
+    "item3": "1,essence: elemental cr9-14"
+  },
+  "pariah's shield": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "235,mithril ingot",
+    "focus": "219,cut moonstone",
+    "item1": "6,flesh: monstrosity cr9-14",
+    "item2": "9,rare aggregate",
+    "item3": "10,bone: beast cr9-14"
+  },
+  "pelt of the pack lord": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "433,copper ingot",
+    "focus": "314,cut jacinth",
+    "item1": "10,fine fiber",
+    "item2": "10,charcoal",
+    "item3": "10,flesh: monstrosity cr9-14"
+  },
+  "pennypuncher slingshot": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "644,rare pole",
+    "focus": "219,cut sapphire",
+    "item1": "5,essence: undead cr9-14",
+    "item2": "4,brain: aberration cr9-14",
+    "item3": "5,bark: plant cr9-14"
+  },
+  "peregrine spear": {
+    "rarity": "rare",
+    "tool": "smith's tools",
+    "base": "197,copper ingot",
+    "focus": "123,cut moonstone",
+    "item1": "7,organ: celestial cr9-14",
+    "item2": "3,organ: fiend cr9-14",
+    "item3": "9,bone: fey cr9-14"
+  },
+  "periapt of proof against poison": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "145,copper ingot",
+    "focus": "343,cut obsidian",
+    "item1": "2,bone: beast cr9-14",
+    "item2": "5,rare block",
+    "item3": "8,mass: plant cr9-14"
+  },
+  "phial of stoutmilk": {
+    "rarity": "rare",
+    "tool": "glassblower's tools",
+    "base": "292,cut obsidian",
+    "focus": "386,cut obsidian",
+    "item1": "5,flesh: aberration cr9-14",
+    "item2": "2,blood: celestial cr9-14",
+    "item3": "1,rare fish fillet"
+  },
+  "philter of deep despair": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "271,rare plank",
+    "focus": "571,cut jade",
+    "item1": "7,organ: aberration cr9-14",
+    "item2": "1,rare aggregate",
+    "item3": "7,hide: beast cr9-14"
+  },
+  "philter of enchanted fortune": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "87,cut obsidian",
+    "focus": "515,cut sapphire",
+    "item1": "5,bone: fey cr9-14",
+    "item2": "6,essence: elemental cr9-14",
+    "item3": "6,blood: fey cr9-14"
+  },
+  "philter of innocence": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "542,cut obsidian",
+    "focus": "290,cut jade",
+    "item1": "10,spores: plant cr9-14",
+    "item2": "2,components: construct cr9-14",
+    "item3": "8,organ: celestial cr9-14"
+  },
+  "philter of loving kindness": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "661,rare tile",
+    "focus": "42,cut obsidian",
+    "item1": "10,essence: undead cr9-14",
+    "item2": "9,slime: ooze cr9-14",
+    "item3": "4,rare block"
+  },
+  "philter of mercy": {
+    "rarity": "rare",
+    "tool": "alchemist's supplies",
+    "base": "83,mithril ingot",
+    "focus": "496,cut jade",
+    "item1": "4,hide: aberration cr9-14",
+    "item2": "3,marrow: beast cr9-14",
+    "item3": "10,flesh: humanoid cr9-14"
+  },
+  "pick and pocket": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "202,rare plank",
+    "focus": "487,cut jade",
+    "item1": "2,residue: elemental cr9-14",
+    "item2": "3,bone: fiend cr9-14",
+    "item3": "9,uncommon potion ingredient"
+  },
+  "piercer": {
+    "rarity": "rare",
+    "tool": "cook's utensils",
+    "base": "160,rare aggregate",
+    "focus": "472,cut jade",
+    "item1": "9,gland: dragon cr9-14",
+    "item2": "1,flesh: monstrosity cr9-14",
+    "item3": "8,mass: ooze cr9-14"
+  },
+  "piwafwi of fire resistance": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "179,mithril ingot",
+    "focus": "189,cut amethyst",
+    "item1": "6,flesh: fiend cr9-14",
+    "item2": "5,blood: fiend cr9-14",
+    "item3": "2,copper ingot"
+  },
+  "planar key": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "46,copper ingot",
+    "focus": "413,cut moonstone",
+    "item1": "10,organ: monstrosity cr9-14",
+    "item2": "2,bark: plant cr9-14",
+    "item3": "3,durable fiber"
+  },
+  "planchette of adela druskenvald (rare)": {
+    "rarity": "rare",
+    "tool": "tinker's tools",
+    "base": "507,rare aggregate",
+    "focus": "305,cut jacinth",
+    "item1": "1,bone: giant cr9-14",
+    "item2": "1,naphtha",
+    "item3": "9,gear: construct cr9-14"
+  },
+  "planecaller's codex": {
+    "rarity": "rare",
+    "tool": "calligrapher's supplies",
+    "base": "569,rare tile",
+    "focus": "325,cut sapphire",
+    "item1": "8,flesh: aberration cr9-14",
+    "item2": "3,uncommon poison ingredient",
+    "item3": "4,blood: fey cr9-14"
+  }
+}
