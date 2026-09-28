@@ -1,0 +1,31 @@
+name: Deploy Crafting App
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: CraftingApp/requirements.txt
+
+      - name: Install dependencies
+        working-directory: CraftingApp
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run crafting deployment
+        working-directory: CraftingApp
+        env:
+          AVRAE_TOKEN: ${{ secrets.AVRAE_TOKEN }}
+        run: python deploy_crafting.py
