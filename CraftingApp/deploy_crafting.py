@@ -1,6 +1,10 @@
 import os
 import json
 import requests
+from pathlib import Path
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+RECIPES_FILE = SCRIPT_DIR / "crafting.json"
 
 API_URL = "https://api.avrae.io/customizations/gvars/{}"
 
@@ -75,7 +79,7 @@ AVAILABLE_GVARS = [
 
 ALL_RECIPES = {}
 
-with open("./CraftingApp/crafting.json", "r") as f:
+with open(RECIPES_FILE, "r") as f:
     ALL_RECIPES = json.load(f)
 
 print("Loaded {} recipes".format(len(ALL_RECIPES)))
