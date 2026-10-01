@@ -377,7 +377,7 @@
         "name": "Raw Starstone",
         "produce": 3,
         "dc": 22,
-        "worth": null,
+        "worth": 850,
         "tool": "masonstools",
         "refined": "Very Rare Tile"
       },
@@ -385,7 +385,7 @@
         "name": "Raw Arandur",
         "produce": 2,
         "dc": 20,
-        "worth": null,
+        "worth": 900,
         "tool": "smithstools",
         "refined": "Very Rare Aggregate"
       },
@@ -393,7 +393,7 @@
         "name": "Raw Hearthstone",
         "produce": 2,
         "dc": 25,
-        "worth": null,
+        "worth": 1500,
         "tool": "jewelerstools",
         "refined": "Cut Hearthstone"
       },
@@ -401,7 +401,7 @@
         "name": "Raw Bloodstone",
         "produce": 3,
         "dc": 25,
-        "worth": null,
+        "worth": 2000,
         "tool": "jewelerstools",
         "refined": "Cut Bloodstone"
       },
@@ -409,7 +409,7 @@
         "name": "Raw Hizagkuur",
         "produce": 4,
         "dc": 20,
-        "worth": null,
+        "worth": 2500,
         "tool": "smithstools",
         "refined": "Hizagkuur Ingot"
       },
@@ -417,7 +417,7 @@
         "name": "Raw Sky Stone",
         "produce": 2,
         "dc": 20,
-        "worth": null,
+        "worth": 875,
         "tool": "masonstools",
         "refined": "Very Rare Block"
       },
@@ -425,7 +425,23 @@
         "name": "Raw Lode Rock",
         "produce": 2,
         "dc": 22,
-        "worth": null,
+        "worth": 1000,
+        "tool": "masonstools",
+        "refined": "Lodestone"
+      },
+      "9": {
+        "name": "Raw Sky Stone",
+        "produce": 2,
+        "dc": 20,
+        "worth": 875,
+        "tool": "masonstools",
+        "refined": "Very Rare Block"
+      },
+      "10": {
+        "name": "Raw Lode Rock",
+        "produce": 2,
+        "dc": 22,
+        "worth": 1000,
         "tool": "masonstools",
         "refined": "Lodestone"
       }

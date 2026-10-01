@@ -97,7 +97,7 @@ else:
                     desc += "You were not able to sneak closer. Engage or Disengage?"
 
             elif choose == "4" or choose == "5" or choose == "6": ## ITEM
-                whichitem = str(vroll('d8').total)
+                whichitem = str(vroll('d10').total)
                 chosenitem = item[str(inp)][str(whichitem)]
 
                 minimum_check = a.last('mc', None, int) or (10 if char.csettings.get("talent", True) and char.skills['stealth'].prof>=1 else None)
