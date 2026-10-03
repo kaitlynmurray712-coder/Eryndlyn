@@ -70,7 +70,7 @@
       },
       "2": {
         "description": "You find a scrap of paper wedged in the stone beside you. pull it out to find what secrets were left behind.",
-        "check": "sleight",
+        "check": "sleightOfHand",
         "highpass": "Summoning your curiosity, you deftly reach to pull it out, opening it to discover directions to a hidden stash. You find a single raw opal sitting in a dusty bag, as if waiting for you to come along. You may add it to your bag.",
         "midpass": "With great effort, you twist your hand to just barely reach and pull it out, opening it to discover faded directions on the parchment. It leads you a little further into the mine shaft, and up to a half decayed skeleton hand wedged into a crevice similar to the one you found. Add 1 Bone: Monstrosity CR3 parts from the now-dead orc.",
         "fail": "Damn the paper rips"

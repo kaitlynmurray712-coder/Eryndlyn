@@ -13,7 +13,7 @@
 "performance":{"name":"Skill: Performance","modifier":"charismaMod"},
 "persuasion":{"name":"Skill: Persuasion","modifier":"charismaMod"},
 "religion":{"name":"Skill: Religion","modifier":"intelligenceMod"},
-"sleight":{"name":"Skill: Sleight of Hand", "modifier":"dexterityMod"},
+"sleightOfHand":{"name":"Skill: Sleight of Hand", "modifier":"dexterityMod"},
 "stealth":{"name":"Skill: Stealth","modifier":"dexterityMod"},
 "survival":{"name":"Skill: Survival","modifier":"wisdomMod"},
 "artisans" :{"name":   "Tool: Artisan's", "modifier": "dexterityMod"},

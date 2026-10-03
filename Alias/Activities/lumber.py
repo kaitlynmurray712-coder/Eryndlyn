@@ -68,7 +68,7 @@ if inp == "1" or inp == "2" and currentLocation == home or inp == "4" and curren
             
 
         elif choose == "3": ## ENCOUNTER
-            whichencounter = str(vroll('d5').total)
+            whichencounter = str(vroll('d4').total)
             chosenencounter = encounters[str(inp)][whichencounter]
 
             desc += chosenencounter["description"]
