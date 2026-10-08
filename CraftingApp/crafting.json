@@ -19541,5 +19541,186 @@
         "item1": "8,organ: monstrosity cr9-14",
         "item2": "1,hide: beast cr9-14",
         "item3": "6,gear: construct cr9-14"
+    },
+    "snugglebeast (common)": {
+        "rarity": "common",
+        "tool": "weaver's tools",
+        "base": "9,cloth",
+        "focus": "56,cut emerald",
+        "item1": "6,flesh: monstrosity cr0-4"
+    },
+    "snugglebeast (uncommon)": {
+        "rarity": "uncommon",
+        "tool": "weaver's tools",
+        "base": "27,cloth",
+        "focus": "179,cut sapphire",
+        "item1": "flesh: 8,celestial cr-5-8",
+        "item2": "gear: 4,construct cr5-8"
+    },
+    "snugglebeast (rare)": {
+        "rarity": "rare",
+        "tool": "weaver's tools",
+        "base": "56,durable cloth",
+        "focus": "357,cut agate",
+        "item1": "1,horn: dragon cr9-14",
+        "item2": "7,scale: dragon cr9-14",
+        "item3": "8,marrow: beast cr9-14"
+    },
+    "watcher's candle": {
+        "rarity": "adventuring gear",
+        "tool": "herbalism kit",
+        "base": "1,candle",
+        "focus": "125,cut onyx"
+    },
+    "orator's quill": {
+        "rarity": "common",
+        "tool": "calligrapher's supplies",
+        "base": "1,fiber",
+        "focus": "83,cut topaz",
+        "item1": "5,hide: beast cr0-4"
+    },
+    "misthaven miscellany": {
+        "rarity": "common",
+        "tool": "weaver's tools",
+        "base": "15,cloth",
+        "focus": "47,cut amber",
+        "item1": "3,essence: fey cr0-4"
+    },
+    "Araliaephyllum sp. Healing Balm": {
+        "rarity": "adventuring gear",
+        "tool": "herbalism kit",
+        "base": "3,wild wheat",
+        "focus": "22,common potion ingredient"
+    },
+    "Equisetum sp. Potion": {
+        "rarity": "mundane",
+        "tool": "herbalism kit",
+        "base": "2,cattail",
+        "focus": "16,cut topaz",
+        "item1": "1,common potion ingredient"
+    },
+    "ring of birdseye maple": {
+        "rarity": "uncommon",
+        "tool": "jeweler's tools",
+        "base": "115,uncommon plank",
+        "focus": "105,cut emerald",
+        "item1": "3,mass: plant cr5-8",
+        "item2": "7,sap: plant cr5-8"
+    },
+    "ring of fungal symbiosis": {
+        "rarity": "uncommon",
+        "tool": "jeweler's tool",
+        "base": "200,uncommon potion ingredient",
+        "focus": "254,cut moonstone",
+        "item1": "9,bark: plant cr5-8",
+        "item2": "2,mass: plant cr5-8 "
+    },
+    "beret of boundaries": {
+        "rarity": "uncommon",
+        "tool": "weaver's tools",
+        "base": "63,durable cloth",
+        "focus": "188,cut jacinth",
+        "item1": "10,hide: aberration cr5-8",
+        "item2": "5,components: construct cr5-8"
+    },
+    "heart of the sleeveless": {
+        "rarity": "common",
+        "tool": "weaver's tools",
+        "base": "10,cloth",
+        "focus": "45,cut amber",
+        "item1": "7,flesh: aberration cr0-4"
+    },
+    "dryadleaf": {
+        "rarity": "common",
+        "tool": "herbalism kit",
+        "base": "5,common plank",
+        "focus": "106,cut topaz",
+        "item1": "3,mass: plant cr0-4"
+    },
+    "painblinder mycaxe (rare battleaxe)": {
+        "rarity": "rare",
+        "tool": "herbalism tools",
+        "base": "710,rare pole",
+        "focus": "817,cut ruby",
+        "item1": "5,spores: plant cr9-14",
+        "item2": "1,mass: plant cr9-14",
+        "item3": "6,residue: elemental cr9-14"
+    },
+    "idol of the beast of blight": {
+        "rarity": "very rare",
+        "tool": "woodcarver's tools",
+        "base": "541,very rare plank",
+        "focus": "637,cut ruby",
+        "item1": "3,flesh: aberration cr15-21",
+        "item2": "8,organ: aberration cr15-21",
+        "item3": "4,brain: aberration cr15-21",
+        "item4": "6,meat: dragon cr15-21"
+    },
+    "fin symbiote": {
+        "rarity": "rare",
+        "tool": "cook's tools",
+        "base": "543,rare fish fillet",
+        "focus": "957,cut amethyst",
+        "item1": "8,bone: beast cr9-14",
+        "item2": "5,marrow: beast cr9-14",
+        "item3": "9,mass: ooze cr9-14"
+    },
+    "dragon's call": {
+        "rarity": "uncommon",
+        "tool": "jeweler's tools",
+        "base": "117,copper",
+        "focus": "60,cut sapphire",
+        "item1": "10,scale: dragon cr5-8",
+        "item2": "6,blood: dragon cr5-8"
+    },
+    "goo luck dice": {
+        "rarity": "common",
+        "tool": "alchemist's supplies",
+        "base": "24,common block",
+        "focus": "7,cut onyx",
+        "item1": "9,slime: ooze cr0-4"
+    },
+    "aether blood": {
+        "rarity": "rare",
+        "tool": "alchemist's supplies",
+        "base": "253,rare potion ingredients",
+        "focus": "1348, cut sunstone",
+        "item1": "10,organ: celestial cr9-14",
+        "item2": "2,blood: celestial cr9-14",
+        "item3": "5,flesh: monstrosity cr9-14"
+    },
+    "couatl herald's scales": {
+        "rarity": "rare",
+        "tool": "smith's tools",
+        "base": "644,quicksilver",
+        "focus": "658,cut ruby",
+        "item1": "3,horn: dragon cr9-14",
+        "item2": "9,components: construct cr9-14",
+        "item3": "10,scales: dragon cr9-14"
+    },
+    "couatl herald's radiance": {
+        "rarity": "rare",
+        "tool": "woodcarver's tools",
+        "base": "396,rare pole",
+        "focus": "601,cut opal",
+        "item1": "5,flesh: monstrosity cr9-14",
+        "item2": "6,mass: ooze cr9-14",
+        "item3": "3,horn: dragon cr9-14"
+    },
+    "couatl herald's mantle": {
+        "rarity": "uncommon",
+        "tool": "weaver's tools",
+        "base": "144,durable fiber",
+        "focus": "240,cut agate",
+        "item1": "1,sap: plant cr5-8",
+        "item2": "1,slime: ooze cr5-8"
+    },
+    "+1 tools of the master": {
+        "rarity": "uncommon",
+        "tool": "weaver's tools",
+        "base": "55,uncommon block",
+        "focus": "233,cut emerald",
+        "item1": "gland: 9,monstrosity cr-5-8",
+        "item2": "components: 5,construct cr5-8"
     }
 }
