@@ -19375,5 +19375,171 @@
         "focus": "67,cut onyx",
         "item1": "4,common potion ingredient",
         "item2": "9,organ: fiend cr5-8"
+    },
+    "Runestone of the Wild Titan, +3": {
+        "rarity": "very rare",
+        "tool": "mason's tools",
+        "base": "2450,very rare tile",
+        "focus": "1413,cut sunstone",
+        "item1": "6,meat: giant cr15-21",
+        "item2": "4,marrow: giant cr15-21",
+        "item3": "3,plate: monstrosity cr15-21",
+        "item4": "3,gear: construct cr15-21"
+    },
+    "Dimensional Doorknob": {
+        "rarity": "rare",
+        "tool": "tinker's tools",
+        "base": "311,cut obsidian",
+        "focus": "775,cut jade",
+        "item1": "4,spores: plant cr9-14",
+        "item2": "5,mass: plant cr9-14",
+        "item3": "2,components: construct cr9-14"
+    },
+    "Weapon of Destruction": {
+        "rarity": "uncommon",
+        "tool": "smith's tools",
+        "base": "70,uncommon plank",
+        "focus": "133,cut quartz",
+        "item1": "5,chitin: monstrosity cr5-8",
+        "item2": "4,bone: undead cr5-8"
+    },
+    "Cherry Blossom Token": {
+        "rarity": "rare",
+        "tool": "tinker's tools",
+        "base": "553,rare plank",
+        "focus": "540,cut ruby",
+        "item1": "3,spores: plant cr9-14",
+        "item2": "3,bark: plant cr9-14",
+        "item3": "4,glands: dragon cr9-14"
+    },
+    "Theropod Jaw (rare)": {
+        "rarity": "rare",
+        "tool": "smith's tools",
+        "base": "535,rare pole",
+        "focus": "897,cut sunstone",
+        "item1": "4,horn: dragon cr9-14",
+        "item2": "2,bone: beast cr9-14",
+        "item3": "5,plate: monstrosity cr9-14"
+    },
+    "Hjartarydi’s Belt": {
+        "rarity": "uncommon",
+        "tool": "leatherworker's tools",
+        "base": "130,uncommon aggregate",
+        "focus": "231,cut jacinth",
+        "item1": "4,flesh: monstrosity cr5-8",
+        "item2": "3,blood: undead cr5-8"
+    },
+    "Devil's Detail Eyepatch": {
+        "rarity": "uncommon",
+        "tool": "leatherworker's tools",
+        "base": "5,fiber",
+        "focus": "84,cut topaz",
+        "item1": "5,blood: fiend cr5-8",
+        "item2": "3,flesh: fiend cr5-8"
+    },
+    "Tinytar": {
+        "rarity": "common",
+        "tool": "alchemist's supplies",
+        "base": "13,common aggregate",
+        "focus": "23,cut emerald",
+        "item1": "1,essence: elemental cr0-4"
+    },
+    "Iced Steel Seax": {
+        "rarity": "common",
+        "tool": "smith's tools",
+        "base": "19,iron ingot",
+        "focus": "14,cut onyx",
+        "item1": "5,meat: dragon cr0-4"
+    },
+    "Arrowhead Weapon Charm": {
+        "rarity": "uncommon",
+        "tool": "jeweler's tools",
+        "base": "412,rare tile",
+        "focus": "577,cut amethyst",
+        "item1": "7,meat: fey cr5-8",
+        "item2": "3,chitin: monstrosity cr5-8"
+    },
+    "Blade Weapon Charm, +1": {
+        "rarity": "uncommon",
+        "tool": "jeweler's tools",
+        "base": "841,adamantine ingot",
+        "focus": "244,cut jade",
+        "item1": "2,organ: aberration cr5-8",
+        "item2": "9,residue: elemental cr5-8"
+    },
+    "Blade Weapon Charm, +2": {
+        "rarity": "rare",
+        "tool": "jeweler's tools",
+        "base": "295,rare block",
+        "focus": "920,cut ruby",
+        "item1": "4,flesh: aberration cr9-14",
+        "item2": "2,plate: monstrosity cr9-14",
+        "item3": "8,core: ooze cr9-14"
+    },
+    "Blade Weapon Charm, +3": {
+        "rarity": "very rare",
+        "tool": "jeweler's tools",
+        "base": "606,rare plank",
+        "focus": "1103,cut opal",
+        "item1": "1,essence: undead cr15-21",
+        "item2": "5,marrow: giant cr15-21",
+        "item3": "6,horn: dragon cr15-21"
+    },
+    "Die Weapon Charm": {
+        "rarity": "uncommon",
+        "tool": "jeweler's tools",
+        "base": "242,uncommon plank",
+        "focus": "516,cut sapphire",
+        "item1": "7,gland: monstrosity cr5-8",
+        "item2": "4,essence: elemental cr5-8"
+    },
+    "Flame Weapon Charm": {
+        "rarity": "uncommon",
+        "tool": "jeweler's tools",
+        "base": "498,uncommon plank",
+        "focus": "342,cut ruby",
+        "item1": "5,scale: dragon cr5-8",
+        "item2": "3,essence: elemental cr5-8"
+    },
+    "Hook Weapon Charm": {
+        "rarity": "common",
+        "tool": "jeweler's tools",
+        "base": "165,uncommon plank",
+        "focus": "270,cut emerald",
+        "item1": "8,slime: ooze cr0-4"
+    },
+    "Lance Weapon Charm": {
+        "rarity": "uncommon",
+        "tool": "jeweler's tools",
+        "base": "272,uncommon block",
+        "focus": "499,cut opal",
+        "item1": "1,sap: plant cr5-8",
+        "item2": "5,residue: elemental cr5-8"
+    },
+    "Lightning Bolt Weapon Charm": {
+        "rarity": "rare",
+        "tool": "jeweler's tools",
+        "base": "444,rare platinum",
+        "focus": "853,cut jacinth",
+        "item1": "7,marrow: beast cr9-14",
+        "item2": "6,core: ooze cr9-14",
+        "item3": "2,slime: ooze cr9-14"
+    },
+    "Quiver Weapon Charm": {
+        "rarity": "uncommon",
+        "tool": "jeweler's tools",
+        "base": "579,uncommon block",
+        "focus": "304,cut jacinth",
+        "item1": "6,bark: plant cr5-8",
+        "item2": "5,meat: dragon cr5-8"
+    },
+    "Suit of the Lamb": {
+        "rarity": "rare",
+        "tool": "weaver's tools",
+        "base": "225,fine fiber",
+        "focus": "355,cut opal",
+        "item1": "8,organ: monstrosity cr9-14",
+        "item2": "1,hide: beast cr9-14",
+        "item3": "6,gear: construct cr9-14"
     }
 }
