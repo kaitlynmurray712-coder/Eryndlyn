@@ -638,7 +638,7 @@
         "produce": 5,
         "dc": 10,
         "worth": 10,
-        "tool": "Cook's Tools",
+        "tool": "cooksutensils",
         "refined": "Flour"
       },
       "2": {
@@ -712,7 +712,7 @@
         "produce": 4,
         "dc": 17,
         "worth": 75,
-        "tool": "Cook's Tools",
+        "tool": "cooksutensils",
         "refined": "Durable Cloth"
       },
       "3": {
@@ -802,7 +802,7 @@
         "produce": 2,
         "dc": 20,
         "worth": 300,
-        "tool": "Cook's Tools",
+        "tool": "cooksutensils",
         "refined": "Rare Poison Ingredient"
       },
       "6": {
@@ -810,7 +810,7 @@
         "produce": 2,
         "dc": 20,
         "worth": 300,
-        "tool": "Cook's Tools",
+        "tool": "cooksutensils",
         "refined": "Rare Poison Ingredient"
       },
       "7": {
