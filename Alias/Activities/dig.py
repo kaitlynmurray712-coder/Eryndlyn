@@ -100,7 +100,7 @@ else:
                 whichitem = str(vroll('d10').total)
                 chosenitem = item[str(inp)][str(whichitem)]
 
-                minimum_check = a.last('mc', None, int) or (10 if char.csettings.get("talent", True) and char.skills['stealth'].prof>=1 else None)
+                minimum_check = a.last('mc', None, int) or (10 if char.csettings.get("talent", True) and char.skills['sleightOfHand'].prof>=1 else None)
                 athleticsroll = vroll(char.skills['sleightOfHand'].d20(adv, reroll_number, minimum_check, )+bonus)
 
                 desc += "**You found:** "

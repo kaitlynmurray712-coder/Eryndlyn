@@ -97,7 +97,7 @@ if inp == "1" or inp == "2" and currentLocation == home or inp == "4" and curren
             whichitem = str(vroll('d8').total)
             chosenitem = item[str(inp)][str(whichitem)]
 
-            minimum_check = a.last('mc', None, int) or (10 if char.csettings.get("talent", True) and char.skills['stealth'].prof>=1 else None)
+            minimum_check = a.last('mc', None, int) or (10 if char.csettings.get("talent", True) and char.skills['nature'].prof>=1 else None)
             athleticsroll = vroll(char.skills['nature'].d20(adv, reroll_number, minimum_check, )+bonus)
 
             desc += "**You found:** "
