@@ -8,6 +8,10 @@
       "2": {
         "encounter": "x2 living burning hands, x1 magma mephit",
         "description": "Lava hisses and bubbles in a river here, heating up the air and casting a light haze over the whole cave. But some of this lava moves more than the rest. It snaps upwards, forming grasping hands, while from another patch of lava, a long nosed, winged mephit bursts!"
+      },
+      "3":{
+        "encounter":"x1 helmed horror",
+        "description":"Sometimes ash-blackened metal creatures from years past are said to stalk the tunnels and paths of the caverns, looking for intruders upon ground that hasn't truly been theirs for decades. It seems like you've come across one of these beings, metal clangs echoing as it moves step by step."
       }
     },
     "2": {
