@@ -1,0 +1,1653 @@
+{
+  "aberration": {
+    "0": [
+      {
+        "name": "Cranium Rat",
+        "CR": "0"
+      },
+      {
+        "name": "Slaad Tadpole",
+        "CR": "1/8"
+      },
+      {
+        "name": "Grimlock",
+        "CR": "1/4"
+      },
+      {
+        "name": "Star Spawn Grue",
+        "CR": "1/4"
+      },
+      {
+        "name": "Darkmantle",
+        "CR": "1/2"
+      },
+      {
+        "name": "Gazer",
+        "CR": "1/2"
+      },
+      {
+        "name": "Choker",
+        "CR": "1"
+      },
+      {
+        "name": "Gibbering Mouther",
+        "CR": "2"
+      },
+      {
+        "name": "Intellect Devourer",
+        "CR": "2"
+      },
+      {
+        "name": "Nothic",
+        "CR": "2"
+      },
+      {
+        "name": "Grell",
+        "CR": "3"
+      },
+      {
+        "name": "Chuul",
+        "CR": "4"
+      }
+    ],
+    "5": [
+      {
+        "name": "Aboleth Spawn",
+        "CR": "5"
+      },
+      {
+        "name": "Mindwitness",
+        "CR": "5"
+      },
+      {
+        "name": "Otyugh",
+        "CR": "5"
+      },
+      {
+        "name": "Star Spawn Mangler",
+        "CR": "5"
+      },
+      {
+        "name": "Githzerai Zerth",
+        "CR": "6"
+      },
+      {
+        "name": "Kuo-toa Archpriest",
+        "CR": "6"
+      },
+      {
+        "name": "Otyugh Mutate",
+        "CR": "6"
+      },
+      {
+        "name": "Psurlon Leader",
+        "CR": "6"
+      },
+      {
+        "name": "Blue Slaad",
+        "CR": "7"
+      },
+      {
+        "name": "Dream Eater",
+        "CR": "7"
+      },
+      {
+        "name": "Flesh Meld",
+        "CR": "7"
+      },
+      {
+        "name": "Githzerai Uniter",
+        "CR": "7"
+      },
+      {
+        "name": "Grick Ancient",
+        "CR": "7"
+      },
+      {
+        "name": "Mind Flayer",
+        "CR": "7"
+      },
+      {
+        "name": "Neo-Otyugh",
+        "CR": "7"
+      },
+      {
+        "name": "Reduced-threat Aboleth",
+        "CR": "7"
+      },
+      {
+        "name": "Tsucora Quori",
+        "CR": "7"
+      },
+      {
+        "name": "Woe Strider",
+        "CR": "7"
+      },
+      {
+        "name": "Aberrant Zealot",
+        "CR": "8"
+      },
+      {
+        "name": "Aberrant Zealot (Variant)",
+        "CR": "8"
+      },
+      {
+        "name": "Cloaker",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Slaad, Gray",
+        "CR": "9"
+      },
+      {
+        "name": "Aboleth",
+        "CR": "10"
+      },
+      {
+        "name": "Slaad, Death",
+        "CR": "10"
+      },
+      {
+        "name": "Balhannoth",
+        "CR": "11"
+      },
+      {
+        "name": "Esthetic",
+        "CR": "12"
+      },
+      {
+        "name": "Githzerai Psion",
+        "CR": "12"
+      },
+      {
+        "name": "Gug",
+        "CR": "12"
+      },
+      {
+        "name": "Beholder",
+        "CR": "13"
+      },
+      {
+        "name": "Neothelid",
+        "CR": "13"
+      },
+      {
+        "name": "Death Tyrant",
+        "CR": "14"
+      },
+      {
+        "name": "Elder Brain",
+        "CR": "14"
+      }
+    ],
+    "15": [
+      {
+        "name": "Star Spawn Larva Mage",
+        "CR": "16"
+      },
+      {
+        "name": "Beholder, Hive Mother",
+        "CR": "20"
+      },
+      {
+        "name": "Slaad, Kraken",
+        "CR": "20"
+      },
+      {
+        "name": "Astral Dreadnought",
+        "CR": "21"
+      }
+    ]
+  },
+  "beast": {
+    "0": [
+      {
+        "name": "Badger",
+        "CR": "0"
+      },
+      {
+        "name": "Bat",
+        "CR": "0"
+      },
+      {
+        "name": "Cat",
+        "CR": "0"
+      },
+      {
+        "name": "Deer",
+        "CR": "0"
+      },
+      {
+        "name": "Eagle",
+        "CR": "0"
+      },
+      {
+        "name": "Giant Rat",
+        "CR": "1/8"
+      },
+      {
+        "name": "Axe Beak",
+        "CR": "1/4"
+      },
+      {
+        "name": "Boar",
+        "CR": "1/4"
+      },
+      {
+        "name": "Giant Owl",
+        "CR": "1/4"
+      },
+      {
+        "name": "Wolf",
+        "CR": "1/4"
+      },
+      {
+        "name": "Ape",
+        "CR": "1/2"
+      },
+      {
+        "name": "Black Bear",
+        "CR": "1/2"
+      },
+      {
+        "name": "Dire Wolf",
+        "CR": "1"
+      },
+      {
+        "name": "Giant Hyena",
+        "CR": "1"
+      },
+      {
+        "name": "Allosaurus",
+        "CR": "2"
+      },
+      {
+        "name": "Giant Boar",
+        "CR": "2"
+      },
+      {
+        "name": "Ankylosaurus",
+        "CR": "3"
+      },
+      {
+        "name": "Killer Whale",
+        "CR": "3"
+      },
+      {
+        "name": "Elephant",
+        "CR": "4"
+      }
+    ],
+    "5": [
+      {
+        "name": "Brontosaurus",
+        "CR": "5"
+      },
+      {
+        "name": "Giant Crocodile",
+        "CR": "5"
+      },
+      {
+        "name": "Giant Shark",
+        "CR": "5"
+      },
+      {
+        "name": "Triceratops",
+        "CR": "5"
+      },
+      {
+        "name": "Mammoth",
+        "CR": "6"
+      },
+      {
+        "name": "Giant Ape",
+        "CR": "7"
+      },
+      {
+        "name": "Tyrannosaurus Rex",
+        "CR": "8"
+      }
+    ],
+    "9": [],
+    "15": []
+  },
+  "celestial": {
+    "0": [
+      {
+        "name": "Empyrean Iota",
+        "CR": "1"
+      },
+      {
+        "name": "Giant Eagle",
+        "CR": "1"
+      },
+      {
+        "name": "Pegasus",
+        "CR": "2"
+      },
+      {
+        "name": "Couatl",
+        "CR": "4"
+      }
+    ],
+    "5": [
+      {
+        "name": "Hollyphant",
+        "CR": "5"
+      },
+      {
+        "name": "Unicorn",
+        "CR": "5"
+      },
+      {
+        "name": "Equinal Guardinal",
+        "CR": "6"
+      },
+      {
+        "name": "Kindori",
+        "CR": "7"
+      },
+      {
+        "name": "Fensir Devourer",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Angel of Vengeance",
+        "CR": "9"
+      },
+      {
+        "name": "Avoral Guardinal",
+        "CR": "9"
+      },
+      {
+        "name": "Ferrumach Rilmani",
+        "CR": "9"
+      },
+      {
+        "name": "Valkyrie",
+        "CR": "9"
+      },
+      {
+        "name": "Deva",
+        "CR": "10"
+      },
+      {
+        "name": "Radiant Idol",
+        "CR": "11"
+      },
+      {
+        "name": "Sphinx of Lore",
+        "CR": "11"
+      },
+      {
+        "name": "Archon of Falling Stars",
+        "CR": "12"
+      },
+      {
+        "name": "Cuprilach Rilmani",
+        "CR": "12"
+      },
+      {
+        "name": "Firemane Angel",
+        "CR": "12"
+      },
+      {
+        "name": "Ki-rin",
+        "CR": "12"
+      },
+      {
+        "name": "Pari",
+        "CR": "13"
+      },
+      {
+        "name": "Angel of Death",
+        "CR": "14"
+      },
+      {
+        "name": "Archon of the Triumvirate",
+        "CR": "14"
+      },
+      {
+        "name": "Deathpact Angel",
+        "CR": "14"
+      }
+    ],
+    "15": [
+      {
+        "name": "Archon of Boundaries",
+        "CR": "15"
+      },
+      {
+        "name": "Planetar",
+        "CR": "16"
+      },
+      {
+        "name": "Aurumach Rilmani",
+        "CR": "17"
+      },
+      {
+        "name": "Archaic",
+        "CR": "18"
+      },
+      {
+        "name": "Animal Lord",
+        "CR": "20"
+      },
+      {
+        "name": "Solar",
+        "CR": "21"
+      }
+    ]
+  },
+  "construct": {
+    "0": [
+      {
+        "name": "Homunculus",
+        "CR": "0"
+      },
+      {
+        "name": "Flying Sword",
+        "CR": "1/4"
+      },
+      {
+        "name": "Animated Armor",
+        "CR": "1"
+      },
+      {
+        "name": "Scarecrow",
+        "CR": "1"
+      },
+      {
+        "name": "Modron, Pentadrone",
+        "CR": "2"
+      },
+      {
+        "name": "Rug of Smothering",
+        "CR": "2"
+      },
+      {
+        "name": "Helmed Horror",
+        "CR": "4"
+      },
+      {
+        "name": "Iron Cobra",
+        "CR": "4"
+      },
+      {
+        "name": "Stone Defender",
+        "CR": "4"
+      }
+    ],
+    "5": [
+      {
+        "name": "Living Iron Statue",
+        "CR": "5"
+      },
+      {
+        "name": "Living Iron Statue",
+        "CR": "6"
+      },
+      {
+        "name": "Shield Guardian",
+        "CR": "7"
+      },
+      {
+        "name": "Decaton Modron",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Clay Golem",
+        "CR": "9"
+      },
+      {
+        "name": "Flesh Golem",
+        "CR": "9"
+      },
+      {
+        "name": "Stone Golem",
+        "CR": "10"
+      },
+      {
+        "name": "Baba Lysaga’s Creeping Hut",
+        "CR": "11"
+      },
+      {
+        "name": "Abomination",
+        "CR": "12"
+      },
+      {
+        "name": "Retriever",
+        "CR": "14"
+      }
+    ],
+    "15": [
+      {
+        "name": "Iron Golem",
+        "CR": "16"
+      },
+      {
+        "name": "Mighty Servant of Leuk-o",
+        "CR": "18"
+      },
+      {
+        "name": "Colossus",
+        "CR": "20"
+      }
+    ]
+  },
+  "dragon": {
+    "0": [
+      {
+        "name": "Pseudodragon",
+        "CR": "1/4"
+      },
+      {
+        "name": "Dragon Wyrmling, Brass",
+        "CR": "1"
+      },
+      {
+        "name": "Dragon Wyrmling, Copper",
+        "CR": "1"
+      },
+      {
+        "name": "Faerie Dragon",
+        "CR": "1"
+      },
+      {
+        "name": "Dragon Wyrmling, Black",
+        "CR": "2"
+      },
+      {
+        "name": "Dragon Wyrmling, Bronze",
+        "CR": "2"
+      },
+      {
+        "name": "Dragon Wyrmling, Green",
+        "CR": "2"
+      },
+      {
+        "name": "Dragon Wyrmling, White",
+        "CR": "2"
+      },
+      {
+        "name": "Guard Drake",
+        "CR": "2"
+      }
+    ],
+    "5": [
+      {
+        "name": "Wyvern",
+        "CR": "6"
+      },
+      {
+        "name": "Young Brass Dragon",
+        "CR": "6"
+      },
+      {
+        "name": "Young White Dragon",
+        "CR": "6"
+      },
+      {
+        "name": "Young Black Dragon",
+        "CR": "7"
+      },
+      {
+        "name": "Young Copper Dragon",
+        "CR": "7"
+      },
+      {
+        "name": "Young Bronze Dragon",
+        "CR": "8"
+      },
+      {
+        "name": "Young Green Dragon",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Young Blue Dragon",
+        "CR": "9"
+      },
+      {
+        "name": "Young Red Dragon",
+        "CR": "10"
+      },
+      {
+        "name": "Adult Deep Dragon",
+        "CR": "11"
+      },
+      {
+        "name": "Bakunawa",
+        "CR": "12"
+      },
+      {
+        "name": "Adult Brass Dragon",
+        "CR": "13"
+      },
+      {
+        "name": "Adult White Dragon",
+        "CR": "13"
+      },
+      {
+        "name": "Adult Black Dragon",
+        "CR": "14"
+      }
+    ],
+    "15": [
+      {
+        "name": "Adult Bronze Dragon",
+        "CR": "15"
+      },
+      {
+        "name": "Adult Green Dragon",
+        "CR": "15"
+      },
+      {
+        "name": "Adult Blue Dragon",
+        "CR": "16"
+      },
+      {
+        "name": "Adult Gold Dragon",
+        "CR": "17"
+      },
+      {
+        "name": "Adult Red Dragon",
+        "CR": "17"
+      },
+      {
+        "name": "Ancient White Dragon",
+        "CR": "20"
+      },
+      {
+        "name": "Ancient Black Dragon",
+        "CR": "21"
+      }
+    ]
+  },
+  "elemental": {
+    "0": [
+      {
+        "name": "Smoke Mephit",
+        "CR": "1/4"
+      },
+      {
+        "name": "Steam Mephit",
+        "CR": "1/4"
+      },
+      {
+        "name": "Dust Mephit",
+        "CR": "1/2"
+      },
+      {
+        "name": "Ice Mephit",
+        "CR": "1/2"
+      },
+      {
+        "name": "Magma Mephit",
+        "CR": "1/2"
+      },
+      {
+        "name": "Azer",
+        "CR": "2"
+      },
+      {
+        "name": "Gargoyle",
+        "CR": "2"
+      },
+      {
+        "name": "Water Weird",
+        "CR": "3"
+      }
+    ],
+    "5": [
+      {
+        "name": "Air Elemental",
+        "CR": "5"
+      },
+      {
+        "name": "Earth Elemental",
+        "CR": "5"
+      },
+      {
+        "name": "Fire Elemental",
+        "CR": "5"
+      },
+      {
+        "name": "Salamander",
+        "CR": "5"
+      },
+      {
+        "name": "Water Elemental",
+        "CR": "5"
+      },
+      {
+        "name": "Xorn",
+        "CR": "5"
+      },
+      {
+        "name": "Animated Breath",
+        "CR": "6"
+      },
+      {
+        "name": "Animated Breath (Acid Form)",
+        "CR": "6"
+      },
+      {
+        "name": "Animated Breath (Cold Form)",
+        "CR": "6"
+      },
+      {
+        "name": "Animated Breath (Fire Form)",
+        "CR": "6"
+      },
+      {
+        "name": "Invisible Stalker",
+        "CR": "6"
+      },
+      {
+        "name": "Air Elemental Myrmidon",
+        "CR": "7"
+      },
+      {
+        "name": "Earth Elemental Myrmidon",
+        "CR": "7"
+      },
+      {
+        "name": "Fire Elemental Myrmidon",
+        "CR": "7"
+      },
+      {
+        "name": "Water Elemental Myrmidon",
+        "CR": "7"
+      },
+      {
+        "name": "Big Xorn",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Charmayne Daymore",
+        "CR": "10"
+      },
+      {
+        "name": "Dao",
+        "CR": "11"
+      },
+      {
+        "name": "Djinni",
+        "CR": "11"
+      },
+      {
+        "name": "Efreeti",
+        "CR": "11"
+      },
+      {
+        "name": "Marid",
+        "CR": "11"
+      },
+      {
+        "name": "Arclight Phoenix",
+        "CR": "12"
+      }
+    ],
+    "15": [
+      {
+        "name": "Elder Tempest",
+        "CR": "16"
+      },
+      {
+        "name": "Phoenix",
+        "CR": "16"
+      },
+      {
+        "name": "Leviathan",
+        "CR": "20"
+      }
+    ]
+  },
+  "fey": {
+    "0": [
+      {
+        "name": "Dohwar",
+        "CR": "0"
+      },
+      {
+        "name": "Killmoulis",
+        "CR": "0"
+      },
+      {
+        "name": "Boggle",
+        "CR": "1/8"
+      },
+      {
+        "name": "Blink Dog",
+        "CR": "1/4"
+      },
+      {
+        "name": "Pixie",
+        "CR": "1/4"
+      },
+      {
+        "name": "Sprite",
+        "CR": "1/4"
+      },
+      {
+        "name": "Darkling",
+        "CR": "1/2"
+      },
+      {
+        "name": "Satyr",
+        "CR": "1/2"
+      },
+      {
+        "name": "Dryad",
+        "CR": "1"
+      },
+      {
+        "name": "Quickling",
+        "CR": "1"
+      },
+      {
+        "name": "Meenlock",
+        "CR": "2"
+      },
+      {
+        "name": "Sea Hag",
+        "CR": "2"
+      },
+      {
+        "name": "Green Hag",
+        "CR": "3"
+      },
+      {
+        "name": "Yeth Hound",
+        "CR": "4"
+      }
+    ],
+    "5": [
+      {
+        "name": "Isolde",
+        "CR": "5"
+      },
+      {
+        "name": "Pixie Wonderbringer",
+        "CR": "5"
+      },
+      {
+        "name": "Riffler",
+        "CR": "5"
+      },
+      {
+        "name": "Annis Hag",
+        "CR": "6"
+      },
+      {
+        "name": "Satyr Revelmaster",
+        "CR": "6"
+      },
+      {
+        "name": "Bavlorna Blightstraw",
+        "CR": "7"
+      },
+      {
+        "name": "Bheur Hag",
+        "CR": "7"
+      },
+      {
+        "name": "Goose Mother",
+        "CR": "7"
+      },
+      {
+        "name": "Korred",
+        "CR": "7"
+      },
+      {
+        "name": "Fomorian",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Trollkin Fey Knight",
+        "CR": "9"
+      }
+    ],
+    "15": []
+  },
+  "fiend": {
+    "0": [
+      {
+        "name": "Lemure",
+        "CR": "0"
+      },
+      {
+        "name": "Dretch",
+        "CR": "1/4"
+      },
+      {
+        "name": "Imp",
+        "CR": "1"
+      },
+      {
+        "name": "Quasit",
+        "CR": "1"
+      },
+      {
+        "name": "Spined Devil",
+        "CR": "2"
+      },
+      {
+        "name": "Bearded Devil",
+        "CR": "3"
+      },
+      {
+        "name": "Hell Hound",
+        "CR": "3"
+      },
+      {
+        "name": "Nightmare",
+        "CR": "3"
+      },
+      {
+        "name": "Barghest",
+        "CR": "4"
+      },
+      {
+        "name": "Succubus",
+        "CR": "4"
+      }
+    ],
+    "5": [
+      {
+        "name": "Balgura",
+        "CR": "5"
+      },
+      {
+        "name": "Barlgura",
+        "CR": "5"
+      },
+      {
+        "name": "Mezzoloth",
+        "CR": "5"
+      },
+      {
+        "name": "Chasme",
+        "CR": "6"
+      },
+      {
+        "name": "Vrock",
+        "CR": "6"
+      },
+      {
+        "name": "Black Abishai",
+        "CR": "7"
+      },
+      {
+        "name": "Chain Devil",
+        "CR": "8"
+      },
+      {
+        "name": "Hezrou",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Bone Devil",
+        "CR": "9"
+      },
+      {
+        "name": "Glabrezu",
+        "CR": "9"
+      },
+      {
+        "name": "Yochlol",
+        "CR": "10"
+      },
+      {
+        "name": "Horned Devil",
+        "CR": "11"
+      },
+      {
+        "name": "Erinyes",
+        "CR": "12"
+      },
+      {
+        "name": "Nalfeshnee",
+        "CR": "13"
+      },
+      {
+        "name": "Rakshasa",
+        "CR": "13"
+      },
+      {
+        "name": "Ultroloth",
+        "CR": "13"
+      },
+      {
+        "name": "Ice Devil",
+        "CR": "14"
+      }
+    ],
+    "15": [
+      {
+        "name": "Marilith",
+        "CR": "16"
+      },
+      {
+        "name": "Blue Abishai",
+        "CR": "17"
+      },
+      {
+        "name": "Balor",
+        "CR": "19"
+      },
+      {
+        "name": "Pit Fiend",
+        "CR": "20"
+      },
+      {
+        "name": "Moloch",
+        "CR": "21"
+      },
+      {
+        "name": "Molydeus",
+        "CR": "21"
+      }
+    ]
+  },
+  "giant": {
+    "0": [
+      {
+        "name": "Half-Ogre",
+        "CR": "1"
+      },
+      {
+        "name": "Ogre",
+        "CR": "2"
+      },
+      {
+        "name": "Ogre Zombie",
+        "CR": "2"
+      },
+      {
+        "name": "Ettin",
+        "CR": "4"
+      }
+    ],
+    "5": [
+      {
+        "name": "Hill Giant",
+        "CR": "5"
+      },
+      {
+        "name": "Cyclops",
+        "CR": "6"
+      },
+      {
+        "name": "Oni",
+        "CR": "7"
+      },
+      {
+        "name": "Stone Giant",
+        "CR": "7"
+      },
+      {
+        "name": "Frost Giant",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Cloud Giant",
+        "CR": "9"
+      },
+      {
+        "name": "Fire Giant",
+        "CR": "9"
+      },
+      {
+        "name": "Cloud Giant Smiling One",
+        "CR": "11"
+      },
+      {
+        "name": "Frost Giant Everlasting One",
+        "CR": "12"
+      },
+      {
+        "name": "Storm Giant",
+        "CR": "13"
+      },
+      {
+        "name": "Fire Giant Dreadnought",
+        "CR": "14"
+      }
+    ],
+    "15": []
+  },
+  "humanoid": {
+    "0": [
+      {
+        "name": "Bandit",
+        "CR": "1/8"
+      },
+      {
+        "name": "Cultist",
+        "CR": "1/8"
+      },
+      {
+        "name": "Guard",
+        "CR": "1/8"
+      },
+      {
+        "name": "Kobold",
+        "CR": "1/8"
+      },
+      {
+        "name": "Acolyte",
+        "CR": "1/4"
+      },
+      {
+        "name": "Goblin",
+        "CR": "1/4"
+      },
+      {
+        "name": "Orc",
+        "CR": "1/2"
+      },
+      {
+        "name": "Thug",
+        "CR": "1/2"
+      },
+      {
+        "name": "Berserker",
+        "CR": "2"
+      },
+      {
+        "name": "Knight",
+        "CR": "3"
+      },
+      {
+        "name": "Veteran",
+        "CR": "3"
+      }
+    ],
+    "5": [
+      {
+        "name": "Gladiator",
+        "CR": "5"
+      },
+      {
+        "name": "Master Thief",
+        "CR": "5"
+      },
+      {
+        "name": "Mage",
+        "CR": "6"
+      },
+      {
+        "name": "Bandit Deceiver",
+        "CR": "7"
+      },
+      {
+        "name": "Bugbear Channeler",
+        "CR": "7"
+      },
+      {
+        "name": "Dhampir Commander",
+        "CR": "7"
+      },
+      {
+        "name": "Drow Mage",
+        "CR": "7"
+      },
+      {
+        "name": "Assassin",
+        "CR": "8"
+      },
+      {
+        "name": "Blackguard",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Champion",
+        "CR": "9"
+      },
+      {
+        "name": "War Priest",
+        "CR": "9"
+      },
+      {
+        "name": "Biomancer",
+        "CR": "10"
+      },
+      {
+        "name": "Bandit Crime Lord",
+        "CR": "11"
+      },
+      {
+        "name": "Archmage",
+        "CR": "12"
+      },
+      {
+        "name": "Warlord",
+        "CR": "12"
+      },
+      {
+        "name": "Drow Arachnomancer",
+        "CR": "13"
+      }
+    ],
+    "15": [
+      {
+        "name": "Abjurer Archmage",
+        "CR": "15"
+      },
+      {
+        "name": "Drow Matron Mother",
+        "CR": "20"
+      }
+    ]
+  },
+  "monstrosity": {
+    "0": [
+      {
+        "name": "Cockatrice",
+        "CR": "1/2"
+      },
+      {
+        "name": "Hippogriff",
+        "CR": "1"
+      },
+      {
+        "name": "Ankheg",
+        "CR": "2"
+      },
+      {
+        "name": "Ettercap",
+        "CR": "2"
+      },
+      {
+        "name": "Grick",
+        "CR": "2"
+      },
+      {
+        "name": "Mimic",
+        "CR": "2"
+      },
+      {
+        "name": "Basilisk",
+        "CR": "3"
+      },
+      {
+        "name": "Displacer Beast",
+        "CR": "3"
+      },
+      {
+        "name": "Manticore",
+        "CR": "3"
+      },
+      {
+        "name": "Owlbear",
+        "CR": "3"
+      }
+    ],
+    "5": [
+      {
+        "name": "Bulette",
+        "CR": "5"
+      },
+      {
+        "name": "Gorgon",
+        "CR": "5"
+      },
+      {
+        "name": "Umber Hulk",
+        "CR": "5"
+      },
+      {
+        "name": "Chimera",
+        "CR": "6"
+      },
+      {
+        "name": "Drider",
+        "CR": "6"
+      },
+      {
+        "name": "Medusa",
+        "CR": "6"
+      },
+      {
+        "name": "Grick Alpha",
+        "CR": "7"
+      },
+      {
+        "name": "Hydra",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Abominable Yeti",
+        "CR": "9"
+      },
+      {
+        "name": "Guardian Naga",
+        "CR": "10"
+      },
+      {
+        "name": "Beast of Malar",
+        "CR": "11"
+      },
+      {
+        "name": "Behir",
+        "CR": "11"
+      },
+      {
+        "name": "Remorhaz",
+        "CR": "11"
+      },
+      {
+        "name": "Roc",
+        "CR": "11"
+      },
+      {
+        "name": "Void Scavver",
+        "CR": "11"
+      }
+    ],
+    "15": [
+      {
+        "name": "Purple Worm",
+        "CR": "15"
+      },
+      {
+        "name": "Androsphinx",
+        "CR": "17"
+      }
+    ]
+  },
+  "ooze": {
+    "0": [
+      {
+        "name": "Oblex Spawn",
+        "CR": "1/4"
+      },
+      {
+        "name": "Gray Ooze",
+        "CR": "1/2"
+      },
+      {
+        "name": "Gelatinous Cube",
+        "CR": "2"
+      },
+      {
+        "name": "Ochre Jelly",
+        "CR": "2"
+      },
+      {
+        "name": "Slithering Tracker",
+        "CR": "3"
+      },
+      {
+        "name": "Black Pudding",
+        "CR": "4"
+      }
+    ],
+    "5": [
+      {
+        "name": "Adult Oblex",
+        "CR": "5"
+      }
+    ],
+    "9": [
+      {
+        "name": "Elder Oblex",
+        "CR": "10"
+      }
+    ],
+    "15": [
+      {
+        "name": "Blob of Annihilation",
+        "CR": "19"
+      }
+    ]
+  },
+  "plant": {
+    "0": [
+      {
+        "name": "Awakened Shrub",
+        "CR": "0"
+      },
+      {
+        "name": "Twig Blight",
+        "CR": "1/8"
+      },
+      {
+        "name": "Needle Blight",
+        "CR": "1/4"
+      },
+      {
+        "name": "Violet Fungus",
+        "CR": "1/4"
+      },
+      {
+        "name": "Gas Spore",
+        "CR": "1/2"
+      },
+      {
+        "name": "Myconid Adult",
+        "CR": "1/2"
+      },
+      {
+        "name": "Awakened Tree",
+        "CR": "2"
+      },
+      {
+        "name": "Myconid Sovereign",
+        "CR": "2"
+      }
+    ],
+    "5": [
+      {
+        "name": "Shambling Mound",
+        "CR": "5"
+      },
+      {
+        "name": "Wood Woad",
+        "CR": "5"
+      },
+      {
+        "name": "Tree Blight",
+        "CR": "7"
+      },
+      {
+        "name": "Violet Fungus Necrohulk",
+        "CR": "7"
+      },
+      {
+        "name": "Corpse Flower",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Treant",
+        "CR": "9"
+      },
+      {
+        "name": "Woodland Manse Guardian",
+        "CR": "10"
+      },
+      {
+        "name": "Treefolk",
+        "CR": "11"
+      }
+    ],
+    "15": []
+  },
+  "undead": {
+    "0": [
+      {
+        "name": "Crawling Claw",
+        "CR": "0"
+      },
+      {
+        "name": "Skeleton",
+        "CR": "1/4"
+      },
+      {
+        "name": "Zombie",
+        "CR": "1/4"
+      },
+      {
+        "name": "Shadow",
+        "CR": "1/2"
+      },
+      {
+        "name": "Ghoul",
+        "CR": "1"
+      },
+      {
+        "name": "Specter",
+        "CR": "1"
+      },
+      {
+        "name": "Will-o'-Wisp",
+        "CR": "2"
+      },
+      {
+        "name": "Mummy",
+        "CR": "3"
+      },
+      {
+        "name": "Wight",
+        "CR": "3"
+      },
+      {
+        "name": "Banshee",
+        "CR": "4"
+      },
+      {
+        "name": "Deathlock",
+        "CR": "4"
+      },
+      {
+        "name": "Flameskull",
+        "CR": "4"
+      },
+      {
+        "name": "Ghost",
+        "CR": "4"
+      }
+    ],
+    "5": [
+      {
+        "name": "Allip",
+        "CR": "5"
+      },
+      {
+        "name": "Revenant",
+        "CR": "5"
+      },
+      {
+        "name": "Vampire Spawn",
+        "CR": "5"
+      },
+      {
+        "name": "Wraith",
+        "CR": "5"
+      },
+      {
+        "name": "Black Rose Bearer",
+        "CR": "6"
+      },
+      {
+        "name": "Bodak",
+        "CR": "6"
+      },
+      {
+        "name": "Barrowghast",
+        "CR": "7"
+      },
+      {
+        "name": "Giant Skeleton",
+        "CR": "7"
+      },
+      {
+        "name": "Graveyard Revenant",
+        "CR": "7"
+      },
+      {
+        "name": "Blood Drinker Vampire",
+        "CR": "8"
+      },
+      {
+        "name": "Bone Roc",
+        "CR": "8"
+      },
+      {
+        "name": "Deathlock Mastermind",
+        "CR": "8"
+      },
+      {
+        "name": "Sword Wraith Commander",
+        "CR": "8"
+      }
+    ],
+    "9": [
+      {
+        "name": "Bloodmage Thalnos",
+        "CR": "9"
+      },
+      {
+        "name": "Alhoon",
+        "CR": "10"
+      },
+      {
+        "name": "Boneclaw",
+        "CR": "12"
+      },
+      {
+        "name": "Vampire",
+        "CR": "13"
+      }
+    ],
+    "15": [
+      {
+        "name": "Mummy Lord",
+        "CR": "15"
+      },
+      {
+        "name": "Death Knight",
+        "CR": "17"
+      },
+      {
+        "name": "Dracolich",
+        "CR": "17"
+      },
+      {
+        "name": "Demilich",
+        "CR": "18"
+      },
+      {
+        "name": "Nightwalker",
+        "CR": "20"
+      },
+      {
+        "name": "Lich",
+        "CR": "21"
+      }
+    ]
+  }
+}
