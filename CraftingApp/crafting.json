@@ -19722,5 +19722,159 @@
         "focus": "233,cut emerald",
         "item1": "gland: 9,monstrosity cr-5-8",
         "item2": "components: 5,construct cr5-8"
+    },
+    "Studded Collar +3": {
+        "rarity": "very rare",
+        "tool": "Leatherworker's tools",
+        "base": "75, Durable Cloth",
+        "focus": "350, Cut Diamond",
+        "item1": "2 sap: plant cr15-21",
+        "item2": "1 hide: beast cr15-21",
+        "item3": "3 aberration: brain cr15-21",
+        "item4": "3 marrow: beast cr15-21"
+    },
+    "Bottomless Box of Treats": {
+        "rarity": "rare",
+        "tool": "Carpenter's tools",
+        "base": "65 Uncommon Plank",
+        "focus": "200, Uncommon Aggregate",
+        "item1": "5, mass: plant cr9-14",
+        "item2": "2, components: construct cr9-14",
+        "item3": "1, essence: fey cr9-14"
+    },
+    "Potion of Tirelessness": {
+        "rarity": "uncommon",
+        "tool": "Alchemist's tools",
+        "base": "80, Uncommon Potion Ingredient",
+        "focus": "110, Cut Ruby",
+        "item1": "2, sap: plant cr5-8",
+        "item2": "5, gland: monstrosity cr5-8"
+    },
+    "Skrapyard Sosig (Rare)": {
+        "rarity": "rare",
+        "tool": "cook's utensils",
+        "base": "40, Rare Fish Fillet",
+        "focus": "410, Cut Agate",
+        "item1": "5, meat: fey cr9-14",
+        "item2": "2, hide: beast cr9-14",
+        "item3": "9, meat: monstrosity cr9-14"
+    },
+    "Doomsday Cookie": {
+        "rarity": "uncommon",
+        "tool": "cook's utensils",
+        "base": "22, Uncommon Fish Fillet",
+        "focus": "144, Cut Sapphire",
+        "item1": "6, sap: plant cr5-8",
+        "item2": "1, meat: beast cr5-8"
+    },
+    "Edible Book of Recipes": {
+        "rarity": "very rare",
+        "tool": "Cook's Utensils",
+        "base": "143, Very Rare Plank",
+        "focus": "833, Cut Opal",
+        "item1": "6, meat: dragon cr15-21",
+        "item2": "5, meat: beast cr15-21",
+        "item3": "8, essence: undead cr15-21",
+        "item4": "1, bone: giant cr15-21"
+    },
+    "Scarlet Eye Flan": {
+        "rarity": "very rare",
+        "tool": "cook's utensils",
+        "base": "331, Very Rare Fish Fillet",
+        "focus": "412, Cut Sunstone",
+        "item1": "10, meat: beast cr15-21",
+        "item2": "5, blood: undead cr15-21",
+        "item3": "8, blood: aberration cr15-21",
+        "item4": "1, bone: giant cr15-21"
+    },
+    "Beastial Bourguignon": {
+        "rarity": "very rare",
+        "tool": "cook's utensils",
+        "base": "252, Very Rare Fish Fillet",
+        "focus": "799, Gold Ingot",
+        "item1": "3, meat: beast cr15-21",
+        "item2": "1, hide: beast cr15-21",
+        "item3": "4, marrow: beast cr15-21",
+        "item4": "6, bone: beast cr15-21"
+    },
+    "Chronomancer’s slow cooked joint": {
+        "rarity": "rare",
+        "tool": "Cook's Utensils",
+        "base": "400, Rare Fish Fillet",
+        "focus": "138, Cut Amethyst",
+        "item1": "6, meat: dragon cr9-14",
+        "item2": "5, flesh: aberration cr9-14",
+        "item3": "8, brain: aberration cr9-14"
+    },
+    "Offally good stew": {
+        "rarity": "rare",
+        "tool": "Cook's Utensils",
+        "base": "91, Rare Fish Fillet",
+        "focus": "311, Cut Moonstone",
+        "item1": "2, slime: ooze cr9-14",
+        "item2": "4, flesh: undead cr9-14",
+        "item3": "7, organ: aberration cr9-14"
+    },
+    "Draconic delight": {
+        "rarity": "rare",
+        "tool": "Cook's Utensils",
+        "base": "100, Rare Fish Fillet",
+        "focus": "261, Gold Ingot",
+        "item1": "10, meat: dragon cr9-14",
+        "item2": "3, scale: dragon cr9-14",
+        "item3": "4, gland: dragon cr9-14"
+    },
+    "Brain barbacoa": {
+        "rarity": "rare",
+        "tool": "Cook's Utensils",
+        "base": "183, Rare Fish Fillet",
+        "focus": "168, Cut Jacinth",
+        "item1": "6, brain: aberration cr9-14",
+        "item2": "2, bone: fey cr9-14",
+        "item3": "6, bone: giant cr9-14"
+    },
+    "+2 tools of the master": {
+        "rarity": "rare",
+        "tool": "smith's tools",
+        "base": "774, Very Rare Pole",
+        "focus": "412, Cut Opal",
+        "item1": "3, horn: dragon cr9-14",
+        "item2": "4, gear: construct cr9-14",
+        "item3": "6, core: elemental cr9-14"
+    },
+    "+3 tools of the master": {
+        "rarity": "very rare",
+        "tool": "smith's tools",
+        "base": "909, Bloodstone",
+        "focus": "642, Gold Ingot",
+        "item1": "1, bark: plant cr15-21",
+        "item2": "5, spores: plant cr15-21",
+        "item3": "3, chitin: monstrosity cr15-21",
+        "item4": "3, flesh: monstrosity cr15-21"
+    },
+    "+1 wraps of unarmed prowess": {
+        "rarity": "uncommon",
+        "tool": "weaver's tools",
+        "base": "7,cloth",
+        "focus": "14,cut amber",
+        "item1": "10,cut obsidian",
+        "item2": "4,flesh: undead cr5-8"
+    },
+    "+3 wraps of unarmed prowess": {
+        "rarity": "very rare",
+        "tool": "weaver's tools",
+        "base": "21,cloth",
+        "focus": "42,cut amber",
+        "item1": "10,cut obsidian",
+        "item2": "4,flesh: undead cr15-21",
+        "item3": "10,chitin: monstrosity cr15-21",
+        "item4": "1,horn: dragon cr15-21"
+    },
+    "Tote of Tricky Treat Sugarbombs": {
+        "rarity": "common",
+        "tool": "weaver's tools",
+        "base": "15,cloth",
+        "focus": "10,cut topaz",
+        "item1": "10,mass: plant cr0-4"
     }
 }
