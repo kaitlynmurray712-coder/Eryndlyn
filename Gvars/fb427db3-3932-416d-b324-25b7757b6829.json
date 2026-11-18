@@ -628,6 +628,22 @@
         "worth": 900,
         "tool": "cooksutensils",
         "refined": "Very Rare Fish Fillet"
+      },
+      "7": {
+        "name": "Trackless Cod",
+        "produce": 1,
+        "dc": 20,
+        "worth": 900,
+        "tool": "cooksutensils",
+        "refined": "Very Rare Fish Fillet"
+      },
+      "8": {
+        "name": "Trackless Cod",
+        "produce": 1,
+        "dc": 20,
+        "worth": 900,
+        "tool": "cooksutensils",
+        "refined": "Very Rare Fish Fillet"
       }
     }
   },
